@@ -6,3 +6,5 @@
 # Hello World
 
 [[sources/books/Dune\|Dune]]
+
+[[spaces/mosh/mocs/mothership\|mothership]]
