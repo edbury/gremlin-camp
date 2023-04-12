@@ -5,4 +5,4 @@
 
 # Hello World
 
-[[_sources/books/Dune\|Dune]]
+[[sources/books/Dune\|Dune]]
