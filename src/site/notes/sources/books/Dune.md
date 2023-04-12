@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"highlights/Dune.md","permalink":"/highlights/dune/","title":"Dune","created":"","updated":""}
+{"dg-publish":true,"dg-path":"highlights/Dune.md","permalink":"/highlights/dune/","title":"Dune","tags":["source/book","dune"],"created":"","updated":""}
 ---
 
 # Dune
