@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/spaces/mosh/mocs/mothership/","tags":["mosh"],"created":"","updated":""}
+{"dg-publish":true,"permalink":"/spaces/mosh/mocs/mothership/","title":"Mothership","tags":["mosh"],"created":"2022-09-12T16:41","updated":"2023-04-14T01:07"}
 ---
 
 
@@ -16,3 +16,4 @@ I'm currently working on notes for a [[spaces/mosh/mocs/mothership campaign stru
 | [[spaces/mosh/areas/sources/Nightmare on Cerberus Station\|Nightmare on Cerberus Station]]             | complete | [[spaces/mosh/mocs/Banquo\|Banquo]] |
 | [[spaces/mosh/areas/sources/Teamster Trouble\|Teamster Trouble]]                                       | \-       | \-                                     |
 | [[spaces/mosh/areas/sources/The Cleaning of Prison Station Echo\|The Cleaning of Prison Station Echo]] | ongoing  | [[Magnum\|Magnum]]                     |
+
