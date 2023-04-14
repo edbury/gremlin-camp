@@ -1,15 +1,20 @@
 ---
-{"dg-publish":true,"permalink":"/spaces/mosh/mocs/mothership-campaign-structure/","title":"Campaign structure for Mosh","tags":["mosh"]}
+{"dg-publish":true,"permalink":"/spaces/mosh/mocs/mothership-campaign-structure/","title":"Campaign structure for TFG","tags":["mosh"]}
 ---
 
 
-# Campaign structure for Mosh
+# Campaign structure for TFG
 
 A semi-signpost for building a campaign around long-term play using third-party content. The initial setup relies heavily on the [[Shipbreaker's Toolkit\|Shipbreaker's Toolkit]] (SBT) and [[spaces/mosh/areas/sources/A Pound of Flesh\|A Pound of Flesh]] (APoF).
 
-SBT offers four options for answering "Who pays the bills?" Answering this provides a good guideline for what campaign play will be like and what's important. The setups listed are Company, Military, Owner-Operators, and Freelancers.This setup assumes that the campaign states with all options being viable, but that's a table/campaign preference.
+Some assumptions:
 
-Each of these also represent a faction. [[spaces/mosh/areas/sources/A Pound of Flesh\|A Pound of Flesh]] provides excellent hooks. 
+- Mothership 1E (PSG v0.10 & SBT v0.12)
+- The crew is based out of [[The Dream\|The Dream]]
+
+SBT offers four options for answering "Who pays the bills?" Answering this provides a good guideline for what campaign play will be like and what's important. The setups listed are Company, Military, Owner-Operators, and Freelancers. I assume all options are available to the party.
+
+Each framework is tied to a faction and handler, and any future employers should map to one of these (or something custom that answers the same questions).
 
 | Framework      | Faction        | Key NPC |
 | -------------- | -------------- | ------- |
