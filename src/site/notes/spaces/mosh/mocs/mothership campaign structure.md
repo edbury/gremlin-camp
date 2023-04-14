@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/spaces/mosh/mocs/mothership-campaign-structure/","title":"Campaign structure for Mosh","tags":["mosh"],"created":"2023-04-14T00:04","updated":"2023-04-14T01:06"}
+{"dg-publish":true,"permalink":"/spaces/mosh/mocs/mothership-campaign-structure/","title":"Campaign structure for Mosh","tags":["mosh"],"created":"2023-04-14T00:04","updated":"2023-04-14T01:07"}
 ---
 
 
