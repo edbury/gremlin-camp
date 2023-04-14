@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/spaces/mosh/mocs/mothership/","title":"Mothership","tags":["mosh"],"created":"2022-09-12T16:41","updated":"2023-04-14T01:07"}
+{"dg-publish":true,"permalink":"/spaces/mosh/mocs/mothership/","title":"Mothership","tags":["mosh"]}
 ---
 
 
