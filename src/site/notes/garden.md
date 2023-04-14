@@ -1,8 +1,8 @@
 ---
-{"dg-publish":true,"permalink":"/garden/","title":"garden","tags":["gardenEntry"]}
+{"dg-publish":true,"permalink":"/garden/","title":"Hello World","tags":["gardenEntry"]}
 ---
 
 
-[[sources/books/Dune\|Dune]]
+# Hello World
 
-[[spaces/mosh/mocs/mothership\|mothership]]
+This is gremlin camp.
