@@ -5,9 +5,7 @@
 
 # Mothership
 
-## Home Base
-
-- [[spaces/mosh/areas/sources/A Pound of Flesh\|A Pound of Flesh]]
+I'm currently working on notes for a [[spaces/mosh/mocs/mothership campaign structure\|mothership campaign structure]].
 
 ## Bookshelf
 
