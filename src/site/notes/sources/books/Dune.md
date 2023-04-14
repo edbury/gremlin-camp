@@ -1,6 +1,7 @@
 ---
-{"dg-publish":true,"dg-path":"highlights/Dune.md","permalink":"/highlights/dune/","title":"Dune","tags":["source/book","dune"]}
+{"dg-publish":true,"dg-path":"highlights/Dune.md","permalink":"/highlights/dune/","title":"Dune","tags":["#source/book #dune"]}
 ---
+
 
 # Dune
 
@@ -34,3 +35,21 @@
 </div></div>
 
 { #4b08cb}
+
+
+
+<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
+
+
+
+
+
+>So I quoted the First Law of Mentat at her: "A process cannot be understood by stopping it. Understanding must move with the flow of the process, must join it and flow with it."
+
+[[sources/books/Dune#^64fbbf\|p. 50]]
+
+
+</div></div>
+
+{ #64fbbf}
+
