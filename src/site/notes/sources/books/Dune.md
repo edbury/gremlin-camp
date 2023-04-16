@@ -1,9 +1,7 @@
 ---
-{"aliases":"Dune","date-created":"2022-08-02T16:03","date-modified":"2023-04-15T19:17","dg-publish":true,"linter-yaml-title-alias":"Dune","read-finished":"2022-02-25T00:00:00","read-location":"Oakland","source-author":"Frank Herbert","source-subtitle":null,"source-title":"Dune","source-translator":null,"source-year":1965,"tags":["source/book","dune"],"title":"Dune","dg-path":"highlights/Dune.md","permalink":"/highlights/dune/","dgPassFrontmatter":true}
+{"aliases":"Dune","author":"Frank Herbert","date-created":"2022-08-02T16:03","date-modified":"2023-04-15T19:33","dg-publish":true,"finished":"2022-02-25T00:00:00","linter-yaml-title-alias":"Dune","location":"Oakland","subtitle":null,"tags":["source/book","dune"],"title":"Dune","translator":null,"year":1965,"dg-path":"highlights/Dune.md","permalink":"/highlights/dune/","dgPassFrontmatter":true}
 ---
 
-
-# Dune
 
 >Arrakis—Dune—Desert Planet
 { #b61548}
