@@ -5,21 +5,11 @@
 
 # Dune
 
-
-<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
-
-
-
-
-
 >Arrakis—Dune—Desert Planet
+{ #b61548}
 
-[[sources/books/Dune#^e1140d\|pg. 5]]
 
-</div></div>
-
-{ #e1140d}
-
+[[sources/books/Dune#^b61548\|pg. 5]]
 
 
 <div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
