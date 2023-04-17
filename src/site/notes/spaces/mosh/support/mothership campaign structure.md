@@ -1,5 +1,5 @@
 ---
-{"aliases":["Campaign structure for TFG","mothership campaign structure"],"date-created":"2023-04-14T00:04","date-modified":"2023-04-17T10:54","dg-publish":true,"linter-yaml-title-alias":"Campaign structure for TFG","tags":["mosh"],"title":"Campaign structure for TFG","permalink":"/spaces/mosh/support/mothership-campaign-structure/","dgPassFrontmatter":true}
+{"aliases":["Campaign structure for TFG","mothership campaign structure"],"date-created":"2023-04-14T00:04","date-modified":"2023-04-17T11:03","dg-publish":true,"linter-yaml-title-alias":"Campaign structure for TFG","tags":["mosh"],"title":"Campaign structure for TFG","permalink":"/spaces/mosh/support/mothership-campaign-structure/","dgPassFrontmatter":true}
 ---
 
 
@@ -29,12 +29,12 @@ Each framework is tied to a faction and handler, and any future employers should
 
 | Expense                                               | Teamsters     | The Foundation   | Loshe         | Freelance    |
 | ----------------------------------------------------- | ------------- | ---------------- | ------------- | ------------ |
-| [[spaces/mosh/support/mothership campaign structure#^bfd7a1\|Salary]]     | X             | X                | X             | -            |
-| [[spaces/mosh/support/mothership campaign structure#^c5b6fe\|Hazard Pay]] | Approved only | X                | Approved only | -            |
-| [[spaces/mosh/support/mothership campaign structure#^827e67\|Jump Pay]]                                              | Approved only | X                | Approved only | -            |
+| [[spaces/mosh/support/mothership campaign structure#Salary\|Salary]]     | X             | X                | X             | -            |
+| [[spaces/mosh/support/mothership campaign structure#Hazard Pay\|Hazard Pay]] | Approved only | X                | Approved only | -            |
+| [[spaces/mosh/support/mothership campaign structure#Jump Pay\|Jump Pay]]                                              | Approved only | X                | Approved only | -            |
 | Room & Board                                          | On ship only  | On ship and base | On ship only  | On ship only |
-| Refueling                                             | X             | X                | X             | -            |
-| Warp Cores                                            | Approved only | X                | Approved only | -            |
+| [[spaces/mosh/support/mothership campaign structure#Refueling\|Refueling]]                                             | X             | X                | X             | -            |
+| [[spaces/mosh/support/mothership campaign structure#Refuel & resupply\|Warp Cores]]                                            | Approved only | X                | Approved only | -            |
 | Repairs                                               | Approved only | X                | -             | -            |
 | Upgrades                                              | Approved only | Approved only    | -             | -            |
 | Skill Training                                        | -             | Approved only    | -             | -            |
@@ -63,3 +63,24 @@ Jobs have a `Hazard` rating of 0-5 that indicates the relative danger of the wor
 
 
 Because time spent in hyperspace isn’t consistent, characters earn a flat Jump Pay bonus equal to Amount of Jumps x 1,000cr, regardless of the distance traveled or time spent in hyperspace.
+
+### Refueling
+
+Interplanetary travel can take anywhere from a few weeks to reach a nearby planet, or several years to reach the edge of the system. These trips are made via the ship’s thrusters at a cost of 1 unit of fuel for every month of space travel. Fuel usage is tabulated when the destination for a trip has been decided, and it costs 1 Fuel to change course.
+
+#### Refuel & resupply
+
+You refuel and resupply your ship while in port. Each Ship Class uses a different type of Fuel (Class-I ships use Class-I Fuel, Class-V ships use Class-V Fuel, etc.).
+
+| Type of Fuel | Cost/unit |
+| ------------ | --------- |
+| Class-I      | 1kcr      |
+| Class-II     | 2kcr      |
+| Class-III    | 5kcr      |
+| Class-IV     | 50kcr     |
+| Class-V      | 100kcr    |
+| Warp Core    | 1mcr      | 
+
+##### Siphoning Fuel
+
+Fuel from a ship one class below yours can be siphoned and used on a 2:1 basis. Likewise, fuel from a ship one class above yours can be used on a 1:2 basis. All other fuel is incompatible.
