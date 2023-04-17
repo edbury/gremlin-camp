@@ -11,9 +11,9 @@ I'm currently working on notes regarding a [[spaces/mosh/support/campaign struct
 
 | Module                                                                                                    | Status   | Cluster                                   |
 | --------------------------------------------------------------------------------------------------------- | -------- | ----------------------------------------- |
-| [[spaces/mosh/areas/sources/A Pound of Flesh\|A Pound of Flesh]]                                       | ongoing  | [[spaces/mosh/support/Banquo\|Banquo]] |
-| [[spaces/mosh/areas/sources/Bloom\|Bloom]]                                                             | complete | [[spaces/mosh/support/Banquo\|Banquo]] |
-| [[spaces/mosh/areas/sources/Nightmare on Cerberus Station\|Nightmare on Cerberus Station]]             | complete | [[spaces/mosh/support/Banquo\|Banquo]] |
+| [[spaces/mosh/areas/sources/A Pound of Flesh\|A Pound of Flesh]]                                       | ongoing  | [[spaces/mosh/support/32819L\|32819L]] |
+| [[spaces/mosh/areas/sources/Bloom\|Bloom]]                                                             | complete | [[spaces/mosh/support/32819L\|32819L]] |
+| [[spaces/mosh/areas/sources/Nightmare on Cerberus Station\|Nightmare on Cerberus Station]]             | complete | [[spaces/mosh/support/32819L\|32819L]] |
 | [[spaces/mosh/areas/sources/Teamster Trouble\|Teamster Trouble]]                                       | \-       | \-                                        |
 | [[spaces/mosh/areas/sources/The Cleaning of Prison Station Echo\|The Cleaning of Prison Station Echo]] | ongoing  | [[Magnum\|Magnum]]                        |
 
