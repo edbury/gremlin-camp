@@ -1,5 +1,5 @@
 ---
-{"aliases":["Campaign structure for TFG","mothership campaign structure"],"date-created":"2023-04-14T00:04","date-modified":"2023-04-17T12:46","dg-publish":true,"linter-yaml-title-alias":"Campaign structure for TFG","tags":["mosh"],"title":"Campaign structure for TFG","permalink":"/spaces/mosh/support/campaign-structure-for-tfg/","dgPassFrontmatter":true}
+{"aliases":["Campaign structure for TFG","mothership campaign structure"],"date-created":"2023-04-14T00:04","date-modified":"2023-04-17T13:17","dg-publish":true,"linter-yaml-title-alias":"Campaign structure for TFG","tags":["mosh"],"title":"Campaign structure for TFG","permalink":"/spaces/mosh/support/campaign-structure-for-tfg/","dgPassFrontmatter":true}
 ---
 
 
@@ -18,24 +18,30 @@ Each framework is tied to a faction and handler, and any future employers should
 
 ## Campaign frameworks
 
-| Framework      | Faction        | Key NPC |
-| -------------- | -------------- | ------- |
-| Company        | Teamsters      | Reidmar |
-| Military       | The Foundation | Aosta   |
-| Owner-Operator | --             | Loshe   |
-| Freelance      | The Crew       | --      |
+| Faction                | Framework      | Handler |
+| ---------------------- | -------------- | ------- |
+| Teamsters Local 32819L | Company        | Reidmar |
+| The Foundation         | Military       | Aosta   |
+| --                     | Owner-Operator | Loshe   |
+| The Crew               | Freelance      | --      |
 
-### Teamsters
+### Teamsters Local 32819L
 
-When you work for the Company, they own the ship and cover all its associated costs. You just cash a paycheck and do the work they ask. And don’t get any ideas about a fancy new upgrade, the beancounters at HQ aren’t known for handing out expense requests.
+The Teamsters operate as both a union and cooperative. Joining the Teamsters requires a lien on any ship performing work under their banner, as they will cover all associated costs.
+
+Job selection is limited to union contracts and internal offerings--both available via the Teamster job board.
 
 ### The Foundation
 
-On a military ship, everything is covered provided it’s part of the mission.You don’t even have to worry about whether you’ll be able to pay your medical bills. They’ll even cover skill training if its relevant to your Occupational Specialty. Just so long as you always follow orders.
+On a Foundation ship, everything is covered provided it’s part of the mission. You don’t even have to worry about whether you’ll be able to pay your medical bills. They’ll even cover skill training if its relevant to your Occupational Specialty.
+
+Job selection within the Foundation is highly limited. Assets are deployed as determined by the Site Director and O5 Council. Exceptions are made for characters with high Political Capital.
 
 ### Loshe
 
-A slim minority of ships are owned by small banking firms who co-finance the purchase of a spacecraft and then either lease it or enter into a co-ownership agreement with another small company. The firm fronts the cost of the vessel and business operations, and in turn takes the majority share of the profits. In exchange, you get a ship and a relatively free hand in conducting your business on the Rim as an owner-operator of a beat up old Raider, Freighter, Salvage Cutter, or other small vessel.
+The Dream's dockmaster maintains a small firm that co-finances the operations of a select group of ships. The firm fronts the cost of business operations, and in turn takes the majority share of the profits. In exchange, characters get a ship and a relatively free hand in conducting their business on the Rim as an owner-operator.
+
+While job selection is player-driven, Loshe has a vested interest in the safety and security of Prospero's Dream.
 
 ### Freelance
 
