@@ -1,11 +1,11 @@
 ---
-{"aliases":["Mothership"],"date-created":"2022-09-12T16:41","date-modified":"2023-04-14T01:07","dg-publish":true,"linter-yaml-title-alias":"Mothership","tags":["mosh"],"title":"Mothership","permalink":"/spaces/mosh/mocs/mothership/","dgPassFrontmatter":true}
+{"aliases":["Mothership"],"date-created":"2022-09-12T16:41","date-modified":"2023-04-17T11:29","dg-publish":true,"linter-yaml-title-alias":"Mothership","tags":["mosh"],"title":"Mothership","permalink":"/spaces/mosh/mocs/mothership/","dgPassFrontmatter":true}
 ---
 
 
 # Mothership
 
-I'm currently working on notes for a [[spaces/mosh/support/mothership campaign structure\|mothership campaign structure]].
+I'm currently working on notes regarding a [[spaces/mosh/support/campaign structure for TFG\|campaign structure for TFG]].
 
 ## Bookshelf
 
