@@ -72,7 +72,11 @@ html {
       margin-block-start: 0;
       margin-block-end: var(--space-s);
       font-family: var(--primary-font-family);
+      font-style: normal;
       font-weight: 600;
+      font-variant: normal;
+      letter-spacing: normal;
+      line-height: var(--line-height-base);
     }
     
     h1 {
