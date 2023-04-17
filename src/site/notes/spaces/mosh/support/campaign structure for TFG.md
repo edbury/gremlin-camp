@@ -1,5 +1,5 @@
 ---
-{"aliases":["Campaign structure for TFG","mothership campaign structure"],"date-created":"2023-04-14T00:04","date-modified":"2023-04-17T13:20","dg-publish":true,"linter-yaml-title-alias":"Campaign structure for TFG","tags":["mosh"],"title":"Campaign structure for TFG","permalink":"/spaces/mosh/support/campaign-structure-for-tfg/","dgPassFrontmatter":true}
+{"aliases":["Campaign structure for TFG","mothership campaign structure"],"date-created":"2023-04-14T00:04","date-modified":"2023-04-17T13:44","dg-publish":true,"linter-yaml-title-alias":"Campaign structure for TFG","tags":["mosh"],"title":"Campaign structure for TFG","permalink":"/spaces/mosh/support/campaign-structure-for-tfg/","dgPassFrontmatter":true}
 ---
 
 
@@ -61,6 +61,8 @@ As an owner-operator crews have a new Save, called a Bankruptcy Save, which star
 Freelancers are people who have bought (or otherwise acquired) a ship on their own, and pay for everything themselves. It’s incredibly expensive and you’ll have to beg, barter, or steal credits wherever you can find them, but on the upside, you have one of the rarest things on the Rim: freedom.
 
 ## Expenses
+
+This modified version of the table from SBT breaks down who pays for what and when.
 
 | Expense           | Teamsters     | The Foundation   | Loshe         | Freelance    |
 | ----------------- | ------------- | ---------------- | ------------- | ------------ |
