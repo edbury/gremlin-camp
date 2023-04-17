@@ -1,5 +1,5 @@
 ---
-{"aliases":["Campaign structure for TFG","mothership campaign structure"],"date-created":"2023-04-14T00:04","date-modified":"2023-04-17T10:53","dg-publish":true,"linter-yaml-title-alias":"Campaign structure for TFG","tags":["mosh"],"title":"Campaign structure for TFG","permalink":"/spaces/mosh/support/mothership-campaign-structure/","dgPassFrontmatter":true}
+{"aliases":["Campaign structure for TFG","mothership campaign structure"],"date-created":"2023-04-14T00:04","date-modified":"2023-04-17T10:54","dg-publish":true,"linter-yaml-title-alias":"Campaign structure for TFG","tags":["mosh"],"title":"Campaign structure for TFG","permalink":"/spaces/mosh/support/mothership-campaign-structure/","dgPassFrontmatter":true}
 ---
 
 
@@ -16,6 +16,8 @@ SBT offers four options for answering "Who pays the bills?" Answering this provi
 
 Each framework is tied to a faction and handler, and any future employers should map to one of these (or something custom that answers the same questions).
 
+## Campaign frameworks
+
 | Framework      | Faction        | Key NPC |
 | -------------- | -------------- | ------- |
 | Company        | Teamsters      | Reidmar |
@@ -23,7 +25,7 @@ Each framework is tied to a faction and handler, and any future employers should
 | Owner-Operator | --  | Loshe   |
 | Freelance      | The Crew       | --      |
 
-An adjusted Bills table looks like:
+## Expenses
 
 | Expense                                               | Teamsters     | The Foundation   | Loshe         | Freelance    |
 | ----------------------------------------------------- | ------------- | ---------------- | ------------- | ------------ |
@@ -39,8 +41,6 @@ An adjusted Bills table looks like:
 | Medical Treatment                                     | -             | On ship and base | -             | -            |
 | Equipment                                             | Approved only | Approved only    | -             | -            |
 | Weapons                                               | -             | X                | -             | -            |
-
-## Expenses
 
 ### Salary
 { #bfd7a1}
