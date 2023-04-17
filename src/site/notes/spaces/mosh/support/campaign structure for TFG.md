@@ -1,5 +1,5 @@
 ---
-{"aliases":["Campaign structure for TFG","mothership campaign structure"],"date-created":"2023-04-14T00:04","date-modified":"2023-04-17T13:17","dg-publish":true,"linter-yaml-title-alias":"Campaign structure for TFG","tags":["mosh"],"title":"Campaign structure for TFG","permalink":"/spaces/mosh/support/campaign-structure-for-tfg/","dgPassFrontmatter":true}
+{"aliases":["Campaign structure for TFG","mothership campaign structure"],"date-created":"2023-04-14T00:04","date-modified":"2023-04-17T13:20","dg-publish":true,"linter-yaml-title-alias":"Campaign structure for TFG","tags":["mosh"],"title":"Campaign structure for TFG","permalink":"/spaces/mosh/support/campaign-structure-for-tfg/","dgPassFrontmatter":true}
 ---
 
 
@@ -37,11 +37,24 @@ On a Foundation ship, everything is covered provided it’s part of the mission.
 
 Job selection within the Foundation is highly limited. Assets are deployed as determined by the Site Director and O5 Council. Exceptions are made for characters with high Political Capital.
 
+**Note:** in a vanilla Mosh campaign, Tempest Co. would make an excellent Military employer.
+
 ### Loshe
 
 The Dream's dockmaster maintains a small firm that co-finances the operations of a select group of ships. The firm fronts the cost of business operations, and in turn takes the majority share of the profits. In exchange, characters get a ship and a relatively free hand in conducting their business on the Rim as an owner-operator.
 
 While job selection is player-driven, Loshe has a vested interest in the safety and security of Prospero's Dream.
+
+#### Bankruptcy Saves
+
+As an owner-operator crews have a new Save, called a Bankruptcy Save, which starts at `2d10+10`. Each year, the crew makes a Bankruptcy Save to determine the financial health of the company.
+
+| Roll Result      | Consequence                                                                                                                                                                                                        |
+| ---------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| Critical Success | You eke out a small profit. Choose one: <ul><li>Purchase 1 Major Upgrade for the ship</li><li>Repair 1d5 Major Repairs</li><li>Pay each crewmember 1d5x100kcr</li><li>Raise your Bankruptcy Save by 1d10</li></ul> |
+| Success          | You scrape by. Choose one: <ul><li>Purchase 1 Minor Upgrade for the ship</li><li>Purchase 1 Minor Repair for the ship</li><li>Pay each crewmember 1d10x1kcr</li><li>Raise your Bankruptcy Save by 1d5</li></ul>    |
+| Failure          | You are 1d10mcr in debt to ruthless lenders. You'll need to perform a job to pay them off.                                                                                                                                                                      |
+| Critical Failure | The company goes bankrupt and owes a massive debt to the worst people imaginable.                                                                                                                                                                                                                   |
 
 ### Freelance
 
