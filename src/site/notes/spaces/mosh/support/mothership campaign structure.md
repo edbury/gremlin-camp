@@ -1,5 +1,5 @@
 ---
-{"aliases":["Campaign structure for TFG","mothership campaign structure"],"date-created":"2023-04-14T00:04","date-modified":"2023-04-14T01:35","dg-publish":true,"linter-yaml-title-alias":"Campaign structure for TFG","tags":["mosh"],"title":"Campaign structure for TFG","permalink":"/spaces/mosh/support/mothership-campaign-structure/","dgPassFrontmatter":true}
+{"aliases":["Campaign structure for TFG","mothership campaign structure"],"date-created":"2023-04-14T00:04","date-modified":"2023-04-17T10:07","dg-publish":true,"linter-yaml-title-alias":"Campaign structure for TFG","tags":["mosh"],"title":"Campaign structure for TFG","permalink":"/spaces/mosh/support/mothership-campaign-structure/","dgPassFrontmatter":true}
 ---
 
 
@@ -20,7 +20,7 @@ Each framework is tied to a faction and handler, and any future employers should
 | -------------- | -------------- | ------- |
 | Company        | Teamsters      | Reidmar |
 | Military       | The Foundation | Aosta   |
-| Owner-Operator | The Dry Docks  | Loshe   |
+| Owner-Operator | --  | Loshe   |
 | Freelance      | The Crew       | --      |
 
 An adjusted Bills table looks like:
