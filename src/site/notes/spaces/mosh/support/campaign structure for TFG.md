@@ -1,5 +1,5 @@
 ---
-{"aliases":["Campaign structure for TFG","mothership campaign structure"],"date-created":"2023-04-14T00:04","date-modified":"2023-04-17T11:30","dg-publish":true,"linter-yaml-title-alias":"Campaign structure for TFG","tags":["mosh"],"title":"Campaign structure for TFG","permalink":"/spaces/mosh/support/campaign-structure-for-tfg/","dgPassFrontmatter":true}
+{"aliases":["Campaign structure for TFG","mothership campaign structure"],"date-created":"2023-04-14T00:04","date-modified":"2023-04-17T12:46","dg-publish":true,"linter-yaml-title-alias":"Campaign structure for TFG","tags":["mosh"],"title":"Campaign structure for TFG","permalink":"/spaces/mosh/support/campaign-structure-for-tfg/","dgPassFrontmatter":true}
 ---
 
 
@@ -22,25 +22,41 @@ Each framework is tied to a faction and handler, and any future employers should
 | -------------- | -------------- | ------- |
 | Company        | Teamsters      | Reidmar |
 | Military       | The Foundation | Aosta   |
-| Owner-Operator | --  | Loshe   |
+| Owner-Operator | --             | Loshe   |
 | Freelance      | The Crew       | --      |
+
+### Teamsters
+
+When you work for the Company, they own the ship and cover all its associated costs. You just cash a paycheck and do the work they ask. And don’t get any ideas about a fancy new upgrade, the beancounters at HQ aren’t known for handing out expense requests.
+
+### The Foundation
+
+On a military ship, everything is covered provided it’s part of the mission.You don’t even have to worry about whether you’ll be able to pay your medical bills. They’ll even cover skill training if its relevant to your Occupational Specialty. Just so long as you always follow orders.
+
+### Loshe
+
+A slim minority of ships are owned by small banking firms who co-finance the purchase of a spacecraft and then either lease it or enter into a co-ownership agreement with another small company. The firm fronts the cost of the vessel and business operations, and in turn takes the majority share of the profits. In exchange, you get a ship and a relatively free hand in conducting your business on the Rim as an owner-operator of a beat up old Raider, Freighter, Salvage Cutter, or other small vessel.
+
+### Freelance
+
+Freelancers are people who have bought (or otherwise acquired) a ship on their own, and pay for everything themselves. It’s incredibly expensive and you’ll have to beg, barter, or steal credits wherever you can find them, but on the upside, you have one of the rarest things on the Rim: freedom.
 
 ## Expenses
 
-| Expense                                               | Teamsters     | The Foundation   | Loshe         | Freelance    |
-| ----------------------------------------------------- | ------------- | ---------------- | ------------- | ------------ |
-| [[spaces/mosh/support/campaign structure for TFG#Salary\|Salary]]     | X             | X                | X             | -            |
-| [[spaces/mosh/support/campaign structure for TFG#Hazard Pay\|Hazard Pay]] | Approved only | X                | Approved only | -            |
-| [[spaces/mosh/support/campaign structure for TFG#Jump Pay\|Jump Pay]]                                              | Approved only | X                | Approved only | -            |
-| Room & Board                                          | On ship only  | On ship and base | On ship only  | On ship only |
-| [[spaces/mosh/support/campaign structure for TFG#Refueling\|Refueling]]                                             | X             | X                | X             | -            |
-| [[spaces/mosh/support/campaign structure for TFG#Refuel & resupply\|Warp Cores]]                                            | Approved only | X                | Approved only | -            |
-| [[spaces/mosh/support/campaign structure for TFG#Repairs\|Repairs]]                                               | Approved only | X                | -             | -            |
-| [[spaces/mosh/support/campaign structure for TFG#Upgrades\|Upgrades]]                                              | Approved only | Approved only    | -             | -            |
-| [[spaces/mosh/support/campaign structure for TFG#Skill training\|Skill Training]]                                        | -             | Approved only    | -             | -            |
-| [[spaces/mosh/support/campaign structure for TFG#Medical treatment\|Medical Treatment]]                                     | -             | On ship and base | -             | -            |
-| [[spaces/mosh/support/campaign structure for TFG#Equipment\|Equipment]]                                             | Approved only | Approved only    | -             | -            |
-| [[spaces/mosh/support/campaign structure for TFG#Weapons\|Weapons]]                                               | -             | X                | -             | -            |
+| Expense           | Teamsters     | The Foundation   | Loshe         | Freelance    |
+| ----------------- | ------------- | ---------------- | ------------- | ------------ |
+| Salary            | Covered       | Covered          | Covered       | -            |
+| Hazard Pay        | Approved only | Covered          | Approved only | -            |
+| Jump Pay          | Approved only | Covered          | Approved only | -            |
+| Room & Board      | On ship only  | On ship and base | On ship only  | On ship only |
+| Refueling         | Covered       | Covered          | Covered       | -            |
+| Warp Cores        | Approved only | Covered          | Approved only | -            |
+| Repairs           | Approved only | Covered          | -             | -            |
+| Upgrades          | Approved only | Approved only    | -             | -            |
+| Skill Training    | -             | Approved only    | -             | -            |
+| Medical Treatment | -             | On ship and base | -             | -            |
+| Equipment         | Approved only | Approved only    | -             | -            |
+| Weapons           | -             | Covered          | -             | -            |
 
 ### Salary
 
