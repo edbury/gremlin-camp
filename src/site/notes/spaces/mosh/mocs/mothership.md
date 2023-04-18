@@ -1,5 +1,5 @@
 ---
-{"aliases":["Mothership"],"date-created":"2022-09-12T16:41","date-modified":"2023-04-17T19:22","dg-publish":true,"linter-yaml-title-alias":"Mothership","tags":["mosh"],"title":"Mothership","permalink":"/spaces/mosh/mocs/mothership/","dgPassFrontmatter":true}
+{"aliases":["Mothership"],"date-created":"2022-09-12T16:41","date-modified":"2023-04-17T19:28","dg-publish":true,"linter-yaml-title-alias":"Mothership","tags":["mosh"],"title":"Mothership","permalink":"/spaces/mosh/mocs/mothership/","dgPassFrontmatter":true}
 ---
 
 
@@ -8,6 +8,8 @@
 I'm currently working on notes regarding [[spaces/mosh/support/a campaign structure for Mothership\|a campaign structure for Mothership]] based on [[spaces/mosh/areas/sources/A Pound of Flesh\|A Pound of Flesh]].
 
 Notes on my home campaign are filed under [[spaces/mosh/support/TFG\|The Future Game]].
+
+These notes are gathered under the #mosh tag.
 
 ## Bookshelf
 
