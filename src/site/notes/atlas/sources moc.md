@@ -1,5 +1,5 @@
 ---
-{"aliases":"Bookshelf","date-created":"2022-09-13T13:54","date-modified":"2023-04-18T13:26","dg-publish":true,"linter-yaml-title-alias":"Bookshelf","tags":["map"],"title":"Bookshelf","up":[["+home"]],"permalink":"/atlas/sources-moc/","dgPassFrontmatter":true}
+{"aliases":"Bookshelf","date-created":"2022-09-13T13:54","date-modified":"2023-04-19T17:22","dg-publish":true,"linter-yaml-title-alias":"Bookshelf","tags":["map"],"title":"Bookshelf","up":[["+home"]],"permalink":"/atlas/sources-moc/","dgPassFrontmatter":true}
 ---
 
 
