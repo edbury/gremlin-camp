@@ -1,10 +1,11 @@
 body {
   display: grid;
-  grid-template-columns: 0.5fr 1fr 0.5fr;
+  grid-template-columns: 1fr;
   gap: var(--space-m);
   grid-template-rows: min-content;
   align-content: start;
   align-items: start;
+  justify-items: center;
   min-height: 100vh;
   margin: 0;
   padding-inline: var(--space-m);
@@ -12,7 +13,7 @@ body {
 
 .navbar {
   display: flex;
-  grid-column: 1 / 4;
+  // grid-column: 1 / 4;
   justify-content: space-between;
   align-items: center;
   width: 100%;
@@ -25,7 +26,7 @@ body {
 }
 
 .content {
-  grid-column: 2/3;
+  // grid-column: 2/3;
   max-width: var(--max-line-length);
   align-self: start;
   margin: auto;
@@ -33,12 +34,49 @@ body {
 }
 
 body > aside {
-  position: sticky;
+  // position: sticky;
   inset-block-start: 0;
   align-self: start;
-  grid-column: 3/4;
+  // grid-column: 3/4;
 }
 
 .sidebar {
   padding-block-start: var(--space-l);
+}
+
+.highlight--cover {
+  // position: sticky;
+  align-self: start;
+  // grid-column: 1/2;
+  grid-row: 2/3;
+  max-width: calc(0.5 * var(--max-line-length));
+  inset-block-start: var(--space-l);
+  margin: 0;
+  // justify-self: end;
+}
+
+@media (min-width: ($max-line-length * 1.5)) {
+  body {
+    grid-template-columns: 0.5fr 1fr 0.5fr;
+  }
+  
+  .navbar {
+    grid-column: 1 / 4;
+  }
+  
+  .content {
+    grid-column: 2/3;
+  }
+  
+  body > aside {
+    position: sticky;
+    grid-column: 3/4;
+  }
+
+  
+  .highlight--cover {
+    position: sticky;
+    grid-column: 1/2;
+    justify-self: end;
+  }
 }
