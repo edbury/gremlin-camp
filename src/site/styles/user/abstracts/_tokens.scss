@@ -30,7 +30,7 @@ $max-line-length: 60ch;
   --font-family-primary: 'Open Sans', -apple-system, blinkmacsystemfont, avenir next, avenir, segoe ui, helvetica neue, helvetica, ubuntu, roboto, noto, arial, sans-serif;
   --font-family-secondary: 'Gentium Book Basic', iowan old style, apple garamond, baskerville, times new roman, droid serif, times, source serif pro, serif, apple color emoji, segoe ui emoji, segoe ui symbol;
   --line-height-base: 1.5;
-  --max-line-length: 60ch;
+  --max-line-length: #{$max-line-length};
   --half-line-length: 30ch; // integer for grid math
   --font-weight-bold: 600;
 
