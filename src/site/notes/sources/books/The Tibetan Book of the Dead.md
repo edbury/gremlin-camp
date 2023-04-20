@@ -1,5 +1,5 @@
 ---
-{"aliases":"The Tibetan Book of the Dead","author":"Padmasambhāva","date-created":"2022-08-03T16:01","date-modified":"2023-04-20T12:27","dg-publish":true,"finished":"2022-08-01","location":"Oakland","subtitle":"Liberation through understanding in the between","tags":["source/book buddhism"],"title":"The Tibetan Book of the Dead","translator":"Robert A.F. Thurman","year":1994,"dg-path":"highlights/The Tibetan Book of the Dead.md","permalink":"/highlights/the-tibetan-book-of-the-dead/","dgPassFrontmatter":true}
+{"aliases":"The Tibetan Book of the Dead","author":"Padmasambhāva","date-created":"2022-08-03T16:01","date-modified":"2023-04-20T12:35","dg-publish":true,"finished":"2022-08-01","location":"Oakland","subtitle":"Liberation through understanding in the between","tags":["source/book","buddhism"],"title":"The Tibetan Book of the Dead","translator":"Robert A.F. Thurman","year":1994,"dg-path":"highlights/The Tibetan Book of the Dead.md","permalink":"/highlights/the-tibetan-book-of-the-dead/","dgPassFrontmatter":true}
 ---
 
 
@@ -24,19 +24,26 @@ The Dalai Lama
 [[sources/books/The Tibetan Book of the Dead#^71f3c7\|pg. 37]]
 
 >You must look "nakedly" at yourself, reversing the aim of seeing back upon itself. You look for that fixed, independent, isolated self that feels like the kernel within you, out of which your drives and thoughts may emerge. But when you turn 180 degrees to look within the looking, you find nothing that has intrinsic status, nothing standing independent in its own right.    
+>
 >Even Descartes found that too: he found that he could find nothing at the point of origin of thought. He erroneously asserted that it was because a subject could not be an object. And he then went wild and said that this subject, this one thing he could not find, demonstrate, establish in any way, was *the one thing he could be foundationally certain of*! He could doubt everything, but he could not doubt that he doubted! So: I think, therefore I am. Only the laziest Buddhist philosopher would make such a statement.
 { #f3bea8}
 
 
 [[sources/books/The Tibetan Book of the Dead#^f3bea8\|pg. 48]]
 
+> Practice giving things away, not just things you don't care about, but things you do like. Remember, it is not the size of the gift, it is its quality and the amount of mental attachment you overcome that count. So don't bankrupt yourself on a momentary positive impulse, only to regret it later. Give thought to giving. Give small things, carefully, and observe the mental processes going along with the act of releasing the little thing you liked.
+{ #da62ea}
 
-  - page: 53
-    text: |
-      Practice giving things away, not just things you don't care about, but things you do like. Remember, it is not the size of the gift, it is its quality and the amount of mental attachment you overcome that count. So don't bankrupt yourself on a momentary positive impulse, only to regret it later. Give thought to giving. Give small things, carefully, and observe the mental processes going along with the act of releasing the little thing you liked.
-  - page: 62
-    text: |
-      This is where meditation is really needed: after you have a sound realization. This is where you realize how deep your instincts go. This is where you begin to desire a higher technology of deepening your realization and expanding your liberation. You decide you cannot bear to delay liberation for many lives. You want to complete the process in this one lifetime. You become determined to seek initiation in the Unexcelled Yoga Tantra, to recognize your life as the life between, to learn the art of reenvisioning your entire self and the world on the creation stage, and to learn the interior voyages of the trained psychonaut on the perfection stage. It is not that you seek a different teaching to provide a shortcut previously unavailable, for the wisdom aspect of these paths does not vary; whether view from an exoteric or an esoteric perspective, voidness is the same. But the method is different; the technique is accelerated, the art is more developed. You seek a way of accelerating your evolution, compressing the development achieved through many conscious deaths and many lives of practice into one life, death, and between, if possible; or at most a few.
+
+[[sources/books/The Tibetan Book of the Dead#^da62ea\|pg. 53]]
+
+>This is where meditation is really needed: after you have a sound realization. This is where you realize how deep your instincts go. This is where you begin to desire a higher technology of deepening your realization and expanding your liberation. You decide you cannot bear to delay liberation for many lives. You want to complete the process in this one lifetime. You become determined to seek initiation in the Unexcelled Yoga Tantra, to recognize your life as the life between, to learn the art of reenvisioning your entire self and the world on the creation stage, and to learn the interior voyages of the trained psychonaut on the perfection stage. It is not that you seek a different teaching to provide a shortcut previously unavailable, for the wisdom aspect of these paths does not vary; whether view from an exoteric or an esoteric perspective, voidness is the same. But the method is different; the technique is accelerated, the art is more developed. You seek a way of accelerating your evolution, compressing the development achieved through many conscious deaths and many lives of practice into one life, death, and between, if possible; or at most a few.
+{ #aa02f8}
+
+
+[[sources/books/The Tibetan Book of the Dead#^aa02f8\|pg. 62]]
+
+
   - page: 84
     text: |
       As for exactly who Padma Sambhava was—was he really a spiritual Superman, is he still alive, and so on—we do not need to pass judgment on these articles of religious faith in order to study and use the text. Naturally, we moderns are not predisposed to expect such things to be true; though secretly, most of us are still hoping.
