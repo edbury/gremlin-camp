@@ -1,5 +1,5 @@
 ---
-{"aliases":"The Coming Insurrection","author":"The Invisible Committee","date-created":"2022-09-13T15:04","date-modified":"2023-04-19T12:41","dg-publish":true,"finished":"2022-09-13T15:04","linter-yaml-title-alias":"The Coming Insurrection","location":"Oakland","subtitle":null,"tags":["source/book"],"title":"The Coming Insurrection","translator":null,"year":2009,"dg-path":"highlights/The Coming Insurrection.md","permalink":"/highlights/the-coming-insurrection/","dgPassFrontmatter":true}
+{"aliases":"The Coming Insurrection","author":"The Invisible Committee","date-created":"2022-09-13T15:04","date-modified":"2023-04-19T18:28","dg-publish":true,"finished":"2022-09-13T15:04","linter-yaml-title-alias":"The Coming Insurrection","location":"Oakland","subtitle":null,"tags":["source/book"],"title":"The Coming Insurrection","translator":null,"up":"[[sources moc|Bookshelf]]","year":2009,"dg-path":"highlights/The Coming Insurrection.md","permalink":"/highlights/the-coming-insurrection/","dgPassFrontmatter":true}
 ---
 
 
