@@ -1,0 +1,7 @@
+{% if 'source/book' in tags %}
+  {% if cover %}
+    <figure class="highlight--cover">
+      <img src={{cover}} alt="Cover of {{title}}">
+    </figure>
+  {% endif %}
+{% endif %}
