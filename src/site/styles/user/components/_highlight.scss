@@ -1,0 +1,80 @@
+.highlight--book {
+  display: grid;
+  grid-gap: var(--space-l);
+  grid-template-columns: 0.5fr 1fr;
+}
+
+.highlight {
+  max-width: var(--max-line-length);
+  margin: 0;
+  padding: 0;
+
+  &:not(:last-child) {
+    margin-block-end: 1.5rem;
+  }
+
+  &:target {
+    span {
+      background-color: var(--dark4);
+    }
+  }
+}
+
+.highlight--cover {
+  position: sticky;
+  align-self: start;
+  max-width: calc(0.5 * var(--max-line-length));
+  inset-block-start: var(--space-l);
+}
+
+.highlight--cover-caption {
+  @include visually-hidden;
+}
+
+.highlight--main {
+  max-width: var(--max-line-length);
+}
+
+.highlight--title {
+  margin-block-end: var(--space-m);
+}
+
+.highlight--author {
+  color: var(--light0-soft);
+  font-family: var(--font-family-secondary);
+  font-size: 0.93em;
+  font-style: italic;
+  font-weight: 400;
+}
+
+.highlight--quote {
+  margin: 0;
+  padding: 0;
+}
+
+.highlight--cite {
+  @include visually-hidden;
+}
+
+.highlight--page {
+  font-size: var(--font-size-caption);
+}
+
+.highlight--feed-title {
+  font-family: var(--font-family-secondary);
+  margin-block-end: var(--space-m);
+  max-width: unset;
+}
+
+.highlight--feed {
+  display: grid;
+  grid-gap: var(--space-m);
+  grid-template-columns: repeat(auto-fill, minmax(var(--half-line-length), 1fr));
+  align-items: center;
+  justify-items: center;
+  max-width: unset;
+  width: calc(100vw - (2 * var(--space-m)));
+  margin: 0;
+  padding: 0;
+  list-style-type: none;
+}

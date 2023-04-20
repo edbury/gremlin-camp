@@ -1,0 +1,78 @@
+:root {
+  // Base 16 Format. Gruvbox.
+  --base00: #1d2021; 
+  --base01: #3c3836; 
+  --base02: #504945; 
+  --base03: #665c54; 
+  --base04: #bdae93; 
+  --base05: #d5c4a1; 
+  --base06: #ebdbb2; 
+  --base07: #fbf1c7;
+  --base08: #fb4934; 
+  --base09: #fe8019; 
+  --base0A: #fabd2f;
+  --base0B: #b8bb26;
+  --base0C: #8ec07c;
+  --base0D: #83a598;
+  --base0E: #d3869b;
+  --base0F: #d65d0e;
+
+  // Colors
+  --background-color-base: var(--base00);
+  --background-color-accent: var(--base01);
+  --text-color-body: var(--base07);
+  --text-color-accent: var(--base0D);
+  --link-text-color: var(--base0A);
+
+  // Type
+  --font-family-primary: 'Open Sans', -apple-system, blinkmacsystemfont, avenir next, avenir, segoe ui, helvetica neue, helvetica, ubuntu, roboto, noto, arial, sans-serif;
+  --font-family-secondary: 'Gentium Book Basic', iowan old style, apple garamond, baskerville, times new roman, droid serif, times, source serif pro, serif, apple color emoji, segoe ui emoji, segoe ui symbol;
+  --line-height-base: 1.5;
+  --max-line-length: 60ch;
+  --half-line-length: 30ch; // integer for grid math
+  --font-weight-bold: 600;
+
+  // Type Scale
+  --font-scale-neg1: 0.889rem;
+  --font-scale-0: 1rem;
+  --font-scale-1: 1.125rem;
+  --font-scale-2: 1.266rem;
+  --font-scale-3: 1.424rem;
+  --font-scale-4: 1.602rem;
+  --font-scale-5: 1.802rem;
+  --font-scale-6: 2.027rem;
+  --font-scale-7: 2.281rem;
+  --font-scale-8: 2.566rem;
+  --font-scale-9: 2.887rem;
+  --font-scale-10: 3.247rem;
+  --font-size-body: var(--font-scale-0);
+  --font-size-caption: var(--font-scale-neg1);
+
+  // Shape
+  --border-width: 1px;
+  --border-style: solid;
+  --border-color: var(--base03);
+  --border-radius: calc(var(--font-scale-0)/4);
+
+  // Spacing
+  --space-m: calc(1rem * var(--line-height-base));
+  --space-s: calc(0.5 * var(--space-m));
+  --space-xs: calc(0.5 * var(--space-s));
+  --space-xxs: calc(0.5 * var(--space-xs));
+  --space-l: calc(2 * var(--space-m));
+
+  // Transition
+  --transition-timing: ease-in-out;
+  --transition-duration: 100ms;
+
+  // Conversion Tokens
+
+  //// Digital Garden
+
+  --note-icon-1: url(/img/tree-1.svg);
+  --note-icon-2: url(/img/tree-2.svg);
+  --note-icon-3: url(/img/tree-3.svg);
+  --note-icon-fallback: url(/img/default-note-icon.svg);
+  --graph-main: var(--text-accent);
+  --graph-muted: var(--text-muted);
+}

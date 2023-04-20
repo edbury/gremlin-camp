@@ -1,0 +1,40 @@
+body {
+  display: grid;
+  grid-template-columns: 0.5fr 1fr 0.5fr;
+  gap: var(--space-m);
+  grid-template-rows: min-content;
+  align-content: start;
+  align-items: start;
+  min-height: 100vh;
+  margin: 0;
+  padding-inline: var(--space-m);
+}
+
+.navbar {
+  display: flex;
+  grid-column: 1 / 4;
+  justify-content: space-between;
+  align-items: center;
+  width: 100%;
+  align-self: start;
+  margin: var(--space-m);
+
+  h1 {
+    font-size: var(--font-scale-1);
+  }
+}
+
+.content {
+  grid-column: 2/3;
+  max-width: var(--max-line-length);
+  align-self: start;
+  margin: auto;
+  justify-self: center;
+}
+
+body > aside {
+  position: sticky;
+  inset-block-start: 0;
+  align-self: start;
+  grid-column: 3/4;
+}

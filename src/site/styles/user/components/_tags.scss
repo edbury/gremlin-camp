@@ -1,0 +1,19 @@
+.tag {
+  cursor: pointer;
+  font-size: var(--font-scale-neg1);
+  background-color: var(--background-color-accent);
+  padding-block: var(--space-xxs);
+  padding-inline: var(--space-xs);
+  border-radius: 1em;
+
+  &:hover {
+    background-color: var(--base02);
+    text-decoration: none;
+  }
+}
+
+.header-tags {
+  display: flex;
+  gap: var(--space-s);
+  margin-block-end: var(--space-m);
+}
