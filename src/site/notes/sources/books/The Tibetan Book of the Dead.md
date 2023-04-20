@@ -1,5 +1,5 @@
 ---
-{"aliases":"The Tibetan Book of the Dead","author":"Padmasambhāva","cover":"https://i.imgur.com/MKAuMt5.jpg","date-created":"2022-08-03T16:01","date-modified":"2023-04-20T12:45","dg-publish":true,"finished":"2022-08-01","location":"Oakland","subtitle":"Liberation through understanding in the between","tags":["source/book","buddhism"],"title":"The Tibetan Book of the Dead","translator":"Robert A.F. Thurman","year":1994,"dg-path":"highlights/The Tibetan Book of the Dead.md","permalink":"/highlights/the-tibetan-book-of-the-dead/","dgPassFrontmatter":true}
+{"aliases":"The Tibetan Book of the Dead","author":"Padmasambhāva","cover":"https://i.imgur.com/MKAuMt5.jpg","date-created":"2022-08-03T16:01","date-modified":"2023-04-20T12:55","dg-publish":true,"finished":"2022-08-01","location":"Oakland","subtitle":"Liberation through understanding in the between","tags":["source/book","buddhism"],"title":"The Tibetan Book of the Dead","translator":"Robert A.F. Thurman","up":[["sources moc"]],"year":1994,"dg-path":"highlights/The Tibetan Book of the Dead.md","permalink":"/highlights/the-tibetan-book-of-the-dead/","dgPassFrontmatter":true}
 ---
 
 
@@ -112,7 +112,7 @@ The Dalai Lama
 
  The *Root Verses* of the six betweens
   
-  [[[The Tibetan Book of the Dead#^24038a\|pg. 116]]
+[[sources/books/The Tibetan Book of the Dead#^24038a\|pg. 116]]
 
 >The ordinary person here means one who has no systematic practice of either visualization or transformation into altered states of physical energies or consciousness. However, her participation in a culture is itself a visualization and transformation process, a routinization of imagination and perception. If she is religious, her long-term familiarity with a particular god, goddess, savior, or prophet will make that being into an archetype deity for her. If she is not religious, her familiarity with specific political leaders, celebrities, national symbols, or other persons or places will have turned them into archetypes or mandalas for her. The text invokes the Lord of Great Compassion, the archangelic Bodhisattva Avalokiteshvara, the Savior figure for any participant in Tibetan culture, a powerful deity who looks out for all living creatures, helping them avoid suffering and discover happiness. You may prefer to invoke Jesus here, or Moses, Muhammad, Krishna, or Wakan Tanka, Odin, Zeus, or the Great Mother in any of her myriad forms. Any archetype of sacredness, any compassionate personification of representation of ultimate reality, here serves to make the soul's consciousness feel secure and integrated with the gracious presence of sacred ultimacy. This is necessary for her not to fear any hallucinations or startling happenings, and to move toward positive destinies. It is also considered that the imagined figure of any of these great saviors serves as an icon to focus awareness to make the soul receptive to the active compassion of those beings themselves.
 { #fb5f3f}
