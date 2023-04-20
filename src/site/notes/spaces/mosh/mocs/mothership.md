@@ -1,5 +1,5 @@
 ---
-{"aliases":["Mothership"],"date-created":"2022-09-12T16:41","date-modified":"2023-04-18T17:15","dg-publish":true,"linter-yaml-title-alias":"Mothership","tags":["mosh"],"title":"Mothership","permalink":"/spaces/mosh/mocs/mothership/","dgPassFrontmatter":true}
+{"aliases":["Mothership"],"date-created":"2022-09-12T16:41","date-modified":"2023-04-20T13:12","dg-publish":true,"tags":["mosh"],"title":"Mothership","permalink":"/spaces/mosh/mocs/mothership/","dgPassFrontmatter":true}
 ---
 
 
@@ -15,11 +15,11 @@ These notes are gathered under the #mosh tag.
 
 I'm slowly organizing my Mothership resources by creator and jump cluster.
 
-| Module                                                                                                    | Status   | Publisher            | Cluster                                   |
-| --------------------------------------------------------------------------------------------------------- | -------- | -------------------- | ----------------------------------------- |
-| [[spaces/mosh/areas/sources/A Pound of Flesh\|A Pound of Flesh]]                                       | ongoing  | Tuesday Knight Games | [[spaces/mosh/support/32819L\|32819L]] |
-| [[spaces/mosh/areas/sources/Bloom\|Bloom]]                                                             | complete | \-                   | [[spaces/mosh/support/32819L\|32819L]] |
-| [[spaces/mosh/areas/sources/Nightmare on Cerberus Station\|Nightmare on Cerberus Station]]             | complete | \-                   | [[spaces/mosh/support/32819L\|32819L]] |
-| [[spaces/mosh/areas/sources/Teamster Trouble\|Teamster Trouble]]                                       | \-       | \-                   | \-                                        |
-| [[spaces/mosh/areas/sources/The Cleaning of Prison Station Echo\|The Cleaning of Prison Station Echo]] | ongoing  | \-                   | [[encounters/Magnum\|Magnum]]          |
+| Module                                                                                                    | Status   | Publisher            |
+| --------------------------------------------------------------------------------------------------------- | -------- | -------------------- |
+| [[spaces/mosh/areas/sources/A Pound of Flesh\|A Pound of Flesh]]                                       | ongoing  | Tuesday Knight Games |
+| [[spaces/mosh/areas/sources/Bloom\|Bloom]]                                                             | complete | \-                   |
+| [[spaces/mosh/areas/sources/Nightmare on Cerberus Station\|Nightmare on Cerberus Station]]             | complete | \-                   |
+| [[spaces/mosh/areas/sources/Teamster Trouble\|Teamster Trouble]]                                       | \-       | \-                   |
+| [[spaces/mosh/areas/sources/The Cleaning of Prison Station Echo\|The Cleaning of Prison Station Echo]] | ongoing  | \-                   |
 
