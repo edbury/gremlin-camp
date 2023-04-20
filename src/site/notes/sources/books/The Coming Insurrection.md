@@ -1,5 +1,5 @@
 ---
-{"aliases":"The Coming Insurrection","author":"The Invisible Committee","cover":"https://i.imgur.com/P20Jndo.jpg","date-created":"2022-09-13T15:04","date-modified":"2023-04-20T12:19","dg-publish":true,"finished":"2022-09-13T15:04","linter-yaml-title-alias":"The Coming Insurrection","location":"Oakland","subtitle":null,"tags":["source/book"],"title":"The Coming Insurrection","translator":null,"up":[["sources moc"]],"year":2009,"dg-path":"highlights/The Coming Insurrection.md","permalink":"/highlights/the-coming-insurrection/","dgPassFrontmatter":true}
+{"aliases":"The Coming Insurrection","author":"The Invisible Committee","cover":"https://i.imgur.com/P20Jndo.jpg","date-created":"2022-09-13T15:04","date-modified":"2023-04-20T12:29","dg-publish":true,"finished":"2022-09-13T15:04","location":"Oakland","subtitle":null,"tags":["source/book"],"title":"The Coming Insurrection","translator":null,"up":[["sources moc"]],"year":2009,"dg-path":"highlights/The Coming Insurrection.md","permalink":"/highlights/the-coming-insurrection/","dgPassFrontmatter":true}
 ---
 
 
@@ -64,6 +64,7 @@
 [[sources/books/The Coming Insurrection#^4f4a70\|pg. 43]]
 
 >Excuse us if we don't give a fuck.
+>
 >We belong to a generation that lives _very well_ in this fiction. That has never counted on either a pension or the right to work, let alone rights _at_ work. That isn't even "precarious," as the most advanced factions of the militant left like to theorize, because to be precarious is still to define oneself in relation to the sphere of work, that is, _to its decomposition_. We accept the necessity of finding money, by whatever means, because it is currently impossible to do without it, but we reject the necessity of working. Besides, we don't work anymore: _we do our time_. Business is not a place where we exist, it's a place we pass through.
 { #b9d7ff}
 
@@ -157,6 +158,7 @@ Scottish traveler to Paris after rebels had burned the Hôtel de Ville; May, 187
 [[sources/books/The Coming Insurrection#^1b0b2c\|pg. 93]]
 
 >It's useless to _react_ to the news of the day; instead we should understand each report as a maneuver in a hostile field of strategies to be decoded, operations designed to provoke a specific reaction. It's these operations themselves that should be taken as the real information contained in these pieces of news.
+>
 >It's useless _to wait_—for a breakthrough, for the revolution, the nuclear apocalypse or a social movement. To go on waiting is madness. The catastrophe is not coming, it is here. We are already situated _within_ the collapse of a civilization. It is within this reality that we must choose sides.
 { #55609e}
 
@@ -200,7 +202,9 @@ Scottish traveler to Paris after rebels had burned the Hôtel de Ville; May, 187
 [[sources/books/The Coming Insurrection#^44af65\|pg. 128]]
 
 >_Take up arms. Do everything possible to make their use unnecessary. Against the army, the only victory is political._
+>
 >There is no such thing as a peaceful insurrection. Weapons are necessary; it's a question of doing everything possible to make using them unnecessary. An insurrection is more about taking up arms and maintaining an "armed presence" than it is about armed struggle. We need to distinguish clearly between being armed and the use of arms. Weapons are a constant in revolutionary situations, but their use is infrequent and rarely decisive at key turning points: August 10th 1792, March 18th 1871, October 1917. When power is in the gutter, it's enough to walk over it.
+>
 >Because of the distance that separates us from them, weapons have taken on a kind of double character of fascination and disgust that can be overcome only by handling them. An authentic pacifism cannot mean refusing weapons, but only refusing to use them. Pacifism without being able to fire a shot is nothing but the theoretical formulation of impotence. Such _a priori_ pacifism is a kind of preventative disarmament, a pure police operation. In reality, the question of pacifism is serious only for those who have the ability to open fire. In this case, pacifism becomes a sign of power, since it's only in an extreme position of strength that we are freed from the need to fire.
 { #b12367}
 
