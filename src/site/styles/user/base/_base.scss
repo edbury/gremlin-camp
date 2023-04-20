@@ -64,6 +64,10 @@ ol, ul {
 
   li {
     margin-block-end: var(--space-s);
+
+    ol, ul {
+      margin-block-start: var(--space-s);
+    }
   }
 
   &.task-list {

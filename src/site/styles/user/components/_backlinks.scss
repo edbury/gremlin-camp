@@ -1,14 +1,10 @@
 .backlinks {
   flex: 1;
-  margin-top: var(--space-s);
-  background-color: var(--background-color-base);
-  border-radius: var(--space-s);
-  padding: var(--space-s);
+  font-size: var(--font-scale-neg1);
   
   .backlink-title {
     margin-block: var(--space-s);
     margin-inline: 0;
-    font-size: var(--font-scale-neg1);
   }
 }
 
@@ -18,7 +14,6 @@
   padding-block-end: var(--space-m);
   border-radius: var(--border-radius);
   width: 100%;
-  font-size: var(--font-scale-0);
   
   .svg-icon {
     width: 0.75em;

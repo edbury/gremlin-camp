@@ -1,0 +1,16 @@
+.toc {
+  margin-block-end: var(--space-m);
+  font-size: var(--font-scale-neg1);
+
+  ol {
+    padding-inline-start: 2ch;
+
+    li {
+      margin-block-end: var(--space-xs);
+  
+      ol, ul {
+        margin-block-start: var(--space-xs);
+      }
+    }
+  }
+}

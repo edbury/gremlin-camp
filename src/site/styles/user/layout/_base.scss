@@ -38,3 +38,7 @@ body > aside {
   align-self: start;
   grid-column: 3/4;
 }
+
+.sidebar {
+  padding-block-start: var(--space-l);
+}
