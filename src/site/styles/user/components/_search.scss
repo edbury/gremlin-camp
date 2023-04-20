@@ -27,7 +27,7 @@
 
 .search-box {
   transform: translateY(100px);
-  background-color: var(--background-primary);
+  background-color: var(--background-color-base);
   max-width: 80%;
   width: 900px;
   border-radius: 15px;
@@ -41,7 +41,7 @@
   border: none;
   border-radius: 5px;
   font-size: 2rem;
-  background-color: var(--background-primary);
+  background-color: var(--background-color-base);
   color: var(--text-primary);
 }
 
@@ -91,7 +91,7 @@
 }
 
 .search-button {
-  background-color: var(--background-primary);
+  background-color: var(--background-color-base);
   border-radius: 20px;
   height: 2em;
   display: flex;
