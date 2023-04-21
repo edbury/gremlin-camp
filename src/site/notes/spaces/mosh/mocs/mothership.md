@@ -15,23 +15,23 @@ These notes are gathered under the #mosh tag.
 
 I'm slowly organizing my Mothership resources by creator and jump cluster.
 
-| Module                                                                                                    | Status   | Publisher              | Cluster                                    |
-| --------------------------------------------------------------------------------------------------------- | -------- | ---------------------- | ------------------------------------------ |
-| [[spaces/mosh/areas/sources/Teamster Trouble\|Teamster Trouble]]                                       | \-       | \-                     | \-                                         |
-| [[encounters/Agent\|Agent]]                                                                            | \-       | Anodyne Printware      | \-                                         |
-| [[encounters/ALCOR Station\|ALCOR Station]]                                                            | \-       | Ashen Victor           | \-                                         |
-| [[spaces/mosh/areas/sources/Nightmare on Cerberus Station\|Nightmare on Cerberus Station]]             | complete | Jennings               | \-                                         |
-| [[encounters/Alternate Classes from the Hecate Sector\|Alternate Classes from the Hecate Sector]]      | \-       | Joshua Justice         | <ul><li><ul><li>Hecate</li></ul></li></ul> |
-| [[spaces/mosh/areas/sources/Bloom\|Bloom]]                                                             | complete | Kharrak                | \-                                         |
-| [[encounters/Andromeda\|Andromeda]]                                                                    | \-       | Leyline Press          | \-                                         |
-| [[spaces/mosh/areas/sources/The Cleaning of Prison Station Echo\|The Cleaning of Prison Station Echo]] | complete | Magnum Galaxy          | Magnum                                     |
-| [[encounters/Alien Armory\|Alien Armory]]                                                              | \-       | Nyhur                  | \-                                         |
-| [[encounters/Anomalous Investigations\|Anomalous Investigations]]                                      | \-       | Octopus Ink            | \-                                         |
-| [[encounters/Alone on the Farm\|Alone on the Farm]]                                                    | \-       | Peter Drury-Mulholland | \-                                         |
-| [[encounters/Alone in the Deep\|Alone in the Deep]]                                                    | \-       | S. Murphy Games        | \-                                         |
-| [[encounters/Abilities Considered Unnatural\|Abilities Considered Unnatural]]                          | \-       | SILVERARM              | \-                                         |
-| [[encounters/Escape Sable\|Escape Sable]]                                                              | \-       | SILVERARM              | \-                                         |
-| [[spaces/mosh/areas/sources/A Pound of Flesh\|A Pound of Flesh]]                                       | ongoing  | Tuesday Knight Games   | [[spaces/mosh/support/32819L\|32819L]]  |
+| Module                                                                                                    | Status   | Publisher              | Cluster                                   |
+| --------------------------------------------------------------------------------------------------------- | -------- | ---------------------- | ----------------------------------------- |
+| [[spaces/mosh/areas/sources/Teamster Trouble\|Teamster Trouble]]                                       | \-       | \-                     | \-                                        |
+| [[encounters/Agent\|Agent]]                                                                            | \-       | Anodyne Printware      | \-                                        |
+| [[encounters/ALCOR Station\|ALCOR Station]]                                                            | \-       | Ashen Victor           | \-                                        |
+| [[spaces/mosh/areas/sources/Nightmare on Cerberus Station\|Nightmare on Cerberus Station]]             | complete | Jennings               | \-                                        |
+| [[encounters/Alternate Classes from the Hecate Sector\|Alternate Classes from the Hecate Sector]]      | \-       | Joshua Justice         | Hecate                                    |
+| [[spaces/mosh/areas/sources/Bloom\|Bloom]]                                                             | complete | Kharrak                | \-                                        |
+| [[encounters/Andromeda\|Andromeda]]                                                                    | \-       | Leyline Press          | \-                                        |
+| [[spaces/mosh/areas/sources/The Cleaning of Prison Station Echo\|The Cleaning of Prison Station Echo]] | complete | Magnum Galaxy          | Magnum                                    |
+| [[encounters/Alien Armory\|Alien Armory]]                                                              | \-       | Nyhur                  | \-                                        |
+| [[encounters/Anomalous Investigations\|Anomalous Investigations]]                                      | \-       | Octopus Ink            | \-                                        |
+| [[encounters/Alone on the Farm\|Alone on the Farm]]                                                    | \-       | Peter Drury-Mulholland | \-                                        |
+| [[encounters/Alone in the Deep\|Alone in the Deep]]                                                    | \-       | S. Murphy Games        | \-                                        |
+| [[encounters/Abilities Considered Unnatural\|Abilities Considered Unnatural]]                          | \-       | SILVERARM              | \-                                        |
+| [[encounters/Escape Sable\|Escape Sable]]                                                              | \-       | SILVERARM              | \-                                        |
+| [[spaces/mosh/areas/sources/A Pound of Flesh\|A Pound of Flesh]]                                       | ongoing  | Tuesday Knight Games   | [[spaces/mosh/support/32819L\|32819L]] |
 
 
 ## Diegetic
