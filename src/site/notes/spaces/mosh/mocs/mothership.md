@@ -151,7 +151,6 @@ In-universe, character-facing content.
 
 | Module                                                                                                                                                                           | Publisher/Creator          | Cluster |
 | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------- | ------- |
-| [[encounters/Interstellar Sex Workers Union\|Interstellar Sex Workers Union]]                                                                                                 | \-                         | \-      |
 | [[encounters/Fractal City Missing Persons Report\|Fractal City Missing Persons Report]]                                                                                       | \-                         | \-      |
 | [[encounters/5th Quinquennial Interstellar Interdisciplinary Conference\|5th Quinquennial Interstellar Interdisciplinary Conference]]                                         | 3rd Sector Collective      | \-      |
 | [[encounters/TOOLS OF THE NEW WAR\|TOOLS OF THE NEW WAR]]                                                                                                                     | Alexis Maes                | \-      |
@@ -183,6 +182,7 @@ In-universe, character-facing content.
 | [[encounters/Outer Circuit Community Newsletter\|Outer Circuit Community Newsletter]]                                                                                         | Paper Key Games            | \-      |
 | [[encounters/Do Not Remove, Do Not Transcribe\|Do Not Remove, Do Not Transcribe]]                                                                                             | RAC Computing              | \-      |
 | [[encounters/20th Century Steel\|20th Century Steel]]                                                                                                                         | RAC Computing & Iron Prime | \-      |
+| [[encounters/Interstellar Sex Workers Union\|Interstellar Sex Workers Union]]                                                                                                 | RV Games                   | \-      |
 | [[encounters/The Last Will and Testament of John Baxter Plus One Hell of an Omelette Recipe\|The Last Will and Testament of John Baxter Plus One Hell of an Omelette Recipe]] | Ryan Hatt                  | \-      |
 | [[encounters/The Sojourner's Guide Vol. 1 - Freak Film and Cult Cinema\|The Sojourner's Guide Vol. 1 - Freak Film and Cult Cinema]]                                           | Sean Pagel                 | \-      |
 | [[encounters/Reviews.Books.Ads.\|Reviews.Books.Ads.]]                                                                                                                         | Spicy Tuna                 | \-      |
