@@ -1,5 +1,5 @@
 ---
-{"aliases":"Dune","author":"Frank Herbert","cover":"https://i.imgur.com/KnBh5JV.jpg","date-created":"2022-08-02T16:03","date-modified":"2023-04-20T11:37","dg-publish":true,"finished":"2022-02-25T00:00:00","linter-yaml-title-alias":"Dune","location":"Oakland","subtitle":null,"tags":["source/book","dune"],"title":"Dune","translator":null,"up":"[[sources moc]]","year":1965,"dg-path":"highlights/Dune.md","permalink":"/highlights/dune/","dgPassFrontmatter":true}
+{"aliases":"Dune","author":"Frank Herbert","cover":"https://i.imgur.com/KnBh5JV.jpg","date-created":"2022-08-02T16:03","date-modified":"2023-04-21T10:17","dg-publish":true,"finished":"2022-02-25T00:00:00","location":"Oakland","subtitle":null,"tags":["source/book","dune"],"title":"Dune","translator":null,"up":"[[sources moc]]","year":1965,"dg-path":"highlights/Dune.md","permalink":"/highlights/dune/","dgPassFrontmatter":true}
 ---
 
 
@@ -106,6 +106,7 @@
 [[sources/books/Dune#^a31f1f\|pg. 314]]
 
 >She looked at Paul's face, his eyes—the inward stare. And she knew where she had seen such a look before: pictured in records of disasters—on the faces of children who experienced starvation or terrible injury. The eyes were like pits, mouth a straight line, cheeks indrawn.
+>
 >*It's the look of terrible awareness,* she thought, *of someone forced to the knowledge of his own mortality.*
 { #a48b5f}
 
@@ -257,6 +258,7 @@
 [[sources/books/Dune#^21ad21\|pg. 689]]
 
 >"What you have not done," Paul said, "is heard my mother sobbing in the night over her lost Duke. You have no seen her eyes stab flame when she speaks of killing Harkonnens."
+>
 >*So he has listened,* she thought. *Tears blinded her eyes.*
 { #b4d30e}
 
