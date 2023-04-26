@@ -7,4 +7,4 @@
 
 Welcome to Gremlin Camp.
 
-I'm currently working on my [[atlas/sources moc\|bookshelf]] and a collection of [[spaces/mosh/mocs/mothership\|mothership]] notes.
+I'm currently working on my [[atlas/bookshelf\|bookshelf]] and a collection of [[spaces/mosh/mocs/mothership\|mothership]] notes.
