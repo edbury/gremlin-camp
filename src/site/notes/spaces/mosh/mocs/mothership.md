@@ -1,5 +1,5 @@
 ---
-{"aliases":["Mothership"],"date-created":"2022-09-12T16:41","date-modified":"2023-04-22T13:54","dg-publish":true,"tags":["mosh"],"title":"Mothership","permalink":"/spaces/mosh/mocs/mothership/","dgPassFrontmatter":true}
+{"aliases":["Mothership"],"date-created":"2022-09-12T16:41","date-modified":"2023-04-25T11:06","dg-publish":true,"tags":["mosh"],"title":"Mothership","permalink":"/spaces/mosh/mocs/mothership/","dgPassFrontmatter":true}
 ---
 
 
@@ -28,8 +28,8 @@ I'm slowly organizing my Mothership resources by creator and jump cluster.
 | [[encounters/Dinoplex Cataclysm\|Dinoplex Cataclysm]]                                                             | \-       | Anodyne Printware                               | \-                                        |
 | [[encounters/Breach of Contract\|Breach of Contract]]                                                             | \-       | Anodyne Printware                               | [[Public Sector\|Public Sector]]          |
 | [[encounters/Agent\|Agent]]                                                                                       | \-       | Anodyne Printware                               | \-                                        |
-| [[encounters/Moonbase Blues\|Moonbase Blues]]                                                                     | \-       | Anodyne Printware                               | \-                                        |
 | [[encounters/Picket Line Tango\|Picket Line Tango]]                                                               | \-       | Anodyne Printware                               | \-                                        |
+| [[encounters/Moonbase Blues\|Moonbase Blues]]                                                                     | \-       | Anodyne Printware                               | \-                                        |
 | [[encounters/Rimwise Dispatch 0003\|Rimwise Dispatch 0003]]                                                       | \-       | Anxiety Wizard                                  | \-                                        |
 | [[encounters/Blood Floats in Space\|Blood Floats in Space]]                                                       | \-       | Apollyon Press                                  | \-                                        |
 | [[encounters/ALCOR Station\|ALCOR Station]]                                                                       | \-       | Ashen Victor                                    | \-                                        |
@@ -105,8 +105,8 @@ I'm slowly organizing my Mothership resources by creator and jump cluster.
 | [[encounters/Chromatic Transference\|Chromatic Transference]]                                                     | complete | Tuesday Knight Games                            | [[spaces/mosh/support/32819L\|32819L]] |
 | [[spaces/mosh/areas/sources/A Pound of Flesh\|A Pound of Flesh]]                                                  | ongoing  | Tuesday Knight Games                            | [[spaces/mosh/support/32819L\|32819L]] |
 | [[encounters/Hivemind Issue 01\|Hivemind Issue 01]]                                                               | \-       | Tuesday Knight Games                            | \-                                        |
-| [[encounters/Piece by Piece\|Piece by Piece]]                                                                     | complete | Tuesday Knight Games                            | [[spaces/mosh/support/32819L\|32819L]] |
 | [[encounters/Terminal Delays at Anarene's Folly\|Terminal Delays at Anarene's Folly]]                             | complete | Tuesday Knight Games                            | [[spaces/mosh/support/32819L\|32819L]] |
+| [[encounters/Piece by Piece\|Piece by Piece]]                                                                     | complete | Tuesday Knight Games                            | [[spaces/mosh/support/32819L\|32819L]] |
 | [[encounters/Haunting of Ypsilon 14\|Haunting of Ypsilon 14]]                                                     | complete | Tuesday Knight Games                            | [[spaces/mosh/support/32819L\|32819L]] |
 | [[encounters/Dissident Whispers\|Dissident Whispers]]                                                             | \-       | Tuesday Knight Games, Whisper Collective        | \-                                        |
 | [[encounters/Hot Stuff on Shore Leave\|Hot Stuff on Shore Leave]]                                                 | \-       | watt                                            | \-                                        |
@@ -132,9 +132,9 @@ In-universe, character-facing content.
 | [[encounters/Remember the Mara\|Remember the Mara]]                                                                                                                           | Ben King                   | \-      |
 | [[encounters/Known Criminals of Orion\|Known Criminals of Orion]]                                                                                                             | Brien Myers                | \-      |
 | [[encounters/Cendrillon Mercs for Hire\|Cendrillon Mercs for Hire]]                                                                                                           | Chris Air Games            | \-      |
+| [[encounters/Seen on the Void's Edge\|Seen on the Void's Edge]]                                                                                                               | Chris Air Games            | \-      |
 | [[encounters/Sleeper Crew\|Sleeper Crew]]                                                                                                                                     | Chris Air Games            | \-      |
 | [[encounters/PMT Used Android Catalogue\|PMT Used Android Catalogue]]                                                                                                         | Chris Air Games            | \-      |
-| [[encounters/Seen on the Void's Edge\|Seen on the Void's Edge]]                                                                                                               | Chris Air Games            | \-      |
 | [[encounters/Oasis Station\|Oasis Station]]                                                                                                                                   | David II                   | \-      |
 | [[encounters/FieldTEK Combat Systems\|FieldTEK Combat Systems]]                                                                                                               | Fringe Realms              | \-      |
 | [[encounters/Mauve-Arte\|Mauve-Arte]]                                                                                                                                         | Hexagnome                  | \-      |
