@@ -9,7 +9,7 @@
 
 This is your guide to life aboard [[The Salacious Void\|The Salacious Void]].
 
-Our next major arc is taking the crew to the [[Dead Planet\|Dead Planet]].
+Our next major arc is taking the crew to the [[encounters/Dead Planet\|Dead Planet]].
 
 ## Advancement
 
