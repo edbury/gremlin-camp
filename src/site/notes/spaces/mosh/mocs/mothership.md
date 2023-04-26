@@ -1,5 +1,5 @@
 ---
-{"aliases":["Mothership"],"date-created":"2022-09-12T16:41","date-modified":"2023-04-26T15:09","dg-publish":true,"tags":["mosh"],"title":"Mothership","permalink":"/spaces/mosh/mocs/mothership/","dgPassFrontmatter":true}
+{"aliases":["Mothership"],"date-created":"2022-09-12T16:41","date-modified":"2023-04-26T15:10","dg-publish":true,"tags":["mosh"],"title":"Mothership","permalink":"/spaces/mosh/mocs/mothership/","dgPassFrontmatter":true}
 ---
 
 
@@ -13,7 +13,7 @@ These notes are gathered under the #mosh tag.
 
 ## Modules
 
-I'm slowly organizing my Mothership resources by creator and jump cluster.
+I'm slowly organizing Mothership resources by creator and jump cluster.
 
 | Module                                                                                                               | Status     | Publisher/Creator                               | Cluster                                   |
 | -------------------------------------------------------------------------------------------------------------------- | ---------- | ----------------------------------------------- | ----------------------------------------- |
