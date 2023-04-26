@@ -15,133 +15,134 @@ These notes are gathered under the #mosh tag.
 
 I'm slowly organizing Mothership resources by creator and jump cluster.
 
-| Module                                                                                                               | Status     | Publisher/Creator                               | Cluster                                   |
-| -------------------------------------------------------------------------------------------------------------------- | ---------- | ----------------------------------------------- | ----------------------------------------- |
-| [[spaces/mosh/areas/sources/Teamster Trouble\|Teamster Trouble]]                                                  | \-         | \-                                              | \-                                        |
-| [[encounters/Streamlined Downtime\|Streamlined Downtime]]                                                         | \-         | 3rd Sector Collective                           | \-                                        |
-| [[encounters/Rampant\|Rampant]]                                                                                   | \-         | 3rd Sector Collective                           | \-                                        |
-| [[encounters/RETCON\|RETCON]]                                                                                     | \-         | Aaron Williams                                  | \-                                        |
-| [[encounters/Thousand Empty Light\|Thousand Empty Light]]                                                         | \-         | Alfred Valley                                   | \-                                        |
-| [[encounters/Iron Tomb\|Iron Tomb]]                                                                               | \-         | Am I Cool Yet?                                  | \-                                        |
-| [[encounters/Year of the Rat\|Year of the Rat]]                                                                   | \-         | Am I Cool Yet?                                  | \-                                        |
-| [[encounters/Meatgrinder\|Meatgrinder]]                                                                           | \-         | Anodyne Printware                               | \-                                        |
-| [[encounters/Hull Breach Vol 1\|Hull Breach Vol 1]]                                                               | \-         | Anodyne Printware                               | [[Public Sector\|Public Sector]]          |
-| [[encounters/Hull Breach Bookmark Derelict\|Hull Breach Bookmark Derelict]]                                       | \-         | Anodyne Printware                               | [[Public Sector\|Public Sector]]          |
-| [[encounters/Dinoplex Cataclysm\|Dinoplex Cataclysm]]                                                             | \-         | Anodyne Printware                               | \-                                        |
-| [[encounters/Breach of Contract\|Breach of Contract]]                                                             | \-         | Anodyne Printware                               | [[Public Sector\|Public Sector]]          |
-| [[encounters/Agent\|Agent]]                                                                                       | \-         | Anodyne Printware                               | \-                                        |
-| [[encounters/Moonbase Blues\|Moonbase Blues]]                                                                     | \-         | Anodyne Printware                               | \-                                        |
-| [[encounters/Picket Line Tango\|Picket Line Tango]]                                                               | \-         | Anodyne Printware                               | \-                                        |
-| [[encounters/The Drain\|The Drain]]                                                                               | \-         | Anodyne Printware                               | \-                                        |
-| [[encounters/The Third Sector\|The Third Sector]]                                                                 | \-         | Anodyne Printware                               | \-                                        |
-| [[encounters/Wrath of God\|Wrath of God]]                                                                         | \-         | Anodyne Printware                               | \-                                        |
-| [[encounters/Rimwise Dispatch 0003\|Rimwise Dispatch 0003]]                                                       | \-         | Anxiety Wizard                                  | \-                                        |
-| [[encounters/Blood Floats in Space\|Blood Floats in Space]]                                                       | \-         | Apollyon Press                                  | \-                                        |
-| [[encounters/ALCOR Station\|ALCOR Station]]                                                                       | \-         | Ashen Victor                                    | \-                                        |
-| [[encounters/Sidney Shipgraver\|Sidney Shipgraver]]                                                               | \-         | Ben King                                        | \-                                        |
-| [[encounters/Mechs in the City\|Mechs in the City]]                                                               | \-         | Big Smog Games                                  | \-                                        |
-| [[encounters/Altus-Shaanxi Mining Company\|Altus-Shaanxi Mining Company]]                                         | \-         | Bleak Horizons Press                            | \-                                        |
-| [[encounters/Crowded Stars\|Crowded Stars]]                                                                       | \-         | Cam Cavedo                                      | \-                                        |
-| [[encounters/Sleeper Crew\|Sleeper Crew]]                                                                         | \-         | Chris Air Games                                 | \-                                        |
-| [[encounters/The Mole on PIRAD ONE\|The Mole on PIRAD ONE]]                                                       | \-         | Christian Sorrell                               | \-                                        |
-| [[encounters/ULTIMATE BADASS\|ULTIMATE BADASS]]                                                                   | \-         | Christian Sorrell                               | \-                                        |
-| [[encounters/Here Be Dragons\|Here Be Dragons]]                                                                   | \-         | Dan Tiskifer                                    | \-                                        |
-| [[encounters/Fear Factory V\|Fear Factory V]]                                                                     | \-         | Earl of Fife Games                              | \-                                        |
-| [[encounters/Mirror Image\|Mirror Image]]                                                                         | \-         | Earl of Fife Games                              | \-                                        |
-| [[encounters/The Excavation of Celuron VII\|The Excavation of Celuron VII]]                                       | \-         | Empee Games                                     | \-                                        |
-| [[encounters/Dark Side of the Moon\|Dark Side of the Moon]]                                                       | \-         | Empee Games                                     | \-                                        |
-| [[encounters/Dead in the Water\|Dead in the Water]]                                                               | \-         | Exalted Funeral                                 | \-                                        |
-| [[encounters/The Earth Above\|The Earth Above]]                                                                   | \-         | Fey Light Studio                                | \-                                        |
-| [[encounters/This Ship Is a Tomb\|This Ship Is a Tomb]]                                                           | \-         | Fey Light Studio                                | \-                                        |
-| [[encounters/FieldTEK Combat Systems\|FieldTEK Combat Systems]]                                                   | \-         | Fringe Realms                                   | \-                                        |
-| [[encounters/By Robots, For Robots\|By Robots, For Robots]]                                                       | \-         | Fringe Realms                                   | \-                                        |
-| [[encounters/Pisons & Psionics\|Pisons & Psionics]]                                                               | \-         | Håkan Lundgren                                  | \-                                        |
-| [[encounters/White Ichor\|White Ichor]]                                                                           | \-         | Håkan Lundgren                                  | \-                                        |
-| [[encounters/Debt Rules\|Debt Rules]]                                                                             | \-         | Jack Shirai                                     | \-                                        |
-| [[spaces/mosh/areas/sources/Nightmare on Cerberus Station\|Nightmare on Cerberus Station]]                        | complete   | Jennings                                        | \-                                        |
-| [[encounters/Crush Depth\|Crush Depth]]                                                                           | \-         | Jet McFin                                       | \-                                        |
-| [[encounters/Chunky Cheese's Eateria\|Chunky Cheese's Eateria]]                                                   | \-         | Jet McFin                                       | \-                                        |
-| [[encounters/Arkady's Outpost\|Arkady's Outpost]]                                                                 | \-         | Joshua Justice                                  | Maybe Silverarm's?                        |
-| [[encounters/Alternate Classes from the Hecate Sector\|Alternate Classes from the Hecate Sector]]                 | \-         | Joshua Justice                                  | Hecate                                    |
-| [[encounters/Some Ship Combat Rules\|Some Ship Combat Rules]]                                                     | deprecated | Joshua Justice                                  | \-                                        |
-| [[encounters/The Fat 10\|The Fat 10]]                                                                             | \-         | Kai Morrison-White                              | \-                                        |
-| [[spaces/mosh/areas/sources/Bloom\|Bloom]]                                                                        | complete   | Kharrak                                         | \-                                        |
-| [[encounters/Andromeda\|Andromeda]]                                                                               | \-         | Leyline Press                                   | \-                                        |
-| [[encounters/Primeval\|Primeval]]                                                                                 | \-         | Lone Archivist                                  | \-                                        |
-| [[encounters/What We Give to Alien Gods\|What We Give to Alien Gods]]                                             | \-         | Lone Archivist                                  | \-                                        |
-| [[encounters/Dying Hard on Hardlight Station\|Dying Hard on Hardlight Station]]                                   | \-         | Magnum Galaxy Games                             | Magnum                                    |
-| [[spaces/mosh/areas/sources/The Cleaning of Prison Station Echo\|The Cleaning of Prison Station Echo]]            | complete   | Magnum Galaxy Games                             | Magnum                                    |
-| [[encounters/Nirvana on Fire\|Nirvana on Fire]]                                                                   | \-         | Magnum Galaxy Games                             | Magnum                                    |
-| [[encounters/The Horror on Tau Sigma 7\|The Horror on Tau Sigma 7]]                                               | \-         | Magnum Galaxy Games                             | Magnum                                    |
-| [[encounters/Echoes in the Graveyard\|Echoes in the Graveyard]]                                                   | \-         | Matt Umland, Whisper Collective                 | \-                                        |
-| [[encounters/There is a Goblin on the Loose in Icarus Station\|There is a Goblin on the Loose in Icarus Station]] | \-         | Meatcastle Gameware                             | \-                                        |
-| [[encounters/The Bloodfields at Blackstar Station\|The Bloodfields at Blackstar Station]]                         | \-         | Meatcastle Gameware                             | \-                                        |
-| [[encounters/Immune Inception\|Immune Inception]]                                                                 | \-         | millibeast                                      | \-                                        |
-| [[encounters/The Ship Who Swallowed a Spider\|The Ship Who Swallowed a Spider]]                                   | \-         | Molgannard                                      | \-                                        |
-| [[encounters/Kill Screen\|Kill Screen]]                                                                           | \-         | Mystery Spice                                   | \-                                        |
-| [[encounters/The Oceans are Endless on Meridian\|The Oceans are Endless on Meridian]]                             | \-         | Mystery Spice, Jet McFin, 3rd Sector Collective | \-                                        |
-| [[encounters/Alien Armory\|Alien Armory]]                                                                         | \-         | Nyhur                                           | \-                                        |
-| [[encounters/Curse of the Hatman\|Curse of the Hatman]]                                                           | \-         | Obermueller Games                               | \-                                        |
-| [[encounters/The Burning of Carbex\|The Burning of Carbex]]                                                       | \-         | Obermueller Games                               | \-                                        |
-| [[encounters/The House Always Wins\|The House Always Wins]]                                                       | \-         | Obermueller Games                               | \-                                        |
-| [[encounters/Anomalous Investigations\|Anomalous Investigations]]                                                 | \-         | Octopus Ink                                     | \-                                        |
-| [[encounters/Rimward Classes\|Rimward Classes]]                                                                   | \-         | Octopus Ink                                     | \-                                        |
-| [[encounters/The Black Dog\|The Black Dog]]                                                                       | \-         | Octopus Ink                                     | \-                                        |
-| [[encounters/Alone on the Farm\|Alone on the Farm]]                                                               | \-         | Peter Drury-Mulholland                          | \-                                        |
-| [[encounters/Easy Work\|Easy Work]]                                                                               | \-         | Poison Press                                    | \-                                        |
-| [[encounters/The Yellow Code\|The Yellow Code]]                                                                   | \-         | Poison Press                                    | \-                                        |
-| [[encounters/The Stars Will Not Break Me\|The Stars Will Not Break Me]]                                           | \-         | Ribston Pippin                                  | \-                                        |
-| [[encounters/The Great Crossing Heresies\|The Great Crossing Heresies]]                                           | \-         | RV Games                                        | \-                                        |
-| [[encounters/Snag Evac\|Snag Evac]]                                                                               | \-         | RV Games                                        | \-                                        |
-| [[encounters/High Water Everywhere\|High Water Everywhere]]                                                       | \-         | RV Games                                        | \-                                        |
-| [[encounters/Burn the Vermin on Tama-81\|Burn the Vermin on Tama-81]]                                             | \-         | RV Games                                        | \-                                        |
-| [[encounters/Backrooms\|Backrooms]]                                                                               | \-         | RV Games                                        | \-                                        |
-| [[encounters/Slasher\|Slasher]]                                                                                   | \-         | RV Games                                        | \-                                        |
-| [[encounters/Social Rolls\|Social Rolls]]                                                                         | \-         | RV Games                                        | \-                                        |
-| [[encounters/In Carmine\|In Carmine]]                                                                             | \-         | S. Murphy Games                                 | \-                                        |
-| [[encounters/Alone in the Deep\|Alone in the Deep]]                                                               | \-         | S. Murphy Games                                 | \-                                        |
-| [[encounters/The Black Heart of Paradise\|The Black Heart of Paradise]]                                           | \-         | Schwa Kyle                                      | \-                                        |
-| [[encounters/Corporate Survival\|Corporate Survival]]                                                             | \-         | Scott Garriott                                  | \-                                        |
-| [[encounters/Noofutra\|Noofutra]]                                                                                 | \-         | Scrap Princess                                  | \-                                        |
-| [[encounters/Escape Sable\|Escape Sable]]                                                                         | \-         | Silverarm                                       | \-                                        |
-| [[encounters/Desert Moon of Karth\|Desert Moon of Karth]]                                                         | \-         | Silverarm                                       | \-                                        |
-| [[encounters/Abilities Considered Unnatural\|Abilities Considered Unnatural]]                                     | \-         | Silverarm                                       | \-                                        |
-| [[encounters/Burying Grounds on Pavel Theta\|Burying Grounds on Pavel Theta]]                                     | \-         | Single Stage to Orbit Press                     | \-                                        |
-| [[encounters/The Flora on Acyx\|The Flora on Acyx]]                                                               | \-         | Single Stage to Orbit Press                     | \-                                        |
-| [[encounters/Black Pyramid\|Black Pyramid]]                                                                       | \-         | Skull Dixon                                     | \-                                        |
-| [[encounters/Plant-Based Paranoia\|Plant-Based Paranoia]]                                                         | \-         | skullfungus                                     | \-                                        |
-| [[encounters/Aurora\|Aurora]]                                                                                     | \-         | Slowquest                                       | \-                                        |
-| [[encounters/Spicy Tuna Brainstorm Vol. 1\|Spicy Tuna Brainstorm Vol. 1]]                                         | \-         | Spicy Tuna                                      | \-                                        |
-| [[encounters/Knights of Lazarus\|Knights of Lazarus]]                                                             | \-         | Spicy Tuna                                      | \-                                        |
-| [[encounters/Familiar Faces\|Familiar Faces]]                                                                     | \-         | Spicy Tuna                                      | \-                                        |
-| [[encounters/Spicy Tie-Ins\|Spicy Tie-Ins]]                                                                       | \-         | Spicy Tuna                                      | \-                                        |
-| [[encounters/Rane in Blood\|Rane in Blood]]                                                                       | \-         | Spider00x                                       | Blatteus Sector                           |
-| [[encounters/Hyperdrive Degeneration\|Hyperdrive Degeneration]]                                                   | \-         | Spider00x                                       | Blatteus Sector                           |
-| [[encounters/Lair of the Biomancer\|Lair of the Biomancer]]                                                       | \-         | Spider00x                                       | Blatteus Sector                           |
-| [[encounters/Miami Laser Cutter Massacre\|Miami Laser Cutter Massacre]]                                           | \-         | Spider00x                                       | Blatteus Sector                           |
-| [[encounters/Gear for a Spacefarer\|Gear for a Spacefarer]]                                                       | \-         | Stella Condrey                                  | \-                                        |
-| [[encounters/Deep Space Marines\|Deep Space Marines]]                                                             | \-         | Stella Condrey                                  | \-                                        |
-| [[encounters/Cold Opening\|Cold Opening]]                                                                         | \-         | Stella Condrey                                  | \-                                        |
-| [[encounters/Under that Black Sky\|Under that Black Sky]]                                                         | \-         | Stella Condrey                                  | \-                                        |
-| [[encounters/Terror Zone of the Astro Creep\|Terror Zone of the Astro Creep]]                                     | \-         | Sugeryhead                                      | \-                                        |
-| [[encounters/WEPT\|WEPT]]                                                                                         | \-         | Terry Herc Games                                | \-                                        |
-| [[encounters/Digital Parasite\|Digital Parasite]]                                                                 | \-         | Terry Herc Games                                | \-                                        |
-| [[encounters/Vita Nova\|Vita Nova]]                                                                               | \-         | Trail of Dice Games                             | \-                                        |
-| [[encounters/The Hacker's Handbook\|The Hacker's Handbook]]                                                       | \-         | Tuesday Knight Games                            | [[spaces/mosh/support/32819L\|32819L]] |
-| [[encounters/Hideo's World\|Hideo's World]]                                                                       | \-         | Tuesday Knight Games                            | [[spaces/mosh/support/32819L\|32819L]] |
-| [[encounters/Gradient Descent\|Gradient Descent]]                                                                 | \-         | Tuesday Knight Games                            | \-                                        |
-| [[encounters/Dead Planet\|Dead Planet]]                                                                           | ongoing    | Tuesday Knight Games                            | \-                                        |
-| [[encounters/Chromatic Transference\|Chromatic Transference]]                                                     | complete   | Tuesday Knight Games                            | [[spaces/mosh/support/32819L\|32819L]] |
-| [[spaces/mosh/areas/sources/A Pound of Flesh\|A Pound of Flesh]]                                                  | ongoing    | Tuesday Knight Games                            | [[spaces/mosh/support/32819L\|32819L]] |
-| [[encounters/Hivemind Issue 01\|Hivemind Issue 01]]                                                               | \-         | Tuesday Knight Games                            | \-                                        |
-| [[encounters/Piece by Piece\|Piece by Piece]]                                                                     | complete   | Tuesday Knight Games                            | [[spaces/mosh/support/32819L\|32819L]] |
-| [[encounters/Terminal Delays at Anarene's Folly\|Terminal Delays at Anarene's Folly]]                             | complete   | Tuesday Knight Games                            | [[spaces/mosh/support/32819L\|32819L]] |
-| [[encounters/Haunting of Ypsilon 14\|Haunting of Ypsilon 14]]                                                     | complete   | Tuesday Knight Games                            | [[spaces/mosh/support/32819L\|32819L]] |
-| [[encounters/Dissident Whispers\|Dissident Whispers]]                                                             | \-         | Tuesday Knight Games, Whisper Collective        | \-                                        |
-| [[encounters/Hot Stuff on Shore Leave\|Hot Stuff on Shore Leave]]                                                 | \-         | watt                                            | \-                                        |
-| [[encounters/Old Trash Hot Tip\|Old Trash Hot Tip]]                                                               | \-         | WOGD                                            | \-                                        |
-| [[encounters/Gruböd's Genöme\|Gruböd's Genöme]]                                                                   | \-         | WOGD                                            | \-                                        |
-| [[encounters/Scrap Rats\|Scrap Rats]]                                                                             | \-         | WOGD                                            | \-                                        |
+| Module                                           | Publisher/Creator                               | Cluster                                   |
+| ------------------------------------------------ | ----------------------------------------------- | ----------------------------------------- |
+| Teamster Trouble                                 | \-                                              | \-                                        |
+| RETCON                                           | Aaron Williams                                  | \-                                        |
+| Thousand Empty Light                             | Alfred Valley                                   | \-                                        |
+| Iron Tomb                                        | Am I Cool Yet?                                  | \-                                        |
+| Year of the Rat                                  | Am I Cool Yet?                                  | \-                                        |
+| Picket Line Tango                                | Anodyne Printware                               | \-                                        |
+| Moonbase Blues                                   | Anodyne Printware                               | \-                                        |
+| Meatgrinder                                      | Anodyne Printware                               | \-                                        |
+| Hull Breach Vol 1                                | Anodyne Printware                               | [[Public Sector\|Public Sector]]          |
+| Hull Breach Bookmark Derelict                    | Anodyne Printware                               | [[Public Sector\|Public Sector]]          |
+| Dinoplex Cataclysm                               | Anodyne Printware                               | \-                                        |
+| Breach of Contract                               | Anodyne Printware                               | [[Public Sector\|Public Sector]]          |
+| Agent                                            | Anodyne Printware                               | \-                                        |
+| The Drain                                        | Anodyne Printware                               | \-                                        |
+| Wrath of God                                     | Anodyne Printware                               | \-                                        |
+| The Third Sector                                 | Anodyne Printware                               | \-                                        |
+| Rimwise Dispatch 0003                            | Anxiety Wizard                                  | \-                                        |
+| Blood Floats in Space                            | Apollyon Press                                  | \-                                        |
+| ALCOR Station                                    | Ashen Victor                                    | \-                                        |
+| Sidney Shipgraver                                | Ben King                                        | \-                                        |
+| Mechs in the City                                | Big Smog Games                                  | \-                                        |
+| Altus-Shaanxi Mining Company                     | Bleak Horizons Press                            | \-                                        |
+| Crowded Stars                                    | Cam Cavedo                                      | \-                                        |
+| Sleeper Crew                                     | Chris Air Games                                 | \-                                        |
+| The Mole on PIRAD ONE                            | Christian Sorrell                               | \-                                        |
+| ULTIMATE BADASS                                  | Christian Sorrell                               | \-                                        |
+| Here Be Dragons                                  | Dan Tiskifer                                    | \-                                        |
+| Mirror Image                                     | Earl of Fife Games                              | \-                                        |
+| Fear Factory V                                   | Earl of Fife Games                              | \-                                        |
+| The Excavation of Celuron VII                    | Empee Games                                     | \-                                        |
+| Dark Side of the Moon                            | Empee Games                                     | \-                                        |
+| Dead in the Water                                | Exalted Funeral                                 | \-                                        |
+| This Ship Is a Tomb                              | Fey Light Studio                                | \-                                        |
+| The Earth Above                                  | Fey Light Studio                                | \-                                        |
+| FieldTEK Combat Systems                          | Fringe Realms                                   | \-                                        |
+| By Robots, For Robots                            | Fringe Realms                                   | \-                                        |
+| Pisons & Psionics                                | Håkan Lundgren                                  | \-                                        |
+| White Ichor                                      | Håkan Lundgren                                  | \-                                        |
+| Debt Rules                                       | Jack Shirai                                     | \-                                        |
+| Nightmare on Cerberus Station                    | Jennings                                        | \-                                        |
+| Crush Depth                                      | Jet McFin                                       | \-                                        |
+| Chunky Cheese's Eateria                          | Jet McFin                                       | \-                                        |
+| Arkady's Outpost                                 | Joshua Justice                                  | Maybe Silverarm's?                        |
+| Alternate Classes from the Hecate Sector         | Joshua Justice                                  | Hecate                                    |
+| Some Ship Combat Rules                           | Joshua Justice                                  | \-                                        |
+| The Fat 10                                       | Kai Morrison-White                              | \-                                        |
+| Bloom                                            | Kharrak                                         | \-                                        |
+| Andromeda                                        | Leyline Press                                   | \-                                        |
+| Primeval                                         | Lone Archivist                                  | \-                                        |
+| What We Give to Alien Gods                       | Lone Archivist                                  | \-                                        |
+| The Cleaning of Prison Station Echo              | Magnum Galaxy Games                             | Magnum                                    |
+| Nirvana on Fire                                  | Magnum Galaxy Games                             | Magnum                                    |
+| Dying Hard on Hardlight Station                  | Magnum Galaxy Games                             | Magnum                                    |
+| The Horror on Tau Sigma 7                        | Magnum Galaxy Games                             | Magnum                                    |
+| Echoes in the Graveyard                          | Matt Umland, Whisper Collective                 | \-                                        |
+| There is a Goblin on the Loose in Icarus Station | Meatcastle Gameware                             | \-                                        |
+| The Bloodfields at Blackstar Station             | Meatcastle Gameware                             | \-                                        |
+| Immune Inception                                 | millibeast                                      | \-                                        |
+| The Ship Who Swallowed a Spider                  | Molgannard                                      | \-                                        |
+| Kill Screen                                      | Mystery Spice                                   | \-                                        |
+| The Oceans are Endless on Meridian               | Mystery Spice, Jet McFin, 3rd Sector Collective | \-                                        |
+| Alien Armory                                     | Nyhur                                           | \-                                        |
+| Curse of the Hatman                              | Obermueller Games                               | \-                                        |
+| The Burning of Carbex                            | Obermueller Games                               | \-                                        |
+| The House Always Wins                            | Obermueller Games                               | \-                                        |
+| Rimward Classes                                  | Octopus Ink                                     | \-                                        |
+| Anomalous Investigations                         | Octopus Ink                                     | \-                                        |
+| The Black Dog                                    | Octopus Ink                                     | \-                                        |
+| Alone on the Farm                                | Peter Drury-Mulholland                          | \-                                        |
+| Easy Work                                        | Poison Press                                    | \-                                        |
+| The Yellow Code                                  | Poison Press                                    | \-                                        |
+| The Stars Will Not Break Me                      | Ribston Pippin                                  | \-                                        |
+| Backrooms                                        | RV Games                                        | \-                                        |
+| Social Rolls                                     | RV Games                                        | \-                                        |
+| Slasher                                          | RV Games                                        | \-                                        |
+| Rampant                                          | RV Games                                        | \-                                        |
+| Streamlined Downtime                             | RV Games                                        | \-                                        |
+| Snag the Suit / Evac the Exec                    | RV Games                                        | Cerdo                                     |
+| The Great Crossing Heresies                      | RV Games                                        | Cerdo                                     |
+| High Water Everywhere                            | RV Games                                        | Cerdo                                     |
+| Burn the Vermin on Tama-81                       | RV Games                                        | Cerdo                                     |
+| Surgical Rolls                                   | RV Games                                        | \-                                        |
+| In Carmine                                       | S. Murphy Games                                 | \-                                        |
+| Alone in the Deep                                | S. Murphy Games                                 | \-                                        |
+| The Black Heart of Paradise                      | Schwa Kyle                                      | \-                                        |
+| Corporate Survival                               | Scott Garriott                                  | \-                                        |
+| Noofutra                                         | Scrap Princess                                  | \-                                        |
+| Escape Sable                                     | Silverarm                                       | \-                                        |
+| Desert Moon of Karth                             | Silverarm                                       | \-                                        |
+| Abilities Considered Unnatural                   | Silverarm                                       | \-                                        |
+| Burying Grounds on Pavel Theta                   | Single Stage to Orbit Press                     | \-                                        |
+| The Flora on Acyx                                | Single Stage to Orbit Press                     | \-                                        |
+| Black Pyramid                                    | Skull Dixon                                     | \-                                        |
+| Plant-Based Paranoia                             | skullfungus                                     | \-                                        |
+| Aurora                                           | Slowquest                                       | \-                                        |
+| Spicy Tuna Brainstorm Vol. 1                     | Spicy Tuna                                      | \-                                        |
+| Knights of Lazarus                               | Spicy Tuna                                      | \-                                        |
+| Familiar Faces                                   | Spicy Tuna                                      | \-                                        |
+| Spicy Tie-Ins                                    | Spicy Tuna                                      | \-                                        |
+| Miami Laser Cutter Massacre                      | Spider00x                                       | Blatteus Sector                           |
+| Rane in Blood                                    | Spider00x                                       | Blatteus Sector                           |
+| Lair of the Biomancer                            | Spider00x                                       | Blatteus Sector                           |
+| Hyperdrive Degeneration                          | Spider00x                                       | Blatteus Sector                           |
+| Gear for a Spacefarer                            | Stella Condrey                                  | \-                                        |
+| Deep Space Marines                               | Stella Condrey                                  | \-                                        |
+| Cold Opening                                     | Stella Condrey                                  | \-                                        |
+| Under that Black Sky                             | Stella Condrey                                  | \-                                        |
+| Terror Zone of the Astro Creep                   | Sugeryhead                                      | \-                                        |
+| Digital Parasite                                 | Terry Herc Games                                | \-                                        |
+| WEPT                                             | Terry Herc Games                                | \-                                        |
+| Vita Nova                                        | Trail of Dice Games                             | \-                                        |
+| A Pound of Flesh                                 | Tuesday Knight Games                            | [[spaces/mosh/support/32819L\|32819L]] |
+| The Hacker's Handbook                            | Tuesday Knight Games                            | [[spaces/mosh/support/32819L\|32819L]] |
+| Terminal Delays at Anarene's Folly               | Tuesday Knight Games                            | [[spaces/mosh/support/32819L\|32819L]] |
+| Piece by Piece                                   | Tuesday Knight Games                            | [[spaces/mosh/support/32819L\|32819L]] |
+| Hivemind Issue 01                                | Tuesday Knight Games                            | \-                                        |
+| Hideo's World                                    | Tuesday Knight Games                            | [[spaces/mosh/support/32819L\|32819L]] |
+| Haunting of Ypsilon 14                           | Tuesday Knight Games                            | [[spaces/mosh/support/32819L\|32819L]] |
+| Gradient Descent                                 | Tuesday Knight Games                            | \-                                        |
+| Dead Planet                                      | Tuesday Knight Games                            | \-                                        |
+| Chromatic Transference                           | Tuesday Knight Games                            | [[spaces/mosh/support/32819L\|32819L]] |
+| Dissident Whispers                               | Tuesday Knight Games, Whisper Collective        | \-                                        |
+| Hot Stuff on Shore Leave                         | watt                                            | \-                                        |
+| Scrap Rats                                       | WOGD                                            | \-                                        |
+| Old Trash Hot Tip                                | WOGD                                            | \-                                        |
+| Gruböd's Genöme                                  | WOGD                                            | \-                                        |
 
 
 ## Diegetic
@@ -157,14 +158,14 @@ In-universe, character-facing content.
 | [[encounters/Known Frequencies\|Known Frequencies]]                                                                                                                           | Alfred Valley              | \-      |
 | [[encounters/Organs without Bodies\|Organs without Bodies]]                                                                                                                   | Am I Cool Yet?             | \-      |
 | [[encounters/Rimwise Dispatch 0003\|Rimwise Dispatch 0003]]                                                                                                                   | Anxiety Wizard             | \-      |
-| [[encounters/Erno Noise\|Erno Noise]]                                                                                                                                         | Anxiety Wizard             | \-      |
 | [[encounters/Rimwise Dispatch 0001\|Rimwise Dispatch 0001]]                                                                                                                   | Anxiety Wizard             | \-      |
+| [[encounters/Erno Noise\|Erno Noise]]                                                                                                                                         | Anxiety Wizard             | \-      |
 | [[encounters/Remember the Mara\|Remember the Mara]]                                                                                                                           | Ben King                   | \-      |
 | [[encounters/Known Criminals of Orion\|Known Criminals of Orion]]                                                                                                             | Brien Myers                | \-      |
-| [[encounters/Cendrillon Mercs for Hire\|Cendrillon Mercs for Hire]]                                                                                                           | Chris Air Games            | \-      |
 | [[encounters/Sleeper Crew\|Sleeper Crew]]                                                                                                                                     | Chris Air Games            | \-      |
-| [[encounters/PMT Used Android Catalogue\|PMT Used Android Catalogue]]                                                                                                         | Chris Air Games            | \-      |
 | [[encounters/Seen on the Void's Edge\|Seen on the Void's Edge]]                                                                                                               | Chris Air Games            | \-      |
+| [[encounters/PMT Used Android Catalogue\|PMT Used Android Catalogue]]                                                                                                         | Chris Air Games            | \-      |
+| [[encounters/Cendrillon Mercs for Hire\|Cendrillon Mercs for Hire]]                                                                                                           | Chris Air Games            | \-      |
 | [[encounters/Void Leviathan Coloring Book\|Void Leviathan Coloring Book]]                                                                                                     | Connor Poulin              | \-      |
 | [[encounters/Oasis Station\|Oasis Station]]                                                                                                                                   | David II                   | \-      |
 | [[encounters/FieldTEK Combat Systems\|FieldTEK Combat Systems]]                                                                                                               | Fringe Realms              | \-      |
