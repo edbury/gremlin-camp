@@ -1,5 +1,5 @@
 ---
-{"aliases":["The Future Game"],"date-created":"2023-04-14T00:04","date-modified":"2023-04-26T17:13","dg-publish":true,"tags":["mosh","tfg"],"title":"The Future Game","up":"[[mothership]]","permalink":"/spaces/mosh/support/tfg/","dgPassFrontmatter":true}
+{"aliases":["The Future Game"],"date-created":"2023-04-14T00:04","date-modified":"2023-04-26T17:21","dg-publish":true,"tags":["mosh","tfg"],"title":"The Future Game","up":"[[mothership]]","permalink":"/spaces/mosh/support/tfg/","dgPassFrontmatter":true}
 ---
 
 
@@ -11,19 +11,23 @@ This is your guide to life aboard [[The Salacious Void\|The Salacious Void]].
 
 Our next major arc is taking the crew to the [[encounters/Dead Planet\|Dead Planet]].
 
+## Character generation
+
+Until additional classes are made available in our campaign, the Mothership Companion app is the best way to spin up a new character: [Android](https://play.google.com/store/apps/details?id=com.threepointsoftware.mothership&hl=en_US&gl=US) / [Apple](https://apps.apple.com/us/app/mothership-companion/id1606212377)
+
 ## Advancement
 
 ### Skill training
 
 We're using the **Rapid Skill Learning** option from the [[encounters/Warden's Operation Manual\|Warden's Operation Manual]]:
 
-- Trained Skills: 3 sessions + 10kcr in materials
-- Expert Skills: 5 sessions + 50kcr in materials
-- Master Skills: 10 sessions + 200kcr in materials
+- Trained Skills: 3 sessions + 10kcr
+- Expert Skills: 5 sessions + 50kcr
+- Master Skills: 10 sessions + 200kcr
   
 Normal prerequisites still apply.
 
-## Ship Logistics
+## Ship logistics
 
 ### Fuel
 
