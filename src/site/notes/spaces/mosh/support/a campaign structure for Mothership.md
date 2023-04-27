@@ -1,13 +1,11 @@
 ---
-{"aliases":["Campaign structure for Mothership","mothership campaign structure"],"date-created":"2023-04-14T00:04","date-modified":"2023-04-26T17:26","dg-publish":true,"tags":["mosh"],"title":"Campaign structure for Mothership","up":"[[mothership]]","permalink":"/spaces/mosh/support/a-campaign-structure-for-mothership/","dgPassFrontmatter":true}
+{"aliases":["Campaign structure for Mothership","mothership campaign structure"],"date-created":"2023-04-14T00:04","date-modified":"2023-04-26T17:28","dg-publish":true,"tags":["mosh"],"title":"Campaign structure for Mothership","up":"[[mothership]]","permalink":"/spaces/mosh/support/a-campaign-structure-for-mothership/","dgPassFrontmatter":true}
 ---
 
 
 # Campaign structure for Mothership
 
-```
-This note is a mere seedling. With water and care, it'll become something useful one day.
-```
+>This note is a mere seedling. With water and care, it'll become something useful one day.
 
 A semi-signpost for building a campaign around long-term play using third-party content. The initial setup relies heavily on the [[encounters/Shipbreakers Toolkit\|Shipbreakers Toolkit]] (SBT) and [[spaces/mosh/areas/sources/A Pound of Flesh\|A Pound of Flesh]] (APoF).
 
