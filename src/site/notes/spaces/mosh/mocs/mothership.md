@@ -1,5 +1,5 @@
 ---
-{"aliases":["Mothership"],"date-created":"2022-09-12T16:41","date-modified":"2023-04-26T15:10","dg-publish":true,"tags":["mosh"],"title":"Mothership","permalink":"/spaces/mosh/mocs/mothership/","dgPassFrontmatter":true}
+{"aliases":["Mothership"],"date-created":"2022-09-12T16:41","date-modified":"2023-04-26T17:07","dg-publish":true,"tags":["mosh"],"title":"Mothership","permalink":"/spaces/mosh/mocs/mothership/","dgPassFrontmatter":true}
 ---
 
 
