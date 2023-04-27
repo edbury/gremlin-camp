@@ -1,11 +1,15 @@
 ---
-{"aliases":["Campaign structure for Mothership","mothership campaign structure"],"date-created":"2023-04-14T00:04","date-modified":"2023-04-17T19:29","dg-publish":true,"linter-yaml-title-alias":"Campaign structure for Mothership","tags":["mosh"],"title":"Campaign structure for Mothership","up":"[[mothership]]","permalink":"/spaces/mosh/support/a-campaign-structure-for-mothership/","dgPassFrontmatter":true}
+{"aliases":["Campaign structure for Mothership","mothership campaign structure"],"date-created":"2023-04-14T00:04","date-modified":"2023-04-26T17:26","dg-publish":true,"tags":["mosh"],"title":"Campaign structure for Mothership","up":"[[mothership]]","permalink":"/spaces/mosh/support/a-campaign-structure-for-mothership/","dgPassFrontmatter":true}
 ---
 
 
 # Campaign structure for Mothership
 
-A semi-signpost for building a campaign around long-term play using third-party content. The initial setup relies heavily on the [[Shipbreaker's Toolkit\|Shipbreaker's Toolkit]] (SBT) and [[spaces/mosh/areas/sources/A Pound of Flesh\|A Pound of Flesh]] (APoF).
+```
+This note is a mere seedling. With water and care, it'll become something useful one day.
+```
+
+A semi-signpost for building a campaign around long-term play using third-party content. The initial setup relies heavily on the [[encounters/Shipbreakers Toolkit\|Shipbreakers Toolkit]] (SBT) and [[spaces/mosh/areas/sources/A Pound of Flesh\|A Pound of Flesh]] (APoF).
 
 Some assumptions:
 
@@ -21,7 +25,7 @@ Each framework is tied to a faction and handler, and any future employers should
 | Faction                | Framework      | Handler |
 | ---------------------- | -------------- | ------- |
 | Teamsters Local 32819L | Company        | Reidmar |
-| The Foundation         | Military       | Aosta   |
+| Tempest Company         | Military       | Cutter   |
 | --                     | Owner-Operator | Loshe?   |
 | The Crew               | Freelance      | --      |
 
@@ -29,7 +33,7 @@ Each framework is tied to a faction and handler, and any future employers should
 
 This modified version of the table from SBT breaks down who pays for what and when.
 
-| Expense           | Teamsters     | The Foundation   | Loshe?         | Freelance    |
+| Expense           | Teamsters     | Tempest Co.   | Loshe?         | Freelance    |
 | ----------------- | ------------- | ---------------- | ------------- | ------------ |
 | Salary            | Covered       | Covered          | Covered       | -            |
 | Hazard Pay        | Approved only | Covered          | Approved only | -            |
