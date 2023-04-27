@@ -25,6 +25,7 @@ Note: many cluster names are not official but do represent related content/stell
 | -------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------- | ----------------------------------------- |
 | [[spaces/mosh/areas/sources/Teamster Trouble\|Teamster Trouble]]                                                  | \-                                              | \-                                        |
 | [[encounters/Sleeper Crew\|Sleeper Crew]]                                                                         | 5MW Press                                       | \-                                        |
+| [[encounters/ConSen Android Factory Tour\|ConSen Android Factory Tour]]                                           | 5MW Press                                       | \-                                        |
 | [[encounters/RETCON\|RETCON]]                                                                                     | Aaron Williams                                  | \-                                        |
 | [[encounters/Thousand Empty Light\|Thousand Empty Light]]                                                         | Alfred Valley                                   | \-                                        |
 | [[encounters/Iron Tomb\|Iron Tomb]]                                                                               | Am I Cool Yet?                                  | \-                                        |
