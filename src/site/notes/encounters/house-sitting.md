@@ -1,5 +1,5 @@
 ---
-{"aliases":["Shred's Guide to House Sitting"],"date-created":"2023-05-11T20:17","date-modified":"2023-05-11T22:53","dg-hide":true,"dg-hide-in-graph":true,"dg-permalink":"house-sitting","dg-publish":true,"tags":["life"],"title":"Shred's Guide to House Sitting","permalink":"/house-sitting/","hide":true,"hideInGraph":true,"dgPassFrontmatter":true}
+{"aliases":["Shred's Guide to House Sitting"],"date-created":"2023-05-11T20:17","date-modified":"2023-05-11T22:55","dg-hide":true,"dg-hide-in-graph":true,"dg-permalink":"house-sitting","dg-publish":true,"tags":["life"],"title":"Shred's Guide to House Sitting","permalink":"/house-sitting/","hide":true,"hideInGraph":true,"dgPassFrontmatter":true}
 ---
 
 
@@ -13,17 +13,17 @@ Our address is **3900 Adeline Street, Oakland, CA 94608**.
 
 We are in apartment **318**.
 
-The gate code is `# 8675`.
+The gate code is "#8675".
 
-The wifi network is `blunderdome` and the password is `ghostpoops`.
+The wifi network is `blunderdome` and the password is "ghostpoops".
 
 ## Getting in 
 
 The main entrance is on **Adeline Street** between **Yerba Buena Avenue** and **39th Street**. It's a large, rust-colored gate.
 
-Free parking is available on **39th** and **Yerba Buena**--just be aware of street sweeping. Both of these streets have separate, smaller entrances.
+Free parking is available on **39th** and **Yerba Buena**--just be aware of street sweeping. Both of these streets have separate, smaller entrances you can also use.
 
-The gate code to enter the complex is `# 8675` (the first four digits of Jenny's phone number).
+The gate code to enter the complex is "#8675" (the first four digits of Jenny's phone number).
 
 From the main entrance, you can take an elevator on your left up to the third floor. Out of the elevator, turn left to cross a small skyway. Our apartment is straight ahead at the end of the hall.
 
@@ -37,7 +37,7 @@ Her fountain is topped off, and her litter boxes are clean, so you don't have to
 
 Lem enjoys a hearty diet of raw turkey. Thankfully, it doesn't stink like most wet food.
 
-She isn't on a strict feeding schedule and usually eats 3 to 4 times a day when we do. I'll also give her a serving before I go to bed.
+She isn't on a strict feeding schedule and usually eats 3 to 4 times a day when we do. I'll also give her a serving before I go to bed. 
 
 Mealtime is simple. You'll find two yellow-topped containers in the fridge full of thawed kitty food. There are markings along the side to indicate a serving size; she gets one serving per meal. They don't have to be perfect; I just wipe any leftovers out of her bowl and portion the next meal with a normal spoon.
 
