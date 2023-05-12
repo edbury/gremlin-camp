@@ -1,5 +1,5 @@
 ---
-{"aliases":["Shred's Guide to House Sitting"],"date-created":"2023-05-11T20:17","date-modified":"2023-05-11T22:11","dg-publish":true,"tags":[null],"title":"Shred's Guide to House Sitting","permalink":"/encounters/house-sitting/","dgPassFrontmatter":true}
+{"aliases":["Shred's Guide to House Sitting"],"date-created":"2023-05-11T20:17","date-modified":"2023-05-11T22:13","dg-publish":true,"tags":["life"],"title":"Shred's Guide to House Sitting","permalink":"/encounters/house-sitting/","dgPassFrontmatter":true}
 ---
 
 
@@ -7,10 +7,8 @@
 
 ## The basics
 
-Our address is <address>3900 Adeline Street, Oakland, CA 94608</address>.
+Our address is `3900 Adeline Street, Oakland, CA 94608`.
+
+We are in apartment `318`.
 
 ## Getting in 
-
-The address for our place is <address>3900 Adeline Street, Oakland, CA 94608</address>. The main entrance is on Adeline Street between 39th Street and Yerba Buena Avenue.
-
-The apartment number is 318
