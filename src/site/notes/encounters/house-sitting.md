@@ -1,9 +1,9 @@
 ---
-{"aliases":["Shred's Guide to House Sitting ","Shred's Guide to House Sitting"],"date-created":"2023-05-11T20:17","date-modified":"2023-05-11T22:10","dg-publish":true,"tags":[null],"title":"Shred's Guide to House Sitting ","permalink":"/encounters/house-sitting/","dgPassFrontmatter":true}
+{"aliases":["Shred's Guide to House Sitting"],"date-created":"2023-05-11T20:17","date-modified":"2023-05-11T22:11","dg-publish":true,"tags":[null],"title":"Shred's Guide to House Sitting","permalink":"/encounters/house-sitting/","dgPassFrontmatter":true}
 ---
 
 
-# Shred's Guide to House Sitting 
+# Shred's Guide to House Sitting
 
 ## The basics
 
