@@ -1,5 +1,5 @@
 ---
-{"aliases":["The Future Game"],"date-created":"2023-04-14T00:04","date-modified":"2023-04-26T17:21","dg-publish":true,"tags":["mosh","tfg"],"title":"The Future Game","up":"[[mothership]]","permalink":"/spaces/mosh/support/tfg/","dgPassFrontmatter":true}
+{"aliases":["The Future Game"],"date-created":"2023-04-14T00:04","date-modified":"2023-04-28T12:07","dg-publish":true,"tags":["mosh","tfg"],"title":"The Future Game","up":"[[mothership]]","dg-path":"mothership/support/TFG.md","permalink":"/mothership/support/tfg/","dgPassFrontmatter":true}
 ---
 
 
@@ -7,7 +7,7 @@
 
 > Freelancers are people who have bought (or otherwise acquired) a ship on their own, and pay for everything themselves. It’s incredibly expensive and you’ll have to beg, barter, or steal credits wherever you can find them, but on the upside, you have one of the rarest things on the Rim: freedom.
 
-This is your guide to life aboard [[The Salacious Void\|The Salacious Void]].
+This is your guide to life aboard [[encounters/The Salacious Void\|The Salacious Void]].
 
 Our next major arc is taking the crew to the [[encounters/Dead Planet\|Dead Planet]].
 
@@ -37,7 +37,7 @@ Each jump to another system consumes one warp core.
 
 #### Refueling
 
-You refuel your ship while in port. Prices are as follows:
+You refuel your ship while in port. Prices from the [[encounters/Shipbreakers Toolkit\|Shipbreakers Toolkit]] are as follows:
 
 | Type of Fuel | Cost/unit |
 | ------------ | --------- |
