@@ -15,3 +15,4 @@ Highlights from recent readings.
 | [[sources/books/The Tibetan Book of the Dead\|The Tibetan Book of the Dead]] | Padmasambhāva           | 1994 |
 | [[sources/books/The Coming Insurrection\|The Coming Insurrection]]           | The Invisible Committee | 2009 |
 
+{ .block-language-dataview}
