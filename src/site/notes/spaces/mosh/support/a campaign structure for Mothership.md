@@ -1,5 +1,5 @@
 ---
-{"aliases":["Campaign structure for Mothership","mothership campaign structure"],"date-created":"2023-04-14T00:04","date-modified":"2023-04-26T17:28","dg-publish":true,"tags":["mosh"],"title":"Campaign structure for Mothership","up":"[[mothership]]","permalink":"/spaces/mosh/support/a-campaign-structure-for-mothership/","dgPassFrontmatter":true}
+{"aliases":["Campaign structure for Mothership","mothership campaign structure"],"date-created":"2023-04-14T00:04","date-modified":"2023-04-26T17:28","dg-publish":true,"tags":["mosh"],"title":"Campaign structure for Mothership","up":"[[mothership]]","dg-path":"mothership/support/a campaign structure for Mothership.md","permalink":"/mothership/support/a-campaign-structure-for-mothership/","dgPassFrontmatter":true}
 ---
 
 
