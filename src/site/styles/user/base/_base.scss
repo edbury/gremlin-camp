@@ -168,6 +168,14 @@ table {
   }
 }
 
+.table-wrapper {
+  margin-block-end: var(--space-m);
+
+  &:only-child {
+    margin-block-end: 0;
+  }
+}
+
 td, th {
   border-block-end: var(--border-width) var(--border-style) var(--border-color);
   max-width: var(--max-line-length);

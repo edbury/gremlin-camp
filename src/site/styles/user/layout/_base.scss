@@ -31,7 +31,9 @@ body {
   // grid-column: 2/3;
   max-width: var(--max-line-length);
   align-self: start;
-  margin: auto;
+  margin-inline: auto;
+  margin-block-start: 0;
+  margin-block-end: var(--space-l);
   justify-self: center;
 }
 
