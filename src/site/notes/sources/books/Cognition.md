@@ -1,5 +1,5 @@
 ---
-{"aliases":["Cognition"],"author":"Stephen K. Reed","cover":"https://i.imgur.com/8Jq3ES0.jpg","date-created":"2022-08-17T20:52","date-modified":"2023-04-20T12:12","dg-publish":true,"finished":null,"linter-yaml-title-alias":"Cognition","location":"Oakland","subtitle":"Theories and Applications","tags":["source/book","psych"],"title":"Cognition","translator":null,"up":[["sources moc"]],"year":2013,"dg-path":"highlights/Cognition.md","permalink":"/highlights/cognition/","dgPassFrontmatter":true,"created":"2022-08-17T20:52","updated":"2023-04-20T12:12"}
+{"aliases":["Cognition"],"author":"Stephen K. Reed","cover":"https://i.imgur.com/8Jq3ES0.jpg","date-created":"2022-08-17T20:52","date-modified":"2023-04-20T12:12","dg-publish":true,"finished":null,"linter-yaml-title-alias":"Cognition","location":"Oakland","subtitle":"Theories and Applications","tags":["source/book","psych"],"title":"Cognition","translator":null,"up":[["sources moc"]],"year":2013,"dg-path":"highlights/Cognition.md","permalink":"/highlights/cognition/","dgPassFrontmatter":true}
 ---
 
 
