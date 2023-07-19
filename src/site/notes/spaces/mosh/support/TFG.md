@@ -1,5 +1,5 @@
 ---
-{"aliases":["The Future Game"],"date-created":"2023-04-14T00:04","date-modified":"2023-04-28T12:07","dg-publish":true,"tags":["mosh","tfg"],"title":"The Future Game","up":"[[mothership]]","dg-path":"mothership/support/TFG.md","permalink":"/mothership/support/tfg/","dgPassFrontmatter":true,"created":"2023-04-14T00:04","updated":"2023-04-28T12:07"}
+{"aliases":["The Future Game"],"date-created":"2023-04-14T00:04","date-modified":"2023-04-28T12:07","dg-publish":true,"tags":["mosh","tfg"],"title":"The Future Game","up":"[[mothership]]","dg-path":"mothership/support/TFG.md","permalink":"/mothership/support/tfg/","dgPassFrontmatter":true}
 ---
 
 
