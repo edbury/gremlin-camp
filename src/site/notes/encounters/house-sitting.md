@@ -1,5 +1,5 @@
 ---
-{"aliases":["Shred's Guide to House Sitting"],"date-created":"2023-05-11T20:17","date-modified":"2023-05-11T22:59","dg-hide":true,"dg-hide-in-graph":true,"dg-permalink":"house-sitting","dg-publish":true,"tags":["life"],"title":"Shred's Guide to House Sitting","permalink":"/house-sitting/","hide":true,"hideInGraph":true,"dgPassFrontmatter":true,"created":"2023-05-11T20:17","updated":"2023-05-11T22:59"}
+{"aliases":["Shred's Guide to House Sitting"],"date-created":"2023-05-11T20:17","date-modified":"2023-05-11T22:59","dg-hide":true,"dg-hide-in-graph":true,"dg-permalink":"house-sitting","dg-publish":true,"tags":["life"],"title":"Shred's Guide to House Sitting","permalink":"/house-sitting/","hide":true,"hideInGraph":true,"dgPassFrontmatter":true}
 ---
 
 
