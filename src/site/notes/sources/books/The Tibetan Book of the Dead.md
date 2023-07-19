@@ -1,5 +1,5 @@
 ---
-{"aliases":"The Tibetan Book of the Dead","author":"Padmasambhāva","cover":"https://i.imgur.com/MKAuMt5.jpg","date-created":"2022-08-03T16:01","date-modified":"2023-04-20T12:55","dg-publish":true,"finished":"2022-08-01","location":"Oakland","subtitle":"Liberation through understanding in the between","tags":["source/book","buddhism"],"title":"The Tibetan Book of the Dead","translator":"Robert A.F. Thurman","up":[["sources moc"]],"year":1994,"dg-path":"highlights/The Tibetan Book of the Dead.md","permalink":"/highlights/the-tibetan-book-of-the-dead/","dgPassFrontmatter":true}
+{"aliases":"The Tibetan Book of the Dead","author":"Padmasambhāva","cover":"https://i.imgur.com/MKAuMt5.jpg","date-created":"2022-08-03T16:01","date-modified":"2023-04-20T12:55","dg-publish":true,"finished":"2022-08-01","location":"Oakland","subtitle":"Liberation through understanding in the between","tags":["source/book","buddhism"],"title":"The Tibetan Book of the Dead","translator":"Robert A.F. Thurman","up":[["sources moc"]],"year":1994,"dg-path":"highlights/The Tibetan Book of the Dead.md","permalink":"/highlights/the-tibetan-book-of-the-dead/","dgPassFrontmatter":true,"created":"2022-08-03T16:01","updated":"2023-04-20T12:55"}
 ---
 
 
