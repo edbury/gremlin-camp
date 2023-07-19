@@ -1,5 +1,5 @@
 ---
-{"aliases":"12 Secrets of the Caucasus","author":"Essad Bey","cover":"https://i.imgur.com/jNeuhx2.jpg","date-created":"2022-08-02T16:03","date-modified":"2023-04-20T13:10","dg-publish":true,"finished":"2022-05-17","location":"Oakland","subtitle":null,"tags":["source/book"],"title":"12 Secrets of the Caucasus","translator":null,"year":1930,"dg-path":"highlights/12 Secrets of the Caucasus.md","permalink":"/highlights/12-secrets-of-the-caucasus/","dgPassFrontmatter":true}
+{"aliases":"12 Secrets of the Caucasus","author":"Essad Bey","cover":"https://i.imgur.com/jNeuhx2.jpg","date-created":"2022-08-02T16:03","date-modified":"2023-04-20T13:10","dg-publish":true,"finished":"2022-05-17","location":"Oakland","subtitle":null,"tags":["source/book"],"title":"12 Secrets of the Caucasus","translator":null,"year":1930,"dg-path":"highlights/12 Secrets of the Caucasus.md","permalink":"/highlights/12-secrets-of-the-caucasus/","dgPassFrontmatter":true,"created":"2022-08-02T16:03","updated":"2023-04-20T13:10"}
 ---
 
 
