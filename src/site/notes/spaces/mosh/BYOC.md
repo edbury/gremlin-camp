@@ -1,5 +1,5 @@
 ---
-{"aliases":["Bring Your Own Character","Bring Your Own Character (Crewmember?)","BYOC"],"date-created":"2023-08-01T19:15","date-modified":"2023-08-02T13:52","dg-publish":true,"tags":["mosh"],"title":"Bring Your Own Character","dg-path":"mothership/BYOC.md","permalink":"/mothership/byoc/","dgPassFrontmatter":true}
+{"aliases":["Bring Your Own Character","Bring Your Own Character (Crewmember?)","BYOC"],"date-created":"2023-08-01T19:15","date-modified":"2023-08-02T14:17","dg-publish":true,"tags":["mosh"],"title":"Bring Your Own Character","dg-path":"mothership/BYOC.md","permalink":"/mothership/byoc/","dgPassFrontmatter":true}
 ---
 
 
@@ -71,6 +71,8 @@ High Score Limit: 5
 
 As with running a session, running your character doesn't require any changes. Between sessions, however, you'll have some bookkeeping to do!
 
+I suggest keeping a small log to track the contracts your character has taken on, how much they were paid, and whether they gained any conditions.
+
 ### Before each session
 
 After finding a suitable contract, it's helpful to share your sheet and history with the Warden. This will give them a chance to get familiar with your skillset and flag any non-standard gear you might have picked up. Space is a big place, and your cache of loot may not be suitable for every contract.
@@ -90,13 +92,16 @@ During campaign play, characters have chances to recuperate and progress that ar
 A checklist for between-session solo play might look something like:
 
 1. Take Shore Leave
-    - Decide on a Port Class based on your credits available. Debt rules and NPC intervention won't be available during solo play.
-    - Resolve Shore Leave as normal. We trust you.
-2. Pay for Skill Training
-    - If you have the credits and you're not currently learning a skill, now is the time to pay for your training.
-3. Go shopping.
-    - It's time to spend those hard-earned credits.
-    - Consider any items available in the PSG available at the listed price.
+  - Decide on a Port Class based on your credits available. Debt rules and NPC intervention won't be available during solo play.
+  - Resolve Shore Leave as normal. We trust you.
+2. Seek medical attention.
+  - You'll want to heal those wounds and remove any conditions you have... if you can pay.
+3. Pay for Skill Training
+  - If you have the credits and you're not currently learning a skill, now is the time to pay for your training.
+4. Go shopping.
+  - It's time to spend those hard-earned credits.
+  - Consider any items available in the PSG available at the listed price.
+  
 
 ## State of this Document
 
