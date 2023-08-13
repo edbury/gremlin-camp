@@ -1,9 +1,9 @@
 ---
-{"aliases":["Bring Your Own Character","Bring Your Own Character (Crewmember?)","BYOC"],"date-created":"2023-08-01T19:15","date-modified":"2023-08-02T14:17","dg-publish":true,"tags":["mosh"],"title":"Bring Your Own Character","dg-path":"mothership/BYOC.md","permalink":"/mothership/byoc/","dgPassFrontmatter":true}
+{"aliases":["Bring Your Own Character","BYOC"],"date-created":"2023-08-01T19:15","date-modified":"2023-08-02T14:47","dg-publish":true,"tags":["mosh"],"title":"Bring Your Own Character","dg-path":"mothership/BYOC.md","permalink":"/mothership/byoc/","dgPassFrontmatter":true}
 ---
 
 
-# Bring Your Own Character
+# STARS Transit and Recruiting Services
 
 _A framework for Mothership character progression outside of campaign play._
 
