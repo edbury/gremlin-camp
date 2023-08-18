@@ -1,5 +1,5 @@
 ---
-{"aliases":["Bring Your Own Character","BYOC"],"date-created":"2023-08-01T19:15","date-modified":"2023-08-02T14:47","dg-publish":true,"tags":["mosh"],"title":"Bring Your Own Character","dg-path":"mothership/BYOC.md","permalink":"/mothership/byoc/","dgPassFrontmatter":true}
+{"aliases":["STARS Transit and Recruiting Services","Bring Your Own Character","BYOC"],"date-created":"2023-08-01T19:15","date-modified":"2023-08-15T18:24","dg-publish":true,"tags":["mosh"],"title":"STARS Transit and Recruiting Services","dg-path":"mothership/BYOC.md","permalink":"/mothership/byoc/","dgPassFrontmatter":true}
 ---
 
 
@@ -7,45 +7,43 @@
 
 _A framework for Mothership character progression outside of campaign play._
 
-These guidelines provide a way for folks participating in one-shots to maintain characters across different tables.
+Do you feel like you're always starting from square one? Are you tired of risking your life for credits you never seem to spend? Does shore leave seem like a distant dream?
 
-## House rules
+Here at STARS Transit and Recruiting Services, we recognize the difficulties facing contractors working one-shot jobs. We partner with STARS-approved employers to bring you standardized pay, on-the-job training, and guaranteed time off.
 
-In order to facilitate consistent advancement, this framework relies on two optional rules from the [[encounters/Warden's Operation Manual\|Warden's Operation Manual]]: Salaries and Rapid Skill Progression.
+## Contractors
 
-### Salaries
+### Salary
 
-> These rules are slightly modified from the WOM to focus on sessions rather than months.
+> These guidelines are adapted from the [[encounters/Wardens Operations Manual\|Wardens Operations Manual]], page 48.
 
-Characters earn a salary based on what skills they have acquired: 
+STARS contractors are paid a standard salary based on their training. For every on-the-job session, you can expect:
 
 - 500cr for every Trained Skill
 - 1,000cr for every Expert Skill
 - 2,000cr for every Master Skill
 
+And that's not all, STARS contractors are also entitled to Hazard and Jump Pay, depending on the job. 
+
 #### Hazard Pay
 
-Wardens can and should use Hazard Pay to indicate the level of danger at their table. This can be based on a number of factors including the module's lethality and the Warden's style.
-
-The Hazard Pay multiplier rangers from 0-5, each increment being an additional Salary payment for the contract.
-
-> Jane Doe is planning on running Piece by Piece. Jane knows that PxP has potential for individual death but probably not a TPK. However, Jane plays hard and expects *someone* might get blown out of an airlock. She sets the Hazard to 2. Characters will get 2 additional Salary payments if they complete the contract.
+Every STARS contract is rated with a Hazard level of 1-5, which acts as a multiplier for your salary. That's right! Taking on challenging and exciting work can earn you up to 5x your normal salary!
 
 #### Jump Pay
 
-Jump Pay can be odd to calculate outside of a campaign because the table isn't working from a shared map of the rim.
+Similarly, every STARS contract will indicate the amount of Jumps you'll be undertaking prior to and during the job. Contractors are entitled to a 1kcr bonus _per jump_ and should use this rating to assess how unique their experiences may be.
 
-Under BYOC, Wardens can use Jump Pay to indicate how alien the destination might be. 
+### Skill Training
 
-> Jane decides that PxP is "normal" enough that it might take place in the same system the players are departing from. She sets Jump Pay to 0.
+> This optional rule is taken from the [[encounters/Wardens Operations Manual\|Wardens Operations Manual]], page 52.
 
-### Rapid Skill Learning
+Here at STARS, we embrace the methodology of Rapid Skill Learning. By following our regimented training program, you can learn a new skill over the course of a few jobs, rather than several months!
 
-Rapid skill learning is based on sessions rather than time. PCs can learn a **Trained Skill** in 3 sessions, an **Expert Skill** in 5 sessions, and a **Master Skill** in 10 sessions. Skill costs remain unchanged.
+Contractors can learn a **Trained Skill** in 3 sessions, an **Expert Skill** in 5 sessions, and a **Master Skill** in 10 sessions. 
 
-This way BYOC characters can unlock skills without negotiating how much time has passed between modules.
+Skill costs remain unchanged and contractors will need to purchase their own materials.
 
-## Wardens
+## Employers
 
 Running a BYOC session doesn't require any changes to your play style. However, two small pieces of prep will help:
 
