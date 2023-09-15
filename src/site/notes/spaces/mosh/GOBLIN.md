@@ -1,5 +1,5 @@
 ---
-{"aliases":["G.O.B.L.I.N.","GOBLIN"],"date-created":"2023-09-14T16:06","date-modified":"2023-09-15T15:59","dg-publish":true,"tags":["mosh"],"title":"G.O.B.L.I.N.","dg-path":"mothership/GOBLIN.md","permalink":"/mothership/goblin/","dgPassFrontmatter":true}
+{"aliases":["G.O.B.L.I.N.","GOBLIN"],"date-created":"2023-09-14T16:06","date-modified":"2023-09-15T16:02","dg-publish":true,"tags":["mosh"],"title":"G.O.B.L.I.N.","dg-path":"mothership/GOBLIN.md","permalink":"/mothership/goblin/","dgPassFrontmatter":true}
 ---
 
 
@@ -104,7 +104,7 @@ How to add third-party open-source scripts and programs to enhance the OGRE's ba
 
 Your OGRE, while a standalone marvel, can be enhanced further through strategic connections and interactions with other cybermods and equipment.
 
-### Connecting Your OGRE to Other Cyberware:
+### Connecting Your OGRE to Other Cyberware
 
 #### Black Box
 
@@ -130,7 +130,7 @@ Ensure your data is always backed up. By connecting the Remote Uplink to OGRE, y
 
 Become a true tech maestro. By connecting your OGRE to a Terminal Jack, enjoy real-time download/upload status, system vulnerabilities, and quick shortcuts, all displayed on your HUD.
 
-### Slickware & OGRE Interactions:
+### Slickware & OGRE Interactions
 
 #### Holopet
 
@@ -140,7 +140,7 @@ Feeling lonely in deep space? With OGRE's display enhancements for Holopet, not 
 
 Eavesdrop on the digital realm. When integrated with OGRE, Looky-loo provides visual indications of signal strength, source direction, and even tags known or important frequencies.
 
-### OGRE & Equipment Synergies:
+### OGRE & Equipment Synergies
 
 #### Body Cam
 
@@ -154,7 +154,7 @@ Hacking on-the-go? By interfacing the OGRE with a Portable Computer Terminal, ga
 
 Take marksmanship to the next level. With the Smart-link add-on, your OGRE displays bullet count, target health stats, predictive recoil patterns, and more.
 
-### General Tips on Maximizing OGRE's HUD with Other Gear:
+### General Tips on Maximizing OGRE's HUD with Other Gear
 
 With all these interconnected systems, it's easy to clutter your Heads-Up Display. Here's a quick guide on keeping things clean and efficient:
 
@@ -168,7 +168,7 @@ With all these interconnected systems, it's easy to clutter your Heads-Up Displa
     
 - **Quick Mute**: Set up gestures or blink-patterns to mute or hide specific information streams.
 
-### Warning on Overclocking with OGRE:
+### Warning on Overclocking with OGRE
 
 Overclocking is tempting. More mods, more power, right? But remember, every mod beyond your natural limit strains your system. If you're overclocked, your OGRE might lag, show glitches, or even shut down temporarily. Always keep an eye on your overclock levels!
 
