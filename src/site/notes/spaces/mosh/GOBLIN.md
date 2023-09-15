@@ -1,5 +1,5 @@
 ---
-{"aliases":["G.O.B.L.I.N.","GOBLIN"],"date-created":"2023-09-14T16:06","date-modified":"2023-09-14T22:24","dg-publish":true,"tags":["mosh"],"title":"G.O.B.L.I.N.","dg-path":"mothership/GOBLIN.md","permalink":"/mothership/goblin/","dgPassFrontmatter":true}
+{"aliases":["G.O.B.L.I.N.","GOBLIN"],"date-created":"2023-09-14T16:06","date-modified":"2023-09-15T15:59","dg-publish":true,"tags":["mosh"],"title":"G.O.B.L.I.N.","dg-path":"mothership/GOBLIN.md","permalink":"/mothership/goblin/","dgPassFrontmatter":true}
 ---
 
 
@@ -100,25 +100,6 @@ How to add third-party open-source scripts and programs to enhance the OGRE's ba
 | 9    | MoodScape                     | Analyzes surroundings and overlays ambiance-enhancing visual and audio effects.    | VibraVibraViz | Looky-loo                    |
 | 10   | Digital Graffiti Tagging Tool | Allows users to leave digital tags or messages in AR, viewable by other OGRE users | ShadowStreak  | None                         |
 
-## Optimizing OGRE for Situations
-
-- **Combat**: Activating target tracking, highlighting potential cover, and displaying ammunition counts.
-  
-- **Science**: Magnifying visuals, enhancing low light vision, and overlaying data charts.
-  
-- **Social**: Facial recognition, mood assessment, and potential conversation prompts.
-  
-  **Rollable Table (1d6) for Random Social Tips:**
-
-| Roll | Social Display                                |     |
-| ---- | --------------------------------------------- | --- |
-| 1    | Display trustworthiness scale.                |     |
-| 2    | Highlight individual's known affiliations.    |     |
-| 3    | Showcase recent public social media activity. |     |
-| 4    | Indicate personal mood changes.               |     |
-| 5    | Flag any known biases or prejudices.          |     |
-| 6    | Recommend conversational icebreakers.         |     | 
-
 ## Advanced OGRE Interactions & Enhancements
 
 Your OGRE, while a standalone marvel, can be enhanced further through strategic connections and interactions with other cybermods and equipment.
@@ -196,7 +177,6 @@ Overclocking is tempting. More mods, more power, right? But remember, every mod 
 - Involves root access to the OGRE and requires expertise in Hacking
 - Introduction to open-source programs available.
 - Recommendations for trusted repositories and sources.
-- **Rollable Table (1d6) for Potential OGRE Mods:**
 
 | Roll | Modification                                   |
 | ---- | ---------------------------------------------- |
@@ -206,12 +186,16 @@ Overclocking is tempting. More mods, more power, right? But remember, every mod 
 | 4    | Deep Web Access Portals                        |
 | 5    | Retro Gaming Overlays                          |
 | 6    | Audio-to-Visual Translation Tools              |
+| 7    |                                                |
+| 8    |                                                |
+| 9    |                                                |
+| 10     |                                                |
 
 ## Conclusion
 
-"As always, remember that tech serves you, not the other way around. OGRE offers unparalleled integration possibilities, making it a hacker's dream. But always be cautious, always be aware, and make the digital realm your playground. Until next time, Hack the stars!" – Gremlin
+"As always, remember that tech serves you, not the other way around. OGRE offers unparalleled integration possibilities, making it a hacker's dream. But always be cautious, always be aware, and make the digital realm your playground. Until next time, hack the planets!" – Gremlin
 
 ## Back Cover
 
 - Image: A cartoonish silhouette of Gremlin giving a wink, with a visible OGRE HUD in one eye.
-- Caption: "See the world through your lens. Hack the Planet. – Gremlin"
+- Caption: "See the world through your lens. – Gremlin"
