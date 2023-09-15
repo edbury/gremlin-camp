@@ -1,5 +1,5 @@
 ---
-{"aliases":"G.O.B.L.I.N.,GOBLIN","date-created":"2023-09-14T16:06","date-modified":"2023-09-14T17:50","tags":["mosh"],"title":"G.O.B.L.I.N.","dg-publish":true,"dg-path":"mothership/GOBLIN.md","permalink":"/mothership/goblin/","dgPassFrontmatter":true}
+{"aliases":["G.O.B.L.I.N.","GOBLIN"],"date-created":"2023-09-14T16:06","date-modified":"2023-09-14T22:15","dg-publish":true,"tags":["mosh"],"title":"G.O.B.L.I.N.","dg-path":"mothership/GOBLIN.md","permalink":"/mothership/goblin/","dgPassFrontmatter":true}
 ---
 
 
@@ -56,15 +56,19 @@ Discusses rearranging HUD elements for optimal visibility and functionality.
 ### Color Schemes
 
 Discusses changing the colors of HUD elements for aesthetic or functional reasons.
-  
-| Roll | Color Scheme | 
-| ---- | ------------------------------------ |
-| 1 | Noir Nights (Black & White) |
-| 2 | Neon Dreams (Bright, neon colors) |
-| 3 | Nature's Palette (Greens and browns) |
-| 4 | Sunset Horizon (Oranges and purples) |
-| 5 | Ice Fortress (Blues and whites) |
-| 6 | Heat Vision (Reds and yellows) |
+
+| Roll | Color Scheme                           |
+| ---- | -------------------------------------- |
+| 1    | Noir Nights (Black & White)            |
+| 2    | Neon Dreams (Bright, neon colors)      |
+| 3    | Nature's Palette (Greens and browns)   |
+| 4    | Sunset Horizon (Oranges and purples)   |
+| 5    | Ice Fortress (Blues and whites)        |
+| 6    | Heat Vision (Reds and yellows)         |
+| 7    | Pastel Paradise (Soft, muted tones)    | 
+| 8    | Cyberpunk Hues (Pinks and cyans)       |
+| 9    | Desert Mirage (Browns and golds)       |
+| 10   | Midnight Ocean (Dark blues and blacks) |
 
 1. **Noir Nights**: Classic and timeless, this black and white scheme brings a touch of cinematic elegance.
 2. **Neon Dreams**: Bright and electric, these neon shades pop and energize your display.
