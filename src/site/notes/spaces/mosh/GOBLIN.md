@@ -1,5 +1,5 @@
 ---
-{"aliases":["G.O.B.L.I.N.","GOBLIN"],"date-created":"2023-09-14T16:06","date-modified":"2023-09-14T22:15","dg-publish":true,"tags":["mosh"],"title":"G.O.B.L.I.N.","dg-path":"mothership/GOBLIN.md","permalink":"/mothership/goblin/","dgPassFrontmatter":true}
+{"aliases":["G.O.B.L.I.N.","GOBLIN"],"date-created":"2023-09-14T16:06","date-modified":"2023-09-14T22:24","dg-publish":true,"tags":["mosh"],"title":"G.O.B.L.I.N.","dg-path":"mothership/GOBLIN.md","permalink":"/mothership/goblin/","dgPassFrontmatter":true}
 ---
 
 
@@ -82,6 +82,8 @@ Discusses changing the colors of HUD elements for aesthetic or functional reason
 10. **Midnight Ocean**: Deep and mysterious, evoking the depths of nighttime seas.
 
 ### Informational Display Add-Ons
+
+- Utilizes the OGRE's plugin API and requires training in Computers
 
 How to add third-party open-source scripts and programs to enhance the OGRE's base functionality.
 
@@ -191,10 +193,9 @@ Overclocking is tempting. More mods, more power, right? But remember, every mod 
 
 ## Hacking and Open Source for OGRE
 
+- Involves root access to the OGRE and requires expertise in Hacking
 - Introduction to open-source programs available.
-  
 - Recommendations for trusted repositories and sources.
-  
 - **Rollable Table (1d6) for Potential OGRE Mods:**
 
 | Roll | Modification                                   |
