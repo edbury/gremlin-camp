@@ -78,3 +78,50 @@ $max-line-length: 60ch;
   --graph-main: var(--text-accent);
   --graph-muted: var(--text-muted);
 }
+
+.tag-mosh {
+  // Base 16 Format.
+  --base00: #282936;
+  --base01: #3a3c4e;
+  --base02: #4d4f68;
+  --base03: #626483;
+  --base04: #62d6e8;
+  --base05: #e9e9f4;
+  --base06: #f1f2f8;
+  --base07: #f7f7fb;
+  --base08: #ea51b2;
+  --base09: #b45bcf;
+  --base0A: #00f769;
+  --base0B: #ebff87;
+  --base0C: #a1efe4;
+  --base0D: #62d6e8;
+  --base0E: #b45bcf;
+  --base0F: #00f769;
+
+  // Colors
+  --background-color-base: var(--base00);
+  --background-color-accent: var(--base01);
+  --text-color-body: var(--base07);
+  --text-color-accent: var(--base0D);
+  --link-text-color: var(--base0A);
+
+  // Type
+  --font-family-primary: ui-monospace, Menlo, Monaco, "Cascadia Mono", "Segoe UI Mono", "Roboto Mono", "Oxygen Mono", "Ubuntu Monospace", "Source Code Pro", "Fira Mono", "Droid Sans Mono", "Courier New", monospace;
+
+  // Shape
+  --border-width: 1px;
+  --border-style: solid;
+  --border-color: var(--base03);
+  --border-radius: calc(var(--font-scale-0)/4);
+
+  // Conversion Tokens
+
+  //// Digital Garden
+
+  --note-icon-1: url(/img/tree-1.svg);
+  --note-icon-2: url(/img/tree-2.svg);
+  --note-icon-3: url(/img/tree-3.svg);
+  --note-icon-fallback: url(/img/default-note-icon.svg);
+  --graph-main: var(--text-accent);
+  --graph-muted: var(--text-muted);
+}
