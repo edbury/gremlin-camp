@@ -1,5 +1,5 @@
 ---
-{"aliases":["G.O.B.L.I.N.","GOBLIN"],"date-created":"2023-09-14T16:06","date-modified":"2023-09-15T16:02","dg-publish":true,"tags":["mosh"],"title":"G.O.B.L.I.N.","dg-path":"mothership/GOBLIN.md","permalink":"/mothership/goblin/","dgPassFrontmatter":true}
+{"aliases":["G.O.B.L.I.N.","GOBLIN"],"date-created":"2023-09-14T16:06","date-modified":"2023-09-19T15:52","dg-publish":true,"tags":["mosh"],"title":"G.O.B.L.I.N.","dg-path":"mothership/GOBLIN.md","permalink":"/mothership/goblin/","dgPassFrontmatter":true}
 ---
 
 
@@ -87,18 +87,18 @@ Discusses changing the colors of HUD elements for aesthetic or functional reason
 
 How to add third-party open-source scripts and programs to enhance the OGRE's base functionality.
 
-| Roll | Package Name                  | Description                                                                        | Author        | Required Cyberware/Slickware |
-| ---- | ----------------------------- | ---------------------------------------------------------------------------------- | ------------- | ---------------------------- |
-| 1    | InfoBurst                     | Instantly aggregates and displays top news from verified sources in your HUD.      | ByteBlitz     | None                         |
-| 2    | AdAway                        | A robust ad-blocker that ensures an ad-free AR experience.                         | NullNix       | None                         |
-| 3    | BioTrend                      | Monitors and displays real-time biometrics of nearby entities.                     | Lifeline      | None                         |
-| 4    | CodeSpeak Translator          | Translates tech jargon and coding languages into layman's terms on-the-fly.        | LexiLogic     | None                         |
-| 5    | MemoryMeld                    | Allows you to visually bookmark and save HUD memories for later recall.            | SynthScribe   | Black Box                    |
-| 6    | AugReal                       | Augments reality with real-time trivia about objects and places in your view.      | DataDynamo    | None                         |
-| 7    | HoloShop Interface            | A universal interface for online shopping, showcasing real-time price comparisons. | MarketMancer  | Holoprojector                |
-| 8    | Skyward Stellar Atlas         | Maps out stars, constellations, and celestial events in real-time.                 | AstroAce      | None                         |
-| 9    | MoodScape                     | Analyzes surroundings and overlays ambiance-enhancing visual and audio effects.    | VibraVibraViz | Looky-loo                    |
-| 10   | Digital Graffiti Tagging Tool | Allows users to leave digital tags or messages in AR, viewable by other OGRE users | ShadowStreak  | None                         |
+| Roll | Package | Description | Author | Requirements | 
+| ---- | ----------------------------- | ---------------------------------------------------------------------------------- | ------------- | ------------- |
+| 1 | InfoBurst | Instantly aggregates and displays top news from verified sources in your HUD. | ByteBlitz | None |
+| 2 | AdAway | A robust ad-blocker that ensures an ad-free AR experience. | NullNix | None |
+| 3 | BioTrend | Monitors and displays real-time biometrics of nearby entities. | Lifeline | None |
+| 4 | CodeSpeak Translator | Translates tech jargon and coding languages into layman's terms on-the-fly. | LexiLogic | None |
+| 5 | MemoryMeld | Allows you to visually bookmark and save HUD memories for later recall. | SynthScribe | Black Box |
+| 6 | AugReal | Augments reality with real-time trivia about objects and places in your view. | DataDynamo | None |
+| 7 | HoloShop Interface | A universal interface for online shopping, showcasing real-time price comparisons. | MarketMancer | Holoprojector |
+| 8 | Skyward Stellar Atlas | Maps out stars, constellations, and celestial events in real-time. | AstroAce | None |
+| 9 | MoodScape | Analyzes surroundings and overlays ambiance-enhancing visual and audio effects. | VibraVibraViz | Looky-loo |
+| 10 | Digital Graffiti Tagging Tool | Allows users to leave digital tags or messages in AR, viewable by other OGRE users | ShadowStreak | None |
 
 ## Advanced OGRE Interactions & Enhancements
 
