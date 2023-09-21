@@ -1,5 +1,5 @@
 ---
-{"aliases":["G.O.B.L.I.N.","GOBLIN"],"date-created":"2023-09-14T16:06","date-modified":"2023-09-20T19:43","dg-publish":true,"tags":["mosh"],"title":"G.O.B.L.I.N.","dg-path":"mothership/GOBLIN.md","permalink":"/mothership/goblin/","dgPassFrontmatter":true}
+{"aliases":["G.O.B.L.I.N.","GOBLIN"],"date-created":"2023-09-14T16:06","date-modified":"2023-09-20T19:49","dg-publish":true,"tags":["mosh"],"title":"G.O.B.L.I.N.","dg-path":"mothership/GOBLIN.md","permalink":"/mothership/goblin/","dgPassFrontmatter":true}
 ---
 
 
@@ -16,7 +16,7 @@
 
 Gremlin here. So, you've got your hands on an OGRE? Impressive. OGREs are a force to be reckoned with – teeming with unparalleled potential yet fraught with risks if mishandled. These beasts aren't just pieces of tech; they represent a way of life. Let's embark on this journey of customization, shaping the OGRE to mirror the vision YOU have for the world. I've witnessed many plummet into the abyss due to ignorance, but you've got a sharper edge. Gear up, dive deep, and let's revolutionize your experience.
 
-## Section 1: Reconfiguring Your OGRE: A Fresh Start
+## Section 1: Reconfiguring Your OGRE
 
 OGREs, fresh from the box, remind me of those generic cell phones the corps push on us – bloated, predictable, and nothing to write home about. But don't fret, reconfiguring them to better suit your needs is easy peasy. Here's a step-by-step process to make it your own, and yeah, give a sweet middle finger to those corporate leeches.
 
@@ -168,8 +168,6 @@ If you _really_ want to break your warranty, Section 3 includes directions for g
 
 ## Section 2: Informational Display Add-Ons
 
-- Everything in this section requires training in Computers.
-
 Informational Display Add-Ons (IDAs) are plugins that utilize the OGRE API. And plugins are like the apps of the OGRE world. There's an ocean of them, some deep and dark, and others clear and shiny. 
 
 ### 2.1 Sourcing IDAs
@@ -190,18 +188,18 @@ Yeah, they might have those shiny ads and slick marketing, but remember, there's
 
 Corporations have their plugins. Sure, they're glossy. But if you want to keep control, stick to the open-source alternatives. Here's a list curated by yours truly. Trust me, you won't regret these. I _do not_ recommend installing any plugins unless you're thoroughly trained in Computers.
 
-| Roll | Plugin                        | Description                                                           | Why It's Great                    | Author        | Requirements  |
-| ---- | ----------------------------- | --------------------------------------------------------------------- | --------------------------------- | ------------- | ------------- |
-| 1    | InfoBurst                     | Instantly aggregates top news in your HUD.                            | "Stay informed, stay ahead"       | ByteBlitz     | None          |
-| 2    | AdAway                        | Ensures an ad-free AR experience.                                     | "Ad-free, as life should be"      | NullNix       | None          |
-| 3    | BioTrend                      | Displays real-time biometrics of nearby entities.                     | "Know your allies... and enemies" | Lifeline      | None          |
-| 4    | CodeSpeak Translator          | Translates tech jargon on-the-fly.                                    | "Speak geek without the effort"   | LexiLogic     | None          |
-| 5    | MemoryMeld                    | Bookmark and save HUD memories for later recall.                      | "Because even I forget sometimes" | SynthScribe   | Black Box     |
-| 6    | AugReal                       | Real-time trivia about objects and places in your view.               | "Knowledge is power, mate"        | DataDynamo    | None          |
-| 7    | HoloShop Interface            | Universal online shopping interface with real-time price comparisons. | "Shop smart, not hard"            | MarketMancer  | Holoprojector |
-| 8    | Skyward Stellar Atlas         | Maps stars, constellations, and celestial events.                     | "Navigate the vast unknown"       | AstroAce      | None          |
-| 9    | MoodScape                     | Overlays ambiance-enhancing visual and audio effects.                 | "Set the right vibe, always"      | VibraVibraViz | Looky-loo     |
-| 10   | Digital Graffiti Tagging Tool | Leave digital tags or messages in AR for other OGRE users.            | "Leave your mark, everywhere"     | ShadowStreak  | None          |
+| Roll | Plugin                        | Description                                                           | Author        | Requirements  |
+| ---- | ----------------------------- | --------------------------------------------------------------------- | ------------- | ------------- |
+| 1    | InfoBurst                     | Instantly aggregates top news in your HUD.                            | ByteBlitz     | None          |
+| 2    | AdAway                        | Ensures an ad-free AR experience.                                     | NullNix       | None          |
+| 3    | BioTrend                      | Displays real-time biometrics of nearby entities.                     | Lifeline      | None          |
+| 4    | CodeSpeak Translator          | Translates tech jargon on-the-fly.                                    | LexiLogic     | None          |
+| 5    | MemoryMeld                    | Bookmark and save HUD memories for later recall.                      | SynthScribe   | Black Box     |
+| 6    | AugReal                       | Real-time trivia about objects and places in your view.               | DataDynamo    | None          |
+| 7    | HoloShop Interface            | Universal online shopping interface with real-time price comparisons. | MarketMancer  | Holoprojector |
+| 8    | Skyward Stellar Atlas         | Maps stars, constellations, and celestial events.                     | AstroAce      | None          |
+| 9    | MoodScape                     | Overlays ambiance-enhancing visual and audio effects.                 | VibraVibraViz | Looky-loo     |
+| 10   | Digital Graffiti Tagging Tool | Leave digital tags or messages in AR for other OGRE users.            | ShadowStreak  | None          |
 
 ## Section 3: Hacking the OGRE
 
@@ -223,7 +221,7 @@ Grabbing root access is like nabbing the master key to the OGRE mansion. Doors? 
 
 #### How to Get Root Access
 
-1. Terminal jack to your personal terminal.
+1. Terminal jack to your personal deck.
 2. Backup your OGRE. Seriously. Don't skip this.
 3. Find a trusted rooting tool or script suited for your OGRE model.
 4. Follow on-screen instructions carefully.
