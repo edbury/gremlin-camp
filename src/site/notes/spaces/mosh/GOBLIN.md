@@ -1,5 +1,5 @@
 ---
-{"aliases":["G.O.B.L.I.N.","GOBLIN"],"date-created":"2023-09-14T16:06","date-modified":"2023-09-20T19:49","dg-publish":true,"tags":["mosh"],"title":"G.O.B.L.I.N.","dg-path":"mothership/GOBLIN.md","permalink":"/mothership/goblin/","dgPassFrontmatter":true}
+{"aliases":["G.O.B.L.I.N.","GOBLIN"],"date-created":"2023-09-14T16:06","date-modified":"2023-09-21T08:46","dg-publish":true,"tags":["mosh"],"title":"G.O.B.L.I.N.","dg-path":"mothership/GOBLIN.md","permalink":"/mothership/goblin/","dgPassFrontmatter":true}
 ---
 
 
@@ -283,7 +283,7 @@ Overclocking is tempting. More mods, more power, right? But remember, every mod 
 
 Tech's a tool, pal, not a leash. OGRE's a canvas for the tech-savvy to paint their dreams (or nightmares). Play it smart, stay curious, and make the matrix dance to your tune. And, as always, never let Big Tech call the shots.
 
-So, cyberpunks, whether you're modding, meddling, or maxing out, remember: Be the artist, not the paintbrush. Stay wild. Stay free. Gremlin, signing off.
+So, console cowboys, whether you're modding, meddling, or maxing out, remember: Be the artist, not the paintbrush. Stay wild. Stay free. Gremlin, signing off.
 
 ## Back Cover
 
