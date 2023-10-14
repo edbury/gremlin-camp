@@ -17,5 +17,6 @@ Highlights from recent readings.
 | [[sources/books/The Coming Insurrection\|The Coming Insurrection]]                                                                                                           | The Invisible Committee        | 2009 |
 | [[sources/books/Waking Up\|Waking Up]]                                                                                                                                       | Sam Harris                     | 2014 |
 | [[sources/books/Darkness Visible\|Darkness Visible]]                                                                                                                         | William Styron                 | 1990 |
+| [[sources/books/Psychoanalytic Psychotherapy\|Psychoanalytic Psychotherapy]]                                                                                                 | Nancy McWilliams               | 2004 |
 
 { .block-language-dataview}
