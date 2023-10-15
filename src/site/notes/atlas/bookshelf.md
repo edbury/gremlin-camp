@@ -16,7 +16,7 @@ Highlights from recent readings.
 | [[sources/books/The Tibetan Book of the Dead\|The Tibetan Book of the Dead]]                                                                                                 | Padmasambhāva                  | 1994 |
 | [[sources/books/12 Secrets of the Caucasus\|12 Secrets of the Caucasus]]                                                                                                     | Essad Bey                      | 1930 |
 | [[sources/books/Dune\|Dune]]                                                                                                                                                 | Frank Herbert                  | 1965 |
-| [[sources/books/Cognition\|Cognition]]                                                                                                                                       | Stephen K. Reed                | 2013 |
 | [[sources/books/Tests and Measurement for People Who (Think They) Hate Tests and Measurement\|Tests and Measurement for People Who (Think They) Hate Tests and Measurement]] | Neil J. Salkind, Bruce B. Frey | 2022 |
+| [[sources/books/Cognition\|Cognition]]                                                                                                                                       | Stephen K. Reed                | 2013 |
 
 { .block-language-dataview}
