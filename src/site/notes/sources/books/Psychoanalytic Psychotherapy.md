@@ -1,5 +1,5 @@
 ---
-{"aliases":["Psychoanalytic Psychotherapy"],"author":"Nancy McWilliams","cover":"https://i.imgur.com/O3NEkdO.jpg","date-created":"2023-10-13T20:41","date-modified":"2023-10-13T22:15","dg-publish":true,"finished":"2023-10-13T08:42:00","location":"Denver","subtitle":"A Practitioner's Guide","tags":["source/book","psychology"],"title":"Psychoanalytic Psychotherapy","translator":null,"up":"[[sources moc]]","year":2004,"dg-path":"highlights/Psychoanalytic Psychotherapy.md","permalink":"/highlights/psychoanalytic-psychotherapy/","dgPassFrontmatter":true}
+{"aliases":["Psychoanalytic Psychotherapy"],"author":"Nancy McWilliams","cover":"https://i.imgur.com/O3NEkdO.jpg","date-created":"2023-10-13T20:41","date-modified":"2023-10-23T14:40","dg-publish":true,"finished":"2023-10-13T08:42:00","location":"Denver","subtitle":"A Practitioner's Guide","tags":["source/book","psychology"],"title":"Psychoanalytic Psychotherapy","translator":null,"up":"[[sources moc]]","year":2004,"dg-path":"highlights/Psychoanalytic Psychotherapy.md","permalink":"/highlights/psychoanalytic-psychotherapy/","dgPassFrontmatter":true}
 ---
 
 
@@ -62,3 +62,123 @@
 
 
 [[sources/books/Psychoanalytic Psychotherapy#^71d60d\|pg. 45]]
+
+> No lasting harm comes from most errors made by therapists—at least if they are picked up quickly, and that is what supervisors are for. In fact, mistakes (or what clients experience as mistakes) are inevitable, no matter how experienced one is, and they can be addressed in a conversation that has considerably more therapeutic power than the (strictly hypothetical) "ideal" response would have had. And given that human beings have conflicting feelings about most important matters, there is often no response a therapist can make that is not frustrating to some part of the patient's wishes and needs. Conveying sincere effort to understand, even if one is getting things wrong, is much more therapeutic than conveying the belief—or even persuading the client—that one _does_ understand.
+{ #463843}
+
+
+[[sources/books/Psychoanalytic Psychotherapy#^463843\|Psychoanalytic Psychotherapy#^463843]]
+
+> Artificiality and posturing have no place in analytic therapy, mainly because they are discordant with the effort to foster an unflinching emotional honest. It is natural to be anxious in a new role, and it is a common enough defense to cover anxiety with an adopted persona, but in the role of therapist, that defense is a handicap. Perhaps the best antidote to anxiety is the knowledge that psychoanalytic therapy does not require intellectual brilliance or sophisticated social skills or mastery of the literature on technique. Its most elemental ingredients are the therapist's genuine wish to help and nondefensive curiosity.
+{ #14bdef}
+
+
+[[sources/books/Psychoanalytic Psychotherapy#^14bdef\|Psychoanalytic Psychotherapy#^14bdef]]
+
+> Mark Hilsenroth tells his students that one of the best ways to help a supervisor give effective supervision is to ask, "What would be an example of how I might say (or do) that?" This effort to pursue the concrete is particularly useful when one is working with a person that makes vague pronouncements such as "You should have interpreted the resistance there" or "You have to make that symptom ego alien." Helping a supervisor to be more effective in his or her role is not entirely different from helping a patient to get better. It requires a willingness to give sincere feedback about the best qualities of the supervisor and tactful, timely attention to the worst.
+{ #d8dd57}
+
+
+[[sources/books/Psychoanalytic Psychotherapy#^d8dd57\|Psychoanalytic Psychotherapy#^d8dd57]]
+
+> If I had to identify the most common failing of novice therapists, I would say it is the tendency to try to "do therapy" without first securing an alliance.
+{ #88c374}
+
+
+[[sources/books/Psychoanalytic Psychotherapy#^88c374\|Psychoanalytic Psychotherapy#^88c374]]
+
+> With psychotic patients, who can be consumed with anxieties about fragmentation and annihilation, therapists may have to express an appreciation of their fears that professionals will harm them. Even well-medicated patients with psychotic tendencies harbor such fears. Bertram Karon begins an interview with a withdrawn patient with schizophrenia by announcing, "I want you to know that I will not kill you and that I will not allow other people to kill you."
+{ #5028dd}
+
+
+[[sources/books/Psychoanalytic Psychotherapy#^5028dd\|Psychoanalytic Psychotherapy#^5028dd]]
+
+> [...] I typically spend the first session with a new patient trying to get a sense of his or her presenting problem (including its history and the person's prior efforts to deal with it) and to establish myself as a potentially helpful presence. In the second meeting I take a detailed history. After that, I make a statement along the following lines:
+> 
+> "I think that's enough information for me to have a context for what you want to work on. From this point on, I'll follow your lead. If you can come in and talk as freely as possible about any aspect of this, or anything else that's on your mind, I'll try to listen for the more emotional side of it and see what I can say that might cast some new light on what you're talking about. For a while, I'll probably be pretty quiet, as I try to catch up with your own understanding of your problem. The most important thing for you to keep in mind is to try to be as open and honest as you can. Feel free to talk at any point about how you feel the process is going and whether you feel I'm being helpful or not."
+{ #f1047e}
+
+
+[[sources/books/Psychoanalytic Psychotherapy#^f1047e\|Psychoanalytic Psychotherapy#^f1047e]]
+
+> In contemporary Western cultures, respectful listening is rare enough to justify a decent remuneration; we tend to undervalue activities that are receptive rather than based on doing, producing, manufacturing, achieving, and so on.
+> 
+> As many practitioners have noted, money is a critical aspect of therapy. It is the means by which the two participants have a kind of moral equality, a genuine reciprocity. The therapist takes care of the patient emotionally; the patient takes care of the therapist financially. Because the therapist is getting paid by the patient, there is no other way in which the patient is expected to take care of the therapist.
+{ #fddd17}
+
+
+[[sources/books/Psychoanalytic Psychotherapy#^fddd17\|Psychoanalytic Psychotherapy#^fddd17]]
+
+> I have found that when I discuss limits, patients are much more willing to cooperate with my rules when I relate them to my own needs than when I make a speech about how the limit is really in their best interest.
+{ #07e767}
+
+
+[[sources/books/Psychoanalytic Psychotherapy#^07e767\|Psychoanalytic Psychotherapy#^07e767]]
+
+> In this therapy one is required to cooperate in certain ways, but one does not have to pretend to like cooperating. Actions and feelings are separate things; some actions may be unacceptable, but no feeling is beyond the pale.
+{ #9593d1}
+
+
+[[sources/books/Psychoanalytic Psychotherapy#^9593d1\|Psychoanalytic Psychotherapy#^9593d1]]
+
+> Common defenses against frank verbalization include such mannerisms as talking in the second person (e.g. in response to "How did you feel?", "Well, you know, you feel bad when that happens"), talking in the third person ("I guess it's natural for people to feel bad in that situation"), dramatizing or demonstrating things that could be simply expressed ("I was SOOOOO angry!" with an exaggerated eye-roll that slightly ridicules the feeling it portrays), trying to bring the therapist into the experience ("Can you believe the bastard did that to me?"), avoiding the naming of affects and substituting a vague term ("How did you feel?", "Kinda weird, I guess"), changing the subject when feelings get too close, talking in baby talk or some other affected way about more intimate topics, and many other unconscious strategies to keep pain and shame at a distance.
+{ #f9b5ed}
+
+
+[[sources/books/Psychoanalytic Psychotherapy#^f9b5ed\|Psychoanalytic Psychotherapy#^f9b5ed]]
+
+> I have concluded over the years that when clinicians talk most passionately about an attitude or process that is "at the center of" or that is "the essence of" the healing process, they often prescribe a stance that either normalizes their own dispositions or compensates for the limitations of their character type. In either case, they seem to be trying to heal themselves.
+{ #28a190}
+
+
+[[sources/books/Psychoanalytic Psychotherapy#^28a190\|Psychoanalytic Psychotherapy#^28a190]]
+
+> It is not uncommon for an individual coming to treatment to have exhausted friends, relatives, teachers, doctors, and spiritual counselors in an effort to solve some intractable psychological problem. And often, these failed sources of help have behaved with impeccable intelligence and concern, only to confront ultimate exasperation in the face of someone's incomprehensible resistance to change. Schlesinger astutely compares trying to make serious changes in someone's personality organization with trying to make significant reforms in an entrenched bureaucracy.
+{ #32bad6}
+
+
+[[sources/books/Psychoanalytic Psychotherapy#^32bad6\|Psychoanalytic Psychotherapy#^32bad6]]
+
+> Inquiries into how therapists deal with the question of their approaching death have revealed that denial seems to be the defense of choice for afflicted practitioners. [...] The analytic requirement to be honest with oneself is no less stringent for therapists than for patients, and no matter how painful it is to acknowledge one's looming demise, it is a professional responsibility.
+{ #b4412c}
+
+
+[[sources/books/Psychoanalytic Psychotherapy#^b4412c\|Psychoanalytic Psychotherapy#^b4412c]]
+
+> When we encourage people to listen to their feelings, when we help them search inside themselves for their own answers, or when we conceptualize their suffering in a way that allows them to understand it better and embrace their own humanity, we do so on the assumption that we all have the potential for attaining a kind of wisdom about life, about who we are and what we seek, about what is possible and what is no, about what can be changed and what must be mourned.
+{ #be4ec3}
+
+
+[[sources/books/Psychoanalytic Psychotherapy#^be4ec3\|Psychoanalytic Psychotherapy#^be4ec3]]
+
+> A related lesson that many of our clients learn in therapy is that diffuse and disturbing emotional states can be named and integrated smoothly into awareness. Sometimes when therapists see themselves as "uncovering" feelings that have been buried by a defense, they are in fact labeling an emotion for the first time in the client's memory. What the clinician may think of as mirroring may be taken in by the patient as new knowledge. That is, the therapist may assume that he or she is simply restating, with some accent on the feeling tone, what the client has just expressed, but the client's sense may be that a previously unformulated perception has now been given shape and color. The person's experience is not so much one of being "reflected" as of being _organized_ by the power of words to give form to chaos.
+{ #3b4945}
+
+
+[[sources/books/Psychoanalytic Psychotherapy#^3b4945\|Psychoanalytic Psychotherapy#^3b4945]]
+
+> [...] I sometimes say to people who are exhausting themselves caring for a dying parent,
+> 
+> "It's my experience that no matter how devoted you are, no matter how much time you spend at the bedside, you'll probably find yourself feeling after the death that you should have done more. I doubt that heroic care-taking now will protect you from later self-criticism. That just seems to be an integral part of early grief. I've known people who were models of dedication, who were holding their loved one's hand at the moment of death, who still castigate themselves that they didn't say 'I love you' one more time.
+{ #0f4ee9}
+
+
+[[sources/books/Psychoanalytic Psychotherapy#^0f4ee9\|Psychoanalytic Psychotherapy#^0f4ee9]]
+
+> There is a continuing fascination for the practicing therapist, at the emotional as well as the intellectual level, in learning about the uniqueness of each person's internal, subjective world. This gratification begins right away. Psychoanalysis is not boring. Even when it feels boring, the therapist gets fascinated with why a sense of boredom is invading the therapeutic space right now. Every patient is different. Every patient opens up a new window on how a life can be lived. Every patient teaches us something about ourselves and our families, if only by providing a contrast with what we have always considered (consciously or not) "natural" or "normal." Thus, we learn more about ourselves as we learn more about each client.
+{ #59e00f}
+
+
+[[sources/books/Psychoanalytic Psychotherapy#^59e00f\|Psychoanalytic Psychotherapy#^59e00f]]
+
+> Fromm-Reichmann, who was reared as an orthodox Jew, was inspired in childhood by the writing of the great sixteenth-century rabbi Isaac Luria on _tikkun_, the collective task of rescuing the sparks of the divine that were scattered at creation. Luria taught that to help another human being is inherently redemptive. According to the principle of _tikkun_, "To redeem one person is to redeem the world." This kind of faith and the satisfactions of acting in accordance with it are fundamental to the commitment of most analytic therapists.
+{ #746859}
+
+
+[[sources/books/Psychoanalytic Psychotherapy#^746859\|pg. 283]]
+
+> For the patient, one of the greatest satisfactions that emerges in a psychoanalytic therapy is the sense that he or she has been accepted, psychological warts and all. But the virtue of nurturing the true self applies to ourselves as well as to our clients, and it is inseparably bound up with our ability to do our job. Creating the right conditions for truths to emerge and become explicit is the essence of the psychoanalytic project.
+{ #742755}
+
+
+[[sources/books/Psychoanalytic Psychotherapy#^742755\|Psychoanalytic Psychotherapy#^742755]]
