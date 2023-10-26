@@ -1,5 +1,5 @@
 ---
-{"aliases":["SPSS and Sonoma","SPSS Sonoma Fix"],"date-created":"2023-10-25T17:36","date-modified":"2023-10-25T18:31","dg-publish":true,"tags":["gspp"],"title":"SPSS and Sonoma","permalink":"/spaces/school/support-notes/spss-sonoma-fix/","dgPassFrontmatter":true}
+{"aliases":["SPSS and Sonoma","SPSS Sonoma Fix"],"date-created":"2023-10-25T17:36","date-modified":"2023-10-25T18:38","dg-publish":true,"tags":["gspp"],"title":"SPSS and Sonoma","permalink":"/spaces/school/support-notes/spss-sonoma-fix/","dgPassFrontmatter":true}
 ---
 
 
@@ -15,7 +15,7 @@ If you'd like to tackle this on your own by setting up an IBM account, you can f
 
 ### Download the patch
 
-First, You'll need to grab a copy of the of the patched file. If you have an IBM account, you can follow the link above. To make it simple, I'm also hosting a copy of the exact same file on Dropbox—you can grab it [here](https://www.ibm.com/mysupport/s/defect/aCI3p0000004Khs/dt243265?language=en_US).
+First, You'll need to grab a copy of the of the patched file. If you have an IBM account, you can follow the link above. To make it simple, I'm also hosting a copy of the exact same file on Dropbox—you can grab it [here](https://www.dropbox.com/scl/fi/yu7szxku2y96a5dbmrfcq/29.0.1.1-IM-S29STATC-MAC-IF001.zip?rlkey=xzacszibybh1wk9i1dygxm93e&dl=0).
 
 After downloading the patch, unzip it. This should give you a directory called `29.0.1.1-IM-S29STATC-MAC-IF001` with two files inside: `Readme_29.0.1.1-1.txt` and `libplatdep.dylib`. 
 
