@@ -33,7 +33,7 @@ Open up the application Terminal. You'll see something like this:
 
 From here, you're going to input the command: 
 
-`cd "/Applications/IBM SPSS Statistics/SPSS Statistics.app/Contents/lib/"`. 
+`cd "/Applications/IBM SPSS Statistics/SPSS Statistics.app/Contents/lib/"`
 
 You can either type that our or copy it from here. Then hit <kbd>Enter</kbd>. You are now in the "lib" directory, and your screen should look like this:
 
