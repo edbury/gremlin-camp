@@ -1,5 +1,5 @@
 ---
-{"aliases":["SPSS and Sonoma","SPSS Sonoma Fix"],"date-created":"2023-10-25T17:36","date-modified":"2023-10-25T18:39","dg-publish":true,"tags":["gspp"],"title":"SPSS and Sonoma","permalink":"/spaces/school/support-notes/spss-sonoma-fix/","dgPassFrontmatter":true}
+{"aliases":["SPSS and Sonoma","SPSS Sonoma Fix"],"date-created":"2023-10-25T17:36","date-modified":"2023-10-25T18:44","dg-publish":true,"tags":["gspp"],"title":"SPSS and Sonoma","permalink":"/spaces/school/support-notes/spss-sonoma-fix/","dgPassFrontmatter":true}
 ---
 
 
@@ -31,7 +31,7 @@ Open up the application Terminal. You'll see something like this:
 
 ![](https://i.imgur.com/sXcwBQ7.png)
 
-From here, you're going to input the command: 
+From here, you're going to input this command to change directories into the SPSS app's inner workings: 
 
 `cd "/Applications/IBM SPSS Statistics/SPSS Statistics.app/Contents/lib/"`
 
