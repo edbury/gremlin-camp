@@ -1,5 +1,5 @@
 ---
-{"aliases":["SPSS and Sonoma","SPSS Sonoma Fix"],"date-created":"2023-10-25T17:36","date-modified":"2023-10-25T18:19","dg-publish":true,"title":"SPSS and Sonoma","permalink":"/spaces/school/support-notes/spss-sonoma-fix/","dgPassFrontmatter":true}
+{"aliases":["SPSS and Sonoma","SPSS Sonoma Fix"],"date-created":"2023-10-25T17:36","date-modified":"2023-10-25T18:28","dg-publish":true,"tags":["gspp"],"title":"SPSS and Sonoma","permalink":"/spaces/school/support-notes/spss-sonoma-fix/","dgPassFrontmatter":true}
 ---
 
 
