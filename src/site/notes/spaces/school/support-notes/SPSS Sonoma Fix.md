@@ -1,5 +1,5 @@
 ---
-{"aliases":["SPSS and Sonoma","SPSS Sonoma Fix"],"date-created":"2023-10-25T17:36","date-modified":"2023-10-25T18:28","dg-publish":true,"tags":["gspp"],"title":"SPSS and Sonoma","permalink":"/spaces/school/support-notes/spss-sonoma-fix/","dgPassFrontmatter":true}
+{"aliases":["SPSS and Sonoma","SPSS Sonoma Fix"],"date-created":"2023-10-25T17:36","date-modified":"2023-10-25T18:29","dg-publish":true,"tags":["gspp"],"title":"SPSS and Sonoma","permalink":"/spaces/school/support-notes/spss-sonoma-fix/","dgPassFrontmatter":true}
 ---
 
 
@@ -7,7 +7,7 @@
 
 Currently, the official SPSS releases don't support macOS Sonoma (14.0). Here's a quick guide to getting yourself up and running again if SPSS fails to start after updating your OS.
 
-If you'd like to tackle this on your own by setting up an IBM account, you can find the official resources here: <https://www.ibm.com/mysupport/s/defect/aCI3p0000004Khs/dt243265>
+If you'd like to tackle this on your own by setting up an IBM account, you can find the official resources here: [https://www.ibm.com/mysupport/s/defect/aCI3p0000004Khs/dt243265](https://www.ibm.com/mysupport/s/defect/aCI3p0000004Khs/dt243265)
 
 ## The Fix
 
