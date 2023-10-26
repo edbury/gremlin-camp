@@ -1,5 +1,5 @@
 ---
-{"aliases":["SPSS and Sonoma","SPSS Sonoma Fix"],"date-created":"2023-10-25T17:36","date-modified":"2023-10-25T18:19","dg-publish":true,"title":"SPSS and Sonoma","permalink":"/spaces/school/support-notes/spss-sonoma-fix/","dgPassFrontmatter":true}
+{"aliases":["SPSS and Sonoma","SPSS Sonoma Fix"],"date-created":"2023-10-25T17:36","date-modified":"2023-10-25T18:38","dg-publish":true,"tags":["gspp"],"title":"SPSS and Sonoma","permalink":"/spaces/school/support-notes/spss-sonoma-fix/","dgPassFrontmatter":true}
 ---
 
 
@@ -7,7 +7,7 @@
 
 Currently, the official SPSS releases don't support macOS Sonoma (14.0). Here's a quick guide to getting yourself up and running again if SPSS fails to start after updating your OS.
 
-If you'd like to tackle this on your own by setting up an IBM account, you can find the official resources here: <https://www.ibm.com/mysupport/s/defect/aCI3p0000004Khs/dt243265>
+If you'd like to tackle this on your own by setting up an IBM account, you can find the official resources [on the IBM site](https://www.ibm.com/mysupport/s/defect/aCI3p0000004Khs/dt243265).
 
 ## The Fix
 
@@ -15,7 +15,7 @@ If you'd like to tackle this on your own by setting up an IBM account, you can f
 
 ### Download the patch
 
-First, You'll need to grab a copy of the of the patched file. If you have an IBM account, you can follow the link above. To make it simple, I'm also hosting a copy of the exact same file on Dropbox—you can grab it [here](https://www.ibm.com/mysupport/s/defect/aCI3p0000004Khs/dt243265?language=en_US).
+First, You'll need to grab a copy of the of the patched file. If you have an IBM account, you can follow the link above. To make it simple, I'm also hosting a copy of the exact same file on Dropbox—you can grab it [here](https://www.dropbox.com/scl/fi/yu7szxku2y96a5dbmrfcq/29.0.1.1-IM-S29STATC-MAC-IF001.zip?rlkey=xzacszibybh1wk9i1dygxm93e&dl=0).
 
 After downloading the patch, unzip it. This should give you a directory called `29.0.1.1-IM-S29STATC-MAC-IF001` with two files inside: `Readme_29.0.1.1-1.txt` and `libplatdep.dylib`. 
 
@@ -28,11 +28,15 @@ Now that you have the patched file, we'll need to copy it over to SPSS. Before w
 All clear? Great.
 
 Open up the application Terminal. You'll see something like this:
+
 ![](https://i.imgur.com/sXcwBQ7.png)
-From here, you're going to input the command: `cd "/Applications/IBM SPSS Statistics/SPSS Statistics.app/Contents/lib/"`. You can either type that our or copy it from here. Then hit <kbr>Enter</kbd>.
+
+From here, you're going to input the command: `cd "/Applications/IBM SPSS Statistics/SPSS Statistics.app/Contents/lib/"`. You can either type that our or copy it from here. Then hit <kbd>Enter</kbd>.
 
 You are now in the "lib" directory, and your screen should look like this:
+
 ![](https://i.imgur.com/i4Fj3DR.png)
+
 Type `open .` and hit <kbd>Enter</kbd>. This will open up the directory above in Finder to make things easier to work with. Once that opens, you can quit Terminal; we're all done in there.
 
 At this point, you should have your SPSS "lib" directory and the patch file directory both open in separate Finder windows:
@@ -40,7 +44,9 @@ At this point, you should have your SPSS "lib" directory and the patch file dire
 ![](https://i.imgur.com/h0qd8HS.png)
 
 Finally, drag the `libplatdep.dylib` from the patch directory over to your "lib" directory. You'll get a warning that looks like this:
+
 ![](https://i.imgur.com/tUiF3HU.png)
+
 Hit "Replace" to overwrite the outdated file with the one that works on Sonoma. 
 
 ### Celebrate
