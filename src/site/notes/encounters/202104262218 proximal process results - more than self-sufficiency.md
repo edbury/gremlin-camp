@@ -8,5 +8,3 @@
 In relation to [[encounters/202104262210 The special importance of time\|202104262210 The special importance of time]], this may serve as partial criteria for success or "actual development". Given what Bronfenbrenner says here, the implication is that some amount of actualized change can be measure by whether or not the above holds true. Did I gain ability, motivation, knowledge, and skill regarding the activities that became my proximal processes? Did that stick? Does that matter?
 
 [[202104262203 PSYCHX140-046 Assignment 1\|202104262203 PSYCHX140-046 Assignment 1]]
-
-#psychx140 #bronfenbrenner 
