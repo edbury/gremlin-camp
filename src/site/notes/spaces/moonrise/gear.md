@@ -1,11 +1,24 @@
 ---
-{"aliases":["Gear","gear"],"date-created":"2023-11-29T18:30","date-modified":"2023-11-29T19:48","dg-publish":true,"tags":["moonrise"],"title":"Gear","dg-path":"moonrise/gear.md","permalink":"/moonrise/gear/","dgPassFrontmatter":true}
+{"aliases":["Gear","gear"],"date-created":"2023-11-29T18:30","date-modified":"2023-11-30T12:16","dg-publish":true,"tags":["moonrise"],"title":"Gear","dg-path":"moonrise/gear.md","permalink":"/moonrise/gear/","dgPassFrontmatter":true}
 ---
 
 
 # Gear
 
 > A reference document for items available in Moonrise--via Favors or otherwise. Not all items are available at all times, regardless of their rarity.
+
+## Animals
+
+| Item                 | Ob  | Slots |
+| -------------------- | --- | ----- |
+| Destrier             | 6   |       |
+| Falcon (Trained)     | 4   |       |
+| Mule                 | 2   |       |
+| Palfrey              | 4   |       |
+| Rouncy               | 4   |       |
+| Warhorse (Legendary) | 9   |       |
+| Warhorse (Renowned)  | 7   |       |
+| Warhorse (Turcoman)  | 5   |       |
 
 ## Armor
 
@@ -72,7 +85,25 @@
 
 ## Clothing
 
+| Item             | Ob  | Slots                           |
+| ---------------- | --- | ------------------------------- |
+| Belt             | 1   | worn/special                    |
+| Boots            | 2   | worn/feet                       |
+| Cloak            | 2   | worn/torso 1, carried 1, pack 2 |
+| Clothing         | 1   | --                              |
+| Finery           | 4   | worn/torso 3, pack 4            |
+| Gloves (leather) | 2   | worn/hands 2, pack 1            |
+| Hat              | 1   | worn/head                       |
+| Hat (stylish)    | 3   | worn/head                       |
+| Jewelry          | 4   |                                 |
+| Scarf            | 2   | worn/neck                       |
+| Shoes            | 1   | worn/feet                       | 
+| Shoes (fancy)    | 2   | worn/feet                       |
+| Sweater (wool)   | 2   | worn/torso 1                    |
+
 ## Containers
+
+## Conveyances
 
 ## Equipment
 
@@ -92,25 +123,18 @@
 | A warship                                                        | 10  |       |
 | Building a castle                                                | 10  |       |
 | Chainmail barding                                                | 5   |       |
-| Clothing                                                         | 1   |       |
 | Day laborer's wage                                               | 1   |       |
-| Destrier                                                         | 6   |       |
 | Donation to the royal court to be considered for a viscountyship | 7   |       |
 | Dwarven forge mask                                               | 8   |       |
 | Elven Tome of Lore                                               | 5   |       |
 | Exotic fabrics                                                   | 4   |       |
 | Exotic spices                                                    | 3   |       |
-| Fancy pair of shoes                                              | 2   |       |
 | Food for the day                                                 | 1   |       |
 | Full plate barding                                               | 7   |       |
 | Industrial equipment: printing press, forge                      | 8   |       |
-| Jewelry                                                          | 4   |       |
 | Large baggage wagon                                              | 4   |       |
 | Large cargo ship                                                 | 9   |       |
-| Legendary warhorse                                               | 9   |       |
 | Lodging for the night                                            | 1   |       |
-| Mule                                                             | 2   |       |
-| Palfrey or rouncy                                                | 4   |       |
 | Passage on a ship                                                | 2   |       |
 | Pay and support for a bodyguard or trainer                       | 4   |       |
 | Pay for household staff or a single professional assistant       | 3   |       |
@@ -124,7 +148,6 @@
 | Rent for a townhouse or country villa                            | 3   |       |
 | Riding or draft horse                                            | 3   |       |
 | Servant's wages                                                  | 2   |       |
-| Shoes                                                            | 1   |       |
 | Small barge                                                      | 4   |       |
 | Small cargo ship                                                 | 8   |       |
 | Sturdy 18-man longboat                                           | 4   |       |
@@ -134,7 +157,4 @@
 | Tools for peasant, seafaring, and musical skills                 | 2   |       |
 | Tools for sorcerous skills                                       | 6   |       |
 | Tools for special skills                                         | 5   |       |
-| Trained falcon                                                   | 4   |       |
 | Traveling gear                                                   | 2   |       |
-| Turcoman warhorse                                                | 5   |       |
-| Warhorse of renown                                               | 7   |       |
