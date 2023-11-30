@@ -123,26 +123,32 @@ h6 {
 
 h1 {
   font-size: var(--font-scale-5);
+  color: var(--h1-color);
 }
 
 h2 {
   font-size: var(--font-scale-4);
+  color: var(--h2-color);
 }
 
 h3 {
   font-size: var(--font-scale-3);
+  color: var(--h3-color);
 }
 
 h4 {
   font-size: var(--font-scale-2);
+  color: var(--h4-color);
 }
 
 h5 {
   font-size: var(--font-scale-1);
+  color: var(--h5-color);
 }
 
 h6 {
   font-size: var(--font-scale-0);
+  color: var(--h6-color);
 }
 
 p {
