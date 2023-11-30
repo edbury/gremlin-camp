@@ -1,5 +1,5 @@
 ---
-{"aliases":["Gear","gear"],"date-created":"2023-11-29T18:30","date-modified":"2023-11-29T19:30","dg-publish":true,"tags":["moonrise"],"title":"Gear","dg-path":"moonrise/gear.md","permalink":"/moonrise/gear/","dgPassFrontmatter":true}
+{"aliases":["Gear","gear"],"date-created":"2023-11-29T18:30","date-modified":"2023-11-29T19:48","dg-publish":true,"tags":["moonrise"],"title":"Gear","dg-path":"moonrise/gear.md","permalink":"/moonrise/gear/","dgPassFrontmatter":true}
 ---
 
 
@@ -9,64 +9,66 @@
 
 ## Armor
 
-| Item                            | Ob  | Slots                                |
-| ------------------------------- | --- | ------------------------------------ |
-| Dwarven mail                    | 10  | worn/torso 2                         |
-| Elven plated mail               | 9   | worn/torso 1                         |
-| Gambeson                        | 2   | worn/torso 1                         |
-| Great helm                      | 5   | worn/head                            |
-| Poor quality bascinet           | 3   | worn/head                            |
-| Poor quality reinforced leather | 2   | worn/torso 1                         |
-| Poor quality spangenhelm        | 2   | worn/head                            |
-| Pot helm                        | 2   | worn/head                            |
-| Run of the mill full plate      | 6   | worn/torso 2                         |
-| Run of the mill heavy mail      | 4   | worn/torso 2                         |
-| Run of the mill light mail      | 3   | worn/torso 1                         |
-| Run of the mill plated mail     | 5   | worn/torso 2                         |
-| Sallet                          | 4   | worn/head                            |
-| Spangenhelm                     | 3   | worn/head                            |
+| Item                            | Ob  | Slots        |
+| ------------------------------- | --- | ------------ |
+| Dwarven mail                    | 10  | worn/torso 2 |
+| Elven plated mail               | 9   | worn/torso 1 |
+| Gambeson                        | 2   | worn/torso 1 |
+| Great helm                      | 5   | worn/head    |
+| Poor quality bascinet           | 3   | worn/head    |
+| Poor quality reinforced leather | 2   | worn/torso 1 |
+| Poor quality spangenhelm        | 2   | worn/head    |
+| Pot helm                        | 2   | worn/head    |
+| Run of the mill full plate      | 6   | worn/torso 2 |
+| Run of the mill heavy mail      | 4   | worn/torso 2 |
+| Run of the mill light mail      | 3   | worn/torso 1 |
+| Run of the mill plated mail     | 5   | worn/torso 2 |
+| Sallet                          | 4   | worn/head    |
+| Spangenhelm                     | 3   | worn/head    |
 
 ## Arms
 
-| Item           | Ob  | Slots                                        |
-| -------------- | --- | -------------------------------------------- |
-| Arming Sword   | 3   | carried 1, belt 1; wielded 1                 |
-| Arquebus       |     |                                              |
-| Axe†           | 2   |                                              |
-| Crossbow       | 4   | carried 2, belt 1; wielded 2                 |
-| Daggerº        | 5   | carried 1, belt 1; wielded 1                 |
-| Dirk           | 3   | carried 1, belt 1; wielded 1                 |
-| Dwarven arms   | 6   |                                              |
-| Dwarven shield | 7   | carried 1, worn/torso 1; wielded 1           |
-| Elven bow      | 6   | quiver 1, carried 1; wielded 2 | 
-| Footman's Axe  | 3   |                                              |
-| Great Bow      | 4   |                                              |
-| Great Maceº    | 5   |                                              |
-| Hammer         | 3   |                                              |
-| Hammerº        | 5   |                                              |
-| Hatchet        | 3   |                                              |
-| Heavy Crossbow |     |                                              |
-| Hunting Bow    | 3   | quiver 1, carried 1; wielded 2 |
-| Knife, shiv†   | 2   | carried 1, belt 1; wielded 1                 |
-| Lance          | 3   |                                              |
-| Light Axe      | 3   |                                              |
-| Long Sword     | 3   | carried 1, belt 1; wielded 1                 |
-| Long Swordº    | 5   | carried 1, belt 1; wielded 1                 |
-| Mace           | 3   | carried 1, belt 1; wielded 1                 |
-| Pistol         |     |                                              |
-| Polearm        | 3   | carried 1; wielded 2                         |
-| Polearmº       | 5   | carried 1; wielded 2                         |
-| Short Spear    | 3   |                                              |
-| Short Sword    | 3   | carried 1, belt 1; wielded 1                 |
-| Spear          | 3   | carried 1; wielded 1                         |
-| Spearº         | 5   | carried 1; wielded 1                         |
-| Spear†         | 2   | carried 1; wielded 1                         |
-| Sweet Axeº     | 5   |                                              |
-| Sword†         | 2   | carried 1, belt 1; wielded 1                 |
+| Item           | Ob  | Slots                                |
+| -------------- | --- | ------------------------------------ |
+| Arming Sword   | 3   | carried 1, belt 1; wielded 1         |
+| Arquebus       |     |                                      |
+| Axe†           | 2   | carried 1; wielded 2                 |
+| Crossbow       | 4   | carried 2, belt 1; wielded 2         |
+| Daggerº        | 5   | carried 1, belt 1; wielded 1         |
+| Dirk           | 3   | carried 1, belt 1; wielded 1         |
+| Dwarven arms   | 6   |                                      |
+| Dwarven shield | 7   | carried 1, worn/torso 1; wielded 1   |
+| Elven bow      | 6   | quiver 1, carried 1; wielded 2       |
+| Footman's Axe  | 3   | carried 1; wielded 2                 |
+| Great Bow      | 4   | carried 1; wielded 2                 |
+| Great Maceº    | 5   | carried 1; wielded 2                 | 
+| Hammer         | 3   | carried 1; wielded 2                 |
+| Hammerº        | 5   | carried 1; wielded 2                 |
+| Hatchet        | 3   | belt 1, pack 2, carried 1; wielded 1 |
+| Heavy Crossbow |     | carried 2; wielded 2                 |
+| Hunting Bow    | 3   | quiver 1, carried 1; wielded 2       |
+| Knife, shiv†   | 2   | carried 1, belt 1; wielded 1         |
+| Lance™         | 3   | carried 1; wielded 1                 |
+| Light Axe      | 3   | carried 1, belt 1; wielded 1         |
+| Long Sword     | 3   | carried 1, belt 1; wielded 1         |
+| Long Swordº    | 5   | carried 1, belt 1; wielded 1         |
+| Mace           | 3   | carried 1, belt 1; wielded 1         |
+| Pistol         |     |                                      |
+| Polearm        | 3   | carried 1; wielded 2                 |
+| Polearmº       | 5   | carried 1; wielded 2                 |
+| Short Spear    | 3   | carried 1; wielded 1                 |
+| Short Sword    | 3   | carried 1, belt 1; wielded 1         |
+| Spear          | 3   | carried 1; wielded 2                 |
+| Spearº         | 5   | carried 1; wielded 2                 |
+| Spear†         | 2   | carried 1; wielded 2                 |
+| Sweet Axeº     | 5   | carried 1; wielded 2                 |
+| Sword†         | 2   | carried 1, belt 1; wielded 1         |
 
-†Poor quality arms—Using poor quality arms incurs a +1 Ob penalty to all combat tests using the weapon.
+† Poor quality arms—Using poor quality arms incurs a +1 Ob penalty to all combat tests using the weapon.
 
-ºSuperior quality arms—Use the superior quality weapon stats.
+º Superior quality arms—Use the superior quality weapon stats.
+
+™ Must be mounted and have Mounted Combat Training.
 
 ## Clothing
 
