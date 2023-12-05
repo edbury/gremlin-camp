@@ -1,5 +1,5 @@
 ---
-{"aliases":["STARS Transit and Recruiting Services","Bring Your Own Character","BYOC"],"date-created":"2023-08-01T19:15","date-modified":"2023-08-15T18:24","dg-publish":true,"tags":["mosh"],"title":"STARS Transit and Recruiting Services","dg-path":"mothership/BYOC.md","permalink":"/mothership/byoc/","dgPassFrontmatter":true}
+{"aliases":["STARS Transit and Recruiting Services","Bring Your Own Character","BYOC"],"date-created":"2023-08-01T19:15","date-modified":"2023-12-05T13:08","dg-publish":true,"tags":["mosh"],"title":"STARS Transit and Recruiting Services","dg-path":"mothership/BYOC.md","permalink":"/mothership/byoc/","dgPassFrontmatter":true}
 ---
 
 
@@ -9,7 +9,7 @@ _A framework for Mothership character progression outside of campaign play._
 
 Do you feel like you're always starting from square one? Are you tired of risking your life for credits you never seem to spend? Does shore leave seem like a distant dream?
 
-Here at STARS Transit and Recruiting Services, we recognize the difficulties facing contractors working one-shot jobs. We partner with STARS-approved employers to bring you standardized pay, on-the-job training, and guaranteed time off.
+Here at STARS Transit and Recruiting Services, we recognize the difficulties facing contractors today. We partner with STARS-approved employers to bring you standardized pay, on-the-job training, and guaranteed time off.
 
 ## Contractors
 
@@ -41,43 +41,47 @@ Here at STARS, we embrace the methodology of Rapid Skill Learning. By following 
 
 Contractors can learn a **Trained Skill** in 3 sessions, an **Expert Skill** in 5 sessions, and a **Master Skill** in 10 sessions. 
 
-Skill costs remain unchanged and contractors will need to purchase their own materials.
+Credit costs remain unchanged and contractors will need to purchase their own materials.
 
-## Employers
+## Wardens
 
 Running a BYOC session doesn't require any changes to your play style. However, two small pieces of prep will help:
 
 First, decide on the Hazard Level and Jump Pay up front. Announcing these ahead of time will give prospective players a sense of how much they stand to make, how lethal the contract is, and how weird things might get.
 
-Second, if any of your players are bringing a legacy character, take a quick look over their sheet. They may have gear or conditions from previous missions you may want to account for or request they leave behind.
+~~Second, if any of your players are bringing a legacy character, take a quick look over their sheet. They may have gear or conditions from previous missions you may want to account for or request they leave behind.~~ [This should be standardized in some way. Mission constraints, maybe. "No explosives permitted." for ex.]
 
-You're also free to set a cap on the High Score of participating characters, which will provide a loose ceiling for player power level.
+You're also free to set a cap on the High Score of participating characters, which will provide a loose ceiling for player power level. [Maybe some guidelines here. "X-Y are likely entry-level contractors."]
 
-Imagining that your PCs are looking over the station's job board, a standardized contract might look something like this:
+When contractors are looking over the station's job board, a standard job might look something like:
 
 ```
-Piece by Piece
-
 Location: Daedalus Robotics Lab
 Hazard: 2
 Jumps: 0
 Players: 3-5
 High Score Limit: 5
+
+The Daedalus Robotics Lab is in lockdown after personnel were fatally compromised in a random incident. Reports are linking the events to a work tool found at the scene, now classified as Artifact 21. Further details are undisclosed.
+
+Daedalus Robotics Lab’s parent company, Jensen-Hung, is excited to offer an attractive opportunity to any self-motivated freelancers in the sector! Taking on the important role of Temporary Maintenance Crew, contractees are tasked with retrieving Artifact 21 for analysis. Caution is advised; discretion is enforced.
+
+Jensen-Hung reminds its contractees that they are legally distinct from employees, and as such will receive no compensation in the event they are compromised.
 ```
 
 ## Players
 
-As with running a session, running your character doesn't require any changes. Between sessions, however, you'll have some bookkeeping to do!
+As with running a session, running a character doesn't require any changes. Between sessions, however, you'll have some bookkeeping to do.
 
-I suggest keeping a small log to track the contracts your character has taken on, how much they were paid, and whether they gained any conditions.
+I suggest keeping a small log to track the contracts a character has taken on, how much they were paid, and whether they gained any conditions.
 
 ### Before each session
 
-After finding a suitable contract, it's helpful to share your sheet and history with the Warden. This will give them a chance to get familiar with your skillset and flag any non-standard gear you might have picked up. Space is a big place, and your cache of loot may not be suitable for every contract.
+Provide the Warden with your 
 
 ### Post-session
 
-At the end of each session, be sure to update your sheet:
+At the end of each session, update your sheet:
 
 1. Get paid
 2. Raise your High Score by 1
@@ -90,22 +94,27 @@ During campaign play, characters have chances to recuperate and progress that ar
 A checklist for between-session solo play might look something like:
 
 1. Take Shore Leave
-  - Decide on a Port Class based on your credits available. Debt rules and NPC intervention won't be available during solo play.
-  - Resolve Shore Leave as normal. We trust you.
+  - Decide on a Port Class based on your available credits.
+  - Resolve Shore Leave as normal.
 2. Seek medical attention.
   - You'll want to heal those wounds and remove any conditions you have... if you can pay.
 3. Pay for Skill Training
   - If you have the credits and you're not currently learning a skill, now is the time to pay for your training.
 4. Go shopping.
-  - It's time to spend those hard-earned credits.
   - Consider any items available in the PSG available at the listed price.
+
+Some tables may take Shore Leave together rather than asynchronously.
+
+#### For campaign play
+
+Additional Shore Leave options may be available during campaign play or at a Warden's discretion. You may wish to mark these encounters in your log.
   
 
 ## State of this Document
 
-This document is an early work-in-progress. I'm currently soliciting feedback from Wardens and Players to get this ready for play-testing.
+This document is an early work-in-progress.
 
 ### To Do
 
 - [ ] Add sections for playing with expanded TKG content and possible shared lore. For ex, assuming Prospero's Dream as a home base for characters.
-- [ ] Review all of the naming and language in this doc. Is BYOC right? Something like the Pathfinder Society might be more apt, tho this is all unofficial.
+- [ ] Review all of the naming and language in this doc. Is BYOC right?
