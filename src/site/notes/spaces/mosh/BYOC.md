@@ -1,5 +1,5 @@
 ---
-{"aliases":["STARS Transit and Recruiting Services","Bring Your Own Character","BYOC"],"date-created":"2023-08-01T19:15","date-modified":"2023-12-05T13:08","dg-publish":true,"tags":["mosh"],"title":"STARS Transit and Recruiting Services","dg-path":"mothership/BYOC.md","permalink":"/mothership/byoc/","dgPassFrontmatter":true}
+{"aliases":["STARS Transit and Recruiting Services","Bring Your Own Character","BYOC"],"date-created":"2023-08-01T19:15","date-modified":"2023-12-05T13:13","dg-publish":true,"tags":["mosh"],"title":"STARS Transit and Recruiting Services","dg-path":"mothership/BYOC.md","permalink":"/mothership/byoc/","dgPassFrontmatter":true}
 ---
 
 
@@ -55,19 +55,17 @@ You're also free to set a cap on the High Score of participating characters, whi
 
 When contractors are looking over the station's job board, a standard job might look something like:
 
-```
-Location: Daedalus Robotics Lab
-Hazard: 2
-Jumps: 0
-Players: 3-5
-High Score Limit: 5
-
-The Daedalus Robotics Lab is in lockdown after personnel were fatally compromised in a random incident. Reports are linking the events to a work tool found at the scene, now classified as Artifact 21. Further details are undisclosed.
-
-Daedalus Robotics Lab’s parent company, Jensen-Hung, is excited to offer an attractive opportunity to any self-motivated freelancers in the sector! Taking on the important role of Temporary Maintenance Crew, contractees are tasked with retrieving Artifact 21 for analysis. Caution is advised; discretion is enforced.
-
-Jensen-Hung reminds its contractees that they are legally distinct from employees, and as such will receive no compensation in the event they are compromised.
-```
+> Location: Daedalus Robotics Lab
+> Hazard: 2
+> Jumps: 0
+> Players: 3-5
+> High Score Limit: 5
+> 
+> The Daedalus Robotics Lab is in lockdown after personnel were fatally compromised in a random incident. Reports are linking the events to a work tool found at the scene, now classified as Artifact 21. Further details are undisclosed.
+> 
+> Daedalus Robotics Lab's parent company, Jensen-Hung, is excited to offer an attractive opportunity to any self-motivated freelancers in the sector! Taking on the important role of Temporary Maintenance Crew, contractees are tasked with retrieving Artifact 21 for analysis. Caution is advised; discretion is enforced.
+> 
+> Jensen-Hung reminds its contractees that they are legally distinct from employees, and as such will receive no compensation in the event they are compromised.
 
 ## Players
 
