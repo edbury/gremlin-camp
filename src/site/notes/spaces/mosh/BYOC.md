@@ -1,15 +1,15 @@
 ---
-{"aliases":["STARS Transit and Recruiting Services","Bring Your Own Character","BYOC"],"date-created":"2023-08-01T19:15","date-modified":"2023-12-05T13:13","dg-publish":true,"tags":["mosh"],"title":"STARS Transit and Recruiting Services","dg-path":"mothership/BYOC.md","permalink":"/mothership/byoc/","dgPassFrontmatter":true}
+{"aliases":["STARS Transit and Recruiting Services","Bring Your Own Character","BYOC"],"date-created":"2023-08-01T19:15","date-modified":"2023-12-05T21:34","dg-publish":true,"tags":["mosh"],"title":"STARS Transit and Recruiting Services","dg-path":"mothership/BYOC.md","permalink":"/mothership/byoc/","dgPassFrontmatter":true}
 ---
 
 
 # STARS Transit and Recruiting Services
 
-_A framework for Mothership character progression outside of campaign play._
+A framework for Mothership character progression outside of campaign play.
 
-Do you feel like you're always starting from square one? Are you tired of risking your life for credits you never seem to spend? Does shore leave seem like a distant dream?
+*Do you feel like you're always starting from square one? Are you tired of risking your life for credits you never seem to spend? Does shore leave seem like a distant dream?*
 
-Here at STARS Transit and Recruiting Services, we recognize the difficulties facing contractors today. We partner with STARS-approved employers to bring you standardized pay, on-the-job training, and guaranteed time off.
+*Here at STARS Transit and Recruiting Services, we recognize the difficulties facing contractors today. We partner with STARS-approved employers to bring you standardized pay, on-the-job training, and guaranteed time off.*
 
 ## Contractors
 
@@ -23,21 +23,23 @@ STARS contractors are paid a standard salary based on their training. For every 
 - 1,000cr for every Expert Skill
 - 2,000cr for every Master Skill
 
-And that's not all, STARS contractors are also entitled to Hazard and Jump Pay, depending on the job. 
+STARS contractors are also entitled to Hazard and Jump Pay, depending on the job. 
 
 #### Hazard Pay
 
-Every STARS contract is rated with a Hazard level of 1-5, which acts as a multiplier for your salary. That's right! Taking on challenging and exciting work can earn you up to 5x your normal salary!
+Every STARS contract is rated with a Hazard level of 1-5, which acts as a multiplier for your salary. 
+
+*That's right! Taking on challenging and exciting work can earn you up to 5x your normal salary!*
 
 #### Jump Pay
 
-Similarly, every STARS contract will indicate the amount of Jumps you'll be undertaking prior to and during the job. Contractors are entitled to a 1kcr bonus _per jump_ and should use this rating to assess how unique their experiences may be.
+Every STARS contract will indicate the amount of Jumps you'll be undertaking prior to and during the job. Contractors are entitled to a 1kcr bonus _per jump_. A high jump rating may indicate work conditions extremely outside the norm.
 
 ### Skill Training
 
 > This optional rule is taken from the [[encounters/Wardens Operations Manual\|Wardens Operations Manual]], page 52.
 
-Here at STARS, we embrace the methodology of Rapid Skill Learning. By following our regimented training program, you can learn a new skill over the course of a few jobs, rather than several months!
+*Here at STARS, we embrace the methodology of Rapid Skill Learning. By following our regimented training program, you can learn a new skill over the course of a few jobs, rather than several months!*
 
 Contractors can learn a **Trained Skill** in 3 sessions, an **Expert Skill** in 5 sessions, and a **Master Skill** in 10 sessions. 
 
@@ -51,7 +53,7 @@ First, decide on the Hazard Level and Jump Pay up front. Announcing these ahead 
 
 ~~Second, if any of your players are bringing a legacy character, take a quick look over their sheet. They may have gear or conditions from previous missions you may want to account for or request they leave behind.~~ [This should be standardized in some way. Mission constraints, maybe. "No explosives permitted." for ex.]
 
-You're also free to set a cap on the High Score of participating characters, which will provide a loose ceiling for player power level. [Maybe some guidelines here. "X-Y are likely entry-level contractors."]
+~~The High Score of participating characters will provide a loose ceiling for player power level.~~ [Maybe some guidelines here. "X-Y are likely entry-level contractors."]
 
 When contractors are looking over the station's job board, a standard job might look something like:
 
@@ -59,7 +61,6 @@ When contractors are looking over the station's job board, a standard job might 
 > Hazard: 2
 > Jumps: 0
 > Players: 3-5
-> High Score Limit: 5
 > 
 > The Daedalus Robotics Lab is in lockdown after personnel were fatally compromised in a random incident. Reports are linking the events to a work tool found at the scene, now classified as Artifact 21. Further details are undisclosed.
 > 
@@ -75,7 +76,7 @@ I suggest keeping a small log to track the contracts a character has taken on, h
 
 ### Before each session
 
-Provide the Warden with your 
+Provide the Warden with your character sheet.
 
 ### Post-session
 
@@ -110,9 +111,10 @@ Additional Shore Leave options may be available during campaign play or at a War
 
 ## State of this Document
 
-This document is an early work-in-progress.
+This document is an early work-in-progress. Tone, content, and the site are likely to change a lot over time. 
 
 ### To Do
 
 - [ ] Add sections for playing with expanded TKG content and possible shared lore. For ex, assuming Prospero's Dream as a home base for characters.
+- [ ] Does ship stuff matter? Or the frame? For ex, who pays for fuel and warp cores? Maybe the _Prometheus_ in Prometheus (2012) is the best analog.
 - [ ] Review all of the naming and language in this doc. Is BYOC right?
