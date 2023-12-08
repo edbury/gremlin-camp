@@ -1,5 +1,5 @@
 ---
-{"aliases":["Burning Characters"],"date-created":"2023-11-29T12:38","date-modified":"2023-12-08T10:07","dg-publish":true,"tags":["moonrise"],"title":"Burning Characters","dg-path":"moonrise/burning characters.md","permalink":"/moonrise/burning-characters/","dgPassFrontmatter":true}
+{"aliases":["Burning Characters"],"date-created":"2023-11-29T12:38","date-modified":"2023-12-08T10:56","dg-publish":true,"tags":["moonrise"],"title":"Burning Characters","dg-path":"moonrise/burning characters.md","permalink":"/moonrise/burning-characters/","dgPassFrontmatter":true}
 ---
 
 
@@ -12,7 +12,7 @@ Creating a character in Moonrise follows the same process as vanilla Burning Whe
 While their gifts manifest at different times, only children are selected to join the order.
 
 - Starting characters in Moonrise are limited to *two* lifepaths.
-- If you're interested in playing an older member of the order, see [Veterans](#veterans) below.
+- If you're interested in playing an older member of the order, see [[spaces/moonrise/burning characters#^099058\|Veterans]] below.
 
 ## The Dim Flame
 
@@ -25,8 +25,9 @@ Children selected for the order display an uncanny talent for a single skill.
 - Take the `Child Prodigy` trait for free.
 - The related skill must be selected from skills offered by your first or second Lifepath.
 
-> [!note]
-> **Child Prodigy (Adjusted)** This trait is only available to one or two lifepath characters. The player may shade shift one skill. Abuse this at your peril.
+> **Child Prodigy (Adjusted)** 
+> 
+> This trait is only available to one or two lifepath characters. The player may shade shift one skill. Abuse this at your peril.
 
 ### Corruption
 
@@ -47,6 +48,8 @@ These talents, however, come with a cost. Children touched by the Darkness are m
 > He chooses `Palsy`. Ever since his talent revealed itself, Dolmen has suffered from severe tremors.
 
 ## Veterans
+{ #099058}
+
 
 If you're interested in playing as an older character, you may opt to play as the party's Veteran. Veterans are existing members of the order who have survived since the crowning of the previous monarch.
 
