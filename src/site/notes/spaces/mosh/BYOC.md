@@ -1,5 +1,5 @@
 ---
-{"aliases":["STARS Transit and Recruiting Services","Bring Your Own Character","BYOC"],"date-created":"2023-08-01T19:15","date-modified":"2023-12-05T21:34","dg-publish":true,"tags":["mosh"],"title":"STARS Transit and Recruiting Services","dg-path":"mothership/BYOC.md","permalink":"/mothership/byoc/","dgPassFrontmatter":true}
+{"aliases":["STARS Transit and Recruiting Services","Bring Your Own Character","BYOC"],"date-created":"2023-08-01T19:15","date-modified":"2023-12-07T21:08","dg-publish":true,"tags":["mosh"],"title":"STARS Transit and Recruiting Services","dg-path":"mothership/BYOC.md","permalink":"/mothership/byoc/","dgPassFrontmatter":true}
 ---
 
 
@@ -43,7 +43,7 @@ Every STARS contract will indicate the amount of Jumps you'll be undertaking pri
 
 Contractors can learn a **Trained Skill** in 3 sessions, an **Expert Skill** in 5 sessions, and a **Master Skill** in 10 sessions. 
 
-Credit costs remain unchanged and contractors will need to purchase their own materials.
+Credit costs remain unchanged and contractors will need to purchase their own materials during Shore Leave.
 
 ## Wardens
 
@@ -70,13 +70,11 @@ When contractors are looking over the station's job board, a standard job might 
 
 ## Players
 
-As with running a session, running a character doesn't require any changes. Between sessions, however, you'll have some bookkeeping to do.
-
 I suggest keeping a small log to track the contracts a character has taken on, how much they were paid, and whether they gained any conditions.
 
 ### Before each session
 
-Provide the Warden with your character sheet.
+Provide the Warden with a copy of your character sheet.
 
 ### Post-session
 
