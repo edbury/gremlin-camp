@@ -1,5 +1,5 @@
 ---
-{"aliases":["Burning Characters"],"date-created":"2023-11-29T12:38","date-modified":"2023-12-08T14043:56","dg-publish":true,"tags":["moonrise"],"title":"Burning Characters","dg-path":"moonrise/burning characters.md","permalink":"/moonrise/burning-characters/","dgPassFrontmatter":true}
+{"aliases":["Burning Characters"],"date-created":"2023-11-29T12:38","date-modified":"2023-12-22T22:11","dg-publish":true,"tags":["moonrise"],"title":"Burning Characters","dg-path":"moonrise/burning characters.md","permalink":"/moonrise/burning-characters/","dgPassFrontmatter":true}
 ---
 
 
@@ -22,7 +22,7 @@ Though more hospitable than the Day or Night, humans were not meant to live in t
 Children selected for the order display an uncanny talent for a single skill.
 
 - Take the `Child Prodigy` trait for free.
-- The related skill must be selected from skills offered by your first or second Lifepath.
+- The related skill must be offered by one of your lifepaths.
 
 > **Child Prodigy (Adjusted)** 
 > 
