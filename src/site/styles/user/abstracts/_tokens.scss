@@ -1,7 +1,7 @@
 $max-line-length: 60ch;
 
 :root {
-  // Base 16 Format. Gruvbox.
+  // base 16 format. gruvbox.
   --base00: #1d2021; 
   --base01: #3c3836; 
   --base02: #504945; 
@@ -12,35 +12,35 @@ $max-line-length: 60ch;
   --base07: #fbf1c7;
   --base08: #fb4934; 
   --base09: #fe8019; 
-  --base0A: #fabd2f;
-  --base0B: #b8bb26;
-  --base0C: #8ec07c;
-  --base0D: #83a598;
-  --base0E: #d3869b;
-  --base0F: #d65d0e;
+  --base0a: #fabd2f;
+  --base0b: #b8bb26;
+  --base0c: #8ec07c;
+  --base0d: #83a598;
+  --base0e: #d3869b;
+  --base0f: #d65d0e;
 
-  // Colors
+  // colors
   --background-color-base: var(--base00);
   --background-color-accent: var(--base01);
   --text-color-body: var(--base07);
-  --text-color-accent: var(--base0D);
-  --link-text-color: var(--base0A);
-  --h1-color: var(--base0A);
-  --h2-color: var(--base0B);
-  --h3-color: var(--base0C);
-  --h4-color: var(--base0D);
-  --h5-color: var(--base0E);
-  --h6-color: var(--base0F);
+  --text-color-accent: var(--base0d);
+  --link-text-color: var(--base0a);
+  --h1-color: var(--base0a);
+  --h2-color: var(--base0b);
+  --h3-color: var(--base0c);
+  --h4-color: var(--base0d);
+  --h5-color: var(--base0e);
+  --h6-color: var(--base0f);
 
-  // Type
-  --font-family-primary: 'Open Sans', -apple-system, blinkmacsystemfont, avenir next, avenir, segoe ui, helvetica neue, helvetica, ubuntu, roboto, noto, arial, sans-serif;
-  --font-family-secondary: 'Gentium Book Basic', iowan old style, apple garamond, baskerville, times new roman, droid serif, times, source serif pro, serif, apple color emoji, segoe ui emoji, segoe ui symbol;
+  // type
+  --font-family-primary: 'open sans', -apple-system, blinkmacsystemfont, avenir next, avenir, segoe ui, helvetica neue, helvetica, ubuntu, roboto, noto, arial, sans-serif;
+  --font-family-secondary: 'gentium book basic', iowan old style, apple garamond, baskerville, times new roman, droid serif, times, source serif pro, serif, apple color emoji, segoe ui emoji, segoe ui symbol;
   --line-height-base: 1.5;
   --max-line-length: #{$max-line-length};
   --half-line-length: 30ch; // integer for grid math
   --font-weight-bold: 600;
 
-  // Type Scale
+  // type scale
   --font-scale-neg1: 0.889rem;
   --font-scale-0: 1rem;
   --font-scale-1: 1.125rem;
@@ -56,26 +56,26 @@ $max-line-length: 60ch;
   --font-size-body: var(--font-scale-0);
   --font-size-caption: var(--font-scale-neg1);
 
-  // Shape
+  // shape
   --border-width: 1px;
   --border-style: solid;
   --border-color: var(--base03);
   --border-radius: calc(var(--font-scale-0)/4);
 
-  // Spacing
+  // spacing
   --space-m: calc(1rem * var(--line-height-base));
   --space-s: calc(0.5 * var(--space-m));
   --space-xs: calc(0.5 * var(--space-s));
   --space-xxs: calc(0.5 * var(--space-xs));
   --space-l: calc(2 * var(--space-m));
 
-  // Transition
+  // transition
   --transition-timing: ease-in-out;
   --transition-duration: 100ms;
 
-  // Conversion Tokens
+  // conversion tokens
 
-  //// Digital Garden
+  //// digital garden
 
   --note-icon-1: url(/img/tree-1.svg);
   --note-icon-2: url(/img/tree-2.svg);
@@ -86,7 +86,7 @@ $max-line-length: 60ch;
 }
 
 .tag-mosh {
-  // Base 16 Format.
+  // base 16 format.
   --base00: #282936;
   --base01: #3a3c4e;
   --base02: #4d4f68;
@@ -97,38 +97,93 @@ $max-line-length: 60ch;
   --base07: #f7f7fb;
   --base08: #ea51b2;
   --base09: #b45bcf;
-  --base0A: #00f769;
-  --base0B: #ebff87;
-  --base0C: #a1efe4;
-  --base0D: #62d6e8;
-  --base0E: #b45bcf;
-  --base0F: #00f769;
+  --base0a: #00f769;
+  --base0b: #ebff87;
+  --base0c: #a1efe4;
+  --base0d: #62d6e8;
+  --base0e: #b45bcf;
+  --base0f: #00f769;
 
-  // Colors
+  // colors
   --background-color-base: var(--base00);
   --background-color-accent: var(--base01);
   --text-color-body: var(--base07);
-  --text-color-accent: var(--base0D);
-  --link-text-color: var(--base0A);
-  --h1-color: var(--base0A);
-  --h2-color: var(--base0B);
-  --h3-color: var(--base0C);
-  --h4-color: var(--base0D);
-  --h5-color: var(--base0E);
-  --h6-color: var(--base0F);
+  --text-color-accent: var(--base0d);
+  --link-text-color: var(--base0a);
+  --h1-color: var(--base0a);
+  --h2-color: var(--base0b);
+  --h3-color: var(--base0c);
+  --h4-color: var(--base0d);
+  --h5-color: var(--base0e);
+  --h6-color: var(--base0f);
 
-  // Type
-  --font-family-primary: ui-monospace, Menlo, Monaco, "Cascadia Mono", "Segoe UI Mono", "Roboto Mono", "Oxygen Mono", "Ubuntu Monospace", "Source Code Pro", "Fira Mono", "Droid Sans Mono", "Courier New", monospace;
+  // type
+  --font-family-primary: ui-monospace, menlo, monaco, "cascadia mono", "segoe ui mono", "roboto mono", "oxygen mono", "ubuntu monospace", "source code pro", "fira mono", "droid sans mono", "courier new", monospace;
 
-  // Shape
+  // shape
   --border-width: 1px;
   --border-style: solid;
   --border-color: var(--base03);
   --border-radius: calc(var(--font-scale-0)/4);
 
-  // Conversion Tokens
+  // conversion tokens
 
-  //// Digital Garden
+  //// digital garden
+
+  --note-icon-1: url(/img/tree-1.svg);
+  --note-icon-2: url(/img/tree-2.svg);
+  --note-icon-3: url(/img/tree-3.svg);
+  --note-icon-fallback: url(/img/default-note-icon.svg);
+  --graph-main: var(--text-accent);
+  --graph-muted: var(--text-muted);
+}
+
+.tag-moonrise {
+  
+ 
+  --base00: #22221b;
+  --base01: #302f27;
+  --base02: #5f5e4e;
+  --base03: #6c6b5a;
+  --base04: #878573;
+  --base05: #929181;
+  --base06: #e7e6df;
+  --base07: #f4f3ec;
+  --base08: #ba6236;
+  --base09: #ae7313;
+  --base0a: #a5980d;
+  --base0b: #7d9726;
+  --base0c: #5b9d48;
+  --base0d: #36a166;
+  --base0e: #5f9182;
+  --base0f: #9d6c7c;
+
+
+  // colors
+  --background-color-base: var(--base00);
+  --background-color-accent: var(--base01);
+  --text-color-body: var(--base07);
+  --text-color-accent: var(--base0d);
+  --link-text-color: var(--base0c);
+  --h1-color: var(--base0a);
+  --h2-color: var(--base0b);
+  --h3-color: var(--base0c);
+  --h4-color: var(--base0d);
+  --h5-color: var(--base0e);
+  --h6-color: var(--base0f);
+
+  // type
+  --font-family-primary: ui-monospace, menlo, monaco, "cascadia mono", "segoe ui mono", "roboto mono", "oxygen mono", "ubuntu monospace", "source code pro", "fira mono", "droid sans mono", "courier new", monospace;
+
+  // shape
+  --border-width: 1px;
+  --border-style: solid;
+  --border-color: var(--base03);
+  --border-radius: calc(var(--font-scale-0)/4);
+
+  // conversion tokens
+
+  //// digital garden
 
   --note-icon-1: url(/img/tree-1.svg);
   --note-icon-2: url(/img/tree-2.svg);
