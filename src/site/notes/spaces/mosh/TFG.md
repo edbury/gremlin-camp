@@ -7,4 +7,4 @@
 
 | SCORE | CHARACTER   | STATUS   | CAUSE             | PLAYER |
 | ----- | ----------- | -------- | ----------------- | ------ |
-| 12    | Teddie Bark | Deceased | Reactor explosion | JM     |
+| 12    | Teddie Bark | Deceased | Reactor explosion | JCM    | 
