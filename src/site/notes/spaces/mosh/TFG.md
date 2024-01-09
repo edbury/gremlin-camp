@@ -5,6 +5,6 @@
 
 # High Scores
 
-| Score | Character   | Status | Cause             | Type   | Tokens | Player |
-| ----- | ----------- | ------ | ----------------- | ------ | ------ | ------ |
-| 4    | Teddie Bark | Dead   | Reactor Explosion | Heroic |   12     |  JM      |
+| Score | Character   | Status | Cause             | Player |
+| ----- | ----------- | ------ | ----------------- | ------ |
+| 12    | Teddie Bark | Dead   | Reactor Explosion | JM     |
