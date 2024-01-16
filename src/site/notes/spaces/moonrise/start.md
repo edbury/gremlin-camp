@@ -6,4 +6,4 @@ You are alone beside [[the long road\|the long road]]. A path extends away from 
 
 Soon the shepherd will come. He will ask, and you must answer.
 
-[[spaces/moonrise/burning characters\|Who are you?]]
+[[spaces/moonrise/character burning\|Who are you?]]
