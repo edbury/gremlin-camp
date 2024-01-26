@@ -1,5 +1,5 @@
 ---
-{"aliases":["Gear","gear"],"date-created":"2023-11-29T18:30","date-modified":"2024-01-22T21:50","dg-publish":true,"tags":["moonrise"],"title":"Gear","dg-path":"moonrise/gear.md","permalink":"/moonrise/gear/","dgPassFrontmatter":true}
+{"aliases":["Gear","gear"],"date-created":"2023-11-29T18:30","date-modified":"2024-01-25T22:22","dg-publish":true,"tags":["moonrise"],"title":"Gear","dg-path":"moonrise/gear.md","permalink":"/moonrise/gear/","dgPassFrontmatter":true}
 ---
 
 
@@ -9,79 +9,88 @@
 
 ## Animals
 
-| Item                  | Ob  | Slots |
-| --------------------- | --- | ----- |
-| Destrier              | 6   |       |
-| Falcon (Trained)      | 4   |       |
-| Mule                  | 2   |       |
-| Palfrey               | 4   |       |
-| Rouncy                | 4   |       |
-| Warhorse (Legendary)  | 9   |       |
-| Warhorse (Renowned)   | 7   |       |
-| Warhorse (Turcoman)   | 5   |       |
-| Riding or draft horse | 3   |       |
+| Item             | Ob  | Slots                  | Rarity |
+| ---------------- | --- | ---------------------- | ------ |
+| Cow              | 3   |                        | 0      |
+| Dog, Fighting    | 4   |                        | 2      |
+| Dog, Hunting     | 3   |                        | 1      |
+| Dog, Working     | 2   |                        | 0      |
+| Donkey           | 2   |                        | 0      |
+| Falcon (Trained) | 4   |                        | 2      |
+| Goat             | 2   |                        | 0      |
+| Hen              | 1   | carried 1              | 0      |
+| Horse, Draft     | 3   |                        | 1      |
+| Horse, Riding    | 4   |                        | 1      |
+| Horse, War       | 6   |                        | 1      |
+| Mule             | 3   |                        | 1      |
+| Ox               | 4   |                        | 0      |
+| Pig              | 2   |                        | 0      |
+| Pony             | 2   |                        | 0      |
+| Rooster          | 2   | carried 2 or worn/head | 0      |
+| Sheep            | 2   |                        | 0      |
 
 ## Armor
 
-| Item                               | Ob  | Slots        |
-| ---------------------------------- | --- | ------------ |
-| Chainmail barding                  | 5   |              |
-| Dwarven mail                       | 10  | worn/torso 2 |
-| Elven plated mail                  | 9   | worn/torso 1 |
-| Full plate barding                 | 7   |              |
-| Gambeson                           | 2   | worn/torso 1 |
-| Great helm                         | 5   | worn/head    |
-| Plated leather or lamellar barding | 4   |              |
-| Plated mail barding                | 6   |              |
-| Poor quality bascinet              | 3   | worn/head    |
-| Poor quality reinforced leather    | 2   | worn/torso 1 |
-| Poor quality spangenhelm           | 2   | worn/head    |
-| Pot helm                           | 2   | worn/head    |
-| Quilted or leather barding         | 3   |              |
-| Run of the mill full plate         | 6   | worn/torso 2 |
-| Run of the mill heavy mail         | 4   | worn/torso 2 |
-| Run of the mill light mail         | 3   | worn/torso 1 |
-| Run of the mill plated mail        | 5   | worn/torso 2 |
-| Sallet                             | 4   | worn/head    |
-| Spangenhelm                        | 3   | worn/head    |
+| Item                               | Ob  | Slots        | Rarity |
+| ---------------------------------- | --- | ------------ | ------ |
+| Chainmail barding                  | 5   |              |        |
+| Dwarven mail                       | 10  | worn/torso 2 |        |
+| Elven plated mail                  | 9   | worn/torso 1 |        |
+| Full plate barding                 | 7   |              |        |
+| Gambeson                           | 2   | worn/torso 1 |        |
+| Great helm                         | 5   | worn/head    |        |
+| Plated leather or lamellar barding | 4   |              |        |
+| Plated mail barding                | 6   |              |        |
+| Poor quality bascinet              | 3   | worn/head    |        |
+| Poor quality reinforced leather    | 2   | worn/torso 1 |        |
+| Poor quality spangenhelm           | 2   | worn/head    |        |
+| Pot helm                           | 2   | worn/head    |        |
+| Quilted or leather barding         | 3   |              |        |
+| Run of the mill full plate         | 6   | worn/torso 2 |        |
+| Run of the mill heavy mail         | 4   | worn/torso 2 |        |
+| Run of the mill light mail         | 3   | worn/torso 1 |        |
+| Run of the mill plated mail        | 5   | worn/torso 2 |        |
+| Sallet                             | 4   | worn/head    |        |
+| Spangenhelm                        | 3   | worn/head    |        |
+| Arming jacket                      | 3   | worn/torso 1 | 2      |
 
 ## Arms
 
-| Item           | Ob  | Slots                                |
-| -------------- | --- | ------------------------------------ |
-| Arming Sword   | 3   | carried 1, belt 1; wielded 1         |
-| Arquebus       |     |                                      |
-| Axe†           | 2   | carried 1; wielded 2                 |
-| Crossbow       | 4   | carried 2, belt 1; wielded 2         |
-| Daggerº        | 5   | carried 1, belt 1; wielded 1         |
-| Dirk           | 3   | carried 1, belt 1; wielded 1         |
-| Dwarven arms   | 6   | varies                               | 
-| Dwarven shield | 7   | carried 1, worn/torso 1; wielded 1   |
-| Elven bow      | 6   | quiver 1, carried 1; wielded 2       |
-| Footman's Axe  | 3   | carried 1; wielded 2                 |
-| Great Bow      | 4   | carried 1; wielded 2                 |
-| Great Maceº    | 5   | carried 1; wielded 2                 |
-| Hammer         | 3   | carried 1; wielded 2                 |
-| Hammerº        | 5   | carried 1; wielded 2                 |
-| Hatchet        | 3   | belt 1, pack 2, carried 1; wielded 1 |
-| Heavy Crossbow |     | carried 2; wielded 2                 |
-| Hunting Bow    | 3   | quiver 1, carried 1; wielded 2       |
-| Knife, shiv†   | 2   | carried 1, belt 1; wielded 1         |
-| Lance™         | 3   | carried 1; wielded 1                 |
-| Light Axe      | 3   | carried 1, belt 1; wielded 1         |
-| Long Sword     | 3   | carried 1, belt 1; wielded 1         |
-| Long Swordº    | 5   | carried 1, belt 1; wielded 1         |
-| Mace           | 3   | carried 1, belt 1; wielded 1         |
-| Pistol         |     |                                      |
-| Polearm        | 3   | carried 1; wielded 2                 |
-| Polearmº       | 5   | carried 1; wielded 2                 |
-| Short Spear    | 3   | carried 1; wielded 1                 |
-| Short Sword    | 3   | carried 1, belt 1; wielded 1         |
-| Spear          | 3   | carried 1; wielded 2                 |
-| Spearº         | 5   | carried 1; wielded 2                 |
-| Spear†         | 2   | carried 1; wielded 2                 |
-| Sweet Axeº     | 5   | carried 1; wielded 2                 |
-| Sword†         | 2   | carried 1, belt 1; wielded 1         |
+| Item           | Ob  | Slots                                | Rarity |
+| -------------- | --- | ------------------------------------ | ------ |
+| Arming Sword   | 3   | carried 1, belt 1; wielded 1         |        |
+| Arquebus       |     |                                      | 2      |
+| Axe†           | 2   | carried 1; wielded 2                 | 0      |
+| Crossbow       | 4   | carried 2, belt 1; wielded 2         | 2      |
+| Daggerº        | 5   | carried 1, belt 1; wielded 1         | 2      |
+| Dirk           | 3   | carried 1, belt 1; wielded 1         | 1      |
+| Dwarven arms   | 6   | varies                               | 2      |
+| Dwarven shield | 7   | carried 1, worn/torso 1; wielded 1   | 2      |
+| Elven bow      | 6   | quiver 1, carried 1; wielded 2       | 2      |
+| Footman's Axe  | 3   | carried 1; wielded 2                 | 1      |
+| Great Bow      | 4   | carried 1; wielded 2                 | 2      |
+| Great Maceº    | 5   | carried 1; wielded 2                 | 2      |
+| Hammer         | 3   | carried 1; wielded 2                 | 2      |
+| Hammerº        | 5   | carried 1; wielded 2                 | 2      |
+| Hatchet        | 3   | belt 1, pack 2, carried 1; wielded 1 | 0      |
+| Heavy Crossbow |     | carried 2; wielded 2                 | 2      |
+| Hunting Bow    | 3   | quiver 1, carried 1; wielded 2       | 1      |
+| Knife, shiv†   | 2   | carried 1, belt 1; wielded 1         | 0      |
+| Lance™         | 3   | carried 1; wielded 1                 | 1      |
+| Light Axe      | 3   | carried 1, belt 1; wielded 1         | 1      |
+| Long Sword     | 3   | carried 1, belt 1; wielded 1         | 1      |
+| Long Swordº    | 5   | carried 1, belt 1; wielded 1         | 2      |
+| Mace           | 3   | carried 1, belt 1; wielded 1         | 2      |
+| Pistol         |     |                                      | 2      |
+| Polearm        | 3   | carried 1; wielded 2                 | 2      |
+| Polearmº       | 5   | carried 1; wielded 2                 | 2      |
+| Short Spear    | 3   | carried 1; wielded 1                 | 1      |
+| Short Sword    | 3   | carried 1, belt 1; wielded 1         | 1      |
+| Spear          | 3   | carried 1; wielded 2                 | 1      |
+| Spearº         | 5   | carried 1; wielded 2                 | 2      |
+| Spear†         | 2   | carried 1; wielded 2                 | 0      |
+| Sweet Axeº     | 5   | carried 1; wielded 2                 | 2      |
+| Sword†         | 2   | carried 1, belt 1; wielded 1         | 0      |
 
 † Poor quality arms—Using poor quality arms incurs a +1 Ob penalty to all combat tests using the weapon.
 
@@ -91,63 +100,143 @@
 
 ## Clothing
 
-| Item             | Ob  | Slots                           |
-| ---------------- | --- | ------------------------------- |
-| Belt             | 1   | worn/special                    |
-| Boots            | 2   | worn/feet                       |
-| Cloak            | 2   | worn/torso 1, carried 1, pack 2 |
-| Clothing         | 1   | --                              |
-| Finery           | 4   | worn/torso 3, pack 4            |
-| Gloves (leather) | 2   | worn/hands 2, pack 1            |
-| Hat              | 1   | worn/head                       |
-| Hat (stylish)    | 3   | worn/head                       |
-| Jewelry          | 4   | --                              |
-| Scarf            | 2   | worn/neck                       |
-| Shoes            | 1   | worn/feet                       |
-| Shoes (fancy)    | 2   | worn/feet                       |
-| Sweater (wool)   | 2   | worn/torso 1                    |
+| Item             | Ob  | Slots                           | Rarity |
+| ---------------- | --- | ------------------------------- | ------ |
+| Belt             | 1   | worn/special                    | 1      |
+| Boots            | 2   | worn/feet                       | 1      |
+| Cloak            | 2   | worn/torso 1, carried 1, pack 2 | 1      |
+| Clothing         | 1   | --                              | 1      |
+| Finery           | 4   | worn/torso 3, pack 4            | 2      |
+| Gloves (leather) | 2   | worn/hands 2, pack 1            | 1      | 
+| Hat              | 1   | worn/head                       | 1      |
+| Hat (stylish)    | 3   | worn/head                       | 2      |
+| Jewelry          | 4   | --                              | 1      |
+| Scarf            | 2   | worn/neck                       | 1      |
+| Shoes            | 1   | worn/feet                       | 1      |
+| Shoes (fancy)    | 2   | worn/feet                       | 2      |
+| Sweater (wool)   | 2   | worn/torso 1                    | 1      |
 
 ## Containers
 
+| Item              | Ob  | Slots                     | Rarity |
+| ----------------- | --- | ------------------------- | ------ |
+| Backpack          | 2   | worn/torso 2              | 1      |
+| Barrel            | 3   | carried 4 or pack 8       | 1      |
+| Bottle            | 1   | carried 1 or pack 2       | 1      |
+| Cask              | 2   | carried 2 or pack 4       | 1      |
+| Chest             | 2   | carried 3 or pack 10      | 1      |
+| Chest, small      | 2   | carried 2 or pack 5       | 1      |
+| Clay pot          | 1   | pack 1                    | 1      |
+| Frame pack        | 2   | worn/torso 3              | 1      |
+| Jug               | 1   | carried 1 or pack 3       | 1      |
+| Pouch, belt       | 1   | belt 1 or pack 1          | 1      |
+| Quiver            | 2   | worn/torso 1 or belt 2    | 1      |
+| Sack, large       | 1   | carried 2 or pack 1       | 0      |
+| Sacks, small      | 1   | carried 1 or pack 1 for 2 | 0      |
+| Satchel           | 1   | worn/torso 1              | 0      |
+| Sea chest         | 4   | pack 8                    | 1      |
+| Tun               | 4   | pack 16                   | 1      |
+| Water or wineskin | 1   | belt 1 or pack 1          | 0      |
+| Wooden canteen    | 2   | belt 1 or pack 2          | 1      |
+
 ## Conveyances
 
-| Item                   | Ob  | Slots |
-| ---------------------- | --- | ----- |
-| A small cart           | 3   |       |
-| A warship              | 10  |       |
-| Small barge            | 4   |       |
-| Small cargo ship       | 8   |       |
-| Sturdy 18-man longboat | 4   |       |
+| Item                   | Ob  | Slots          | Rarity |
+| ---------------------- | --- | -------------- | ------ |
+| Barge, small           | 4   |                | 0      |
+| Cargo ship, large      | 9   |                | 2      |
+| Cargo ship, small      | 8   |                | 2      |
+| Cart                   | 3   | holds 12 sacks | 0      |
+| Dog sled               | 3   | holds 2 sacks  | 1      |
+| Sturdy 18-man longboat | 4   |                | 0      | 
+| Wagon                  | 4   | holds 24 sacks | 1      |
+| Warship, small         | 10  |                | 2      |
 
 ## Equipment
 
-| Item                                             | Ob  | Slots |
-| ------------------------------------------------ | --- | ----- |
-| Dwarven forge mask                               | 8   |       |
-| Elven Tome of Lore                               | 5   |       |
-| Industrial equipment: printing press, forge      | 8   |       |
-| Large baggage wagon                              | 4   |       |
-| Large cargo ship                                 | 9   |       |
-| Popular books                                    | 3   |       |
-| Rare antiques and books                          | 4   |       |
-| Rare herbs and minerals                          | 4   |       |
-| Tools for academic and craftsman skills          | 3   |       |
-| Tools for medicinal and artist skills            | 4   |       |
-| Tools for peasant, seafaring, and musical skills | 2   |       |
-| Tools for sorcerous skills                       | 6   |       |
-| Tools for special skills                         | 5   |       |
-| Traveling gear                                   | 2   |       |
+| Item                                             | Ob  | Slots                               | Rarity |
+| ------------------------------------------------ | --- | ----------------------------------- | ------ |
+| Bag of nails                                     | 2   | pack 1                              | 1      |
+| Ball of twine                                    | 1   | pack 1                              | 0      |
+| Bandolier                                        | 2   | worn/torso 1                        | 1      |
+| Bell                                             | 2   | worn/neck or pocket                 | 1      |
+| Chalk                                            | 1   | pack 1                              | 1      |
+| Dwarven forge mask                               | 8   |                                     |        |
+| Elven Tome of Lore                               | 5   |                                     |        |
+| Flasks of oil                                    | 2   | pack 1 or carried 1 for two flasks  | 1      |
+| Flasks of refined oil                            | 3   | pack 1 or carried 1 for two flasks  | 2      |
+| Garlic                                           | 1   | carried 1, worn/neck or pack 1      | 0      |
+| Grappling hook                                   | 3   | carried 1 or pack 2                 | 2      |
+| Hammer                                           | 2   | carried 1 or pack 1                 | 1      |
+| Ice skates                                       | 2   | worn/feet (over shoes) or pack 2    | 1      |
+| Industrial equipment: printing press, forge      | 8   |                                     |        |
+| Iron spikes                                      | 1   | pack 1 for six spikes               | 1      |
+| Ladder                                           | 2   | carried 2 or pack 10                | 0      |
+| Lumber                                           | 2   | pack 12                             | 0      |
+| Mirror                                           | 4   | carried 1 or pack 1                 | 2      |
+| Pole, 10'                                        | 1   | carried 2                           | 0      |
+| Popular books                                    | 3   |                                     |        |
+| Pry bar                                          | 2   | pack 1 or carried 1; wielded 2      | 1      |
+| Rare antiques and books                          | 4   |                                     |        |
+| Rare herbs and minerals                          | 4   |                                     |        |
+| Rope                                             | 2   | worn/torso 1 or pack 2              | 0      |
+| Shovel                                           | 2   | pack 2 or carried 2; wielded 2      | 0      |
+| Skis                                             | 2   | worn/feet (over shoes) or carried 2 | 1      |
+| Square-back hatchet                              | 2   | pack 1, carried 1, or belt 1        | 1      |
+| Tallow pot                                       | 1   | pack 1                              | 0      |
+| Thieves' tools                                   | 4   | pack 1                              | 2      |
+| Tinderbox                                        | 1   | pack 1                              | 0      |
+| Tools for academic and craftsman skills          | 3   |                                     |        |
+| Tools for medicinal and artist skills            | 4   |                                     |        |
+| Tools for peasant, seafaring, and musical skills | 2   |                                     |        |
+| Tools for sorcerous skills                       | 6   |                                     |        |
+| Tools for special skills                         | 5   |                                     |        |
+| Traveling gear                                   | 2   |                                     |        |
+| Writing kit                                      | 3   |                                     | 3      |
 
 ## Food
 
-| Item             | Ob  | Slots |
-| ---------------- | --- | ----- |
-| Food for the day | 1   |       |
-| Sumptuous meal   | 2   |       |
+| Item               | Ob   | Slots                     | Rarity |
+| ------------------ | ---- | ------------------------- | ------ |
+| Food for the day   | 1    |                           | 0      |
+| Sumptuous meal     | 2    |                           | 1      |
+| Rations, fresh     | 1    | pack 1 for two portions   | 0      |
+| Rations, preserved | 2    | pack 1 for three portions | 0      |
+| Water              | free | skin/bottle/jug 1         | 0      |
+| Wine               | 1    | skin/bottle/jug 1         | 0      | 
 
 ## Light Sources
 
+| Item            | Ob  | Slots                        | Rarity |
+| --------------- | --- | ---------------------------- | ------ |
+| Candle lantern  | 2   | carried 1 or pack 2          | 1      |
+| Candle          | 1   | carried 1 or pack 1 for four | 0      |
+| Covered lantern | 4   | carried 1 or pack 2          | 1      |
+| Lantern         | 3   | carried 1 or pack 2          | 1      |
+| Long torch      | 2   | carried 2 each, set of two   | 1      |
+| Torch           | 2   | carried 1 or pack 1 for four | 1      | 
+
 ## Magical and Religious Equipment
+
+| Item              | Ob  | Slots                            | Rarity |
+| ----------------- | --- | -------------------------------- | ------ |
+| Holy water vials  | 3   | carried 1 or pack 1 for three    | 3      |
+| Religious amulet  | 1   | worn/neck                        | 1      |
+| Sacramentals      | 1+  | worn/hands 1, worn/neck, pack 1  | 3      |
+| Spell book        | 4   | pack 2                           | 3      |
+| Spell materials   | 1+  | worn/hands 1, worn/neck, pack 1  | 3      |
+| Stakes and mallet | 2   | pack 1 for three stakes & mallet | 0      |
+| Wolfsbane         | 2   | pack 1                           | 0      |
+
+## Musical Instruments
+
+| Item   | Ob  | Slots                         | Rarity |
+| ------ | --- | ----------------------------- | ------ |
+| Fiddle | 3   | carried 1 or pack 3; played 2 | 1      |
+| Flute  | 2   | carried 1 or pack 1; played 2 | 0      |
+| Harp   | 4   | carried 1 or pack 3; played 2 | 2      |
+
+## Misc
 
 | Item                                                             | Ob  | Slots |
 | ---------------------------------------------------------------- | --- | ----- |
