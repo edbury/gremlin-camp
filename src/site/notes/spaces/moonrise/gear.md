@@ -157,7 +157,7 @@
 | Howdah                 | 6   |                |        |
 | Sturdy 18-man longboat | 4   |                | 0      |
 | Vardo or caravan       | 5   |                |        |
-| Wagon, covered         |     |                |        |
+| Wagon, covered         | 4   |                |        |
 | Wagon, open            | 4   | holds 24 sacks | 1      |
 | Warship, small         | 10  |                | 2      |
 
