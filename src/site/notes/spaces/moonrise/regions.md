@@ -1,5 +1,5 @@
 ---
-{"aliases":["Regions","regions"],"date-created":"2024-01-25T23:08","date-modified":"2024-01-25T23:16","dg-publish":true,"tags":["moonrise"],"title":"Regions","dg-path":"moonrise/regions.md","permalink":"/moonrise/regions/","dgPassFrontmatter":true}
+{"aliases":["Regions","regions"],"date-created":"2024-01-25T23:08","date-modified":"2024-01-25T23:20","dg-publish":true,"tags":["moonrise"],"title":"Regions","dg-path":"moonrise/regions.md","permalink":"/moonrise/regions/","dgPassFrontmatter":true}
 ---
 
 
@@ -24,6 +24,10 @@ Though there are countless forests throughout the Twilight, a few loom above all
 ## Putrid Swamp
 
 The remote villages of Shallowglade and Fishmouth are situated in the far south of the Twilight. To reach them, travelers must cross the Murk, a massive stretch of water-logged wetlands. What few patches of dry earth can be found are sandy and prone to dangerous sinkholes. But even more dangerous are the reptilian monsters that lurk in the muck.
+
+## Scorching Desert
+
+When the Old Ones still had dominion over the world, this was the green and verdant land where they made their home—or so the scholars say. Though not as inhospitable as the Day, even the most hardy vegetation struggles to survive here. Ancient cities and the tombs of forgotten heroes lie buried under the dunes, concealed by dust storms kicked up by a hot and wicked wind. Travel here at your own peril, and pray that there is a settlement beyond the next dune.
 
 ## Sweltering Jungle
 
