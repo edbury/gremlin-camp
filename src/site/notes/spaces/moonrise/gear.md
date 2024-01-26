@@ -1,5 +1,5 @@
 ---
-{"aliases":["Gear","gear"],"date-created":"2023-11-29T18:30","date-modified":"2024-01-25T22:22","dg-publish":true,"tags":["moonrise"],"title":"Gear","dg-path":"moonrise/gear.md","permalink":"/moonrise/gear/","dgPassFrontmatter":true}
+{"aliases":["Gear","gear"],"date-created":"2023-11-29T18:30","date-modified":"2024-01-25T22:38","dg-publish":true,"tags":["moonrise"],"title":"Gear","dg-path":"moonrise/gear.md","permalink":"/moonrise/gear/","dgPassFrontmatter":true}
 ---
 
 
@@ -31,28 +31,28 @@
 
 ## Armor
 
-| Item                               | Ob  | Slots        | Rarity |
-| ---------------------------------- | --- | ------------ | ------ |
-| Chainmail barding                  | 5   |              |        |
-| Dwarven mail                       | 10  | worn/torso 2 |        |
-| Elven plated mail                  | 9   | worn/torso 1 |        |
-| Full plate barding                 | 7   |              |        |
-| Gambeson                           | 2   | worn/torso 1 |        |
-| Great helm                         | 5   | worn/head    |        |
-| Plated leather or lamellar barding | 4   |              |        |
-| Plated mail barding                | 6   |              |        |
-| Poor quality bascinet              | 3   | worn/head    |        |
-| Poor quality reinforced leather    | 2   | worn/torso 1 |        |
-| Poor quality spangenhelm           | 2   | worn/head    |        |
-| Pot helm                           | 2   | worn/head    |        |
-| Quilted or leather barding         | 3   |              |        |
-| Run of the mill full plate         | 6   | worn/torso 2 |        |
-| Run of the mill heavy mail         | 4   | worn/torso 2 |        |
-| Run of the mill light mail         | 3   | worn/torso 1 |        |
-| Run of the mill plated mail        | 5   | worn/torso 2 |        |
-| Sallet                             | 4   | worn/head    |        |
-| Spangenhelm                        | 3   | worn/head    |        |
-| Arming jacket                      | 3   | worn/torso 1 | 2      |
+| Item                                | Ob  | Slots                  | Rarity |
+| ----------------------------------- | --- | ---------------------- | ------ |
+| Arming jacket                       | 3   | worn/torso 1           | 2      |
+| Barding, chainmail                  | 5   | mount/worn 1           |        |
+| Barding, full plate                 | 7   | mount/worn 2           |        |
+| Barding, leather or quilted         | 3   | mount/worn 1 or pack 3 |        |
+| Barding, plated leather or lamellar | 4   | mount/worn 1           |        |
+| Barding, plated mail                | 6   | mount/worn 2           |        |
+| Dwarven mail                        | 10  | worn/torso 2           |        |
+| Elven plated mail                   | 9   | worn/torso 1           |        |
+| Gambeson                            | 2   | worn/torso 1           |        |
+| Great helm                          | 5   | worn/head              |        |
+| Poor quality bascinet               | 3   | worn/head              |        |
+| Poor quality reinforced leather     | 2   | worn/torso 1           |        |
+| Poor quality spangenhelm            | 2   | worn/head              |        |
+| Pot helm                            | 2   | worn/head              |        |
+| Run of the mill full plate          | 6   | worn/torso 2           |        |
+| Run of the mill heavy mail          | 4   | worn/torso 2           |        |
+| Run of the mill light mail          | 3   | worn/torso 1           |        |
+| Run of the mill plated mail         | 5   | worn/torso 2           |        |
+| Sallet                              | 4   | worn/head              |        |
+| Spangenhelm                         | 3   | worn/head              |        |
 
 ## Arms
 
@@ -129,11 +129,14 @@
 | Clay pot          | 1   | pack 1                    | 1      |
 | Frame pack        | 2   | worn/torso 3              | 1      |
 | Jug               | 1   | carried 1 or pack 3       | 1      |
+| Pack saddle       | 2   | mount/worn 3              |        |
 | Pouch, belt       | 1   | belt 1 or pack 1          | 1      |
 | Quiver            | 2   | worn/torso 1 or belt 2    | 1      |
 | Sack, large       | 1   | carried 2 or pack 1       | 0      |
 | Sacks, small      | 1   | carried 1 or pack 1 for 2 | 0      |
+| Saddlebags        | 1   | mount/worn 1              |        |
 | Satchel           | 1   | worn/torso 1              | 0      |
+| Scroll case       | 2   | pack 1 or belt/weapon     |        |
 | Sea chest         | 4   | pack 8                    | 1      |
 | Tun               | 4   | pack 16                   | 1      |
 | Water or wineskin | 1   | belt 1 or pack 1          | 0      |
@@ -144,12 +147,18 @@
 | Item                   | Ob  | Slots          | Rarity |
 | ---------------------- | --- | -------------- | ------ |
 | Barge, small           | 4   |                | 0      |
+| Canoe or rowboat       | 3   |                |        |
 | Cargo ship, large      | 9   |                | 2      |
 | Cargo ship, small      | 8   |                | 2      |
+| Carriage               | 4   |                |        |
 | Cart                   | 3   | holds 12 sacks | 0      |
+| Chariot                | 4   |                |        |
 | Dog sled               | 3   | holds 2 sacks  | 1      |
-| Sturdy 18-man longboat | 4   |                | 0      | 
-| Wagon                  | 4   | holds 24 sacks | 1      |
+| Howdah                 | 6   |                |        |
+| Sturdy 18-man longboat | 4   |                | 0      |
+| Vardo or caravan       | 5   |                |        |
+| Wagon, covered         |     |                |        |
+| Wagon, open            | 4   | holds 24 sacks | 1      |
 | Warship, small         | 10  |                | 2      |
 
 ## Equipment
@@ -193,6 +202,20 @@
 | Tools for special skills                         | 5   |                                     |        |
 | Traveling gear                                   | 2   |                                     |        |
 | Writing kit                                      | 3   |                                     | 3      |
+| Astrolabe                                        | 4   | pack 1                              |        |
+| Bedroll                                          | 2   | pack 2 or torso 1                   |        |
+| Compass                                          | 5   | pack 1 or neck/worn 1               |        |
+| Grooming brush                                   | 1   |                                     |        |
+| Horseshoes (4)                                   | 1   | pack 1                              |        |
+| Key, spare                                       | 1   | pack 1 or neck/worn 1               |        |
+| Lock                                             | 2+  | pack 1 or neck/worn 1               |        |
+| Lodestone                                        | 3   | pack 1 or neck/worn 1               |        |
+| Riding saddle                                    | 2   | mount/worn 2                        |        |
+| Sextant or backstaff                             | 6   | pack 2                              |        |
+| Tarpaulin                                        | 2   | pack 4                              |        |
+| Tent                                             | 3   | pack 3                              |        |
+| Wheel, spare                                     | 2   | hand/carried 2 or pack 4            |        |
+| Walking stick                                    | 1   | hand/carried 1                      |        |
 
 ## Food
 
