@@ -1,5 +1,5 @@
 ---
-{"aliases":["Regions","regions"],"date-created":"2024-01-25T23:08","date-modified":"2024-01-25T23:20","dg-publish":true,"tags":["moonrise"],"title":"Regions","dg-path":"moonrise/regions.md","permalink":"/moonrise/regions/","dgPassFrontmatter":true}
+{"aliases":["Regions","regions"],"date-created":"2024-01-25T23:08","date-modified":"2024-01-27T11:39","dg-publish":true,"tags":["moonrise"],"title":"Regions","dg-path":"moonrise/regions.md","permalink":"/moonrise/regions/","dgPassFrontmatter":true}
 ---
 
 
@@ -15,15 +15,15 @@ At the extreme edges of the Twilight, the warmth of the Burning Lord strains to 
 
 ## Misty Mountains
 
-Mountain ranges carve up the land into disparate realms, each with their own unique culture and character. Once upon a time, the Morgeaux Pass in the northern Twilight marked the transition to the County of Darkovia, barely recognized as the same kingdom by the socialites of Highwater. In the south, the Metal Mountains concealed the vast Dwarven Halls beneath their roots. Perhaps most crucially, the Barricade Peaks marked the separation of the Dreadlands of Mordeth from civilized lands. Were it not for their sheer impassability, the forces of Chaos would have rushed unimpeded across the land.
+Mountain ranges carve up the land into disparate realms, each with their own unique culture and character. The Morgeaux Pass into the Astronomical marks the transition to the County of Darkovia, barely recognized as the same kingdom by the socialites of Highwater. Toward the Day, the Metal Mountains conceal the vast Dwarven Halls beneath their roots. Perhaps most crucially, the Barricade Peaks mark the separation of the Dreadlands of Mordeth from civilized lands. Were it not for their sheer impassability, the forces of Chaos would rush unimpeded across the land.
 
 ## Primeval Forest
 
-Though there are countless forests throughout the Twilight, a few loom above all others for sheer size and mystery. To the far north, the eerie pine forests of Darkovia are called home by bloodthirsty spirits that animate the dead. To the south, the lush Grimwood bars the once-busy road from Highwater to the Dwarven Halls. And in the heartlands of the kingdom there is the Greenwood, where the elves dwell in their secret city awaiting the inevitable encroachment of loggers from the nearby village of Woodborough.
+Though there are countless forests throughout the Twilight, a few loom above all others for sheer size and mystery. To the far Night, the eerie pine forests of Darkovia are called home by bloodthirsty spirits that animate the dead. To the Day, the petrified Grimwood bars the once-busy road from Highwater to the Dwarven Halls. And in the heartlands of the Twilight there is the Greenwood, where the elves dwell in their secret city awaiting the inevitable encroachment of loggers from the nearby village of Woodborough.
 
 ## Putrid Swamp
 
-The remote villages of Shallowglade and Fishmouth are situated in the far south of the Twilight. To reach them, travelers must cross the Murk, a massive stretch of water-logged wetlands. What few patches of dry earth can be found are sandy and prone to dangerous sinkholes. But even more dangerous are the reptilian monsters that lurk in the muck.
+The remote villages of Shallowglade and Fishmouth are situated in the far Astronomical and Civil. To reach them, travelers must cross the Murk, a massive stretch of water-logged wetlands. What few patches of dry earth can be found are sandy and prone to dangerous sinkholes. But even more dangerous are the reptilian monsters that lurk in the muck.
 
 ## Scorching Desert
 
@@ -35,4 +35,4 @@ This steamy forest is a dangerous place, full of hazards that await the unprepar
 
 ## Trackless Steppe
 
-At the northeastern edge of most Twilight maps, there is a narrow and implausibly vague strip of land labeled "Barbaria." Cartographers know that there is land here, but it is so vast and empty that none have charted it. Perhaps because of this, denizens of the Twilight have come to view the steppe as a remote backwater. In truth, it is many times the size of their entire kingdom and home to cultures both older and more refined.
+At the farthest edges of most Twilight maps, there is a narrow and implausibly vague strip of land labeled "Barbaria." Cartographers know that there is land here, but it is so vast and empty that none have charted it. Perhaps because of this, denizens of the Twilight have come to view the steppe as a remote backwater. In truth, it is many times the size of their entire kingdom and home to cultures both older and more refined.
