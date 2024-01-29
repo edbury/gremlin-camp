@@ -1,5 +1,5 @@
 ---
-{"aliases":["Character Burning","Burning a Character","Burning Characters"],"date-created":"2023-11-29T12:38","date-modified":"2024-01-04T16:08","dg-publish":true,"tags":["moonrise"],"title":"Character Burning","dg-path":"moonrise/character burning.md","permalink":"/moonrise/character-burning/","dgPassFrontmatter":true}
+{"aliases":["Character Burning","Burning a Character","Burning Characters"],"date-created":"2023-11-29T12:38","date-modified":"2024-01-28T21:43","dg-publish":true,"tags":["moonrise"],"title":"Character Burning","dg-path":"moonrise/character burning.md","permalink":"/moonrise/character-burning/","dgPassFrontmatter":true}
 ---
 
 
@@ -38,7 +38,7 @@ These talents, however, come with a cost. Children touched by the Darkness are m
 
 #### Starting Corruption Example
 
-> Dolemn is starting the game as the Arcande Devotee.
+> Dolmen is starting the game as the Arcande Devotee.
 > 
 > He has +1 Corruption for `Gifted` and +1 Corruption for `Child Prodigy`, giving him a starting Corruption of 2.
 > 
