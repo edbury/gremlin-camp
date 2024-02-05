@@ -1,5 +1,5 @@
 ---
-{"aliases":["Gear","gear"],"date-created":"2023-11-29T18:30","date-modified":"2024-02-05T14:09","dg-publish":true,"tags":["moonrise"],"title":"Gear","dg-path":"moonrise/gear.md","permalink":"/moonrise/gear/","dgPassFrontmatter":true}
+{"aliases":["Gear","gear"],"date-created":"2023-11-29T18:30","date-modified":"2024-02-05T14:36","dg-publish":true,"tags":["moonrise"],"title":"Gear","dg-path":"moonrise/gear.md","permalink":"/moonrise/gear/","dgPassFrontmatter":true}
 ---
 
 
@@ -215,22 +215,30 @@ A wool sweater grants +1D for resisting the effects of cold and wet. This bonus 
 
 | Item                                             | Ob  | Slots                               | Rarity |
 | ------------------------------------------------ | --- | ----------------------------------- | ------ |
+| Astrolabe                                        | 4   | pack 1                              |        |
 | Bag of nails                                     | 2   | pack 1                              | 1      |
 | Ball of twine                                    | 1   | pack 1                              | 0      |
 | Bandolier                                        | 2   | worn/torso 1                        | 1      |
+| Bedroll                                          | 2   | pack 2 or torso 1                   |        |
 | Bell                                             | 2   | worn/neck or pocket                 | 1      |
 | Chalk                                            | 1   | pack 1                              | 1      |
+| Compass                                          | 5   | pack 1 or neck/worn 1               |        |
 | Dwarven forge mask                               | 8   |                                     |        |
 | Elven Tome of Lore                               | 5   |                                     |        |
 | Flasks of oil                                    | 2   | pack 1 or carried 1 for two flasks  | 1      |
 | Flasks of refined oil                            | 3   | pack 1 or carried 1 for two flasks  | 2      |
 | Garlic                                           | 1   | carried 1, worn/neck or pack 1      | 0      |
 | Grappling hook                                   | 3   | carried 1 or pack 2                 | 2      |
+| Grooming brush                                   | 1   |                                     |        |
 | Hammer                                           | 2   | carried 1 or pack 1                 | 1      |
+| Horseshoes (4)                                   | 1   | pack 1                              |        |
 | Ice skates                                       | 2   | worn/feet (over shoes) or pack 2    | 1      |
 | Industrial equipment: printing press, forge      | 8   |                                     |        |
 | Iron spikes                                      | 1   | pack 1 for six spikes               | 1      |
+| Key, spare                                       | 1   | pack 1 or neck/worn 1               |        |
 | Ladder                                           | 2   | carried 2 or pack 10                | 0      |
+| Lock                                             | 2+  | pack 1 or neck/worn 1               |        |
+| Lodestone                                        | 3   | pack 1 or neck/worn 1               |        |
 | Lumber                                           | 2   | pack 12                             | 0      |
 | Mirror                                           | 4   | carried 1 or pack 1                 | 2      |
 | Pole, 10'                                        | 1   | carried 2                           | 0      |
@@ -238,11 +246,15 @@ A wool sweater grants +1D for resisting the effects of cold and wet. This bonus 
 | Pry bar                                          | 2   | pack 1 or carried 1; wielded 2      | 1      |
 | Rare antiques and books                          | 4   |                                     |        |
 | Rare herbs and minerals                          | 4   |                                     |        |
+| Riding saddle                                    | 2   | mount/worn 2                        |        |
 | Rope                                             | 2   | worn/torso 1 or pack 2              | 0      |
+| Sextant or backstaff                             | 6   | pack 2                              |        |
 | Shovel                                           | 2   | pack 2 or carried 2; wielded 2      | 0      |
 | Skis                                             | 2   | worn/feet (over shoes) or carried 2 | 1      |
 | Square-back hatchet                              | 2   | pack 1, carried 1, or belt 1        | 1      |
 | Tallow pot                                       | 1   | pack 1                              | 0      |
+| Tarpaulin                                        | 2   | pack 4                              |        |
+| Tent                                             | 3   | pack 3                              |        |
 | Thieves' tools                                   | 4   | pack 1                              | 2      |
 | Tinderbox                                        | 1   | pack 1                              | 0      |
 | Tools for academic and craftsman skills          | 3   |                                     |        |
@@ -251,21 +263,149 @@ A wool sweater grants +1D for resisting the effects of cold and wet. This bonus 
 | Tools for sorcerous skills                       | 6   |                                     |        |
 | Tools for special skills                         | 5   |                                     |        |
 | Traveling gear                                   | 2   |                                     |        |
-| Writing kit                                      | 3   |                                     | 3      |
-| Astrolabe                                        | 4   | pack 1                              |        |
-| Bedroll                                          | 2   | pack 2 or torso 1                   |        |
-| Compass                                          | 5   | pack 1 or neck/worn 1               |        |
-| Grooming brush                                   | 1   |                                     |        |
-| Horseshoes (4)                                   | 1   | pack 1                              |        |
-| Key, spare                                       | 1   | pack 1 or neck/worn 1               |        |
-| Lock                                             | 2+  | pack 1 or neck/worn 1               |        |
-| Lodestone                                        | 3   | pack 1 or neck/worn 1               |        |
-| Riding saddle                                    | 2   | mount/worn 2                        |        |
-| Sextant or backstaff                             | 6   | pack 2                              |        |
-| Tarpaulin                                        | 2   | pack 4                              |        |
-| Tent                                             | 3   | pack 3                              |        |
-| Wheel, spare                                     | 2   | hand/carried 2 or pack 4            |        |
 | Walking stick                                    | 1   | hand/carried 1                      |        |
+| Wheel, spare                                     | 2   | hand/carried 2 or pack 4            |        |
+| Writing kit                                      | 3   |                                     | 3      |
+
+### Astrolabe
+
+An ornate metal disc instrument used for measuring the position of celestial bodies. An astrolabe grants +1D to the Astrology, Cartography, and Orienteering skills as long as skies are clear.
+
+### Bag of Nails
+
+A bag of nails. It can be used as supplies for nailing things closed, hanging things, trapping things, etc. Cost and inventory is for two uses per bag.
+
+### Ball of Twine
+
+A ball of twine can be used as supplies for tests when appropriate. Cost and inventory is for three supplies.
+
+### Bandolier
+
+Worn across the chest, an adventurer can hang three belt items on the bandolier—small pack 1 items that are not in bundles or containers (no rations, torches, candles, coins, gems, apples, etc.).
+
+### Bedroll
+
+A portable soft surface for resting during camp. Using a bedroll allows you to reroll one failed recovery die per camp phase when recovering from exhausted, injured or sick. In expedition conflicts, a bedroll grants +1D to Defend (Rest) actions.
+
+### Bell
+
+A small bell can be a useful tool for adventurers who need to set alarms or send signals.
+
+### Chalk
+
+Chalk is used to mark areas and acts as supplies for Cartography, Orienteering, and Streetwise tests when appropriate. Cost and inventory is for three supplies.
+
+### Compass
+
+An alchemical device that harnesses the æther to report true north reliably. Unlike the crude lodestone, it is precise enough to grant +1D to Cartography as well as Orienteering.
+
+Certain magical and physical effects can cause the compass to malfunction.
+
+### Flasks of oil
+
+Lanterns use flasks of oil as fuel. Cost and inventory is for two flasks of oil. A flask of oil will fuel a lantern for three tests. See the Lantern entry.
+
+### Flasks of Refined Oil
+
+A flask of refined oil burns for one additional test in lanterns. In a standard lantern, refined oil burns for four tests. In a covered lantern it burns for five tests.
+
+### Garlic
+
+Garlic acts as supplies for Cooking.
+
+### Grappling hook
+
+A grappling hook (when used with rope) grants +1D to Climbing.
+
+### Grooming Brush
+
+Use this tool to help keep your animal healthy and calm. The grooming brush adds +1D to Animal Husbandry tests when helping a mount recover or calm down.
+
+### Hammer
+
+A hammer is used to drive iron spikes into hard surfaces, among other uses.
+
+### Horseshoes
+
+Shoes for horses. An unshod horse can develop serious problems (injured or sick condition) from walking on hard surfaces or bearing heavy loads. In addition to their intended purpose, innovative adventurers have found many other uses for these heavy, curved hunks of iron.
+
+The listed price is for a set of four horseshoes.
+
+### Ice Skates
+
+These skates are made from the metatarsal bones of horses or cattle, made very flat and smooth on the bottom, and tied to the feet using leather thongs. A wooden pole with an iron spike on the bottom is used for balance and propulsion. Skates provide +1D to tests involving moving across ice.
+
+### Iron spikes
+
+Iron spikes grant +1D to tests involving wedging doors open or closed, climbing, anchoring ropes or prying things loose. Cost and inventory is for six spikes. When used, roll 1d6-1 for the number of spikes lost, bent, broken or stuck in the process.
+
+### Key, Spare
+
+A spare key can be fashioned to open any lock for which you have a key to copy. Most communities keep a close eye on their locksmiths, but thieves' guilds often employ unscrupulous sorts who will gladly duplicate stolen keys.
+
+### Ladder
+
+A ladder is used to safely ascend short, difficult climbs.
+
+### Lock
+
+Locks can be used to secure doors, chests and crates. The cost of the lock determines the obstacle for any Lock picking test to open it without the key.
+
+The price of the lock includes a working key to open it. Additional keys are sold separately. A locked chest can still be carried off by a sufficient number of thieves.
+
+### Lodestone
+
+A crude hunk of mineral that is drawn to iron. When suspended from a cord, it roughly indicates the direction of north, although less reliably than a proper compass. The Lodestone grants +1D on Orienteering tests. It can also be used to capture small metal objects when held nearby.
+
+### Mirror
+
+A mirror is useful for reflecting, signaling or even peeking around a corner.
+
+### Pole, 10'
+
+A pole can be used as gear for detecting traps, climbing, measuring distances or rigging sails or tents. It can be used as supplies for building shelter.
+
+### Pry Bar
+
+A pry bar grants +1D to tests for opening doors, lifting lids and wedging things open. It can be used as an improvised weapon.
+
+### Riding Saddle
+
+A saddle is necessary for all but the most expert riders to control their mount. The price of a saddle includes all other necessary tack for riding. A saddle adds a single seat to the mount.
+
+A weapon slot suitable for carrying a lance or similar arms can be added for an additional +1 Ob to the resources cost, resulting in a "war saddle."
+
+### Rope
+
+Rope comes in 50-foot coils. It is incredibly useful and can be used in situations involving climbing, linking your group together for a hike in the fog, tying down unruly captives and even starting fires.
+
+### Sextant or Backstaff
+
+The backstaff and sextant are further evolutions of the astrolabe, using a complex mechanism of mirrors and geometry to measure the position of celestial bodies as long as the skies are clear. They provide +1D to Cartography and Orienteering when skies are clear.
+
+### Shovel
+
+A shovel acts as gear when digging trenches, pits and graves. It can also be used as a weapon in a pinch.
+
+### Skis
+
+These skis are wood, with leather thongs for bindings. One ski is short and covered in fur, while the other is long. The short ski is used to push, while the long ski is slathered with animal fat and used to glide. A single stout, wood stick is often used for balance. Skis provide +1D to Hunting and Orienteering tests in snow, as well as any other tests that involve moving across snow at speed.
+
+### Square-Back Hatchet
+
+A square-back hatchet grants +1D to Peasant skills for clearing brush, chopping wood and pounding nails. It can be used as an improvised weapon in a pinch.
+
+### Tallow Pot
+
+Tallow is a sallow grease used as supplies for Alchemy and Survival tests requiring lubricant or an accelerant.
+
+### Thieves' tools
+
+Thieves' tools grant +1D to Lock picking tests to pick locks and to Munitions tests to disarm traps.
+
+### Tinderbox
+
+A tinderbox allows your character to light a fire without making a test under normal conditions. It also grants +1D to Survival tests to start a fire in bad conditions.
 
 ## Food
 
@@ -288,6 +428,22 @@ A wool sweater grants +1D for resisting the effects of cold and wet. This bonus 
 | Lantern         | 3   | carried 1 or pack 2          | 1      |
 | Long torch      | 2   | carried 2 each, set of two   | 1      |
 | Torch           | 2   | carried 1 or pack 1 for four | 1      | 
+
+### Candle Lantern
+
+This is a small lantern that houses a candle, rather than a reservoir of oil. Candles within it can be snuffed out or broken only as a twist. It can also be masked without dousing the light.
+
+It provides light for one character and dim light for one other.
+
+### Covered Lantern
+
+A covered lantern houses a better wick and reservoir for its fuel oil. Covered lanterns can also be masked without dousing the light.
+
+It provides light for three characters and dim light for three others, and its oil reservoir burns for four tests rather than three.
+
+### Long Torch
+
+A long torch is the length of a staff and must be carried with two hands. It provides light for two people (and dim light for two more) for four tests. They are sold in sets of two.
 
 ## Magical and Religious Equipment
 
