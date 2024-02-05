@@ -1,5 +1,5 @@
 ---
-{"aliases":["Gear","gear"],"date-created":"2023-11-29T18:30","date-modified":"2024-01-25T22:38","dg-publish":true,"tags":["moonrise"],"title":"Gear","dg-path":"moonrise/gear.md","permalink":"/moonrise/gear/","dgPassFrontmatter":true}
+{"aliases":["Gear","gear"],"date-created":"2023-11-29T18:30","date-modified":"2024-02-05T14:09","dg-publish":true,"tags":["moonrise"],"title":"Gear","dg-path":"moonrise/gear.md","permalink":"/moonrise/gear/","dgPassFrontmatter":true}
 ---
 
 
@@ -53,6 +53,10 @@
 | Run of the mill plated mail         | 5   | worn/torso 2           |        |
 | Sallet                              | 4   | worn/head              |        |
 | Spangenhelm                         | 3   | worn/head              |        |
+
+### Arming Jacket
+
+Worn under chain or plate, an arming jacket acts as leather armor once the chain or plate is damaged. When worn under chain, it is worn/torso 1 (in addition to the chain armor). If worn under plate, there is no additional inventory requirement. Must be custom-made for the bearer and counts as leather armor for restrictions.
 
 ## Arms
 
@@ -115,6 +119,52 @@
 | Shoes            | 1   | worn/feet                       | 1      |
 | Shoes (fancy)    | 2   | worn/feet                       | 2      |
 | Sweater (wool)   | 2   | worn/torso 1                    | 1      |
+
+### Belt
+
+A belt is standard gear for all adventurers, but should one wear out, get stolen or be lost in a life-saving procedure, replacements are available.
+
+Belts have three slots for pack 1 items, but they cannot be used to carry bundled items like torches, candles, spikes, etc.
+
+### Boots
+
+When traveling, boots grant +1D to tests resulting from rain or rough roads.
+
+### Cloak
+
+A cloak grants +1D to Survival or Health tests related to staying warm or keeping dry, including recovery tests.
+
+### Clothing
+
+Adventurers begin their career clothed, but the rigors of the road are such that on occasion one needs a new pair of pants. Clothes do not have any inventory requirement as adventurers wear them under their equipment (hopefully).
+
+### Finery
+
+Fine clothes are required for dealing with nobility or guild masters in town.
+
+### Gloves (Leather)
+
+Thick leather gloves grant +1D to tests to resist heat or injury from work, as well as +1D to tests involving hauling. However, they impose a +1 Ob factor for actions like spell casting, shooting, carving, etc.
+
+### Hat
+
+A hat grants +1D to tests for resisting the effects of sun and rain.
+
+### Hat (Stylish)
+
+Stylish hats provide +1D to Oratory, Persuasion, and Falsehood.
+
+### Scarf
+
+A scarf grants +1D to tests for resisting or recovering from the effects of cold and draft.
+
+### Shoes
+
+Shoes are great for walking across gravel and glass.
+
+### Sweater (Wool)
+
+A wool sweater grants +1D for resisting the effects of cold and wet. This bonus stacks with hats and scarves. Get toasty.
 
 ## Containers
 
