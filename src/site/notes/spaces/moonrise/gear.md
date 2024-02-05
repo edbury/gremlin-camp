@@ -1,5 +1,5 @@
 ---
-{"aliases":["Gear","gear"],"date-created":"2023-11-29T18:30","date-modified":"2024-02-05T14:36","dg-publish":true,"tags":["moonrise"],"title":"Gear","dg-path":"moonrise/gear.md","permalink":"/moonrise/gear/","dgPassFrontmatter":true}
+{"aliases":["Gear","gear"],"date-created":"2023-11-29T18:30","date-modified":"2024-02-05T14:57","dg-publish":true,"tags":["moonrise"],"title":"Gear","dg-path":"moonrise/gear.md","permalink":"/moonrise/gear/","dgPassFrontmatter":true}
 ---
 
 
@@ -215,25 +215,25 @@ A wool sweater grants +1D for resisting the effects of cold and wet. This bonus 
 
 | Item                                             | Ob  | Slots                               | Rarity |
 | ------------------------------------------------ | --- | ----------------------------------- | ------ |
-| Astrolabe                                        | 4   | pack 1                              |        |
+| Astrolabe                                        | 4   | pack 1                              | 2      |
 | Bag of nails                                     | 2   | pack 1                              | 1      |
 | Ball of twine                                    | 1   | pack 1                              | 0      |
 | Bandolier                                        | 2   | worn/torso 1                        | 1      |
-| Bedroll                                          | 2   | pack 2 or torso 1                   |        |
+| Bedroll                                          | 2   | pack 2 or torso 1                   | 0      |
 | Bell                                             | 2   | worn/neck or pocket                 | 1      |
 | Chalk                                            | 1   | pack 1                              | 1      |
-| Compass                                          | 5   | pack 1 or neck/worn 1               |        |
-| Dwarven forge mask                               | 8   |                                     |        |
-| Elven Tome of Lore                               | 5   |                                     |        |
+| Compass                                          | 5   | pack 1 or neck/worn 1               | 2      |
+| Dwarven forge mask                               | 8   |                                     | 2      |
+| Elven Tome of Lore                               | 5   |                                     | 2      |
 | Flasks of oil                                    | 2   | pack 1 or carried 1 for two flasks  | 1      |
 | Flasks of refined oil                            | 3   | pack 1 or carried 1 for two flasks  | 2      |
 | Garlic                                           | 1   | carried 1, worn/neck or pack 1      | 0      |
 | Grappling hook                                   | 3   | carried 1 or pack 2                 | 2      |
-| Grooming brush                                   | 1   |                                     |        |
+| Grooming brush                                   | 1   |                                     | 1      |
 | Hammer                                           | 2   | carried 1 or pack 1                 | 1      |
-| Horseshoes (4)                                   | 1   | pack 1                              |        |
+| Horseshoes (4)                                   | 1   | pack 1                              | 0      |
 | Ice skates                                       | 2   | worn/feet (over shoes) or pack 2    | 1      |
-| Industrial equipment: printing press, forge      | 8   |                                     |        |
+| Industrial equipment: printing press, forge      | 8   |                                     | 2      |
 | Iron spikes                                      | 1   | pack 1 for six spikes               | 1      |
 | Key, spare                                       | 1   | pack 1 or neck/worn 1               |        |
 | Ladder                                           | 2   | carried 2 or pack 10                | 0      |
