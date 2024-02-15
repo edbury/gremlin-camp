@@ -1,5 +1,5 @@
 ---
-{"aliases":["Planescape Adventure Inventory","Adventure Inventory"],"date-created":"2024-02-14T18:50","date-modified":"2024-02-14T20:35","dg-publish":true,"title":"Planescape Adventure Inventory","permalink":"/spaces/psydnd/adventure-inventory/","dgPassFrontmatter":true}
+{"aliases":["Planescape Adventure Inventory","Adventure Inventory"],"date-created":"2024-02-14T18:50","date-modified":"2024-02-14T20:38","dg-publish":true,"title":"Planescape Adventure Inventory","permalink":"/spaces/psydnd/adventure-inventory/","dgPassFrontmatter":true}
 ---
 
 
@@ -104,7 +104,6 @@
 | 1-3   | Ch 02. The Mortuary                          | The Eternal Boundary              | Sigil                     |
 | 1-3   | Ch 03. The Eternal Boundary                  | The Eternal Boundary              | Plane of Fire             |
 | 1-3   | Ch 01. The March Begins                      | The Great Modron March            | Automata, Outlands        |
-| 11+   | To Hell and Back                             | Tales of the Outer Planes         | Hell                      |
 | 2     | Castle at the Edge of Time                   | Tales of the Outer Planes         | Arabel                    |
 | 2-4   | The First Door: The Thuldanin Gargoyle       | Doors to the Unknown              | Acheron                   |
 | 2-4   | Ch 02. The Unswerving Path                   | The Great Modron March            | Mount Celestia            |
@@ -178,3 +177,4 @@
 | 9-10  | A Friendly Wager                             | Tales of the Outer Planes         | Olympus                   |
 | 9-10  | The Sea of Screams                           | Tales of the Outer Planes         | Abyss                     |
 | 9-11  | Ch 6. Epona's Daughter                       | The Well of the Worlds            | Prime                     |
+| 11+   | To Hell and Back                             | Tales of the Outer Planes         | Hell                      |
