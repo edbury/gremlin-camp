@@ -107,7 +107,7 @@
 | 2     | Castle at the Edge of Time                   | Tales of the Outer Planes         | Arabel                    |
 | 2-4   | The First Door: The Thuldanin Gargoyle       | Doors to the Unknown              | Acheron                   |
 | 2-4   | Ch 02. The Unswerving Path                   | The Great Modron March            | Mount Celestia            |
-| 2-4   | Ch 2. The Mazes                              | The Well of the Worlds            | Sigil                     |
+  | 2-4   | Ch 2. The Mazes                              | The Well of the Worlds            | Sigil                     |
 | 3-4   | The Brewing Storm                            | Tales of the Outer Planes         | Plane of Air              |
 | 3-4   | The Voyage of the Nereid                     | Tales of the Outer Planes         | Plane of Water            |
 | 3-5   | Tale 1: Planewalkers                         | Tales from the Infinite Staircase | Infinite Staircase        |
