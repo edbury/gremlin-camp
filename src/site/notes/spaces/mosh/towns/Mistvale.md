@@ -1,5 +1,5 @@
 ---
-{"aliases":"Mistvale","date-created":"2024-02-21T20:06","date-modified":"2024-02-21T20:17","title":"Mistvale","dg-publish":true,"dg-path":"mothership/towns/Mistvale.md","permalink":"/mothership/towns/mistvale/","dgPassFrontmatter":true}
+{"aliases":["Mistvale"],"date-created":"2024-02-21T20:06","date-modified":"2024-02-21T20:19","dg-publish":true,"tags":["moonrise"],"title":"Mistvale","dg-path":"mothership/towns/Mistvale.md","permalink":"/mothership/towns/mistvale/","dgPassFrontmatter":true}
 ---
 
 
