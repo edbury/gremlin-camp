@@ -1,5 +1,5 @@
 ---
-{"aliases":["Mistvale"],"date-created":"2024-02-21T20:06","date-modified":"2024-02-22T11:33","dg-publish":true,"tags":["moonrise"],"title":"Mistvale","dg-path":"mothership/towns/Mistvale.md","permalink":"/mothership/towns/mistvale/","dgPassFrontmatter":true}
+{"aliases":["Mistvale"],"date-created":"2024-02-21T20:06","date-modified":"2024-02-22T21:28","dg-publish":true,"tags":["moonrise"],"title":"Mistvale","dg-path":"mothership/towns/Mistvale.md","permalink":"/mothership/towns/mistvale/","dgPassFrontmatter":true}
 ---
 
 
@@ -58,7 +58,7 @@ In a dirty alley by the docks, a frail old man huddles under a lean-to. His eyes
 
 ### Boyar's Manse
 
-The eccentric boyar of Mistvale owns this, the largest house in town. Every day, he meets with the townsfolk to hear their grievances and settle disputes. Consult with the boyar by making an Ob 1 Peasant test, success grants +2D to one test in town.
+The eccentric boyar of Mistvale owns this, the largest house in town. Every day, he meets with the townsfolk to hear their grievances and settle disputes. Consult with the boyar by making an Ob 1 Etiquette test, success grants +2D to one test in town.
 
 **Boyar's Manse Cost:** Lifestyle +2
 
@@ -88,9 +88,7 @@ The gravedigger's guild is richest of all. Mistvale's noble and merchant familie
 
 Just near the town square, a cluster of permanent warehouses and temporary stalls forms the town market. On holidays and during the harvest, the market expands to cover the entire square.
 
-Anything commonly for sale in markets across Feudor can be found in Mistvale's market, but the region is renowned for the quality of certain "essentials": wolfsbane, silver daggers, garlic, stakes, mallets and holy symbols.
-
-Adventure events in this book can affect the availablility of goods in the market, notably wine and holy water.
+Anything commonly for sale in markets across the Twilight can be found in Mistvale's market, but the region is renowned for the quality of certain "essentials": wolfsbane, silver daggers, garlic, stakes, mallets and holy symbols.
 
 ### Streets
 
