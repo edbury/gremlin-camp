@@ -1,5 +1,5 @@
 ---
-{"aliases":["Towns"],"date-created":"2024-02-24T14:57","date-modified":"2024-02-24T15:49","dg-publish":true,"tags":["moonrise"],"title":"Towns","dg-path":"mothership/towns/Towns.md","permalink":"/mothership/towns/towns/","dgPassFrontmatter":true}
+{"aliases":["Towns"],"date-created":"2024-02-24T14:57","date-modified":"2024-02-24T15:55","dg-publish":true,"tags":["moonrise"],"title":"Towns","dg-path":"mothership/towns/Towns.md","permalink":"/mothership/towns/towns/","dgPassFrontmatter":true}
 ---
 
 
@@ -69,7 +69,7 @@ When staying at a hotel, guests are ensconced in a private room with a private b
 While staying at an inn, guests receive a private room with a shared bath and shared entrance. Each room is also assigned a servant to attend to it.
 
 - Breakfast is provided (free recovery from hungry and thirsty). 
-- Injured guests may mark 8 weeks of recovery time.  
+- Injured guests may mark 8 weeks of recovery time; diseased guests mark 4.  
 
 **Inn Lifestyle Cost:** +2
 
