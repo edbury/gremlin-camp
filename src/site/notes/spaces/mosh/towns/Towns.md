@@ -1,5 +1,5 @@
 ---
-{"aliases":["Towns"],"date-created":"2024-02-24T14:57","date-modified":"2024-02-24T15:55","dg-publish":true,"tags":["moonrise"],"title":"Towns","dg-path":"mothership/towns/Towns.md","permalink":"/mothership/towns/towns/","dgPassFrontmatter":true}
+{"aliases":["Towns"],"date-created":"2024-02-24T14:57","date-modified":"2024-02-24T16:08","dg-publish":true,"tags":["moonrise"],"title":"Towns","dg-path":"mothership/towns/Towns.md","permalink":"/mothership/towns/towns/","dgPassFrontmatter":true}
 ---
 
 
@@ -13,17 +13,20 @@ Specific towns may offer additional or alternate services.
 
 ### Flophouse
 
-At a flophouse, adventurers crash in the common room and don't get much else aside from fleas. If you are injured, mark four weeks of recovery. You cannot recovery from injuries or sickness here if you are Diseased.
+At a flophouse, adventurers crash in the common room and don't get much else aside from fleas. 
+
+- If you are injured, mark four weeks of recovery. 
+- You cannot recovery from injuries or sickness here if you are Diseased.
 
 **Flophouse Lifestyle Cost:** +1
 
 ### Guild Hall
 
-Most towns are run by a league of powerful guilds. They control all trade and commerce and provide the town's watches. At the guild hall, you petition to use guild facilities, temporarily hire apprentices and find employment. You can also exchange loot for promises here.
+Most towns are run by a league of powerful guilds. They control all trade and commerce and provide the town's watches. At the guild hall, you petition to use guild facilities, temporarily hire apprentices and find employment. You can also exchange loot for IOUs here.
 
 #### Rent Facilities
 
-- Non-guild members must pay a fee to do any work related to the guild. Once the fee is paid, the guild will begrudgingly allow use of its facilities for a short period of time. Renting guild facilities is the legal way to make trade or craft skill tests—like Armorer or Weaver—during the town phase. If one tries to sneak a repair in one's hotel room, the staff will report them, and the guild will assay a fine—an Ob 2 or 3 Resources test—that must be paid lest the adventurer be branded a shirker and outlaw! Guild fees are required for:
+- Non-guild members must pay a fee to do any work related to the guild. Once the fee is paid, the guild will begrudgingly allow use of its facilities for a short period of time. Renting guild facilities is the legal way to make trade or craft skill tests—like Armorer or Weaving—during the town phase. If one tries to sneak a repair in one's hotel room, the staff will report them, and the guild will assay a fine—an Ob 2 or 3 Favors test—that must be paid lest the adventurer be branded a shirker and outlaw! Guild fees are required for:
   - Scribing scrolls 
   - Repairing armor 
   - Cooking for pay
@@ -35,7 +38,7 @@ Most towns are run by a league of powerful guilds. They control all trade and co
 #### Hire Apprentice
 
 - At the guild hall, one can hire a skilled apprentice. An apprentice provides help (+1D) to a trade or craft skill. One may hire a single apprentice per stay in town.
-- To check if an apprentice is available, test Circles against the appropriate factors.
+- To check if an apprentice is available, test Circles against the appropriate modifiers.
 - If a guild is on strike or any town event includes the guild, then apprentices for that guild are unavailable.
 
 ##### Hiring an Apprentice Circles Modifiers
@@ -87,9 +90,9 @@ At the market, adventurers will find all manner of goods and items for purchase.
 #### Selling Kit or Salvage
 
 - The market is the place to sell any salvage hauled out of the ruins:
-  - If the object is valued at Resources Ob 1-3, it has no exchange value. No one wants your stinky, rusty junk.
-  - If the object is valued at Resources Ob 4-7, it's worth 1D.
-  - If the object is valued at Resources Ob 8+, it's worth 2D.
+  - If the object is valued at Favors Ob 1-3, it has no exchange value. No one wants your stinky, rusty junk.
+  - If the object is valued at Favors Ob 4-7, it's worth 1D.
+  - If the object is valued at Favors Ob 8+, it's worth 2D.
 
 **Market Selling Lifestyle Cost:** +0
 
@@ -213,7 +216,7 @@ To their adherents, temples provide succor and tutelage. To gain these benefits,
 
 #### Joining a Temple Cult
 
-- To join a cult at a temple in town requires an Ob 3 Resources test. Thereafter, you gain a 1D Affiliation and may make use of the temple's facilities: succor and tutelage. Note that temples are specific to each settlement. Joining a temple in one town does not grant membership to all temples. Joining a cult as an acolyte does not confer a holy office (priesthood).
+- To join a cult at a temple in town requires an Ob 3 Favors test. Thereafter, you gain a 1D Affiliation and may make use of the temple's facilities: succor and tutelage. Note that temples are specific to each settlement. Joining a temple in one town does not grant membership to all temples. Joining a cult as an acolyte does not confer a holy office (priesthood).
 
 **Joining a Temple Cult Lifestyle Cost:** +0
 
