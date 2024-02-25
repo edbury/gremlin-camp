@@ -1,5 +1,5 @@
 ---
-{"aliases":["Mistvale"],"date-created":"2024-02-21T20:06","date-modified":"2024-02-24T17:12","dg-publish":true,"tags":["moonrise"],"title":"Mistvale","dg-path":"mothership/towns/Mistvale.md","permalink":"/mothership/towns/mistvale/","dgPassFrontmatter":true}
+{"aliases":["Mistvale"],"date-created":"2024-02-21T20:06","date-modified":"2024-02-24T17:25","dg-publish":true,"tags":["moonrise"],"title":"Mistvale","dg-path":"mothership/towns/Mistvale.md","permalink":"/mothership/towns/mistvale/","dgPassFrontmatter":true}
 ---
 
 
@@ -9,7 +9,6 @@ Mistvale is the largest settlement in Darkovia, though it is dwarfed by comparis
 
 The people here are mostly friendly, though fearful of the night and weary from living in a place where death stalks the wilds. They might be close-lipped upon first meeting, but generally love to drink and talk as much as anyone in the dayward counties.
 
-- **Alignment:** Law
 - **Common Traits:** Skeptical, Light Sleeper
 - **Common Skills:** Carpentry, Armorer, Doctrine
 
@@ -28,7 +27,7 @@ The town's skyline is dominated by this cathedral, which is so towering and orna
 
 #### Offer a Prayer
 
-The lay folk often visit the shrine within the cathedral to pray for loved ones or to petition the Lords in their own defense. A modest donation to the alms box in the cathedral is recommended before petitioning the Lords for aid. Roll on the Cathedral Prayers table.
+The lay folk often visit the shrine within the cathedral to pray for loved ones or to petition the Lord in their own defense. A modest donation to the alms box in the cathedral is recommended before petitioning the Lord for aid. 
 
 **Offer a Prayer Cost:** Ob 1
 
@@ -78,17 +77,23 @@ The stables of Mistvale will not board monstrous mounts at any price.
 
 > See also [[spaces/mosh/towns/Towns#Stables\|Towns#Stables]]
 
+**Stables Lifestyle Cost:** +1
+
 ### Flophouse
 
 The utter lack of privacy in these low-end hostels is actually seen as an advantage by many frightened travelers. Watchful bunkmates may keep the black-hearted beasts from your throat, but they do little to guard your wine or the coin in your pack.
 
 > See also [[spaces/mosh/towns/Towns#Flophouse\|Towns#Flophouse]]
 
+**Flophouse Lifestyle Cost:** +1
+
 ### Inn of the Waning Moon (Inn)
 
 Not quite so opulent as the fine hotels in the Capital, the Inn of the Waning Moon has the finest rooms available to travelers in Darkovia. The Petrus are welcoming to traveling folk, and with them come virtuoso musicians and colorful dancers. Lethea Petru presses a hand-made holy symbol of the Burning Lord into the palm of every single boarder who crosses the threshold of her inn.
 
 > See also [[spaces/mosh/towns/Towns#Inn\|Towns#Inn]]
+
+**Inn Lifestyle Cost:** +2
 
 ### Guildhall
 
@@ -111,3 +116,5 @@ Anything commonly for sale in markets across the Twilight can be found in Mistva
 The night streets of Mistvale are safer than one might imagine. Yes, there's always the threat of stalking undead looking for an easy meal—but the true danger of remaining outdoors at night is being mistaken for such a monster by one of the locals. A vampire might leave you drained but alive; a Mistvallian will make punishingly certain that you are dead.
 
 > See also [[spaces/mosh/towns/Towns#The Streets\|Towns#The Streets]]
+
+**Life on the Streets Lifestyle Cost:** +0
