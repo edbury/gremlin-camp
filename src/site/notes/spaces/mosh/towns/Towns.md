@@ -1,5 +1,5 @@
 ---
-{"aliases":["Towns"],"date-created":"2024-02-24T14:57","date-modified":"2024-02-24T17:16","dg-publish":true,"tags":["moonrise"],"title":"Towns","dg-path":"mothership/towns/Towns.md","permalink":"/mothership/towns/towns/","dgPassFrontmatter":true}
+{"aliases":["Towns"],"date-created":"2024-02-24T14:57","date-modified":"2024-02-24T18:30","dg-publish":true,"tags":["moonrise"],"title":"Towns","dg-path":"mothership/towns/Towns.md","permalink":"/mothership/towns/towns/","dgPassFrontmatter":true}
 ---
 
 
@@ -39,7 +39,6 @@ Most towns are run by a league of powerful guilds. They control all trade and co
 - Non-guild members must pay a fee to do any work related to the guild. Once the fee is paid, the guild will begrudgingly allow use of its facilities for a short period of time. Renting guild facilities is the legal way to make trade or craft skill tests—like Armorer or Weaving—during the town phase. If one tries to sneak a repair in one's hotel room, the staff will report them, and the guild will assay a fine—an Ob 2 or 3 Favors test—that must be paid lest the adventurer be branded a shirker and outlaw! Guild fees are required for:
   - Scribing scrolls 
   - Repairing armor 
-  - Cooking for pay
   - Crafting items  
   - Practicing alchemy or enchanting
 
@@ -245,4 +244,4 @@ To their adherents, temples provide succor and tutelage. To gain these benefits,
 
 #### Alms and Blessings
 
-- The priests of the temple will officiate funerals, weddings and coming of age ceremonies. They will also give alms to beggars on holy days (either 1D of copper coins or one portion of fresh rations).
+- The priests of the temple will officiate funerals, weddings and coming of age ceremonies. They will also give alms to beggars on holy days.
