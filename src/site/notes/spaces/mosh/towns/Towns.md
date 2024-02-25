@@ -1,5 +1,5 @@
 ---
-{"aliases":["Towns"],"date-created":"2024-02-24T14:57","date-modified":"2024-02-24T16:41","dg-publish":true,"tags":["moonrise"],"title":"Towns","dg-path":"mothership/towns/Towns.md","permalink":"/mothership/towns/towns/","dgPassFrontmatter":true}
+{"aliases":["Towns"],"date-created":"2024-02-24T14:57","date-modified":"2024-02-24T17:16","dg-publish":true,"tags":["moonrise"],"title":"Towns","dg-path":"mothership/towns/Towns.md","permalink":"/mothership/towns/towns/","dgPassFrontmatter":true}
 ---
 
 
@@ -10,6 +10,10 @@ Typically, trips to town are 4 weeks long. Everyone gets 4 weeks (1 month) of pr
 Doing stuff in town increases your Lifestyle obstacle. Drinking at the Tavern is +1, staying at the Inn is +2, etc.
 
 Lifestyle is tested at the end of any 4-week period in town. You can stay longer, but you'll have to pay for accommodations again.
+
+## Known Settlements
+
+- [[spaces/mosh/towns/Mistvale\|Mistvale]]
 
 ## Town Locations
 
