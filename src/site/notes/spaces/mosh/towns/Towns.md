@@ -1,5 +1,5 @@
 ---
-{"aliases":["Towns"],"date-created":"2024-02-24T14:57","date-modified":"2024-02-24T18:30","dg-publish":true,"tags":["moonrise"],"title":"Towns","dg-path":"mothership/towns/Towns.md","permalink":"/mothership/towns/towns/","dgPassFrontmatter":true}
+{"aliases":["Towns"],"date-created":"2024-02-24T14:57","date-modified":"2024-02-24T19:17","dg-publish":true,"tags":["moonrise"],"title":"Towns","dg-path":"mothership/towns/Towns.md","permalink":"/mothership/towns/towns/","dgPassFrontmatter":true}
 ---
 
 
@@ -14,6 +14,48 @@ Lifestyle is tested at the end of any 4-week period in town. You can stay longer
 ## Known Settlements
 
 - [[spaces/mosh/towns/Mistvale\|Mistvale]]
+
+## Conducting Business
+
+### Build Kit
+
+To build or repair items rather than buy them, rent facilities at the guild hall and then test the appropriate skills. Lifestyle cost is as described under the Guild Hall location.
+
+### Ask Around
+
+When asking around about a rumor about an adventure location or lost treasure, test Circles. If you have some bit of evidence—a scrap of a map, an inscription or someone who saw something—the additional information grants +1D to the Circles test.
+
+The game master determines the obstacle based on the type of person being sought. 
+
+**Asking Around Lifestyle Cost:** +1
+
+### Do Research
+
+When in town, adventurers can research leads, rumors, maps and bits of lore—anything they've heard or found in their travels.
+
+Researching a lead requires access to a library, manuscripts, journals or even engravings. Libraries or their equivalent facilities can be found in the wizard's tower (relating to lore and magic), guild hall (relating to commerce and the settlement), dwarven halls (relating to the history of the settlement and ancient grudges) and Elfhome (in their dreamhouses the elves walk through many worlds).
+
+Test Research or related academic skill.
+
+**Doing Research Lifestyle Cost:** +1
+
+### Go Visiting
+
+Adventurers can visit any of their contacts or relations who are currently in this town.
+
+**Go Visiting Lifestyle Cost:** +0
+
+### Personal Business
+
+Personal business is the catchall category for adventurer activity in town. Any business not covered by other categories in the Conducting Business in Town section adds to lifestyle cost. If the players come up with an activity not covered here, charge them a lifestyle cost (usually 1) and determine an appropriate roll to make.
+
+**Personal Business Lifestyle Cost:** +1
+
+### Find Someone
+
+If the adventurers want to search for a specific person in this settlement, make a Circles test using the appropriate obstacle.
+
+**Searching for Someone Lifestyle Cost:** +1
 
 ## Town Locations
 
