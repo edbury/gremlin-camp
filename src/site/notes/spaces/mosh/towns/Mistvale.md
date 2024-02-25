@@ -1,11 +1,13 @@
 ---
-{"aliases":["Mistvale"],"date-created":"2024-02-21T20:06","date-modified":"2024-02-24T15:53","dg-publish":true,"tags":["moonrise"],"title":"Mistvale","dg-path":"mothership/towns/Mistvale.md","permalink":"/mothership/towns/mistvale/","dgPassFrontmatter":true}
+{"aliases":["Mistvale"],"date-created":"2024-02-21T20:06","date-modified":"2024-02-24T17:12","dg-publish":true,"tags":["moonrise"],"title":"Mistvale","dg-path":"mothership/towns/Mistvale.md","permalink":"/mothership/towns/mistvale/","dgPassFrontmatter":true}
 ---
 
 
 # Mistvale
 
-## Overview
+Mistvale is the largest settlement in Darkovia, though it is dwarfed by comparison to the cities of Highwater and Auberon. Like all towns in the region, it is administered by the boyar who serves as an adjudicator of disputes, collector of taxes and enforcer of the law.
+
+The people here are mostly friendly, though fearful of the night and weary from living in a place where death stalks the wilds. They might be close-lipped upon first meeting, but generally love to drink and talk as much as anyone in the dayward counties.
 
 - **Alignment:** Law
 - **Common Traits:** Skeptical, Light Sleeper
@@ -40,7 +42,7 @@ The oldest and largest public house in town, the Stake & Mallet is well-lit, war
 
 #### Hiring Slayers
 
-In addition to the usual hirelings— porters, guards and guides—visitors to the Stake & Mallet can bend the ear of some wise old slayers. These veteran adventurers can serve as both guard and guide, using their experience to keep a camp safe from all manner of vampire and lycanthrope. Gain +1 on camp event rolls in addition to the benefits of a guard and a guide. This level of service doesn't come cheap—these are real professionals!
+In addition to the usual hirelings— porters, guards and guides—visitors to the Stake & Mallet can bend the ear of some wise old slayers. These veteran adventurers can serve as both guard and guide, using their experience to keep a camp safe from all manner of vampire and lycanthrope. Gain the benefits of a guard and a guide. This level of service doesn't come cheap—these are real professionals!
 
 **Hiring Slayers Lifestyle Cost:** +3
 
