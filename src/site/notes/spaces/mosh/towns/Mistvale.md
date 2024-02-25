@@ -5,7 +5,7 @@
 
 # Mistvale
 
-Mistvale is the largest settlement in Darkovia, though it is dwarfed by comparison to the cities of Highwater and Auberon. Like all towns in the region, it is administered by the boyar who serves as an adjudicator of disputes, collector of taxes and enforcer of the law.
+Mistvale is the largest settlement in Darkovia, though it is dwarfed by comparison to the cities of Highwater and Auberon. Like all towns in the region, it is administered by the boyar who serves as an adjudicator of disputes, collector of taxes, and enforcer of the law.
 
 The people here are mostly friendly, though fearful of the night and weary from living in a place where death stalks the wilds. They might be close-lipped upon first meeting, but generally love to drink and talk as much as anyone in the dayward counties.
 
