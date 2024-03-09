@@ -1,5 +1,5 @@
 ---
-{"aliases":"Brandonsford","date-created":"2024-03-08T10:47","date-modified":"2024-03-08T22:45","dg-publish":true,"tags":["moonrise"],"title":"Brandonsford","dg-path":"mothership/towns/Brandonsford.md","permalink":"/mothership/towns/brandonsford/","dgPassFrontmatter":true}
+{"aliases":["Brandonsford"],"date-created":"2024-03-08T10:47","date-modified":"2024-03-09T01:15","dg-publish":true,"tags":["moonrise"],"title":"Brandonsford","dg-path":"mothership/towns/Brandonsford.md","permalink":"/mothership/towns/brandonsford/","dgPassFrontmatter":true}
 ---
 
 
@@ -8,7 +8,7 @@
 A quiet little town at the edge of the wilderness. The houses here are mostly thatched roof stone cottages along with two plaster-and-timber inns all herded together by an ancient stone wall. There are no guards or proper law enforcement, but the town is protected by a rotating group of able-bodied men on night watch duty.
 
 - **Common Traits:** Defiant, Skittish
-- **Common Skills:** Peasant, Cook, Haggler
+- **Common Skills:** Farming, Cook, Haggler
 
 ## Laws
 
