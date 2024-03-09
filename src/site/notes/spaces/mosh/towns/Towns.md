@@ -1,5 +1,5 @@
 ---
-{"aliases":["Towns"],"date-created":"2024-02-24T14:57","date-modified":"2024-02-24T19:17","dg-publish":true,"tags":["moonrise"],"title":"Towns","dg-path":"mothership/towns/Towns.md","permalink":"/mothership/towns/towns/","dgPassFrontmatter":true}
+{"aliases":["Towns"],"date-created":"2024-02-24T14:57","date-modified":"2024-03-08T22:22","dg-publish":true,"tags":["moonrise"],"title":"Towns","dg-path":"mothership/towns/Towns.md","permalink":"/mothership/towns/towns/","dgPassFrontmatter":true}
 ---
 
 
@@ -63,6 +63,12 @@ There are 11 general locations in a town (or other settlement): flophouse, guild
 
 Specific towns may offer additional or alternate services.
 
+### Chapel
+
+A small house of worship, the chapel offers solace in a war-torn territory. The iron-forged priests can successfully repair any one piece of armor during your stay in town and will have it ready for you when you leave. However, if you fail to pay your Lifestyle cost, the priests will curse your name and keep the armor.
+
+**Repair Armor Lifestyle Cost:** +2
+
 ### Flophouse
 
 At a flophouse, adventurers crash in the common room and don't get much else aside from fleas. 
@@ -102,6 +108,20 @@ Most towns are run by a league of powerful guilds. They control all trade and co
 
 **Hire Apprentice Lifestyle Cost:** +1
 
+### Hedge Witch
+
+Some settlements boast a local magician who has retired from adventuring and set up shop out near the hedges. They sell balms, concoctions and admixtures to the needy and the desperate. The townsfolk call them hedge witches because, due to guild prohibitions, they are forced to set up shop at the edge of town.
+
+#### Alchemical Availability
+
+- Selling alchemical concoctions to needy adventurers is legal. If an adventurer approaches the Hedge Witch, roll 1d6 to determine how many items from the Alchemical Agents Table are available. The game master may choose the specific items.
+
+#### Guild Prohibitions
+
+- Hedge witches and wizards will never cast a spell for money, or sell a truly magical item. Never. It is prohibited by their guild, from the highest lich to the lowliest apprentice. If they should be caught, they will be run out of town (and forced back into the wretched life of an adventurer) and, worse, shunned by their friends and mentors.
+
+**Purchasing from the Hedge Witch Lifestyle Cost:** +0
+
 ### Homes
 
 If an adventurer's relationship resides in town, they can stay with them for free. 
@@ -117,6 +137,15 @@ When staying at a hotel, guests are ensconced in a private room with a private b
 - Staying at the hotel grants a +1D bonus to Health tests to recover from sickness or wounds.  
 
 **Hotel Lifestyle Cost:** +3
+
+### Infirmary
+
+The infirmary, a place of refuge from the torments of the road, provides healing for those in desperate need. However, those that are truly ill sometimes never leave. 
+
+- Mark 4 weeks of recovery.
+- Gain +1D to recover injury or disease.
+
+**Infirmary Lifestyle Cost:** +2
 
 ### Inn
 
