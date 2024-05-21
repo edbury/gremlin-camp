@@ -1,5 +1,5 @@
 ---
-{"aliases":["Waking Up"],"author":"Sam Harris","cover":null,"date-created":"2023-10-03T22:10","date-modified":"2023-10-03T22:24","dg-publish":true,"finished":"2023-07-25T00:00:00","location":"Denver","subtitle":null,"tags":["source/book"],"title":"Waking Up","translator":null,"up":"[[sources moc]]","year":2014,"dg-path":"highlights/Waking Up.md","permalink":"/highlights/waking-up/","dgPassFrontmatter":true}
+{"aliases":["Waking Up"],"author":"Sam Harris","cover":"https://i.imgur.com/2WhCbgS.jpeg","date-created":"2023-10-03T22:10","date-modified":"2024-05-20T19:18","dg-publish":true,"finished":"2023-07-25T00:00:00","location":"Denver","subtitle":"A Guide to Spirituality Without Religion","tags":["source/book"],"title":"Waking Up","translator":null,"up":[["sources moc"]],"year":2014,"dg-path":"highlights/Waking Up.md","permalink":"/highlights/waking-up/","dgPassFrontmatter":true}
 ---
 
 
@@ -13,4 +13,39 @@
 { #c64133}
 
 
-[[sources/books/Waking Up#^c64133\|Waking Up#^c64133]]
+[[sources/books/Waking Up#^c64133\|pg. 23]]
+
+> The quality of mind cultivated in _vipassana_ is almost always referred to as "mindfulness," and the literature on its psychological benefits is now substantial. There is nothing spooky about mindfulness. It is simply a state of clear, nonjudgmental, and undistracted attention to the contents of consciousness, whether pleasant or unpleasant. Cultivating this quality of mind has been shown to reduce pain, anxiety, and depression; improve cognitive function; and even produce changes in gray matter density in regions of the brain related to learning and memory, emotional regulation, and self-awareness.
+{ #efa51e}
+
+
+[[sources/books/Waking Up#^efa51e\|pg. 35]]
+
+> There is nothing passive about mindfulness. One might even say that it expresses a specific kind of passion--a passion for discerning what is subjectively real in every moment. It is a mode of cognition that is, above all, undistracted, accepting, and (ultimately) nonconceptual. Being mindful is not a matter of _thinking_ more clearly about experience; it is the act of _experiencing_ more clearly, including the arising of thoughts themselves. Mindfulness is a vivid awareness of whatever is appearing in one's mind or body--thoughts, sensations, moods--without grasping at the pleasant or recoiling from the unpleasant. One of the great strengths of this technique of meditation, from a secular point of view, is that it does not require us to adopt any cultural affectations or unjustified beliefs. It simply demands that we pay close attention to the flow of experience in each moment.
+{ #221c7b}
+
+
+[[sources/books/Waking Up#^221c7b\|pg. 36]]
+
+> Eventually, it begins to seem as if you are repeatedly awakening from a dream to find yourself safely in bed. No matter how terrible the dream, the relief is instantaneous. And yet it is difficult to stay awake for more than a few seconds at a time.
+{ #f77c59}
+
+
+[[sources/books/Waking Up#^f77c59\|pg. 37]]
+
+> *How to Meditate*
+> 
+> 1. Sit comfortably, with your spine erect, either in a chair or cross-legged on a cushion.
+> 2. Close your eyes, take a few deep breaths, and feel the points of contact between your body and the chair or the floor. Notice the sensations associated with sitting--feelings of pressure, warmth, tingling, vibration, etc.
+> 3. Gradually become aware of the process of breathing. Pay attention to wherever you feel the breath most distinctly--either at your nostrils or in the rising and falling of your abdomen.
+> 4. Allow your attention to rest in the mere sensation of breathing. (You don't have to control your breath. Just let it come and go naturally.)
+> 5. Every time your mind wanders in thought, gently return to your breath.
+> 6. As you focus on the process of breathing, you will also perceive sounds, bodily sensations, or emotions. Simply observe these phenomena as they appear in consciousness and then return to the breath.
+> 7. The moment you notice that you have been lost in thought, observe the present thought itself as an object of consciousness. Then return your attention to the breath--or to any sounds or sensations arising in the next moment.
+> 8. Continue in this way until you can merely witness all objects of consciousness--sights, sounds, sensations, emotions, even thoughts themselves--as they arise, change, and pass away.
+> 
+> Those who are new to this practice generally find it useful to hear instructions of this kind spoken aloud during the course of a meditation session...
+{ #405769}
+
+
+[[sources/books/Waking Up#^405769\|pg. 39-40]]
