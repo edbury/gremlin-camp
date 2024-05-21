@@ -1,5 +1,5 @@
 ---
-{"aliases":["Hello World"],"date-created":"2023-04-12T01:33","date-modified":"2023-11-23T14:18","dg-home":true,"dg-publish":true,"tags":["gardenEntry"],"title":"Hello World","permalink":"/garden/","dgPassFrontmatter":true}
+{"id":"garden","aliases":["Hello World"],"tags":["gardenEntry"],"date-created":"2023-04-12T01:33","date-modified":"2023-11-23T14:18","dg-home":true,"dg-publish":true,"title":"Hello World","permalink":"/garden/","dgPassFrontmatter":true}
 ---
 
 
