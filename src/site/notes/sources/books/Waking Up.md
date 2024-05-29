@@ -1,5 +1,5 @@
 ---
-{"aliases":["Waking Up"],"author":"Sam Harris","cover":"https://i.imgur.com/2WhCbgS.jpeg","date-created":"2023-10-03T22:10","date-modified":"2024-05-20T19:18","dg-publish":true,"finished":"2023-07-25T00:00:00","location":"Denver","subtitle":"A Guide to Spirituality Without Religion","tags":["source/book"],"title":"Waking Up","translator":null,"up":[["sources moc"]],"year":2014,"dg-path":"highlights/Waking Up.md","permalink":"/highlights/waking-up/","dgPassFrontmatter":true}
+{"aliases":["Waking Up"],"author":"Sam Harris","cover":"https://i.imgur.com/2WhCbgS.jpeg","date-created":"2023-10-03T22:10","date-modified":"2024-05-20T19:35","dg-publish":true,"finished":"2023-07-25T00:00:00","location":"Denver","subtitle":"A Guide to Spirituality Without Religion","tags":["source/book"],"title":"Waking Up","translator":null,"up":[["sources moc"]],"year":2014,"dg-path":"highlights/Waking Up.md","permalink":"/highlights/waking-up/","dgPassFrontmatter":true}
 ---
 
 
@@ -49,3 +49,27 @@
 
 
 [[sources/books/Waking Up#^405769\|pg. 39-40]]
+
+> And then there is death, which defeats everyone. Most people seem to believe that we have only two ways to think about death: We can fear it and do our best to ignore it, or we can deny that it is real. The first strategy leads to a life of conventional worldliness and distraction--we merely strive for pleasure and success and do our best to keep the reality of death out of view. The second strategy is the province of religion, which assures us that death is but a doorway to another world and that the most important opportunities in life occur after the lifetime of the body. But there is another path, and it seems the only one compatible with intellectual honesty. That path is the subject of this book.
+{ #486785}
+
+
+[[sources/books/Waking Up#^486785\|pg. 42]]
+
+> Some people are content in the midst of deprivation and danger, while others are miserable despite having all the luck in the world. This is not to say that external circumstances do not matter. But it is your mind, rather than the circumstances themselves, that determines the quality of your life.
+{ #193896}
+
+
+[[sources/books/Waking Up#^193896\|pg. 47]]
+
+> Some pleasures are intrinsically ethical--feelings like love, gratitude, devotion, and compassion. To inhabit these states of mind is, by definition, to be brought into alignment with others.
+{ #12e9ee}
+
+
+[[sources/books/Waking Up#^12e9ee\|pg. 49]]
+
+> In one of the most influential essays on consciousness ever written, the philosopher Thomas Nagel asks us to consider what it is like to be a bat. His interest isn't in bats but in how we define the concept of "consciousness." Nagel argues that an organism is conscious "if any only if there is something that it is like to _be_ that organism--something that it is like _for_ the organism." [...] If you would be left with _any_ experiences, however indescribable--some spectrum of sights, sounds, sensations, feelings--_that_ is what consciousness is in the case of a bat. If being transformed into a bat were tantamount to annihilation, however, then bats are not conscious. Nagel's point is that whatever else consciousness may or may not entail in physical terms, the difference between it and unconsciousness is a matter of subjective experience. Either the lights are on, or they are not.
+{ #862be5}
+
+
+[[sources/books/Waking Up#^862be5\|pg. 51-52]]
