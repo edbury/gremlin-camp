@@ -1,5 +1,5 @@
 ---
-{"aliases":["The Anatomy of Injury"],"date-created":"2024-05-29T14:19","date-modified":"2024-05-29T15:20","dg-publish":true,"title":"The Anatomy of Injury","dg-path":"moonrise/The Anatomy of Injury.md","permalink":"/moonrise/the-anatomy-of-injury/","dgPassFrontmatter":true}
+{"aliases":["The Anatomy of Injury"],"date-created":"2024-05-29T14:19","date-modified":"2024-05-29T16:27","dg-publish":true,"tags":["moonrise"],"title":"The Anatomy of Injury","dg-path":"moonrise/The Anatomy of Injury.md","permalink":"/moonrise/the-anatomy-of-injury/","dgPassFrontmatter":true}
 ---
 
 
