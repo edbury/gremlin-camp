@@ -17,7 +17,7 @@ Highlights from recent readings.
 | [[sources/books/The Tibetan Book of the Dead\|The Tibetan Book of the Dead]] | Padmasambhāva                      | 1994       |
 | [[sources/books/12 Secrets of the Caucasus\|12 Secrets of the Caucasus]]     | Essad Bey                          | 1930       |
 | [[sources/books/Dune\|Dune]]                                                 | Frank Herbert                      | 1965       |
-| [[sources/books/Wasted\|Wasted]]                                             | Marya Hornbacher                   | 1998, 2014 |
 | [[sources/books/Physiology of Behavior\|Physiology of Behavior]]             | Neil R. Carson, Melissa A. Birkett | 1930       |
+| [[sources/books/Wasted\|Wasted]]                                             | Marya Hornbacher                   | 1998, 2014 |
 
 { .block-language-dataview}
