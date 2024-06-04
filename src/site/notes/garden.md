@@ -1,5 +1,5 @@
 ---
-{"id":"garden","aliases":["Hello World"],"tags":["gardenEntry","gardenEntry"],"date-created":"2023-04-12T01:33","date-modified":"2023-11-23T14:18","dg-home":true,"dg-publish":true,"title":"Hello World","permalink":"/garden/","dgPassFrontmatter":true}
+{"aliases":["Hello World"],"date-created":"2023-04-12T01:33","date-modified":"2024-06-03T19:52","dg-home":true,"dg-publish":true,"id":"garden","tags":["gardenEntry"],"title":"Hello World","permalink":"/garden/","dgPassFrontmatter":true}
 ---
 
 
@@ -7,4 +7,6 @@
 
 Welcome to Gremlin Camp.
 
-I'm currently working on my [[atlas/bookshelf\|bookshelf]] and a collection of [[spaces/mosh/mothership\|mothership]] notes.
+I'm currently figuring out how to tend my garden.
+
+For now, check out my [[atlas/bookshelf\|bookshelf]] and a collection of [[spaces/mosh/mothership\|mothership]] notes.
