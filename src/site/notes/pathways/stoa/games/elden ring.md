@@ -1,5 +1,5 @@
 ---
-{"aliases":"Elden Ring,elden ring","date-created":"2024-06-24T14:32","date-modified":"2024-06-24T15:07","title":"Elden Ring","dg-publish":true,"permalink":"/pathways/stoa/games/elden-ring/","dgPassFrontmatter":true}
+{"aliases":["Elden Ring","elden ring"],"date-created":"2024-06-23T14:32","date-modified":"2024-06-24T15:23","dg-publish":true,"title":"Elden Ring","permalink":"/pathways/stoa/games/elden-ring/","dgPassFrontmatter":true}
 ---
 
 
@@ -9,77 +9,77 @@
 
 ### Before Melina
 
-- [x] Meet Varre (Limgrave) ✅ 2024-06-24
-- [x] Approach Murkwater Cave and help Yura defeat Nerijus {If Yura dies, his quest fails} ✅ 2024-06-24
-- [x] Find and fight Patches in Murkwater Cave (Limgrave) ✅ 2024-06-24
-- [x] Talk to Yura north of Murkwater Cave (Limgrave) ✅ 2024-06-24
-- [x] MEET MELINA ✅ 2024-06-24
+- [x] Meet Varre (Limgrave) ✅ 2024-06-22
+- [x] Approach Murkwater Cave and help Yura defeat Nerijus {If Yura dies, his quest fails} ✅ 2024-06-22
+- [x] Find and fight Patches in Murkwater Cave (Limgrave) ✅ 2024-06-22
+- [x] Talk to Yura north of Murkwater Cave (Limgrave) ✅ 2024-06-22
+- [x] MEET MELINA ✅ 2024-06-22
 
 ### Before Roundtable
 
-- [x] Return to Church of Elleh meet Ranni at night ✅ 2024-06-24
-- [x] Free Boc from tree (Limgrave) ✅ 2024-06-24
-- [x] Talk to Boc at Coastal Cave (Limgrave) ✅ 2024-06-24
-- [x] Defeat Coastal Cave boss and give Boc sewing tools {go all the way through for Church of Dragon Communion} ✅ 2024-06-24
-- [x] Meet Sellen in Waypoint Ruins (Limgrave) ✅ 2024-06-24
-- [x] Meet Rodreika at Stormhill Shack (Limgrave) ✅ 2024-06-24
-- [x] Meet Alexander next to Saintsbridge (Limgrave) ✅ 2024-06-24
-- [x] Meet D in stormhill past Saintsbridge (Limgrave) ✅ 2024-06-24
-- [x] Kill Tibia Mariner in Summonwater Village Ruins (Limgrave) ✅ 2024-06-24
-- [x] Return to D ✅ 2024-06-24
-- [x] Meet Kenneth Haight (Limgrave) ✅ 2024-06-24
-- [x] Find Waypoint to Bestial Sanctum (Mistwood) ✅ 2024-06-24
-- [x] Feed Gurranq 9 deathroot {can't find all 9 right now just give as you find them} ✅ 2024-06-24
-- [x] {Rest at Bestial Sanctum Site of Grace} ✅ 2024-06-24
-- [x] ENTER ROUNDTABLE HOLD ✅ 2024-06-24
+- [x] Return to Church of Elleh meet Ranni at night ✅ 2024-06-22
+- [x] Free Boc from tree (Limgrave) ✅ 2024-06-22
+- [x] Talk to Boc at Coastal Cave (Limgrave) ✅ 2024-06-22
+- [x] Defeat Coastal Cave boss and give Boc sewing tools {go all the way through for Church of Dragon Communion} ✅ 2024-06-22
+- [x] Meet Sellen in Waypoint Ruins (Limgrave) ✅ 2024-06-22
+- [x] Meet Rodreika at Stormhill Shack (Limgrave) ✅ 2024-06-22
+- [x] Meet Alexander next to Saintsbridge (Limgrave) ✅ 2024-06-22
+- [x] Meet D in stormhill past Saintsbridge (Limgrave) ✅ 2024-06-22
+- [x] Kill Tibia Mariner in Summonwater Village Ruins (Limgrave) ✅ 2024-06-22
+- [x] Return to D ✅ 2024-06-22
+- [x] Meet Kenneth Haight (Limgrave) ✅ 2024-06-22
+- [x] Find Waypoint to Bestial Sanctum (Mistwood) ✅ 2024-06-22
+- [x] Feed Gurranq 9 deathroot {can't find all 9 right now just give as you find them} ✅ 2024-06-22
+- [x] {Rest at Bestial Sanctum Site of Grace} ✅ 2024-06-22
+- [x] ENTER ROUNDTABLE HOLD ✅ 2024-06-22
 
 ### Before Margit
 
-- [x] Exhaust Corhyn's dialogue (Roundtable Hold) ✅ 2024-06-24
-- [x] Exhaust Diallos dialogue (Roundtable Hold) ✅ 2024-06-24
-- [x] Exhaust Gideon dialogue (Roundtable Hold) ✅ 2024-06-24
-- [x] Talk to Fia while she holds you (Roundtable Hold) ✅ 2024-06-24
-- [x] Exhaust Hewg dialogue (Roundtable hold) ✅ 2024-06-24
-- [x] Hear wolf howling (Limgrave: Mistwood) ✅ 2024-06-24
-- [x] Return to Kale and ask about howling (Limgrave) ✅ 2024-06-24
-- [x] Use snap gesture next to howling (Mistwood) ✅ 2024-06-24
-- [x] Go to Forlorn Hound Evergaol and fight Darriwil (Limgrave) ✅ 2024-06-24
-- [x] Speak to blaidd after killing Darriwil ✅ 2024-06-24
-- [x] Clear Fort Haight (Limgrave) ✅ 2024-06-24
-- [x] Return to Kenneth Haight and accept his accord ✅ 2024-06-24
-- [x] Speak with Kenneth Haight at Fort Haight ✅ 2024-06-24
-- [x] Meet Irina (Weeping Peninsula) ✅ 2024-06-24
-- [x] Deliver Irina's Letter to Edgar in Castle Morne ✅ 2024-06-24
-- [x] Defeat Leonine Misbegotten behind Castle Morne ✅ 2024-06-24
-- [x] Return to Edgar ✅ 2024-06-24
-- [x] Return to Irina's location and talk to Edgar ✅ 2024-06-24
-- [x] DEFEAT MARGIT ✅ 2024-06-24
+- [x] Exhaust Corhyn's dialogue (Roundtable Hold) ✅ 2024-06-22
+- [x] Exhaust Diallos dialogue (Roundtable Hold) ✅ 2024-06-22
+- [x] Exhaust Gideon dialogue (Roundtable Hold) ✅ 2024-06-22
+- [x] Talk to Fia while she holds you (Roundtable Hold) ✅ 2024-06-22
+- [x] Exhaust Hewg dialogue (Roundtable hold) ✅ 2024-06-22
+- [x] Hear wolf howling (Limgrave: Mistwood) ✅ 2024-06-22
+- [x] Return to Kale and ask about howling (Limgrave) ✅ 2024-06-22
+- [x] Use snap gesture next to howling (Mistwood) ✅ 2024-06-22
+- [x] Go to Forlorn Hound Evergaol and fight Darriwil (Limgrave) ✅ 2024-06-22
+- [x] Speak to blaidd after killing Darriwil ✅ 2024-06-22
+- [x] Clear Fort Haight (Limgrave) ✅ 2024-06-22
+- [x] Return to Kenneth Haight and accept his accord ✅ 2024-06-22
+- [x] Speak with Kenneth Haight at Fort Haight ✅ 2024-06-22
+- [x] Meet Irina (Weeping Peninsula) ✅ 2024-06-22
+- [x] Deliver Irina's Letter to Edgar in Castle Morne ✅ 2024-06-22
+- [x] Defeat Leonine Misbegotten behind Castle Morne ✅ 2024-06-22
+- [x] Return to Edgar ✅ 2024-06-22
+- [x] Return to Irina's location and talk to Edgar ✅ 2024-06-22
+- [x] DEFEAT MARGIT ✅ 2024-06-22
 
 ### Before Godrick
 
-- [x] Meet Gostoc (Stormveil Castle) ✅ 2024-06-24
-- [x] Meet Rogier (Stormveil Castle) ✅ 2024-06-24
-- [x] Examine Rogier's bloodstain (Stormveil) ✅ 2024-06-24
-- [x] Obtain Chrysalids' Memento (Stormveil) ✅ 2024-06-24
-- [x] Return Chrysalids' Memento to Rodreika (Limgrave) ✅ 2024-06-24
-- [x] Meet Nepheli Loux (Stormveil) ✅ 2024-06-24
-- [x] DEFEAT GODRICK ✅ 2024-06-24
+- [x] Meet Gostoc (Stormveil Castle) ✅ 2024-06-22
+- [x] Meet Rogier (Stormveil Castle) ✅ 2024-06-22
+- [x] Examine Rogier's bloodstain (Stormveil) ✅ 2024-06-22
+- [x] Obtain Chrysalids' Memento (Stormveil) ✅ 2024-06-22
+- [x] Return Chrysalids' Memento to Rodreika (Limgrave) ✅ 2024-06-22
+- [x] Meet Nepheli Loux (Stormveil) ✅ 2024-06-22
+- [x] DEFEAT GODRICK ✅ 2024-06-23
 
 ### Before Rennala
 
-- [x] Ask Rogier about the face (Roundtable Hold) ✅ 2024-06-24
-- [x] Exhaust Enia's dialogue (Roundtable Hold) ✅ 2024-06-24
-- [x] Exhaust Gideon dialogue (Roundtable Hold) ✅ 2024-06-24
-- [x] Exhaust Nepheli dialogue (Roundtable Hold) ✅ 2024-06-24
-- [x] Talk to Rodreika and Hewg several times until he takes her as his apprentice (Roundtable Hold) ✅ 2024-06-24
-- [x] Return to where you found Chrysalids' Memento to find Crimson Hood (Stormveil) ✅ 2024-06-24
-- [x] Meet Hyetta and give Shabriri Grape (Liurnia) ✅ 2024-06-24
-- [x] Meet Thops in Church of Irith (Liurnia) ✅ 2024-06-24
-- [x] Meet Rya (Liurnia) ✅ 2024-06-24
-- [x] Meet Boggart, buy necklace and prawn (Liurnia) ✅ 2024-06-24
-- [x] Return Rya's necklace (Liurnia) ✅ 2024-06-24
-- [x] Meet Nepheli at Village of Albinaurics, exhaust dialogue, and kill omenkiller (Liurnia) ✅ 2024-06-24
-- [x] Release Albus from pot in Village of Albinaurics and obtain medallion half (Liurnia) ✅ 2024-06-24
+- [x] Ask Rogier about the face (Roundtable Hold) ✅ 2024-06-23
+- [x] Exhaust Enia's dialogue (Roundtable Hold) ✅ 2024-06-23
+- [x] Exhaust Gideon dialogue (Roundtable Hold) ✅ 2024-06-23
+- [x] Exhaust Nepheli dialogue (Roundtable Hold) ✅ 2024-06-23
+- [x] Talk to Rodreika and Hewg several times until he takes her as his apprentice (Roundtable Hold) ✅ 2024-06-23
+- [x] Return to where you found Chrysalids' Memento to find Crimson Hood (Stormveil) ✅ 2024-06-23
+- [x] Meet Hyetta and give Shabriri Grape (Liurnia) ✅ 2024-06-23
+- [x] Meet Thops in Church of Irith (Liurnia) ✅ 2024-06-23
+- [x] Meet Rya (Liurnia) ✅ 2024-06-23
+- [x] Meet Boggart, buy necklace and prawn (Liurnia) ✅ 2024-06-23
+- [x] Return Rya's necklace (Liurnia) ✅ 2024-06-23
+- [x] Meet Nepheli at Village of Albinaurics, exhaust dialogue, and kill omenkiller (Liurnia) ✅ 2024-06-23
+- [x] Release Albus from pot in Village of Albinaurics and obtain medallion half (Liurnia) ✅ 2024-06-23
 - [x] Find Latenna at Slumbering Wolf's Shack (Liurnia) ✅ 2024-06-24
 - [x] Return medallion and promise to take Latenna to Haligtree {make sure she becomes spirit ash} (Liurnia) ✅ 2024-06-24
 - [x] Find Hyetta in Purified Ruins and give Shabriri Grape (Liurnia) ✅ 2024-06-24
