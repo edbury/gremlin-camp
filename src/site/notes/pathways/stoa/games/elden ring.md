@@ -1,5 +1,5 @@
 ---
-{"aliases":["Elden Ring","elden ring"],"date-created":"2024-06-23T14:32","date-modified":"2024-06-24T15:23","dg-publish":true,"title":"Elden Ring","permalink":"/pathways/stoa/games/elden-ring/","dgPassFrontmatter":true}
+{"aliases":["elden ring","Elden Ring"],"date-created":"2024-06-23T14:32","date-modified":"2024-06-30T14:58","dg-publish":true,"title":"Elden Ring","permalink":"/pathways/stoa/games/elden-ring/","dgPassFrontmatter":true}
 ---
 
 
@@ -101,31 +101,31 @@
 - [x] Exhaust Diallos' dialogue (Roundtable Hold) ✅ 2024-06-24
 - [x] Find red summon sign to assist Yura north of Main gate Grace (Raya Lucaria) ✅ 2024-06-24
 - [x] Speak to Yura after assisting him ✅ 2024-06-24
-- [ ] Get second Academy Glintstone Key (Raya Lucaria Academy)
-- [ ] Give Academy Glintstone Key to Thops
-- [ ] Reload area and kill teardrop scarab where Thops was
-- [ ] Find Thops just outside Schoolhouse Classroom Site of Grace (Raya Lucaria)
-- [ ] DEFEAT RENALLA
+- [x] Get second Academy Glintstone Key (Raya Lucaria Academy) ✅ 2024-06-25
+- [x] Give Academy Glintstone Key to Thops ✅ 2024-06-25
+- [x] Reload area and kill teardrop scarab where Thops was ✅ 2024-06-25
+- [x] Find Thops just outside Schoolhouse Classroom Site of Grace (Raya Lucaria) ✅ 2024-06-25
+- [x] DEFEAT RENALLA ✅ 2024-06-25
 
 ### Before Radahn
 
-- [ ] Give Gold Sewing Needle to Boc (REST at East Raya Lucaria Gate site of grace)
-- [ ] Meet Hyetta at Bellum Church (Liurnia)
-- [ ] Defeat Festering Fingerprint Vyke near Church of Inhibition (Liurnia)
-- [ ] Give Fingerprint Grape to Hyetta in Bellum Church
+- [ ] Give Gold Sewing Needle to Boc -- also need alterable demigod armor (REST at East Raya Lucaria Gate site of grace)
+- [x] Meet Hyetta at Bellum Church (Liurnia) ✅ 2024-06-25
+- [x] Defeat Festering Fingerprint Vyke near Church of Inhibition (Liurnia) ✅ 2024-06-25
+- [x] Give Fingerprint Grape to Hyetta in Bellum Church ✅ 2024-06-25
 - [ ] Talk to Boc
 - [ ] Give Larval Tear to Boc {Boc dies} OR use "You're Beautiful" Prattling Pate in front of him
-- [ ] Meet Iji (W Liurnia)
-- [ ] Meet Ranni in Ranni's Rise (Three Sisters)
-- [ ] Agree to serve Ranni
-- [ ] Speak to Balidd, Iji, and Seluvis then return to Ranni
-- [ ] Meet and speak to Seluvis in his tower(Three Sisters)
-- [ ] Give Seluvis' potion to Ofnir {nothing/Nepheli lives}, Nepheli {Dolores puppet from Seluvis/Nepheli dies}, OR Dung Eater {Dung Eater puppet from Seluvis/Dung Eater dies} {If given to Gideon or Dung Eater, Dolores puppet can be received from Pidia corpse; If given to Nepheli, Nepheli puppet can be received from Pidia corpse [Pidia dies after Ranni receives Finger Slaying Blade]}
-- [ ] Find Blaidd (Siofra River)
-- [ ] Speak to Seluvis (Three Sisters) 
-- [ ] Take Seluvis's Introduction to Sellen in Waypoint Ruins (Limgrave)
-- [ ] Tell Blaidd about what Sellen told you (Siofra River)
-- [ ] Talk to Gowry in Gowry's Shack (Caelid)
+- [x] Meet Iji (W Liurnia) ✅ 2024-06-25
+- [x] Meet Ranni in Ranni's Rise (Three Sisters) ✅ 2024-06-29
+- [x] Agree to serve Ranni ✅ 2024-06-29
+- [x] Speak to Balidd, Iji, and Seluvis then return to Ranni ✅ 2024-06-29
+- [x] Meet and speak to Seluvis in his tower(Three Sisters) ✅ 2024-06-29
+- [x] Give Seluvis' potion to Ofnir {nothing/Nepheli lives}, Nepheli {Dolores puppet from Seluvis/Nepheli dies}, OR Dung Eater {Dung Eater puppet from Seluvis/Dung Eater dies} {If given to Gideon or Dung Eater, Dolores puppet can be received from Pidia corpse; If given to Nepheli, Nepheli puppet can be received from Pidia corpse [Pidia dies after Ranni receives Finger Slaying Blade]} ✅ 2024-06-29
+- [x] Find Blaidd (Siofra River) ✅ 2024-06-30
+- [x] Speak to Seluvis (Three Sisters) ✅ 2024-06-30
+- [x] Take Seluvis's Introduction to Sellen in Waypoint Ruins (Limgrave) ✅ 2024-06-30
+- [x] Tell Blaidd about what Sellen told you (Siofra River) ✅ 2024-06-30
+- [x] Talk to Gowry in Gowry's Shack (Caelid) ✅ 2024-06-30
 - [ ] Defeat Commander O'Neil and get Unalloyed Gold needle (Caelid)
 - [ ] Exhaust dialog until Gowry fixes the Unalloyed Gold needle (Caelid)
 - [ ] Take needle to Millicent at Church of the plague (Caelid)
@@ -154,13 +154,13 @@
 - [ ] Give dagger to D (Roundtable Hold)
 - [ ] Reload Roundtable Hold and exhaust dialogue with Fia in new room past Rodreika
 - [ ] Find Corhyn north of Highway Junction site of grace (Altus Plateau)
-- [ ] Meet Yura at Second Church of Marika and help him defeat Eleonora (Altus Plateau)
+- [x] Meet Yura at Second Church of Marika and help him defeat Eleonora (Altus Plateau) ✅ 2024-06-30
 - [ ] Find Goldmask and tell Corhyn of his location (Altus Plateau)
 - [ ] Reload area and exhaust Corhyn dialogue next to Goldmask (Altus Plateau)
-- [ ] Invade 3 times with Festering Bloody Finger OR find invasion sign [Magnus the Beast Claw] in Writheblood Ruins (W of Altus Plateau minor erdtree)
-- [ ] Get anointed by varre (Liurnia)
-- [ ] Soak Lord of Blood Favor in blood of maiden (Church of Inhibition [Liurnia], Chapel of Anticipation [Four Belfries], OR Kill Hyetta)
-- [ ] Give Varre Lord of Blood's Favor (Rose Church)
+- [x] Invade 3 times with Festering Bloody Finger OR find invasion sign [Magnus the Beast Claw] in Writheblood Ruins (W of Altus Plateau minor erdtree) ✅ 2024-06-29
+- [x] Get anointed by varre (Liurnia) ✅ 2024-06-29
+- [x] Soak Lord of Blood Favor in blood of maiden (Church of Inhibition [Liurnia], Chapel of Anticipation [Four Belfries], OR Kill Hyetta) ✅ 2024-06-29
+- [x] Give Varre Lord of Blood's Favor (Rose Church) ✅ 2024-06-29
 - [ ] Find D, Beholder of Death and give unaltered twinned set (nokron)
 - [ ] Talk to Fia and wish to be held (Deeproot Depths)
 - [ ] Find Alexander (Seethewater Terminus)
@@ -181,7 +181,7 @@
 - [ ] Free Blaidd (Forlorn Hound Evergaol)
 - [ ] Talk to Iji (W Liurnia)
 - [ ] Go to Carian Study Hall and use Carian Inverted Statue to reach Divine Tower of Liurnia (Liurnia)
-- [ ] Collect Cursemark of Death (Liurnia Divine Tower) 
+- [ ] Collect Cursemark of Death (Liurnia Divine Tower)
 - [ ] Ask for embrace from Fia and give Cursemark of Death (Deeproot Depths)
 - [ ] Reload area and exhaust dialogue (Deeproot Depths)
 - [ ] Defeat Lichdragon Fortissax (Deeproot Depths)
@@ -202,12 +202,12 @@
 
 ### Before Leyndell
 
-- [ ] Meet Tanith and pick up letter in drawing room (Volcano Manor)
-- [ ] Exhaust Diallos' dialogue (Volcano Manor)
-- [ ] Assassinate Old Knight Istvan (Stormhill)
-- [ ] Speak to Tanith and receive another Letter (Volcano Manor)
+- [x] Meet Tanith and pick up letter in drawing room (Volcano Manor) ✅ 2024-06-30
+- [x] Exhaust Diallos' dialogue (Volcano Manor) ✅ 2024-06-30
+- [x] Assassinate Old Knight Istvan (Stormhill) ✅ 2024-06-30
+- [x] Speak to Tanith and receive another Letter (Volcano Manor) ✅ 2024-06-30
 - [ ] Find Rya in new room and speak to Rya in snake form (Volcano Manor)
-- [ ] Assassinate Rileigh the Idle (Altus Plateau)
+- [x] Assassinate Rileigh the Idle (Altus Plateau) ✅ 2024-06-30
 - [ ] Get Valkyrie's Prosthesis (Shaded Castle)
 - [ ] Give Valkyrie's Prosthesis to Millicent (Altus Plateau)
 - [ ] Speak to Tanith and receive another letter (Volacano Manor)
