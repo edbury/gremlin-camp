@@ -1,5 +1,5 @@
 ---
-{"aliases":["elden ring","Elden Ring"],"date-created":"2024-06-23T14:32","date-modified":"2024-06-30T14:58","dg-publish":true,"title":"Elden Ring","permalink":"/pathways/stoa/games/elden-ring/","dgPassFrontmatter":true}
+{"aliases":["elden ring","Elden Ring"],"date-created":"2024-06-23T14:32","date-modified":"2024-06-30T16:55","dg-publish":true,"title":"Elden Ring","permalink":"/pathways/stoa/games/elden-ring/","dgPassFrontmatter":true}
 ---
 
 
@@ -126,13 +126,13 @@
 - [x] Take Seluvis's Introduction to Sellen in Waypoint Ruins (Limgrave) ✅ 2024-06-30
 - [x] Tell Blaidd about what Sellen told you (Siofra River) ✅ 2024-06-30
 - [x] Talk to Gowry in Gowry's Shack (Caelid) ✅ 2024-06-30
-- [ ] Defeat Commander O'Neil and get Unalloyed Gold needle (Caelid)
-- [ ] Exhaust dialog until Gowry fixes the Unalloyed Gold needle (Caelid)
-- [ ] Take needle to Millicent at Church of the plague (Caelid)
-- [ ] Rest and exhaust Millicent's dialogue (Caelid)
-- [ ] Return to Gowry's Shack and exhaust dialogue with Millicent (Caelid)
-- [ ] Reload area and speak to Gowry (Caelid)
-- [ ] DEFEAT RADAHN
+- [x] Defeat Commander O'Neil and get Unalloyed Gold needle (Caelid) ✅ 2024-06-30
+- [x] Exhaust dialog until Gowry fixes the Unalloyed Gold needle (rest/quit to "give him time") (Caelid) ✅ 2024-06-30
+- [x] Take needle to Millicent at Church of the plague (Caelid) ✅ 2024-06-30
+- [x] Rest and exhaust Millicent's dialogue (Caelid) ✅ 2024-06-30
+- [x] Return to Gowry's Shack and exhaust dialogue with Millicent (Caelid) ✅ 2024-06-30
+- [x] Reload area and speak to Gowry (Caelid) ✅ 2024-06-30
+- [x] DEFEAT RADAHN ✅ 2024-06-30
 
 ### Before Altus Plateau
 
