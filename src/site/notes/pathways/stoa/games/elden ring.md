@@ -109,7 +109,7 @@
 
 ### Before Radahn
 
-- [ ] Give Gold Sewing Needle to Boc -- also need alterable demigod armor (REST at East Raya Lucaria Gate site of grace)
+- [x] Give Gold Sewing Needle to Boc -- also need alterable demigod armor (REST at East Raya Lucaria Gate site of grace) ✅ 2024-07-01
 - [x] Meet Hyetta at Bellum Church (Liurnia) ✅ 2024-06-25
 - [x] Defeat Festering Fingerprint Vyke near Church of Inhibition (Liurnia) ✅ 2024-06-25
 - [x] Give Fingerprint Grape to Hyetta in Bellum Church ✅ 2024-06-25
@@ -136,32 +136,32 @@
 
 ### Before Altus Plateau
 
-- [ ] Talk to Blaidd after Radahn
-- [ ] Talk to Alexander after Radahn
-- [ ] Exhaust dialogue with Witch-Hunter Jerren in Redmane Castle (Caelid)
+- [x] Talk to Blaidd after Radahn ✅ 2024-06-30
+- [x] Talk to Alexander after Radahn ✅ 2024-06-30
+- [x] Exhaust dialogue with Witch-Hunter Jerren in Redmane Castle (Caelid) ✅ 2024-06-30
 - [ ] Find Alexander South of Carian Study Hall, above Jarburg (Liurnia)
-- [ ] Exhaust Jar-Bairn dialogue (Jarburg)
-- [ ] Drop down crater (Mistwood) navigate to Nokron
-- [ ] Find Fingerslayer Blade (Night's Sacred Ground)
-- [ ] REACH ALTUS PLATEAU
+- [x] Exhaust Jar-Bairn dialogue (Jarburg) ✅ 2024-07-01
+- [x] Drop down crater (Mistwood) navigate to Nokron ✅ 2024-07-01
+- [x] Find Fingerslayer Blade (Night's Sacred Ground) ✅ 2024-07-01
+- [x] REACH ALTUS PLATEAU ✅ 2024-07-01
 
 ### Before Volcano Manor
 
-- [ ] Speak to Millicent north of Erdtree-Gazing site of grace (Altus Plateau)
-- [ ] Exhaust Corhyn dialogue (Roundtable Hold)
-- [ ] Exhaust Rogier dialogue (Roundtable Hold)
-- [ ] Talk to fia and obtain weathered dagger (Roundtable Hold)
-- [ ] Give dagger to D (Roundtable Hold)
-- [ ] Reload Roundtable Hold and exhaust dialogue with Fia in new room past Rodreika
-- [ ] Find Corhyn north of Highway Junction site of grace (Altus Plateau)
+- [x] Speak to Millicent north of Erdtree-Gazing site of grace (Altus Plateau) ✅ 2024-07-01
+- [x] Exhaust Corhyn dialogue (Roundtable Hold) ✅ 2024-07-01
+- [x] Exhaust Rogier dialogue (Roundtable Hold) ✅ 2024-07-01
+- [x] Talk to fia and obtain weathered dagger (Roundtable Hold) ✅ 2024-07-01
+- [x] Give dagger to D (Roundtable Hold) ✅ 2024-07-01
+- [x] Reload Roundtable Hold and exhaust dialogue with Fia in new room past Rodreika ✅ 2024-07-01
+- [x] Find Corhyn north of Highway Junction site of grace (Altus Plateau) ✅ 2024-07-01
 - [x] Meet Yura at Second Church of Marika and help him defeat Eleonora (Altus Plateau) ✅ 2024-06-30
-- [ ] Find Goldmask and tell Corhyn of his location (Altus Plateau)
-- [ ] Reload area and exhaust Corhyn dialogue next to Goldmask (Altus Plateau)
+- [x] Find Goldmask and tell Corhyn of his location (Altus Plateau) ✅ 2024-07-01
+- [x] Reload area and exhaust Corhyn dialogue next to Goldmask (Altus Plateau) ✅ 2024-07-01
 - [x] Invade 3 times with Festering Bloody Finger OR find invasion sign [Magnus the Beast Claw] in Writheblood Ruins (W of Altus Plateau minor erdtree) ✅ 2024-06-29
 - [x] Get anointed by varre (Liurnia) ✅ 2024-06-29
 - [x] Soak Lord of Blood Favor in blood of maiden (Church of Inhibition [Liurnia], Chapel of Anticipation [Four Belfries], OR Kill Hyetta) ✅ 2024-06-29
 - [x] Give Varre Lord of Blood's Favor (Rose Church) ✅ 2024-06-29
-- [ ] Find D, Beholder of Death and give unaltered twinned set (nokron)
+- [x] Find D, Beholder of Death and give unaltered twinned set (nokron) ✅ 2024-07-01
 - [ ] Talk to Fia and wish to be held (Deeproot Depths)
 - [ ] Find Alexander (Seethewater Terminus)
 - [ ] Find Primeval Sorcerer Azur and accept sorcery (Mt Gelmir)

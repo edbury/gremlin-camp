@@ -15,7 +15,7 @@ A framework for Mothership character progression outside of campaign play.
 
 ### Salary
 
-> These guidelines are adapted from the [[+/Wardens Operations Manual\|Wardens Operations Manual]], page 48.
+> These guidelines are adapted from the [[blooms/dormant/mosh/Wardens Operations Manual\|Wardens Operations Manual]], page 48.
 
 STARS contractors are paid a standard salary based on their training. For every on-the-job session, you can expect:
 
@@ -37,7 +37,7 @@ Every STARS contract will indicate the amount of Jumps you'll be undertaking pri
 
 ### Skill Training
 
-> This optional rule is taken from the [[+/Wardens Operations Manual\|Wardens Operations Manual]], page 52.
+> This optional rule is taken from the [[blooms/dormant/mosh/Wardens Operations Manual\|Wardens Operations Manual]], page 52.
 
 *Here at STARS, we embrace the methodology of Rapid Skill Learning. By following our regimented training program, you can learn a new skill over the course of a few jobs, rather than several months!*
 
