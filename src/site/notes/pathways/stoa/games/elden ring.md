@@ -1,5 +1,5 @@
 ---
-{"aliases":["elden ring","Elden Ring"],"date-created":"2024-06-23T14:32","date-modified":"2024-06-30T16:55","dg-publish":true,"title":"Elden Ring","permalink":"/pathways/stoa/games/elden-ring/","dgPassFrontmatter":true}
+{"aliases":["elden ring","Elden Ring"],"date-created":"2024-06-23T14:32","date-modified":"2024-07-03T09:45","dg-publish":true,"title":"Elden Ring","permalink":"/pathways/stoa/games/elden-ring/","dgPassFrontmatter":true}
 ---
 
 
