@@ -162,17 +162,17 @@
 - [x] Soak Lord of Blood Favor in blood of maiden (Church of Inhibition [Liurnia], Chapel of Anticipation [Four Belfries], OR Kill Hyetta) ✅ 2024-06-29
 - [x] Give Varre Lord of Blood's Favor (Rose Church) ✅ 2024-06-29
 - [x] Find D, Beholder of Death and give unaltered twinned set (nokron) ✅ 2024-07-01
-- [ ] Talk to Fia and wish to be held (Deeproot Depths)
-- [ ] Find Alexander (Seethewater Terminus)
-- [ ] Find Primeval Sorcerer Azur and accept sorcery (Mt Gelmir)
-- [ ] Show Sellen sorcery from Azur (Waypoint Ruins; Limgrave)
-- [ ] Go through Sellia Hideaway and get sorcery from Master Lusat (Caelid)
-- [ ] Show Sellen Lusat's sorcery (Waypoint Ruins)
-- [ ] Meet Sellen at Witchbane Ruins (Weeping Peninsula)
-- [ ] Reload Witchbane Ruins and talk to Jerren (Limgrave)
-- [ ] Find Seluvis' puppets and interact with Sellen puppet (Liurnia)
-- [ ] Find summon signs at Raya Lucaria Grand Library can assist Sellen {Jerren's armor, extra spells sold by Sellen} OR assist Jerren {Ancient Dragon Smithing Stone}
-- [ ] Buy puppet from Seluvis (Three Sisters)
+- [x] Talk to Fia and wish to be held (Deeproot Depths) ✅ 2024-07-04
+- [x] Find Alexander (Seethewater Terminus) ✅ 2024-07-05
+- [x] Find Primeval Sorcerer Azur and accept sorcery (Mt Gelmir) ✅ 2024-07-05
+- [x] Show Sellen sorcery from Azur (Waypoint Ruins; Limgrave) ✅ 2024-07-05
+- [x] Go through Sellia Hideaway and get sorcery from Master Lusat (Caelid) ✅ 2024-07-05
+- [x] Show Sellen Lusat's sorcery (Waypoint Ruins) ✅ 2024-07-05
+- [x] Meet Sellen at Witchbane Ruins (Weeping Peninsula) ✅ 2024-07-05
+- [x] Reload Witchbane Ruins and talk to Jerren (Limgrave) ✅ 2024-07-05
+- [x] Find Seluvis' puppets and interact with Sellen puppet (Liurnia) ✅ 2024-07-05
+- [x] Find summon signs at Raya Lucaria Grand Library can assist Sellen {Jerren's armor, extra spells sold by Sellen} OR assist Jerren {Ancient Dragon Smithing Stone} ✅ 2024-07-05
+- [x] Buy puppet from Seluvis (Three Sisters) ✅ 2024-07-05
 - [ ] Reload area and ask Seluvis about his scheme (Three Sisters)
 - [ ] Find Amber Starlight Shard (Altus Plateau)
 - [ ] Give Seluvis Amber Starlight Shard to receive Magic Scorpion Charm {Giving Ranni the Amber Draught will fail you out of her quest} (Three Sisters)

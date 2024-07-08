@@ -19,5 +19,7 @@ Highlights from recent readings.
 | [[pathways/library/books/Dune\|Dune]]                                                 | Frank Herbert                      | 1965       |
 | [[pathways/library/books/Physiology of Behavior\|Physiology of Behavior]]             | Neil R. Carson, Melissa A. Birkett | 1930       |
 | [[pathways/library/books/Wasted\|Wasted]]                                             | Marya Hornbacher                   | 1998, 2014 |
+| [[pathways/library/books/Systems Theory in Action\|Systems Theory in Action]]         | Shelly Smith-Acuña                 | 2011       |
+| [[pathways/library/books/Family Therapy\|Family Therapy]]                             | Michael P. Nichols                 | 2017       |
 
 { .block-language-dataview}
