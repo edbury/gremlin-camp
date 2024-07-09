@@ -7,19 +7,18 @@
 
 Highlights from recent readings.
 
-| Book                                                                                     | Author                             | Year       |
-| ---------------------------------------------------------------------------------------- | ---------------------------------- | ---------- |
-| [[pathways/library/books/The Analyst's Vulnerability\|The Analyst's Vulnerability]]   | Karen J. Maroda                    | 2020       |
-| [[pathways/library/books/Psychoanalytic Psychotherapy\|Psychoanalytic Psychotherapy]] | Nancy McWilliams                   | 2004       |
-| [[pathways/library/books/Darkness Visible\|Darkness Visible]]                         | William Styron                     | 1990       |
-| [[pathways/library/books/Waking Up\|Waking Up]]                                       | Sam Harris                         | 2014       |
-| [[pathways/library/books/The Coming Insurrection\|The Coming Insurrection]]           | The Invisible Committee            | 2009       |
-| [[pathways/library/books/The Tibetan Book of the Dead\|The Tibetan Book of the Dead]] | Padmasambhāva                      | 1994       |
-| [[pathways/library/books/12 Secrets of the Caucasus\|12 Secrets of the Caucasus]]     | Essad Bey                          | 1930       |
-| [[pathways/library/books/Dune\|Dune]]                                                 | Frank Herbert                      | 1965       |
-| [[pathways/library/books/Wasted\|Wasted]]                                             | Marya Hornbacher                   | 1998, 2014 |
-| [[pathways/library/books/Physiology of Behavior\|Physiology of Behavior]]             | Neil R. Carson, Melissa A. Birkett | 1930       |
-| [[pathways/library/books/Family Therapy\|Family Therapy]]                             | Michael P. Nichols                 | 2017       |
-| [[pathways/library/books/Systems Theory in Action\|Systems Theory in Action]]         | Shelly Smith-Acuña                 | 2011       |
+| Book                                                                                     | Author                  | Year       |
+| ---------------------------------------------------------------------------------------- | ----------------------- | ---------- |
+| [[pathways/library/books/The Analyst's Vulnerability\|The Analyst's Vulnerability]]   | Karen J. Maroda         | 2020       |
+| [[pathways/library/books/Psychoanalytic Psychotherapy\|Psychoanalytic Psychotherapy]] | Nancy McWilliams        | 2004       |
+| [[pathways/library/books/Darkness Visible\|Darkness Visible]]                         | William Styron          | 1990       |
+| [[pathways/library/books/Waking Up\|Waking Up]]                                       | Sam Harris              | 2014       |
+| [[pathways/library/books/The Coming Insurrection\|The Coming Insurrection]]           | The Invisible Committee | 2009       |
+| [[pathways/library/books/The Tibetan Book of the Dead\|The Tibetan Book of the Dead]] | Padmasambhāva           | 1994       |
+| [[pathways/library/books/12 Secrets of the Caucasus\|12 Secrets of the Caucasus]]     | Essad Bey               | 1930       |
+| [[pathways/library/books/Dune\|Dune]]                                                 | Frank Herbert           | 1965       |
+| [[pathways/library/books/Wasted\|Wasted]]                                             | Marya Hornbacher        | 1998, 2014 |
+| [[pathways/library/books/Family Therapy\|Family Therapy]]                             | Michael P. Nichols      | 2017       |
+| [[pathways/library/books/Systems Theory in Action\|Systems Theory in Action]]         | Shelly Smith-Acuña      | 2011       |
 
 { .block-language-dataview}
