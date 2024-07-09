@@ -1,5 +1,5 @@
 ---
-{"aliases":["Systems Theory in Action"],"author":"Shelly Smith-Acuña","cover":null,"date-created":"2024-07-08T09:59","date-modified":"2024-07-08T10:32","dg-publish":true,"finished":null,"location":"Denver","subtitle":null,"tags":["source/book"],"title":"Systems Theory in Action","translator":null,"year":2011,"permalink":"/pathways/library/books/systems-theory-in-action/","dgPassFrontmatter":true}
+{"aliases":["Systems Theory in Action"],"author":"Shelly Smith-Acuña","cover":"https://i.imgur.com/pgT9ldY.jpeg","date-created":"2024-07-08T09:59","date-modified":"2024-07-09T08:46","dg-publish":true,"finished":null,"location":"Denver","subtitle":"Applications to Individual, Couple, and Family Therapy","tags":["source/book"],"title":"Systems Theory in Action","translator":null,"year":2011,"permalink":"/pathways/library/books/systems-theory-in-action/","dgPassFrontmatter":true}
 ---
 
 

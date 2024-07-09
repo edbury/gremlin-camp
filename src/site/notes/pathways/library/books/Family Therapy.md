@@ -1,5 +1,5 @@
 ---
-{"aliases":["Family Therapy"],"author":"Michael P. Nichols","cover":null,"date-created":"2024-07-08T10:32","date-modified":"2024-07-08T11:28","dg-publish":true,"edition":"11th","finished":null,"location":"Denver","subtitle":"Concepts & Methods","tags":["source/book"],"title":"Family Therapy","translator":null,"year":2017,"permalink":"/pathways/library/books/family-therapy/","dgPassFrontmatter":true}
+{"aliases":["Family Therapy"],"author":"Michael P. Nichols","cover":"https://i.imgur.com/m7ijht3.jpeg","date-created":"2024-07-08T10:32","date-modified":"2024-07-09T08:44","dg-publish":true,"edition":"11th","finished":null,"location":"Denver","subtitle":"Concepts & Methods","tags":["source/book"],"title":"Family Therapy","translator":null,"year":2017,"permalink":"/pathways/library/books/family-therapy/","dgPassFrontmatter":true}
 ---
 
 
