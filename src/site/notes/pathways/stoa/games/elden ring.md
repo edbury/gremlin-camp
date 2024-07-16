@@ -139,7 +139,7 @@
 - [x] Talk to Blaidd after Radahn ✅ 2024-06-30
 - [x] Talk to Alexander after Radahn ✅ 2024-06-30
 - [x] Exhaust dialogue with Witch-Hunter Jerren in Redmane Castle (Caelid) ✅ 2024-06-30
-- [ ] Find Alexander South of Carian Study Hall, above Jarburg (Liurnia)
+- [x] Find Alexander South of Carian Study Hall, above Jarburg (Liurnia) ✅ 2024-07-15
 - [x] Exhaust Jar-Bairn dialogue (Jarburg) ✅ 2024-07-01
 - [x] Drop down crater (Mistwood) navigate to Nokron ✅ 2024-07-01
 - [x] Find Fingerslayer Blade (Night's Sacred Ground) ✅ 2024-07-01
@@ -173,32 +173,32 @@
 - [x] Find Seluvis' puppets and interact with Sellen puppet (Liurnia) ✅ 2024-07-05
 - [x] Find summon signs at Raya Lucaria Grand Library can assist Sellen {Jerren's armor, extra spells sold by Sellen} OR assist Jerren {Ancient Dragon Smithing Stone} ✅ 2024-07-05
 - [x] Buy puppet from Seluvis (Three Sisters) ✅ 2024-07-05
-- [ ] Reload area and ask Seluvis about his scheme (Three Sisters)
-- [ ] Find Amber Starlight Shard (Altus Plateau)
-- [ ] Give Seluvis Amber Starlight Shard to receive Magic Scorpion Charm {Giving Ranni the Amber Draught will fail you out of her quest} (Three Sisters)
-- [ ] Return Fingerslayer Blade to Ranni {kills seluvis} (Three Sisters)
-- [ ] Speak to Iji (W Liurnia)
-- [ ] Free Blaidd (Forlorn Hound Evergaol)
-- [ ] Talk to Iji (W Liurnia)
-- [ ] Go to Carian Study Hall and use Carian Inverted Statue to reach Divine Tower of Liurnia (Liurnia)
-- [ ] Collect Cursemark of Death (Liurnia Divine Tower)
-- [ ] Ask for embrace from Fia and give Cursemark of Death (Deeproot Depths)
-- [ ] Reload area and exhaust dialogue (Deeproot Depths)
-- [ ] Defeat Lichdragon Fortissax (Deeproot Depths)
-- [ ] Reload Prince of Death Throne and talk to D (Deeproot Depths)
-- [ ] Reload and pick up D's set (Deeproot Depths)
-- [ ] Go through waygate in Renna's Rise (W Liurnia)
-- [ ] Collect Mini Ranni (Ainsel River Main)
-- [ ] Rest at Ainsel River Main grace and speak with Ranni
-- [ ] Defeat Baleful Shadow (Nokstella)
-- [ ] Unlock chest next to Renalla (Raya Lucaria)
-- [ ] Enter coffin (Grand Cloister)
-- [ ] Defeat Astel
-- [ ] Enter hole in floor in Cathedral of Manus Celes (Liurnia)
-- [ ] Kill Blaidd (Ranni's Rise)
-- [ ] Return to Ranni's chamber rest and talk to mini ranni
-- [ ] Speak to Rya {at Lux Ruins if you dont have Dectus Medallion; at Lift of Dectus if you do}
-- [ ] REACH VOLCANO MANOR
+- [x] Reload area and ask Seluvis about his scheme (Three Sisters) ✅ 2024-07-15
+- [x] Find Amber Starlight Shard (Altus Plateau) ✅ 2024-07-15
+- [x] Give Seluvis Amber Starlight Shard to receive Magic Scorpion Charm {Giving Ranni the Amber Draught will fail you out of her quest} (Three Sisters) ✅ 2024-07-15
+- [x] Return Fingerslayer Blade to Ranni {kills seluvis} (Three Sisters) ✅ 2024-07-15
+- [x] Speak to Iji (W Liurnia) ✅ 2024-07-15
+- [x] Free Blaidd (Forlorn Hound Evergaol) ✅ 2024-07-15
+- [x] Talk to Iji (W Liurnia) ✅ 2024-07-15
+- [x] Go to Carian Study Hall and use Carian Inverted Statue to reach Divine Tower of Liurnia (Liurnia) ✅ 2024-07-15
+- [x] Collect Cursemark of Death (Liurnia Divine Tower) ✅ 2024-07-15
+- [x] Ask for embrace from Fia and give Cursemark of Death (Deeproot Depths) ✅ 2024-07-15
+- [x] Reload area and exhaust dialogue (Deeproot Depths) ✅ 2024-07-15
+- [x] Defeat Lichdragon Fortissax (Deeproot Depths) ✅ 2024-07-15
+- [x] Reload Prince of Death Throne and talk to D (Deeproot Depths) ✅ 2024-07-15
+- [x] Reload and pick up D's set (Deeproot Depths) ✅ 2024-07-15
+- [x] Go through waygate in Renna's Rise (W Liurnia) ✅ 2024-07-16
+- [x] Collect Mini Ranni (Ainsel River Main) ✅ 2024-07-16
+- [x] Rest at Ainsel River Main grace and speak with Ranni ✅ 2024-07-16
+- [x] Defeat Baleful Shadow (Nokstella) ✅ 2024-07-16
+- [x] Unlock chest next to Renalla (Raya Lucaria) ✅ 2024-07-16
+- [x] Enter coffin (Grand Cloister) ✅ 2024-07-16
+- [x] Defeat Astel ✅ 2024-07-16
+- [x] Enter hole in floor in Cathedral of Manus Celes (Liurnia) ✅ 2024-07-16
+- [x] Kill Blaidd (Ranni's Rise) ✅ 2024-07-16
+- [x] Return to Ranni's chamber rest and talk to mini ranni ✅ 2024-07-16
+- [x] Speak to Rya {at Lux Ruins if you dont have Dectus Medallion; at Lift of Dectus if you do} ✅ 2024-07-16
+- [x] REACH VOLCANO MANOR ✅ 2024-07-16
 
 ### Before Leyndell
 
@@ -206,7 +206,7 @@
 - [x] Exhaust Diallos' dialogue (Volcano Manor) ✅ 2024-06-30
 - [x] Assassinate Old Knight Istvan (Stormhill) ✅ 2024-06-30
 - [x] Speak to Tanith and receive another Letter (Volcano Manor) ✅ 2024-06-30
-- [ ] Find Rya in new room and speak to Rya in snake form (Volcano Manor)
+- [x] Find Rya in new room and speak to Rya in snake form (Volcano Manor) ✅ 2024-07-16
 - [x] Assassinate Rileigh the Idle (Altus Plateau) ✅ 2024-06-30
 - [ ] Get Valkyrie's Prosthesis (Shaded Castle)
 - [ ] Give Valkyrie's Prosthesis to Millicent (Altus Plateau)

@@ -1,5 +1,5 @@
 ---
-{"aliases":["Gear","gear"],"date-created":"2023-11-29T18:30","date-modified":"2024-02-05T14:57","dg-publish":true,"tags":["moonrise"],"title":"Gear","permalink":"/blooms/perennial/moonrise/gear/","dgPassFrontmatter":true}
+{"aliases":["gear","Gear"],"date-created":"2023-11-29T18:30","date-modified":"2024-07-15T19:58","dg-publish":true,"tags":["moonrise"],"title":"Gear","permalink":"/blooms/perennial/moonrise/gear/","dgPassFrontmatter":true}
 ---
 
 
@@ -111,7 +111,7 @@ Worn under chain or plate, an arming jacket acts as leather armor once the chain
 | Cloak            | 2   | worn/torso 1, carried 1, pack 2 | 1      |
 | Clothing         | 1   | --                              | 1      |
 | Finery           | 4   | worn/torso 3, pack 4            | 2      |
-| Gloves (leather) | 2   | worn/hands 2, pack 1            | 1      | 
+| Gloves (leather) | 2   | worn/hands 2, pack 1            | 1      |
 | Hat              | 1   | worn/head                       | 1      |
 | Hat (stylish)    | 3   | worn/head                       | 2      |
 | Jewelry          | 4   | --                              | 1      |
@@ -416,7 +416,7 @@ A tinderbox allows your character to light a fire without making a test under no
 | Rations, fresh     | 1    | pack 1 for two portions   | 0      |
 | Rations, preserved | 2    | pack 1 for three portions | 0      |
 | Water              | free | skin/bottle/jug 1         | 0      |
-| Wine               | 1    | skin/bottle/jug 1         | 0      | 
+| Wine               | 1    | skin/bottle/jug 1         | 0      |
 
 ## Light Sources
 
@@ -427,7 +427,7 @@ A tinderbox allows your character to light a fire without making a test under no
 | Covered lantern | 4   | carried 1 or pack 2          | 1      |
 | Lantern         | 3   | carried 1 or pack 2          | 1      |
 | Long torch      | 2   | carried 2 each, set of two   | 1      |
-| Torch           | 2   | carried 1 or pack 1 for four | 1      | 
+| Torch           | 2   | carried 1 or pack 1 for four | 1      |
 
 ### Candle Lantern
 
