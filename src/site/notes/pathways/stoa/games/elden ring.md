@@ -1,5 +1,5 @@
 ---
-{"aliases":["elden ring","Elden Ring"],"date-created":"2024-06-23T14:32","date-modified":"2024-07-03T09:45","dg-publish":true,"title":"Elden Ring","permalink":"/pathways/stoa/games/elden-ring/","dgPassFrontmatter":true}
+{"aliases":["elden ring","Elden Ring"],"date-created":"2024-06-23T14:32","date-modified":"2024-07-22T13:24","dg-publish":true,"title":"Elden Ring","permalink":"/pathways/stoa/games/elden-ring/","dgPassFrontmatter":true}
 ---
 
 
@@ -208,71 +208,71 @@
 - [x] Speak to Tanith and receive another Letter (Volcano Manor) ✅ 2024-06-30
 - [x] Find Rya in new room and speak to Rya in snake form (Volcano Manor) ✅ 2024-07-16
 - [x] Assassinate Rileigh the Idle (Altus Plateau) ✅ 2024-06-30
-- [ ] Get Valkyrie's Prosthesis (Shaded Castle)
-- [ ] Give Valkyrie's Prosthesis to Millicent (Altus Plateau)
-- [ ] Speak to Tanith and receive another letter (Volacano Manor)
-- [ ] Speak to Zoraya (Volcano Manor)
-- [ ] Speak to Bernahl to receive Letter to Bernahl (Volcano Manor)
-- [ ] Speak to Patches to receive Letter to Patches (Volcano Manor)
-- [ ] Find and defeat Tragoth (Ruin-Strewn Precipice) {May want to kill Draconic Tree Sentinel first}
-- [ ] Defeat God-Skin Noble and get Serpent's Amnion (Volcano Manor)
-- [ ] Give Serpent's Amnion to Zoraya (Volcano Manor)
-- [ ] Speak to Tanith about Zorayas' absence (Volcano Manor)
+- [x] Get Valkyrie's Prosthesis (Shaded Castle) ✅ 2024-07-17
+- [x] Give Valkyrie's Prosthesis to Millicent (Altus Plateau) ✅ 2024-07-17
+- [x] Speak to Tanith and receive another letter (Volacano Manor) ✅ 2024-07-17
+- [x] Speak to Zoraya (Volcano Manor) ✅ 2024-07-17
+- [x] Speak to Bernahl to receive Letter to Bernahl (Volcano Manor) ✅ 2024-07-17
+- [x] Speak to Patches to receive Letter to Patches (Volcano Manor) ✅ 2024-07-17
+- [x] Find and defeat Tragoth (Ruin-Strewn Precipice) {May want to kill Draconic Tree Sentinel first} ✅ 2024-07-18
+- [x] Defeat God-Skin Noble and get Serpent's Amnion (Volcano Manor) ✅ 2024-07-18
+- [x] Give Serpent's Amnion to Zoraya (Volcano Manor) ✅ 2024-07-18
+- [x] Speak to Tanith about Zorayas' absence (Volcano Manor) ✅ 2024-07-18
 - [ ] Find and talk to Zoraya (Volcano Manor)
 - [ ] Kill Rya {transforms into snake and drops Daedicar's Woe}, leave her alive and come back after killing rykard {Rya gone, Daedicar's Woe, Zorayas' Letter}, or give Tonic of Forgetfulness {After Rykard is killed and manor inhabitants left, she will return to her spot, reload to find Daedicar's Woe}
-- [ ] Exhaust dialogue with Jar-Bairn and Diallos (Jarburg)
-- [ ] Defeat Godskin Apostle at top of Dominula and exhaust Millicent's dialogue after resting (Altus Plateau)
-- [ ] Speak to Boggart in outer moat, buy crab (outside Leyndell)
-- [ ] ENTER LEYNDELL
+- [x] Exhaust dialogue with Jar-Bairn and Diallos (Jarburg) ✅ 2024-07-18
+- [x] Defeat Godskin Apostle at top of Dominula and exhaust Millicent's dialogue after resting (Altus Plateau) ✅ 2024-07-18
+- [x] Speak to Boggart in outer moat, buy crab (outside Leyndell) ✅ 2024-07-18
+- [x] ENTER LEYNDELL ✅ 2024-07-18
 
 ### Before Morgott
 
-- [ ] Find seedbed curse (Leyndell)
-- [ ] Give to Dung Eater (Roundtable Hold)
-- [ ] Find invasion sign to assist Bernahl (Leyndell)
-- [ ] Report back to Bernahl (Volcano Manor)
-- [ ] Find Goldmask and Corhyn next to Leyndell colosseum and exhaust dialogue
-- [ ] Find and free Dung Eater (Subterranean Shunning Grounds)
-- [ ] Find message from Dung Eater (Roundtable Hold)
-- [ ] Exhaust Boggart's dialogue (Leyndell Moat)
-- [ ] Find Boggart's body and defeat Dung Eater (Leyndell Moat)
-- [ ] Talk to Dung Eater (Roundtable Hold)
+- [x] Find seedbed curse (Leyndell) ✅ 2024-07-18
+- [x] Give to Dung Eater (Roundtable Hold) ✅ 2024-07-18
+- [x] Find invasion sign to assist Bernahl (Leyndell) ✅ 2024-07-18
+- [x] Report back to Bernahl (Volcano Manor) ✅ 2024-07-18
+- [x] Find Goldmask and Corhyn next to Leyndell colosseum and exhaust dialogue ✅ 2024-07-18
+- [x] Find and free Dung Eater (Subterranean Shunning Grounds) ✅ 2024-07-18
+- [x] Find message from Dung Eater (Roundtable Hold) ✅ 2024-07-18
+- [x] Exhaust Boggart's dialogue (Leyndell Moat) ✅ 2024-07-18
+- [x] Find Boggart's body and defeat Dung Eater (Leyndell Moat) ✅ 2024-07-18
+- [x] Talk to Dung Eater (Roundtable Hold) ✅ 2024-07-18
 - [ ] Find and feed Dung Eater 5 seedbed curses {won't find all now just before finishing game} (Subterranean Shunning Grounds)
-- [ ] Get Law of Regression (Leyndell)
-- [ ] Find statue west of Ertree sanctuary grace until you see white message and cast Law of Regression (Leyndell)
-- [ ] Speak with Goldmask (Leyndell)
-- [ ] DEFEAT MORGOTT
+- [x] Get Law of Regression (Leyndell) ✅ 2024-07-18
+- [x] Find statue west of Ertree sanctuary grace until you see white message and cast Law of Regression (Leyndell) ✅ 2024-07-18
+- [x] Speak with Goldmask (Leyndell) ✅ 2024-07-18
+- [x] DEFEAT MORGOTT ✅ 2024-07-18
 
 ### Before Rykard
 
-- [ ] Speak to Hyetta in Frenzied Flame Proscription {MEETING THREE FINGERS WILL LOCK YOU OUT OF OTHER ENDINGS} (Subterranean Shunning Grounds)
+- [x] Speak to Hyetta in Frenzied Flame Proscription {MEETING THREE FINGERS WILL LOCK YOU OUT OF OTHER ENDINGS} (Subterranean Shunning Grounds) ✅ 2024-07-19
 - [ ] {If you met Three Fingers} Reload where you spoke to Hyetta and pick up Frenzied Flame Seal (Subterranean Shunning Grounds)
-- [ ] Return to Godrick grace and rest; Speak to Gostoc, Kenneth, and Nepheli at throne room
-- [ ] Assassinate Juno Hoslow, Knight of Blood (Mountaintops of the Giants)
-- [ ] Find Corhyn and Goldmask at bridge south of stargazers Ruins; exhaust dialogue (Mountaintop of the Giants)
-- [ ] Exhaust dialogue with Tanith (Volcano Manor)
-- [ ] DEFEAT RYKARD
+- [x] Return to Godrick grace and rest; Speak to Gostoc, Kenneth, and Nepheli at throne room ✅ 2024-07-19
+- [x] Assassinate Juno Hoslow, Knight of Blood (Mountaintops of the Giants) ✅ 2024-07-19
+- [x] Find Corhyn and Goldmask at bridge south of stargazers Ruins; exhaust dialogue (Mountaintop of the Giants) ✅ 2024-07-21
+- [x] Exhaust dialogue with Tanith (Volcano Manor) ✅ 2024-07-19
+- [x] DEFEAT RYKARD ✅ 2024-07-19
 
 ### Before Fire Giant
 
-- [ ] Exhaust dialogue with Bernahl (Volcano Manor)
-- [ ] Exhaust Patches dialogue (shaded castle)
-- [ ] Give Patches' item to Tanith, kill Tanith and bodyguard (Volcano Manor)
-- [ ] Return to Patches in Murkwater Cave, fight, but do not kill (Limgrave)
-- [ ] Get Haligtree Secret Medallion (Left) at Castle Sol (Mountaintop of the Giants)
-- [ ] DEFEAT FIRE GIANT & SPEAK WITH MELINA AT FORGE OF GIANTS
-- [ ] REACH CONSECRATED SNOWFIELD
+- [x] Exhaust dialogue with Bernahl (Volcano Manor) ✅ 2024-07-19
+- [x] Exhaust Patches dialogue (shaded castle) ✅ 2024-07-19
+- [x] Give Patches' item to Tanith, kill Tanith and bodyguard (Volcano Manor) ✅ 2024-07-19
+- [x] Return to Patches in Murkwater Cave, fight, but do not kill (Limgrave) ✅ 2024-07-19
+- [x] Get Haligtree Secret Medallion (Left) at Castle Sol (Mountaintop of the Giants) ✅ 2024-07-21
+- [x] DEFEAT FIRE GIANT & SPEAK WITH MELINA AT FORGE OF GIANTS ✅ 2024-07-21
+- [x] REACH CONSECRATED SNOWFIELD ✅ 2024-07-22
 
 ### Before Mohgwyn Palace
 
-- [ ] Find giant Albinauric at Apostate Derelict and summon Latenna (Consecrated Snowfield)
-- [ ] Exhaust dialogue with diallos (Jarburg)
-- [ ] Reload jarburg speak to Jar-bairn
-- [ ] Reload jarburg again and speak to Jar-bairn
-- [ ] ENTER MOHGWYN PALACE
+- [x] Find giant Albinauric at Apostate Derelict and summon Latenna (Consecrated Snowfield) ✅ 2024-07-22
+- [x] Exhaust dialogue with diallos (Jarburg) ✅ 2024-07-22
+- [x] Reload jarburg speak to Jar-bairn ✅ 2024-07-22
+- [x] Reload jarburg again and speak to Jar-bairn ✅ 2024-07-22
+- [x] ENTER MOHGWYN PALACE ✅ 2024-07-22
 - [ ] Kill 3 invaders at blood swamp {fails if mohg is killed}
-- [ ] Find invasion sign [Varre] near Mausoleum Dynasty Midpoint
-- [ ] KILL MOHG
+- [x] Find invasion sign [Varre] near Mausoleum Dynasty Midpoint ✅ 2024-07-18
+- [x] KILL MOHG ✅ 2024-07-22
 - [ ] KILL MALENIA
 
 ### Before Maliketh
@@ -292,6 +292,6 @@
 - [ ] Find Goldmask through path under elevator (Leyndell, Ash)
 - [ ] Reload are and go back to Corhyn and Goldmask to pick up respective sets
 - [ ] Exhaust dialogue between Rodreika and Hewg
-- [ ] Find Alexander and defeat him (Crumbling Farum Azula)
-- [ ] Give Jar Bairn Alexander's Innards (jarburg)
-- [ ] Reload area get companion Jar Talisman where Jar-Bairn was seated
+- [x] Find Alexander and defeat him (Crumbling Farum Azula) ✅ 2024-07-22
+- [x] Give Jar Bairn Alexander's Innards (jarburg) ✅ 2024-07-22
+- [x] Reload area get companion Jar Talisman where Jar-Bairn was seated ✅ 2024-07-22
