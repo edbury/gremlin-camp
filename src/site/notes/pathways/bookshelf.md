@@ -18,9 +18,9 @@ Highlights from recent readings.
 | [[pathways/library/books/The Tibetan Book of the Dead\|The Tibetan Book of the Dead]]     | Padmasambhāva           | 1994       |
 | [[pathways/library/books/12 Secrets of the Caucasus\|12 Secrets of the Caucasus]]         | Essad Bey               | 1930       |
 | [[pathways/library/books/Dune\|Dune]]                                                     | Frank Herbert           | 1965       |
-| [[pathways/library/books/'Race', Racism, and Psychology\|'Race', Racism, and Psychology]] | Graham Richards         | 2012       |
-| [[pathways/library/books/Family Therapy\|Family Therapy]]                                 | Michael P. Nichols      | 2017       |
 | [[pathways/library/books/Wasted\|Wasted]]                                                 | Marya Hornbacher        | 1998, 2014 |
+| [[pathways/library/books/Family Therapy\|Family Therapy]]                                 | Michael P. Nichols      | 2017       |
 | [[pathways/library/books/Brainstorm\|Brainstorm]]                                         | Daniel J. Siegel        | 2015       |
+| [[pathways/library/books/'Race', Racism, and Psychology\|'Race', Racism, and Psychology]] | Graham Richards         | 2012       |
 
 { .block-language-dataview}

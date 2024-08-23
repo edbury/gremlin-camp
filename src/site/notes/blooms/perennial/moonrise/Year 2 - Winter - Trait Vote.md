@@ -1,5 +1,5 @@
 ---
-{"aliases":"Year 2 - Winter - Trait Vote,Year 2 - Winter - Traits","date-created":"2024-08-23T15:52","date-modified":"2024-08-23T15:59","tags":["moonrise"],"title":"Year 2 - Winter - Trait Vote","dg-publish":true,"permalink":"/blooms/perennial/moonrise/year-2-winter-trait-vote/","dgPassFrontmatter":true}
+{"aliases":"Year 2 - Winter - Trait Vote,Year 2 - Winter - Traits","date-created":"2024-08-23T15:52","date-modified":"2024-08-23T15:59","tags":["moonrise"],"title":"Year 2 - Winter - Trait Vote","dg-publish":true,"dg-path":"moonrise/Year 2 - Winter - Trait Vote.md","permalink":"/moonrise/year-2-winter-trait-vote/","dgPassFrontmatter":true}
 ---
 
 
