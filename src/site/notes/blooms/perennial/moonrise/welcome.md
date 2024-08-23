@@ -1,5 +1,5 @@
 ---
-{"aliases":["Welcome to Moonrise"],"date-created":"2023-11-29T12:38","date-modified":"2023-12-08T10:09","dg-publish":true,"tags":["moonrise"],"title":"Welcome to Moonrise","permalink":"/blooms/perennial/moonrise/welcome/","dgPassFrontmatter":true}
+{"aliases":["Welcome to Moonrise"],"date-created":"2023-11-29T12:38","date-modified":"2023-12-08T10:09","dg-publish":true,"tags":["moonrise"],"title":"Welcome to Moonrise","dg-path":"moonrise/welcome.md","permalink":"/moonrise/welcome/","dgPassFrontmatter":true}
 ---
 
 

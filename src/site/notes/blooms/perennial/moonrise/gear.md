@@ -1,5 +1,5 @@
 ---
-{"aliases":["gear","Gear"],"date-created":"2023-11-29T18:30","date-modified":"2024-07-15T19:58","dg-publish":true,"tags":["moonrise"],"title":"Gear","permalink":"/blooms/perennial/moonrise/gear/","dgPassFrontmatter":true}
+{"aliases":["gear","Gear"],"date-created":"2023-11-29T18:30","date-modified":"2024-07-15T19:58","dg-publish":true,"tags":["moonrise"],"title":"Gear","dg-path":"moonrise/gear.md","permalink":"/moonrise/gear/","dgPassFrontmatter":true}
 ---
 
 

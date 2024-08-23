@@ -1,5 +1,5 @@
 ---
-{"aliases":["Inventory"],"date-created":"2023-11-29T12:38","date-modified":"2023-11-29T18:03","dg-publish":true,"tags":["moonrise"],"title":"Inventory","permalink":"/blooms/perennial/moonrise/inventory/","dgPassFrontmatter":true}
+{"aliases":["Inventory"],"date-created":"2023-11-29T12:38","date-modified":"2023-11-29T18:03","dg-publish":true,"tags":["moonrise"],"title":"Inventory","dg-path":"moonrise/inventory.md","permalink":"/moonrise/inventory/","dgPassFrontmatter":true}
 ---
 
 

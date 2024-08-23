@@ -1,5 +1,5 @@
 ---
-{"aliases":["Mistvale"],"date-created":"2024-02-21T20:06","date-modified":"2024-03-08T22:08","dg-publish":true,"tags":["moonrise"],"title":"Mistvale","permalink":"/blooms/perennial/moonrise/towns/mistvale/","dgPassFrontmatter":true}
+{"aliases":["Mistvale"],"date-created":"2024-02-21T20:06","date-modified":"2024-03-08T22:08","dg-publish":true,"tags":["moonrise"],"title":"Mistvale","dg-path":"moonrise/towns/Mistvale.md","permalink":"/moonrise/towns/mistvale/","dgPassFrontmatter":true}
 ---
 
 

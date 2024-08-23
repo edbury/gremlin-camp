@@ -1,5 +1,5 @@
 ---
-{"aliases":["Templeton"],"date-created":"2024-03-08T10:47","date-modified":"2024-04-09T17:03","dg-publish":true,"tags":["moonrise"],"title":"Templeton","permalink":"/blooms/perennial/moonrise/towns/highwater-templeton/","dgPassFrontmatter":true}
+{"aliases":["Templeton"],"date-created":"2024-03-08T10:47","date-modified":"2024-04-09T17:03","dg-publish":true,"tags":["moonrise"],"title":"Templeton","dg-path":"moonrise/towns/Highwater - Templeton.md","permalink":"/moonrise/towns/highwater-templeton/","dgPassFrontmatter":true}
 ---
 
 

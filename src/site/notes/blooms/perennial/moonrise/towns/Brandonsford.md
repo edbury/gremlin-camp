@@ -1,5 +1,5 @@
 ---
-{"aliases":["Brandonsford"],"date-created":"2024-03-08T10:47","date-modified":"2024-03-09T01:15","dg-publish":true,"tags":["moonrise"],"title":"Brandonsford","permalink":"/blooms/perennial/moonrise/towns/brandonsford/","dgPassFrontmatter":true}
+{"aliases":["Brandonsford"],"date-created":"2024-03-08T10:47","date-modified":"2024-03-09T01:15","dg-publish":true,"tags":["moonrise"],"title":"Brandonsford","dg-path":"moonrise/towns/Brandonsford.md","permalink":"/moonrise/towns/brandonsford/","dgPassFrontmatter":true}
 ---
 
 

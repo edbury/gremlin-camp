@@ -1,5 +1,5 @@
 ---
-{"aliases":["Highwater"],"date-created":"2024-03-08T10:47","date-modified":"2024-04-09T15:10","dg-publish":true,"tags":["moonrise"],"title":"Highwater","permalink":"/blooms/perennial/moonrise/towns/highwater/","dgPassFrontmatter":true}
+{"aliases":["Highwater"],"date-created":"2024-03-08T10:47","date-modified":"2024-04-09T15:10","dg-publish":true,"tags":["moonrise"],"title":"Highwater","dg-path":"moonrise/towns/Highwater.md","permalink":"/moonrise/towns/highwater/","dgPassFrontmatter":true}
 ---
 
 

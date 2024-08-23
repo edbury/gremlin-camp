@@ -1,5 +1,5 @@
 ---
-{"aliases":["Burning Kingdoms"],"date-created":"2023-11-29T12:38","date-modified":"2023-12-22T23:28","dg-publish":true,"tags":["moonrise"],"title":"Burning Kingdoms","permalink":"/blooms/perennial/moonrise/burning-kingdoms/","dgPassFrontmatter":true}
+{"aliases":["Burning Kingdoms"],"date-created":"2023-11-29T12:38","date-modified":"2023-12-22T23:28","dg-publish":true,"tags":["moonrise"],"title":"Burning Kingdoms","dg-path":"moonrise/burning kingdoms.md","permalink":"/moonrise/burning-kingdoms/","dgPassFrontmatter":true}
 ---
 
 

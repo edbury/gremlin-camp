@@ -1,5 +1,5 @@
 ---
-{"aliases":["Towns"],"date-created":"2024-02-24T14:57","date-modified":"2024-03-08T22:22","dg-publish":true,"tags":["moonrise"],"title":"Towns","permalink":"/blooms/perennial/moonrise/towns/towns/","dgPassFrontmatter":true}
+{"aliases":["Towns"],"date-created":"2024-02-24T14:57","date-modified":"2024-03-08T22:22","dg-publish":true,"tags":["moonrise"],"title":"Towns","dg-path":"moonrise/towns/Towns.md","permalink":"/moonrise/towns/towns/","dgPassFrontmatter":true}
 ---
 
 
