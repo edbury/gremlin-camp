@@ -1,5 +1,5 @@
 ---
-{"aliases":["Year 2 - Winter - Trait Vote","Year 2 - Winter - Traits"],"date-created":"2024-08-23T15:52","date-modified":"2024-08-25T15:16","dg-publish":true,"tags":["moonrise"],"title":"Year 2 - Winter - Trait Vote","dg-path":"moonrise/Year 2 - Winter - Trait Vote.md","permalink":"/moonrise/year-2-winter-trait-vote/","dgPassFrontmatter":true}
+{"aliases":["Year 2 - Winter - Trait Vote","Year 2 - Winter - Traits"],"date-created":"2024-08-23T15:52","date-modified":"2024-08-25T16:11","dg-publish":true,"tags":["moonrise"],"title":"Year 2 - Winter - Trait Vote","dg-path":"moonrise/Year 2 - Winter - Trait Vote.md","permalink":"/moonrise/year-2-winter-trait-vote/","dgPassFrontmatter":true}
 ---
 
 
@@ -60,11 +60,13 @@
   - Superstitious (Jon)
 - Other
   - Eye of the Hunter (DT) (Jon)
-  - On Edge -> Alert (DT) (Chris)
-  - On Edge -> Alert (DT) (Edbury)
+  - **On Edge -> Alert (DT) (Chris)**
+  - **On Edge -> Alert (DT) (Edbury)**
   - On Edge -> Eye of the Hunter (Alternate) (DT) (William)
   - On Edge -> Light Sleeper (DT) (Ryan)
   - Quiet (CO) (Jim)
+- Reputation
+  - "Hunter in the Dark" - 1D - Hendricks/Roden Sailors (William)
 
 ## The Neophyte
 
@@ -91,6 +93,12 @@
   - Maudlin (Jim)
   - ***Nose for Trouble (Chris)***
   - Wary (Ryan)
+- Other
+  - Affinity for Books and Scrolls (DT) (Jon)
+  - Bookworm (DT) (Ryan)
+  - Iron Stomach (CO) (Chris)
+  - Gifted (CO) (James)
+  - ***Sixth Sense (DT) (Edbury)***
 
 ## The Page
 
@@ -116,6 +124,13 @@
   - Resolute (William)
   - Romantic (Jim)
   - _**Strapping (Ryan)**_
+- Other
+  - Battle-Tested (DT) (William)
+  - ***Impulsive -> Gloryhound (DT) (Chris)***
+  - Impulsive -> Gloryhound (DT) (Ryan)
+  - Gloryhound (DT) (Jon)
+  - Poised (DT) (Jim)
+  - Rapier Wit (DT) (Edbury)
 
 ## The Peddler
 
@@ -136,6 +151,13 @@
   - Mysterious (William)
   - Deferential (Edbury)
   - Kind (Jon)
+- Other
+  - Affinity for Business (DT) (Edbury)
+  - Forgettable -> Quiet (CO) (Chris)
+  - ***Scavenger (CO) (Jim)***
+  - ***Scavenger (CO) (Jon)***
+  - ***Scavenger (CO) (Ryan)***
+  - ***Scavenger (CO) (William)***
 
 ## The Shepherd
 
