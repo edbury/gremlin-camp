@@ -1,5 +1,5 @@
 ---
-{"aliases":["Year 2 - Winter - Trait Vote","Year 2 - Winter - Traits"],"date-created":"2024-08-23T15:52","date-modified":"2024-08-25T13:56","dg-publish":true,"tags":["moonrise"],"title":"Year 2 - Winter - Trait Vote","dg-path":"moonrise/Year 2 - Winter - Trait Vote.md","permalink":"/moonrise/year-2-winter-trait-vote/","dgPassFrontmatter":true}
+{"aliases":["Year 2 - Winter - Trait Vote","Year 2 - Winter - Traits"],"date-created":"2024-08-23T15:52","date-modified":"2024-08-25T14:08","dg-publish":true,"tags":["moonrise"],"title":"Year 2 - Winter - Trait Vote","dg-path":"moonrise/Year 2 - Winter - Trait Vote.md","permalink":"/moonrise/year-2-winter-trait-vote/","dgPassFrontmatter":true}
 ---
 
 
@@ -20,10 +20,10 @@
 ### Nominations
 
 - Character
-  - **Devout (Chris)**
-  - **Devout (Edbury)**
-  - **Devout (Jim)**
-  - **Devout (Ryan)**
+  - ***Devout (Chris)***
+  - ***Devout (Edbury)***
+  - ***Devout (Jim)***
+  - ***Devout (Ryan)***
   - Haunted (William)
   - Homesick (Jon)
 
@@ -49,7 +49,7 @@
   - Indecisive (Jim)
   - Nose for Trouble (William)
   - Protector (Ryan)
-  - **Savage Consequences (Edbury)**
+  - ***Savage Consequences (Edbury)***
   - Superstitious (Jon)
 
 ## The Neophyte
@@ -75,7 +75,7 @@
   - Determined (Jon)
   - Lavish Taste (Edbury)
   - Maudlin (Jim)
-  - **Nose for Trouble (Chris)**
+  - ***Nose for Trouble (Chris)***
   - Wary (Ryan)
 
 ## The Page
@@ -96,8 +96,12 @@
 - Removed
   - Idealistic (Char)
 - Character
+  - Ambitious (Jon)
+  - Fanatical Devotion (Edbury)
+  - Grim (Chris)
   - Resolute (William)
   - Romantic (Jim)
+  - _**Strapping (Ryan)**_
 
 ## The Peddler
 
@@ -108,3 +112,13 @@
 - Dissent Parasite (DT)
 - Forgettable (Char)
 - Odd (Char)
+
+### Nominations
+
+- Character
+  - Comfortable Shoes (Ryan)
+  - Comfortable Shoes (Chris)
+  - Comfortable Shoes (Jon)
+  - Mysterious (William)
+  - Deferential (Edbury)
+  - Kind (Jon)
