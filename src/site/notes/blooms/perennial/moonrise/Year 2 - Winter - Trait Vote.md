@@ -1,5 +1,5 @@
 ---
-{"aliases":["Year 2 - Winter - Trait Vote","Year 2 - Winter - Traits"],"date-created":"2024-08-23T15:52","date-modified":"2024-08-25T14:08","dg-publish":true,"tags":["moonrise"],"title":"Year 2 - Winter - Trait Vote","dg-path":"moonrise/Year 2 - Winter - Trait Vote.md","permalink":"/moonrise/year-2-winter-trait-vote/","dgPassFrontmatter":true}
+{"aliases":["Year 2 - Winter - Trait Vote","Year 2 - Winter - Traits"],"date-created":"2024-08-23T15:52","date-modified":"2024-08-25T14:18","dg-publish":true,"tags":["moonrise"],"title":"Year 2 - Winter - Trait Vote","dg-path":"moonrise/Year 2 - Winter - Trait Vote.md","permalink":"/moonrise/year-2-winter-trait-vote/","dgPassFrontmatter":true}
 ---
 
 
@@ -26,6 +26,7 @@
   - ***Devout (Ryan)***
   - Haunted (William)
   - Homesick (Jon)
+- Other
 
 ## The Doorkeeper
 
@@ -116,9 +117,16 @@
 ### Nominations
 
 - Character
-  - Comfortable Shoes (Ryan)
-  - Comfortable Shoes (Chris)
-  - Comfortable Shoes (Jon)
+  - ***Comfortable Shoes (Ryan)***
+  - ***Comfortable Shoes (Chris)***
+  - ***Comfortable Shoes (Jim)***
   - Mysterious (William)
   - Deferential (Edbury)
   - Kind (Jon)
+
+## The Shepherd
+
+- Character
+  - ***Hopeful (Ryan)***
+  - Reincarnated (Chris)
+  - Fleet (William)
