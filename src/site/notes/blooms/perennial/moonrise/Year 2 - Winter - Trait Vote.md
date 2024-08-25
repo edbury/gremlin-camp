@@ -1,5 +1,5 @@
 ---
-{"aliases":["Year 2 - Winter - Trait Vote","Year 2 - Winter - Traits"],"date-created":"2024-08-23T15:52","date-modified":"2024-08-25T13:14","dg-publish":true,"tags":["moonrise"],"title":"Year 2 - Winter - Trait Vote","dg-path":"moonrise/Year 2 - Winter - Trait Vote.md","permalink":"/moonrise/year-2-winter-trait-vote/","dgPassFrontmatter":true}
+{"aliases":["Year 2 - Winter - Trait Vote","Year 2 - Winter - Traits"],"date-created":"2024-08-23T15:52","date-modified":"2024-08-25T13:31","dg-publish":true,"tags":["moonrise"],"title":"Year 2 - Winter - Trait Vote","dg-path":"moonrise/Year 2 - Winter - Trait Vote.md","permalink":"/moonrise/year-2-winter-trait-vote/","dgPassFrontmatter":true}
 ---
 
 
@@ -19,7 +19,7 @@
 
 ### Nominations
 
-- Char:
+- Character
   - **Devout (Chris)**
   - **Devout (Edbury)**
   - **Devout (James)**
@@ -39,6 +39,16 @@
 - Scarred Left Arm (Char)
 - Single-Minded (CO)
 - Skinny (Char)
+
+### Nominations
+
+- Character
+  - Dangerous (Chris)
+  - Indecisive (Jim)
+  - Nose for Trouble (William)
+  - Protector (Ryan)
+  - **Savage Consequences (Edbury)**
+  - Superstitious (Jon)
 
 ## The Neophyte
 
