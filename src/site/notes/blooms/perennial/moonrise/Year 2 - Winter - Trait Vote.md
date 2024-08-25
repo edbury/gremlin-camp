@@ -1,5 +1,5 @@
 ---
-{"aliases":["Year 2 - Winter - Trait Vote","Year 2 - Winter - Traits"],"date-created":"2024-08-23T15:52","date-modified":"2024-08-25T13:31","dg-publish":true,"tags":["moonrise"],"title":"Year 2 - Winter - Trait Vote","dg-path":"moonrise/Year 2 - Winter - Trait Vote.md","permalink":"/moonrise/year-2-winter-trait-vote/","dgPassFrontmatter":true}
+{"aliases":["Year 2 - Winter - Trait Vote","Year 2 - Winter - Traits"],"date-created":"2024-08-23T15:52","date-modified":"2024-08-25T13:38","dg-publish":true,"tags":["moonrise"],"title":"Year 2 - Winter - Trait Vote","dg-path":"moonrise/Year 2 - Winter - Trait Vote.md","permalink":"/moonrise/year-2-winter-trait-vote/","dgPassFrontmatter":true}
 ---
 
 
@@ -63,6 +63,15 @@
 - Scarred Chest (Char)
 - Single-Minded (CO)
 - Wolverine (CO)
+
+### Nominations
+
+- Character
+  - Determined (Jon)
+  - Lavish Taste (Edbury)
+  - Maudlin (Jim)
+  - Nose for Trouble (Chris)
+  - Wary (Ryan)
 
 ## The Page
 
