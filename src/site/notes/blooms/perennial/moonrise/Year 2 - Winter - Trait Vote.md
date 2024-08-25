@@ -1,5 +1,5 @@
 ---
-{"aliases":["Year 2 - Winter - Trait Vote","Year 2 - Winter - Traits"],"date-created":"2024-08-23T15:52","date-modified":"2024-08-25T16:11","dg-publish":true,"tags":["moonrise"],"title":"Year 2 - Winter - Trait Vote","dg-path":"moonrise/Year 2 - Winter - Trait Vote.md","permalink":"/moonrise/year-2-winter-trait-vote/","dgPassFrontmatter":true}
+{"aliases":["Year 2 - Winter - Trait Vote","Year 2 - Winter - Traits"],"date-created":"2024-08-23T15:52","date-modified":"2024-08-25T16:35","dg-publish":true,"tags":["moonrise"],"title":"Year 2 - Winter - Trait Vote","dg-path":"moonrise/Year 2 - Winter - Trait Vote.md","permalink":"/moonrise/year-2-winter-trait-vote/","dgPassFrontmatter":true}
 ---
 
 
@@ -33,6 +33,8 @@
   - ***Dexterity of the Cat (CO) (William)***
   - Keen Taste (DT) (Edbury)
   - Artful Dodger (DT) (Jim)
+- Reputation
+  - "Who Stole the Tears of the Sea" - 3D Infamous (William)
 
 ## The Doorkeeper
 
@@ -67,6 +69,7 @@
   - Quiet (CO) (Jim)
 - Reputation
   - "Hunter in the Dark" - 1D - Hendricks/Roden Sailors (William)
+  - "Hostile Takeover" - 2D Infamous - Merchant Class (Jon)
 
 ## The Neophyte
 
@@ -99,6 +102,8 @@
   - Iron Stomach (CO) (Chris)
   - Gifted (CO) (James)
   - ***Sixth Sense (DT) (Edbury)***
+- Reputation
+  - "Somnus' Final Pupil" - 1D Infamous among the Council (William)
 
 ## The Page
 
@@ -131,6 +136,8 @@
   - Gloryhound (DT) (Jon)
   - Poised (DT) (Jim)
   - Rapier Wit (DT) (Edbury)
+- Reputation
+  - "Who Released the Weapon" - 1D (Page)
 
 ## The Peddler
 
