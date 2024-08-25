@@ -1,5 +1,5 @@
 ---
-{"aliases":["Year 2 - Winter - Trait Vote","Year 2 - Winter - Traits"],"date-created":"2024-08-23T15:52","date-modified":"2024-08-25T14:18","dg-publish":true,"tags":["moonrise"],"title":"Year 2 - Winter - Trait Vote","dg-path":"moonrise/Year 2 - Winter - Trait Vote.md","permalink":"/moonrise/year-2-winter-trait-vote/","dgPassFrontmatter":true}
+{"aliases":["Year 2 - Winter - Trait Vote","Year 2 - Winter - Traits"],"date-created":"2024-08-23T15:52","date-modified":"2024-08-25T15:05","dg-publish":true,"tags":["moonrise"],"title":"Year 2 - Winter - Trait Vote","dg-path":"moonrise/Year 2 - Winter - Trait Vote.md","permalink":"/moonrise/year-2-winter-trait-vote/","dgPassFrontmatter":true}
 ---
 
 
@@ -27,6 +27,17 @@
   - Haunted (William)
   - Homesick (Jon)
 - Other
+  - Defiant -> Stubborn (DT) (Ryan)
+    - Ryan
+  - Street Smart (CO) (Jon)
+    - Jon
+  - Cynical -> Rapier Wit (DT) (Chris)
+    - Chris
+  - Dexterity of the Cat (CO) (William)
+    - Will
+  - Keen Taste (DT) (Edbury)
+    - Edbury
+  - Artful Dodger (DT) (Jim)
 
 ## The Doorkeeper
 
