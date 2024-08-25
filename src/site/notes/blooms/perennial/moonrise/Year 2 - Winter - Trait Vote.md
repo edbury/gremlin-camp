@@ -1,5 +1,5 @@
 ---
-{"aliases":["Year 2 - Winter - Trait Vote","Year 2 - Winter - Traits"],"date-created":"2024-08-23T15:52","date-modified":"2024-08-25T15:05","dg-publish":true,"tags":["moonrise"],"title":"Year 2 - Winter - Trait Vote","dg-path":"moonrise/Year 2 - Winter - Trait Vote.md","permalink":"/moonrise/year-2-winter-trait-vote/","dgPassFrontmatter":true}
+{"aliases":["Year 2 - Winter - Trait Vote","Year 2 - Winter - Traits"],"date-created":"2024-08-23T15:52","date-modified":"2024-08-25T15:16","dg-publish":true,"tags":["moonrise"],"title":"Year 2 - Winter - Trait Vote","dg-path":"moonrise/Year 2 - Winter - Trait Vote.md","permalink":"/moonrise/year-2-winter-trait-vote/","dgPassFrontmatter":true}
 ---
 
 
@@ -28,15 +28,10 @@
   - Homesick (Jon)
 - Other
   - Defiant -> Stubborn (DT) (Ryan)
-    - Ryan
   - Street Smart (CO) (Jon)
-    - Jon
   - Cynical -> Rapier Wit (DT) (Chris)
-    - Chris
-  - Dexterity of the Cat (CO) (William)
-    - Will
+  - ***Dexterity of the Cat (CO) (William)***
   - Keen Taste (DT) (Edbury)
-    - Edbury
   - Artful Dodger (DT) (Jim)
 
 ## The Doorkeeper
@@ -63,6 +58,13 @@
   - Protector (Ryan)
   - ***Savage Consequences (Edbury)***
   - Superstitious (Jon)
+- Other
+  - Eye of the Hunter (DT) (Jon)
+  - On Edge -> Alert (DT) (Chris)
+  - On Edge -> Alert (DT) (Edbury)
+  - On Edge -> Eye of the Hunter (Alternate) (DT) (William)
+  - On Edge -> Light Sleeper (DT) (Ryan)
+  - Quiet (CO) (Jim)
 
 ## The Neophyte
 
