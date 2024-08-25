@@ -1,5 +1,5 @@
 ---
-{"aliases":["Year 2 - Winter - Trait Vote","Year 2 - Winter - Traits"],"date-created":"2024-08-23T15:52","date-modified":"2024-08-25T13:51","dg-publish":true,"tags":["moonrise"],"title":"Year 2 - Winter - Trait Vote","dg-path":"moonrise/Year 2 - Winter - Trait Vote.md","permalink":"/moonrise/year-2-winter-trait-vote/","dgPassFrontmatter":true}
+{"aliases":["Year 2 - Winter - Trait Vote","Year 2 - Winter - Traits"],"date-created":"2024-08-23T15:52","date-modified":"2024-08-25T13:56","dg-publish":true,"tags":["moonrise"],"title":"Year 2 - Winter - Trait Vote","dg-path":"moonrise/Year 2 - Winter - Trait Vote.md","permalink":"/moonrise/year-2-winter-trait-vote/","dgPassFrontmatter":true}
 ---
 
 
@@ -22,7 +22,7 @@
 - Character
   - **Devout (Chris)**
   - **Devout (Edbury)**
-  - **Devout (James)**
+  - **Devout (Jim)**
   - **Devout (Ryan)**
   - Haunted (William)
   - Homesick (Jon)
@@ -42,6 +42,8 @@
 
 ### Nominations
 
+- Removed
+  - Skinny (Char)
 - Character
   - Dangerous (Chris)
   - Indecisive (Jim)
@@ -88,6 +90,14 @@
 - Palsy (DT)
 - Scarred Right Hand (Char)
 - Wolverine (CO)
+
+### Nominations
+
+- Removed
+  - Idealistic (Char)
+- Character
+  - Resolute (William)
+  - Romantic (Jim)
 
 ## The Peddler
 
