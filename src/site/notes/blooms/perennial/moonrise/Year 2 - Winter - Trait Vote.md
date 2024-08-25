@@ -1,21 +1,9 @@
 ---
-{"aliases":"Year 2 - Winter - Trait Vote,Year 2 - Winter - Traits","date-created":"2024-08-23T15:52","date-modified":"2024-08-23T15:59","tags":["moonrise"],"title":"Year 2 - Winter - Trait Vote","dg-publish":true,"dg-path":"moonrise/Year 2 - Winter - Trait Vote.md","permalink":"/moonrise/year-2-winter-trait-vote/","dgPassFrontmatter":true}
+{"aliases":["Year 2 - Winter - Trait Vote","Year 2 - Winter - Traits"],"date-created":"2024-08-23T15:52","date-modified":"2024-08-25T06:46","dg-publish":true,"tags":["moonrise"],"title":"Year 2 - Winter - Trait Vote","dg-path":"moonrise/Year 2 - Winter - Trait Vote.md","permalink":"/moonrise/year-2-winter-trait-vote/","dgPassFrontmatter":true}
 ---
 
 
 # Year 2 - Winter - Trait Vote
-
-## The Barber
-
-### Current Traits
-
-- Aura of Fear (DT)
-- Believer (DT)
-- Child Prodigy (DT)
-- Cool Headed (DT)
-- Dreamer (DT)
-- Nimble (CO)
-- Pallor Mortis (DT)
 
 ## The Criminal
 
