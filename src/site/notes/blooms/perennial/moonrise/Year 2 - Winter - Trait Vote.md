@@ -1,5 +1,5 @@
 ---
-{"aliases":["Year 2 - Winter - Trait Vote","Year 2 - Winter - Traits"],"date-created":"2024-08-23T15:52","date-modified":"2024-08-25T06:46","dg-publish":true,"tags":["moonrise"],"title":"Year 2 - Winter - Trait Vote","dg-path":"moonrise/Year 2 - Winter - Trait Vote.md","permalink":"/moonrise/year-2-winter-trait-vote/","dgPassFrontmatter":true}
+{"aliases":["Year 2 - Winter - Trait Vote","Year 2 - Winter - Traits"],"date-created":"2024-08-23T15:52","date-modified":"2024-08-25T13:14","dg-publish":true,"tags":["moonrise"],"title":"Year 2 - Winter - Trait Vote","dg-path":"moonrise/Year 2 - Winter - Trait Vote.md","permalink":"/moonrise/year-2-winter-trait-vote/","dgPassFrontmatter":true}
 ---
 
 
@@ -16,6 +16,16 @@
 - Defiant (Char)
 - Fearless (DT)
 - Small Fry (Char)
+
+### Nominations
+
+- Char:
+  - **Devout (Chris)**
+  - **Devout (Edbury)**
+  - **Devout (James)**
+  - **Devout (Ryan)**
+  - Haunted (William)
+  - Homesick (Jon)
 
 ## The Doorkeeper
 
