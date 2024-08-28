@@ -1,5 +1,5 @@
 ---
-{"aliases":["The Story So Far"],"date-created":"2024-08-23T14:56","date-modified":"2024-08-28T13:47","dg-publish":true,"tags":["moonrise","recap"],"title":"The Story So Far","dg-path":"moonrise/tssf.md","permalink":"/moonrise/tssf/","dgPassFrontmatter":true}
+{"aliases":["The Story So Far"],"date-created":"2024-08-23T14:56","date-modified":"2024-08-28T14:21","dg-publish":true,"tags":["moonrise","recap"],"title":"The Story So Far","dg-path":"moonrise/tssf.md","permalink":"/moonrise/tssf/","dgPassFrontmatter":true}
 ---
 
 
@@ -86,7 +86,7 @@
   - The Strider's mantle is obtained through ritual combat.
   - The tower is haunted, and the entity is sleeping.
 - [[The Page\|The Page]] successfully persuades [[Karrlo\|Karrlo]] in the infirmary, resulting in Karrlo penning a letter and swearing an oath to return to speak with his father regarding sending [[Duskwall\|Duskwall]]'s soldiers to defend the capital.
-- [[blooms/perennial/moonrise/The Criminal\|The Criminal]] encounters Sa'id, a criminal from the Scorching Sands and awful teacher.
+- [[blooms/perennial/moonrise/The Criminal\|The Criminal]] encounters [[Sa'id\|Sa'id]], a criminal from the Scorching Sands and awful teacher.
 - [[The Page\|The Page]] makes an enemy of [[The Cripple\|The Cripple]] in the mess.
 - [[The Peddler\|The Peddler]] tokens begin circulating in the Roden Society setting.
 

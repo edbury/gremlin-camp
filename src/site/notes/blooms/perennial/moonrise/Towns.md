@@ -79,6 +79,8 @@ At a flophouse, adventurers crash in the common room and don't get much else asi
 **Flophouse Lifestyle Cost:** +1
 
 ### Guild Hall
+{ #9c0439}
+
 
 Most towns are run by a league of powerful guilds. They control all trade and commerce and provide the town's watches. At the guild hall, you petition to use guild facilities, temporarily hire apprentices and find employment. You can also exchange loot for IOUs here.
 
