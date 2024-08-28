@@ -1,5 +1,5 @@
 ---
-{"aliases":["The Story So Far"],"date-created":"2024-08-23T14:56","date-modified":"2024-08-28T12:21","dg-publish":true,"tags":["moonrise","recap"],"title":"The Story So Far","dg-path":"moonrise/tssf.md","permalink":"/moonrise/tssf/","dgPassFrontmatter":true}
+{"aliases":["The Story So Far"],"date-created":"2024-08-23T14:56","date-modified":"2024-08-28T13:19","dg-publish":true,"tags":["moonrise","recap"],"title":"The Story So Far","dg-path":"moonrise/tssf.md","permalink":"/moonrise/tssf/","dgPassFrontmatter":true}
 ---
 
 
@@ -7,9 +7,9 @@
 
 ## Year 1
 
-### Winter - The Countryside
+### Winter - [[The Countryside\|The Countryside]]
 
-#### The Capital
+#### [[blooms/perennial/moonrise/The Capital\|The Capital]]
 
 - [[blooms/perennial/moonrise/The Doorkeeper\|The Doorkeeper]] was bullied and humiliated by [[The Knight\|The Knight]] and [[The Counselor\|The Counselor]].
 - [[blooms/perennial/moonrise/The Doorkeeper\|The Doorkeeper]] had a conversation with [[The Page\|The Page]] and learned about the relationship between power and fear, determining never to feel that fear again by causing it in others.
