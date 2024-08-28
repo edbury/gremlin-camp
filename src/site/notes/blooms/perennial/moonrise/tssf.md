@@ -1,5 +1,5 @@
 ---
-{"aliases":["The Story So Far"],"date-created":"2024-08-23T14:56","date-modified":"2024-08-28T11:50","dg-publish":true,"tags":["moonrise","recap"],"title":"The Story So Far","dg-path":"moonrise/tssf.md","permalink":"/moonrise/tssf/","dgPassFrontmatter":true}
+{"aliases":["The Story So Far"],"date-created":"2024-08-23T14:56","date-modified":"2024-08-28T12:05","dg-publish":true,"tags":["moonrise","recap"],"title":"The Story So Far","dg-path":"moonrise/tssf.md","permalink":"/moonrise/tssf/","dgPassFrontmatter":true}
 ---
 
 
@@ -36,9 +36,9 @@
 
 - [[blooms/perennial/moonrise/The Brothers\|The Brothers]] met [[Red Robbie\|Red Robbie]].
 - [[blooms/perennial/moonrise/The Brothers\|The Brothers]] defeated the [[Skitterlord\|Skitterlord]].
+- [[The Page\|The Page]] gained the Aura of Malevolence and has struggled to reconcile this with his commitment to idealism and mercy. He finds himself sneering without understanding why, and it bothers his brothers. He feels like he is turning into what he hates: a bully. He takes some solace in having beaten the Skitterlord in a fight.
 - [[blooms/perennial/moonrise/The Doorkeeper\|The Doorkeeper]] witnessed [[The Page\|The Page]]'s suffering and wrath becoming physically manifest, grappling with the inevitability of corruption for the first time.
 - [[blooms/perennial/moonrise/The Doorkeeper\|The Doorkeeper]] threatened [[Red Robbie\|Red Robbie]] to ensure the power of the [[Skitterlord\|Skitterlord]] was never unleashed again.
-- [[The Page\|The Page]] gained the Aura of Malevolence and has struggled to reconcile this with his commitment to idealism and mercy. He finds himself sneering without understanding why, and it bothers his brothers. He feels like he is turning into what he hates: a bully. He takes some solace in having beaten the Skitterlord in a fight.
 - [[blooms/perennial/moonrise/The Neophyte\|The Neophyte]] considered finding a great master to guide him in his studies but tabled this belief until after his brothers were mantled.
 
 ### Summer - The Shimmering Vast
