@@ -1,5 +1,5 @@
 ---
-{"aliases":["The Story So Far"],"date-created":"2024-08-23T14:56","date-modified":"2024-08-28T11:41","dg-publish":true,"tags":["moonrise","recap"],"title":"The Story So Far","dg-path":"moonrise/tssf.md","permalink":"/moonrise/tssf/","dgPassFrontmatter":true}
+{"aliases":["The Story So Far"],"date-created":"2024-08-23T14:56","date-modified":"2024-08-28T11:50","dg-publish":true,"tags":["moonrise","recap"],"title":"The Story So Far","dg-path":"moonrise/tssf.md","permalink":"/moonrise/tssf/","dgPassFrontmatter":true}
 ---
 
 
@@ -52,32 +52,36 @@
 
 #### The Magnate's Ship
 
-- [[blooms/perennial/moonrise/The Brothers\|The Brothers]] returned to [[The Magnate's Ship\|The Magnate's Ship]] and it was time for killing again.
-- [[blooms/perennial/moonrise/The Brothers\|The Brothers]] allied with a mutiny of [[blooms/perennial/moonrise/Roden\|Roden]].
-- [[blooms/perennial/moonrise/The Doorkeeper\|The Doorkeeper]] assassinated [[blooms/perennial/moonrise/The Magnate\|The Magnate]] after being furious at the events that transpired, determined not to leave this powerful man alive to try again.
-- [[blooms/perennial/moonrise/The Doorkeeper\|The Doorkeeper]] and [[blooms/perennial/moonrise/The Criminal\|The Criminal]] met [[The Man With No Name\|The Man With No Name]].
-- [[blooms/perennial/moonrise/The Doorkeeper\|The Doorkeeper]] saw the look of terror in [[blooms/perennial/moonrise/The Criminal\|The Criminal]]'s eyes after killing [[blooms/perennial/moonrise/The Magnate\|The Magnate]] and hoped never to cause that fear again.
-- [[blooms/perennial/moonrise/The Criminal\|The Criminal]] was deeply affected by the Doorkeeper's efficiency in violence, shattering his perception of the Doorkeeper as the other "normal one" in the group.
-- [[blooms/perennial/moonrise/The Neophyte\|The Neophyte]] resolved to repay the [[blooms/perennial/moonrise/Roden\|Roden]] who saved their lives by giving away treasure and instructing [[Ada\|Ada]] to seek him when the Roden wanted to cash in a favor.
-- [[The Page\|The Page]] confronted one of his brothers on the ship and was made to look foolish and dishonorable after [[Weigel\|Weigel]] jumped [[Karrlo\|Karrlo]].
-- [[The Page\|The Page]] agreed to help the [[blooms/perennial/moonrise/Roden\|Roden]] take the ship after being locked up and left to possibly die in the Black Arms Emergency, making yet another deal he can't fully explain.
-- [[The Page\|The Page]] tried to avoid killing [[blooms/perennial/moonrise/The Magnate\|The Magnate]]'s men, only to witness one commit suicide and another shoot [[blooms/perennial/moonrise/The Neophyte\|The Neophyte]] almost to death.
-- [[The Page\|The Page]] allowed an innocent young girl to die to save [[blooms/perennial/moonrise/The Neophyte\|The Neophyte]], carrying the burden of that decision.
-- [[The Page\|The Page]] was publicly humiliated by [[The Cripple\|The Cripple]] and didn't stand up for himself, knowing deep down that he is indeed a failure. He made amends to [[Karrlo\|Karrlo]] by getting punched, trying to secure troops for the war effort.
-- Despite his failures, [[The Page\|The Page]] managed to beat a Black Giant in combat, though he is now acutely aware of his mortality.
-- [[blooms/perennial/moonrise/The Criminal\|The Criminal]] began to pity the spirits trapped by his Mantle and resolved to find a way to release them, even if it meant sacrificing his own power.
-- [[blooms/perennial/moonrise/The Neophyte\|The Neophyte]] believed that setting a course for [[blooms/perennial/moonrise/The Magnate\|The Magnate]]'s ship to sail perpetually through the Twilight was a viable option, reflecting his belief in a mystical third path.
+- [[blooms/perennial/moonrise/The Neophyte\|The Neophyte]] was infecting others with [[Blood Lust\|Blood Lust]].
+- [[Sviral\|Sviral]] (Mastermind) sacrificed himself after being asked by [[blooms/perennial/moonrise/The Doorkeeper\|The Doorkeeper]], claiming it was all part of the plan. He gave The Doorkeeper a sealed cylinder.
+- [[Derakus\|Derakus]] is a sneak thief.
+- [[blooms/perennial/moonrise/The Neophyte\|The Neophyte]] was lying in the infirmary with [[Ada\|Ada]].
+- [[blooms/perennial/moonrise/The Criminal\|The Criminal]] and [[The Page\|The Page]] searched for a flower to help [[Ada\|Ada]] heal their brother.
+- [[blooms/perennial/moonrise/The Doorkeeper\|The Doorkeeper]] prepared to enter [[blooms/perennial/moonrise/The Magnate\|The Magnate]]'s chambers and kill him.
+- [[The Page\|The Page]] cut off two of a [[Black Giant\|Black Giant]]'s fingers, cleaving the hand.
+- [[Hendricks\|Hendricks]] is an NPC circled up by [[blooms/perennial/moonrise/The Doorkeeper\|The Doorkeeper]]; successful Circles but failed Intimidate.
+- [[blooms/perennial/moonrise/The Criminal\|The Criminal]] failed to summon his ghost and instead summoned [[blooms/perennial/moonrise/The Peddler's Ghost\|The Peddler's Ghost]], "Bolero." He swore an oath to retrieve something that used to be part of [[The Peddler\|The Peddler]]'s collection next time he was in the capital.
+- [[blooms/perennial/moonrise/The Doorkeeper\|The Doorkeeper]] used Fairy Tale-Wise to determine a creature's weakness: light and a reminder of its true nature or former self.
+- [[blooms/perennial/moonrise/The Neophyte\|The Neophyte]] researched the map The Doorkeeper got from [[The Man with No Name\|The Man with No Name]]:
+  - The [[Tears of the Sea\|Tears of the Sea]] are housed in the depths of the tower.
+  - The tower entrance is high up.
+  - The Strider's mantle is obtained through ritual combat.
+  - The tower is haunted, and the entity is sleeping.
+- [[The Page\|The Page]] successfully persuaded [[Karrlo\|Karrlo]] in the infirmary, resulting in Karrlo penning a letter and swearing an oath to return to speak with his father regarding sending [[Duskwall\|Duskwall]]'s soldiers to defend the capital.
+- [[blooms/perennial/moonrise/The Criminal\|The Criminal]] had a Circles success, encountering Sa'id, a criminal from the Scorching Sands. He failed his instruction, giving a +1 Ob to train The Criminal in the future.
+- [[The Page\|The Page]] made an enemy of [[The Cripple\|The Cripple]] in the mess.
+- Peddler tokens began circulating in the Roden Society setting.
 
 ### Fall - The Grinding Ice
 
-#### The Edge of the Grinding Ice
-
-- [[blooms/perennial/moonrise/The Brothers\|The Brothers]] met [[The Shepherd\|The Shepherd]].
-- [[blooms/perennial/moonrise/The Brothers\|The Brothers]] were ambushed by [[The Strider\|The Strider]], who pleaded with [[blooms/perennial/moonrise/The Doorkeeper\|The Doorkeeper]] to turn back.
-- [[blooms/perennial/moonrise/The Doorkeeper\|The Doorkeeper]] shot [[The Strider\|The Strider]], causing his arrow to explode.
-- [[blooms/perennial/moonrise/The Doorkeeper\|The Doorkeeper]] met [[The Man With No Name\|The Man With No Name]], who gave him a magic arrow to kill [[The Strider\|The Strider]], though [[The Shepherd\|The Shepherd]] did not trust this man.
-- [[blooms/perennial/moonrise/The Doorkeeper\|The Doorkeeper]] reflected on what his legacy would be, questioning whether he wanted the world to fear him.
-- [[The Page\|The Page]] abandoned [[The Shepherd\|The Shepherd]] and [[Kestrel\|Kestrel]] in the Grinding Ice and, through inaction, helped destroy a second biome, though he hopes a lot of zombies were destroyed in the process. Everyone also thinks [[The Page\|The Page]] drinks piss.
+- [[blooms/perennial/moonrise/The Brothers\|The Brothers]] disembarked from the ship.
+- Two undead manned braziers where [[the long road\|the long road]] meets the Shimmering Sea; [[The Shepherd\|The Shepherd]] was waiting for them without his cart.
+- Days into the journey, [[The Strider\|The Strider]] attacked the group during a snowstorm, shooting [[The Shepherd\|The Shepherd]]'s eye out.
+  - [[The Page\|The Page]] pursued on horseback into the storm.
+  - [[blooms/perennial/moonrise/The Doorkeeper\|The Doorkeeper]] and [[blooms/perennial/moonrise/The Criminal\|The Criminal]] pursued on foot, hunting [[The Strider\|The Strider]].
+  - [[blooms/perennial/moonrise/The Doorkeeper\|The Doorkeeper]] confronted [[The Strider\|The Strider]] (Tied Hunting VS), and she pleaded for him to abandon his quest. He agreed to combat her later and shot her when she turned her back. The arrow broke, unable to pierce her flesh, and she left without turning.
+- After a week, [[The Man With No Name\|The Man With No Name]] approached the party near the tower, offering [[blooms/perennial/moonrise/The Doorkeeper\|The Doorkeeper]] a black arrow that could kill [[The Strider\|The Strider]] in exchange for a deal. [[blooms/perennial/moonrise/The Doorkeeper\|The Doorkeeper]] talked him into handing over the black arrow as a sign of good faith.
+- [[The Shepherd\|The Shepherd]] said goodbye at the base of the tower, wishing [[blooms/perennial/moonrise/The Doorkeeper\|The Doorkeeper]] luck. [[The Page\|The Page]] offered some water from his marked wineskin, but it smelled like piss, leading [[The Shepherd\|The Shepherd]] to think it was a prank.
 
 #### The Tower in the Ice
 
