@@ -1,5 +1,5 @@
 ---
-{"aliases":["The Story So Far"],"date-created":"2024-08-23T14:56","date-modified":"2024-08-28T12:05","dg-publish":true,"tags":["moonrise","recap"],"title":"The Story So Far","dg-path":"moonrise/tssf.md","permalink":"/moonrise/tssf/","dgPassFrontmatter":true}
+{"aliases":["The Story So Far"],"date-created":"2024-08-23T14:56","date-modified":"2024-08-28T12:21","dg-publish":true,"tags":["moonrise","recap"],"title":"The Story So Far","dg-path":"moonrise/tssf.md","permalink":"/moonrise/tssf/","dgPassFrontmatter":true}
 ---
 
 
@@ -52,8 +52,8 @@
 
 #### The Magnate's Ship
 
-- [[blooms/perennial/moonrise/The Neophyte\|The Neophyte]] was infecting others with [[Blood Lust\|Blood Lust]].
-- [[Sviral\|Sviral]] (Mastermind) sacrificed himself after being asked by [[blooms/perennial/moonrise/The Doorkeeper\|The Doorkeeper]], claiming it was all part of the plan. He gave The Doorkeeper a sealed cylinder.
+- [[blooms/perennial/moonrise/The Neophyte\|The Neophyte]] infected someone with [[Blood Lust\|Blood Lust]] at the den of iniquity.
+- [[Sviral\|Sviral]] sacrificed himself after being asked by [[blooms/perennial/moonrise/The Doorkeeper\|The Doorkeeper]], claiming it was all part of the plan. He gave The Doorkeeper a sealed cylinder.
 - [[Derakus\|Derakus]] is a sneak thief.
 - [[blooms/perennial/moonrise/The Neophyte\|The Neophyte]] was lying in the infirmary with [[Ada\|Ada]].
 - [[blooms/perennial/moonrise/The Criminal\|The Criminal]] and [[The Page\|The Page]] searched for a flower to help [[Ada\|Ada]] heal their brother.
@@ -70,7 +70,7 @@
 - [[The Page\|The Page]] successfully persuaded [[Karrlo\|Karrlo]] in the infirmary, resulting in Karrlo penning a letter and swearing an oath to return to speak with his father regarding sending [[Duskwall\|Duskwall]]'s soldiers to defend the capital.
 - [[blooms/perennial/moonrise/The Criminal\|The Criminal]] had a Circles success, encountering Sa'id, a criminal from the Scorching Sands. He failed his instruction, giving a +1 Ob to train The Criminal in the future.
 - [[The Page\|The Page]] made an enemy of [[The Cripple\|The Cripple]] in the mess.
-- Peddler tokens began circulating in the Roden Society setting.
+- [[The Peddler\|Peddler]] tokens began circulating in the Roden Society setting.
 
 ### Fall - The Grinding Ice
 
