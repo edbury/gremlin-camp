@@ -1,5 +1,5 @@
 ---
-{"aliases":["The Story So Far"],"date-created":"2024-08-23T14:56","date-modified":"2024-08-28T13:43","dg-publish":true,"tags":["moonrise","recap"],"title":"The Story So Far","dg-path":"moonrise/tssf.md","permalink":"/moonrise/tssf/","dgPassFrontmatter":true}
+{"aliases":["The Story So Far"],"date-created":"2024-08-23T14:56","date-modified":"2024-08-28T13:47","dg-publish":true,"tags":["moonrise","recap"],"title":"The Story So Far","dg-path":"moonrise/tssf.md","permalink":"/moonrise/tssf/","dgPassFrontmatter":true}
 ---
 
 
@@ -86,7 +86,7 @@
   - The Strider's mantle is obtained through ritual combat.
   - The tower is haunted, and the entity is sleeping.
 - [[The Page\|The Page]] successfully persuades [[Karrlo\|Karrlo]] in the infirmary, resulting in Karrlo penning a letter and swearing an oath to return to speak with his father regarding sending [[Duskwall\|Duskwall]]'s soldiers to defend the capital.
-- [[blooms/perennial/moonrise/The Criminal\|The Criminal]] has a Circles success, encountering Sa'id, a criminal from the Scorching Sands. He fails his instruction, giving a +1 Ob to train [[blooms/perennial/moonrise/The Criminal\|The Criminal]] in the future.
+- [[blooms/perennial/moonrise/The Criminal\|The Criminal]] encounters Sa'id, a criminal from the Scorching Sands and awful teacher.
 - [[The Page\|The Page]] makes an enemy of [[The Cripple\|The Cripple]] in the mess.
 - [[The Peddler\|The Peddler]] tokens begin circulating in the Roden Society setting.
 
@@ -97,7 +97,7 @@
 - Days into the journey, [[The Strider\|The Strider]] attacks the group during a snowstorm, shooting [[The Shepherd\|The Shepherd]]'s eye out.
   - [[The Page\|The Page]] pursues on horseback into the storm.
   - [[blooms/perennial/moonrise/The Doorkeeper\|The Doorkeeper]] and [[blooms/perennial/moonrise/The Criminal\|The Criminal]] pursue on foot, hunting [[The Strider\|The Strider]].
-  - [[blooms/perennial/moonrise/The Doorkeeper\|The Doorkeeper]] confronts [[The Strider\|The Strider]] (Tied Hunting VS), and she pleads for him to abandon his quest. He agrees to combat her later and shoots her when she turns her back. The arrow breaks, unable to pierce her flesh, and she leaves without turning.
+  - [[blooms/perennial/moonrise/The Doorkeeper\|The Doorkeeper]] confronts [[The Strider\|The Strider]], and she pleads for him to abandon his quest. He agrees to combat her later and shoots her when she turns her back. The arrow breaks, unable to pierce her flesh, and she leaves without turning.
 - After a week, [[The Man With No Name\|The Man With No Name]] approaches the party near the tower, offering [[blooms/perennial/moonrise/The Doorkeeper\|The Doorkeeper]] a black arrow that can kill [[The Strider\|The Strider]] in exchange for a deal. [[blooms/perennial/moonrise/The Doorkeeper\|The Doorkeeper]] talks him into handing over the black arrow as a sign of good faith.
 - [[The Shepherd\|The Shepherd]] says goodbye at the base of the tower, wishing [[blooms/perennial/moonrise/The Doorkeeper\|The Doorkeeper]] luck. [[The Page\|The Page]] offers some water from his marked wineskin, but it smells like piss, leading [[The Shepherd\|The Shepherd]] to think it is a prank.
 
