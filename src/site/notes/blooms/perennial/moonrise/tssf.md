@@ -1,5 +1,5 @@
 ---
-{"aliases":"The Story So Far","date-created":"2024-08-23T14:56","date-modified":"2024-08-28T11:41","tags":["moonrise","recap"],"title":"The Story So Far","dg-publish":true,"dg-path":"moonrise/tssf.md","permalink":"/moonrise/tssf/","dgPassFrontmatter":true}
+{"aliases":["The Story So Far"],"date-created":"2024-08-23T14:56","date-modified":"2024-08-28T11:41","dg-publish":true,"tags":["moonrise","recap"],"title":"The Story So Far","dg-path":"moonrise/tssf.md","permalink":"/moonrise/tssf/","dgPassFrontmatter":true}
 ---
 
 
