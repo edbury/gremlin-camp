@@ -11,8 +11,8 @@
 
 #### The Capital
 
-- [[blooms/perennial/moonrise/The Doorkeeper\|The Doorkeeper]] was bullied and humiliated by [[the Knight\|the Knight]] and [[the Counselor\|the Counselor]].
-- [[blooms/perennial/moonrise/The Doorkeeper\|The Doorkeeper]] had a conversation with [[the Page\|the Page]] and learned about the relationship between power and fear, determining never to feel that fear again by causing it in others.
+- [[blooms/perennial/moonrise/The Doorkeeper\|The Doorkeeper]] was bullied and humiliated by [[The Knight\|The Knight]] and [[The Counselor\|The Counselor]].
+- [[blooms/perennial/moonrise/The Doorkeeper\|The Doorkeeper]] had a conversation with [[The Page\|The Page]] and learned about the relationship between power and fear, determining never to feel that fear again by causing it in others.
 
 ## Year 2
 
@@ -30,7 +30,7 @@
 - [[blooms/perennial/moonrise/The Neophyte\|The Neophyte]] witnessed the vast destruction of the jungle by an invading army and [[The Weapon\|The Weapon]], motivating his belief that war preparation is essential to survival.
 - [[The Page\|The Page]] was tasked with retrieving [[The Weapon\|The Weapon]] for [[blooms/perennial/moonrise/The Order\|The Order]] or freeing it if necessary. He was disturbed to find that the weapon was a living, sentient creature and allowed her to go free out of mercy and to protect [[Ned\|Ned]].
 - As a result of freeing [[The Weapon\|The Weapon]], a large portion of the jungle turned to stone. [[The Page\|The Page]] is trying to make the best of this and hopes it can become the site of a new fortress, but he worries it might be a sign of his failure.
-- [[The Page\|The Page]] saw the aftermath of the invasion in the jungle and was shocked by the lack of an organized response from [[The Monarch\|The Monarch]] or [[blooms/perennial/moonrise/The Order\|The Order]], questioning why figures like [[the Knight\|the Knight]] or [[the Guerrilla\|the Guerrilla]] weren't present.
+- [[The Page\|The Page]] saw the aftermath of the invasion in the jungle and was shocked by the lack of an organized response from [[The Monarch\|The Monarch]] or [[blooms/perennial/moonrise/The Order\|The Order]], questioning why figures like [[The Knight\|The Knight]] or [[The Guerrilla\|The Guerrilla]] weren't present.
 
 #### The Lighthouse
 
@@ -75,7 +75,7 @@
 ### Fall - The Grinding Ice
 
 - [[blooms/perennial/moonrise/The Brothers\|The Brothers]] disembarked from the ship.
-- Two undead manned braziers where [[the long road\|the long road]] meets the Shimmering Sea; [[The Shepherd\|The Shepherd]] was waiting for them without his cart.
+- Two undead manned braziers where [[The long road\|The long road]] meets the Shimmering Sea; [[The Shepherd\|The Shepherd]] was waiting for them without his cart.
 - Days into the journey, [[The Strider\|The Strider]] attacked the group during a snowstorm, shooting [[The Shepherd\|The Shepherd]]'s eye out.
   - [[The Page\|The Page]] pursued on horseback into the storm.
   - [[blooms/perennial/moonrise/The Doorkeeper\|The Doorkeeper]] and [[blooms/perennial/moonrise/The Criminal\|The Criminal]] pursued on foot, hunting [[The Strider\|The Strider]].
