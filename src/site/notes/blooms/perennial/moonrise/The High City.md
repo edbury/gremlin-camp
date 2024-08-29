@@ -1,5 +1,5 @@
 ---
-{"aliases":"The High City","date-created":"2024-08-28T15:42","date-modified":"2024-08-29T11:51","dg-publish":true,"tags":["moonrise"],"title":"The High City","dg-path":"moonrise/The High City.md","permalink":"/moonrise/the-high-city/","dgPassFrontmatter":true}
+{"aliases":["The High City"],"date-created":"2024-08-28T15:42","date-modified":"2024-08-29T11:51","dg-publish":true,"tags":["moonrise"],"title":"The High City","dg-path":"moonrise/The High City.md","permalink":"/moonrise/the-high-city/","dgPassFrontmatter":true}
 ---
 
 
