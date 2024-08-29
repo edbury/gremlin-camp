@@ -1,5 +1,5 @@
 ---
-{"aliases":["The High City"],"date-created":"2024-08-28T15:42","date-modified":"2024-08-29T12:01","dg-publish":true,"tags":["moonrise"],"title":"The High City","dg-path":"moonrise/The High City.md","permalink":"/moonrise/the-high-city/","dgPassFrontmatter":true}
+{"aliases":["The High City"],"date-created":"2024-08-28T15:42","date-modified":"2024-08-29T12:03","dg-publish":true,"tags":["moonrise"],"title":"The High City","dg-path":"moonrise/The High City.md","permalink":"/moonrise/the-high-city/","dgPassFrontmatter":true}
 ---
 
 
@@ -20,7 +20,7 @@ Those of noble birth or with a 3D Reputation, along with their retinues, may mov
 
 ## Locations
 
-### Caste Valorous
+### Castle Valorous
 
 An imperious fortress dominates the Highwater skyline, seat of The Benevolent King, Suzerain of all Feudor, he who defends the realm from the forces of chaos that ever threaten to encroach upon the lands of men.
 
