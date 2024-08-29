@@ -1,5 +1,5 @@
 ---
-{"aliases":["The Story So Far"],"date-created":"2024-08-23T14:56","date-modified":"2024-08-29T07:57","dg-publish":true,"tags":["moonrise","recap"],"title":"The Story So Far","dg-path":"moonrise/tssf.md","permalink":"/moonrise/tssf/","dgPassFrontmatter":true}
+{"aliases":["The Story So Far"],"date-created":"2024-08-23T14:56","date-modified":"2024-08-29T08:02","dg-publish":true,"tags":["moonrise","recap"],"title":"The Story So Far","dg-path":"moonrise/tssf.md","permalink":"/moonrise/tssf/","dgPassFrontmatter":true}
 ---
 
 
@@ -21,15 +21,22 @@
 
 #### Brandonsford
 
+- [[The Barber\|The Barber]] survives his trial at the hands of [[The Alchemist\|The Alchemist]] and is granted [[The Thirsty Dish\|The Thirsty Dish]].
+
 #### The Barrow of the Elf King
 
 - [[The Page\|The Page]] and [[blooms/perennial/moonrise/The Doorkeeper\|The Doorkeeper]] investigate an ancient barrow.
 - [[The Page\|The Page]] obtains the [[White Wood Great Sword\|White Wood Great Sword]] from the Elf King.
+- [[blooms/perennial/moonrise/The Doorkeeper\|The Doorkeeper]] pledges to return the [[Lost Brother\|Lost Brother]] to his siblings.
+- [[Sargmotra the Spider\|Sargmotra the Spider]] is killed in her lair.
 - [[Wogwurt\|Wogwurt]] is rescued from the barrow.
 
 ### Fall - The Feudal Countryside
 
 #### The Prison of the Hated Pretender
+
+- [[The Barber\|The Barber]] activates the [[Armillary of the Fatidic Stars\|Armillary of the Fatidic Stars]], bringing War to the Twilight.
+- [[blooms/perennial/moonrise/The Criminal\|The Criminal]] recovers his mantle from the body of his predecessor.
 
 #### Broken Huts
 
