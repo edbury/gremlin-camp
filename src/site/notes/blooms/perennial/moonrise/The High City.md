@@ -1,5 +1,5 @@
 ---
-{"aliases":["The High City"],"date-created":"2024-08-28T15:42","date-modified":"2024-08-29T11:51","dg-publish":true,"tags":["moonrise"],"title":"The High City","dg-path":"moonrise/The High City.md","permalink":"/moonrise/the-high-city/","dgPassFrontmatter":true}
+{"aliases":["The High City"],"date-created":"2024-08-28T15:42","date-modified":"2024-08-29T12:01","dg-publish":true,"tags":["moonrise"],"title":"The High City","dg-path":"moonrise/The High City.md","permalink":"/moonrise/the-high-city/","dgPassFrontmatter":true}
 ---
 
 
@@ -58,7 +58,7 @@ Within these vaulted arcades, the wealthiest of Feudor gather to trade relics an
 
 #### Auction
 
-On any given day, two items from Loot Table 4 and one from Loot Table 5 are shown at auction. Bidding in the auction is a special Duel of Wits: a Resources test plus Will sets the disposition.
+On any given day, two items from `Loot Table 4` and one from `Loot Table 5` are shown at auction. Bidding in the auction is a special Duel of Wits: a Resources test plus Will sets the disposition.
 
 - When determining compromise for the victorious bidder, each hit point lost becomes a +1 Lifestyle cost.
 
@@ -70,7 +70,7 @@ Though tales abound of flying ships and the mythical floating [[Castle Ardmor\|C
 
 ### The Golden Leash
 
-The most exclusive lodging in all of Feudor is reserved for members of the Society of the Golden Leash. Within the walls of this heavily guarded hotel (SG104) compound, members indulge their most unsavory appetites. Security and anonymity are chief concerns; the crimes on display in the Golden Leash would chill the blood of the common folk of Highwater.
+The most exclusive lodging in all of Feudor is reserved for members of the Society of the Golden Leash. Within the walls of this heavily guarded hotel compound, members indulge their most unsavory appetites. Security and anonymity are chief concerns; the crimes on display in the Golden Leash would chill the blood of the common folk of Highwater.
 
 #### Members Only
 
@@ -86,7 +86,7 @@ Once a member, don a mask and robe. Reputation within the compound is tracked se
 
 ### Collegium Magisterium
 
-This tower of wizardry is a place where the noble-born are taught the ancient arts. The Collegium is a beacon of learning, where legends of old are studied and where the gifted are trained to harness the mystical energies that flow through the world.
+Home of the [[Mage's Council\|Mage's Council]], this tower of wizardry is a place where the noble-born are taught the ancient arts. The Collegium is a beacon of learning, where legends of old are studied and where the gifted are trained to harness the mystical energies that flow through the world.
 
 #### Tutelage
 
@@ -99,6 +99,12 @@ Members may treat the Collegium as an Instructor for the purpose of learning new
 The exotic fruit orchards of the gardens yield an unending supply of fresh rations, free to all denizens of the High City. Few of the courtiers ever avail themselves of this bounty, so any scrumping will quickly attract the scrutiny of the Shields. You may hunt game in the open with a license.
 
 **Forage in the Gardens Lifestyle Cost:** +0
+
+### Tower of the Moon
+
+Home of [[blooms/perennial/moonrise/The Order\|The Order]] in Highwater, The Tower of the Moon is the tallest structure in the city. A place of ceremony and ritual, the tower is also an armory and barracks for wardens. Members may stay here for free, as [[blooms/perennial/moonrise/Towns#Inn\|inn]].
+
+**Recover in the Tower Lifestyle Cost:** +0
 
 ### Treasury
 
