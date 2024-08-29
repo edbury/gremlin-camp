@@ -1,5 +1,5 @@
 ---
-{"aliases":["The Story So Far"],"date-created":"2024-08-23T14:56","date-modified":"2024-08-29T08:02","dg-publish":true,"tags":["moonrise","recap"],"title":"The Story So Far","dg-path":"moonrise/tssf.md","permalink":"/moonrise/tssf/","dgPassFrontmatter":true}
+{"aliases":["The Story So Far"],"date-created":"2024-08-23T14:56","date-modified":"2024-08-29T09:05","dg-publish":true,"tags":["moonrise","recap"],"title":"The Story So Far","dg-path":"moonrise/tssf.md","permalink":"/moonrise/tssf/","dgPassFrontmatter":true}
 ---
 
 
@@ -7,11 +7,18 @@
 
 ## Year 1
 
+- [[The Shepherd\|The Shepherd]] gathers [[blooms/perennial/moonrise/The Brothers\|The Brothers]] from across the kingdom.
+
 ### Spring - The Misty Mountains
+
+- [[blooms/perennial/moonrise/The Brothers\|The Brothers]] transport to [[Darkovia\|Darkovia]] via painting.
 
 #### Darkovia
 
-- [[The Page\|The Page]] recovers his mantle from [[The Tsmok\|The Tsmok]].
+- [[Snapping Turtle\|Snapping Turtle]] is encountered in the hamlet of [[Lamb's Nail\|Lamb's Nail]].
+- [[blooms/perennial/moonrise/The Brothers\|The Brothers]] encounter the previous Page, who is eventually decapitated by [[The Page\|The Page]]. This is the first kill of the campaign.
+- [[blooms/perennial/moonrise/The Criminal\|The Criminal]] burns the body and the previous Page's shack.
+- [[The Page\|The Page]] recovers his mantle from [[The Tsmok\|The Tsmok]] in exchange for the eye and hand of his predecessor. This cleanses the Tsmok of its Corruption, and it flees into the Dark.
 
 #### Mistvale
 
