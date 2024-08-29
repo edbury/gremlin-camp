@@ -1,5 +1,5 @@
 ---
-{"aliases":["Templeton"],"date-created":"2024-03-08T10:47","date-modified":"2024-08-28T15:40","dg-publish":true,"tags":["moonrise"],"title":"Templeton","dg-path":"moonrise/Templeton.md","permalink":"/moonrise/templeton/","dgPassFrontmatter":true}
+{"aliases":["Templeton"],"date-created":"2024-03-08T10:47","date-modified":"2024-08-29T11:18","dg-publish":true,"tags":["moonrise"],"title":"Templeton","dg-path":"moonrise/Templeton.md","permalink":"/moonrise/templeton/","dgPassFrontmatter":true}
 ---
 
 
@@ -17,10 +17,10 @@ Blasphemers who disrespect these ancient legends are publicly humiliated in the 
 
 ## Getting Around
 
-- **Dockshore:** On foot; Carriage Ob 1
-- **Questers:** Carriage Ob 2
-- **Scaffolding:** Carriage Ob 2
-- **The High City:** On foot; Carriage Ob 1
+- [[Dockshore\|Dockshore]]: On foot; Carriage Ob 1
+- [[Questers\|Questers]]: Carriage Ob 2
+- [[Scaffolding\|Scaffolding]]: Carriage Ob 2
+- [[blooms/perennial/moonrise/The High City\|The High City]]: On foot; Carriage Ob 1
 
 ## Locations
 
