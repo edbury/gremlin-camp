@@ -9,7 +9,7 @@ Those who arrive in the capital from elsewhere are often surprised by what they 
 
 **Highwater is vast.** Walls wind for leagues around the six districts of the Twilight's biggest city. Just getting across town can be a trial. It gets easier if you know your way around or you've got loot to spend.
 
-**Highwater is opulent.** Favor and resources from the toiling peasants of the [[Countryside\|Countryside]] into the city. In the shadow of the opulent [[The High City\|High City]], you'll find some of the poorest, most miserable wretches in all of the Twilight.
+**Highwater is opulent.** Favor and resources from the toiling peasants of the [[Countryside\|Countryside]] into the city. In the shadow of the opulent [[blooms/perennial/moonrise/The High City\|High City]], you'll find some of the poorest, most miserable wretches in all of the Twilight.
 
 **Highwater is old.** As old as the Beforians, they say. Their ancient vaults, avenues and mansions are still down there, somewhere, in the subcity beneath the tangle of sewer tunnels. Some believe the Beforians themselves still live, decrepit liches going about their strange business beneath the earth, unaware that the world has moved on.
 
@@ -30,7 +30,7 @@ The six districts are:
 - [[Questers\|Questers]]
 - [[Scaffolding\|Scaffolding]]
 - [[blooms/perennial/moonrise/Templeton\|Templeton]]
-- [[The High City\|The High City]]
+- [[blooms/perennial/moonrise/The High City\|The High City]]
 
 ## Points of Entry
 

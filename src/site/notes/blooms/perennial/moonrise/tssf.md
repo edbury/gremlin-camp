@@ -1,5 +1,5 @@
 ---
-{"aliases":["The Story So Far"],"date-created":"2024-08-23T14:56","date-modified":"2024-08-28T14:21","dg-publish":true,"tags":["moonrise","recap"],"title":"The Story So Far","dg-path":"moonrise/tssf.md","permalink":"/moonrise/tssf/","dgPassFrontmatter":true}
+{"aliases":["The Story So Far"],"date-created":"2024-08-23T14:56","date-modified":"2024-08-29T07:57","dg-publish":true,"tags":["moonrise","recap"],"title":"The Story So Far","dg-path":"moonrise/tssf.md","permalink":"/moonrise/tssf/","dgPassFrontmatter":true}
 ---
 
 
@@ -11,6 +11,8 @@
 
 #### Darkovia
 
+- [[The Page\|The Page]] recovers his mantle from [[The Tsmok\|The Tsmok]].
+
 #### Mistvale
 
 ### Summer - The Primeval Forest
@@ -19,6 +21,12 @@
 
 #### Brandonsford
 
+#### The Barrow of the Elf King
+
+- [[The Page\|The Page]] and [[blooms/perennial/moonrise/The Doorkeeper\|The Doorkeeper]] investigate an ancient barrow.
+- [[The Page\|The Page]] obtains the [[White Wood Great Sword\|White Wood Great Sword]] from the Elf King.
+- [[Wogwurt\|Wogwurt]] is rescued from the barrow.
+
 ### Fall - The Feudal Countryside
 
 #### The Prison of the Hated Pretender
@@ -26,6 +34,11 @@
 #### Broken Huts
 
 ### Winter - The Capital
+
+#### The High City
+
+- [[The Page\|The Page]] swears an oath to [[Princess Tersennia gens Benevolentae Providencia\|Princess Tersennia gens Benevolentae Providencia]], ostensibly joining the [[The Sovereign's Guard\|The Sovereign's Guard]].
+- [[The Barber\|The Barber]] swears an oath to [[The Silent Archive\|The Silent Archive]] and becomes a Believer.
 
 #### Templeton
 
