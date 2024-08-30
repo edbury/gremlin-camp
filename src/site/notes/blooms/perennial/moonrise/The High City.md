@@ -1,11 +1,11 @@
 ---
-{"aliases":["The High City"],"date-created":"2024-08-28T15:42","date-modified":"2024-08-29T18:27","dg-publish":true,"tags":["moonrise"],"title":"The High City","dg-path":"moonrise/The High City.md","permalink":"/moonrise/the-high-city/","dgPassFrontmatter":true}
+{"aliases":["The High City"],"date-created":"2024-08-28T15:42","date-modified":"2024-08-29T18:29","dg-publish":true,"tags":["moonrise"],"title":"The High City","dg-path":"moonrise/The High City.md","permalink":"/moonrise/the-high-city/","dgPassFrontmatter":true}
 ---
 
 
 # The High City
 
-Perched atop the majestic cliffs overlooking the lower city, the gleaming white spires of the High City are home to the most esteemed denizens of Highwater: noble houses, trade guilds, and the revered Collegium of Magisters. Here, the finer things in life are within reach for those deemed worthy to walk among the legendary. But with great prestige comes great peril, as those who rise too swiftly may find themselves targets of envious rivals.
+Perched atop the majestic cliffs overlooking the lower city, the gleaming white spires of the High City are home to the most esteemed denizens of Highwater: noble houses, trade guilds, and the revered Tower of Magisters. Here, the finer things in life are within reach for those deemed worthy to walk among the legendary. But with great prestige comes great peril, as those who rise too swiftly may find themselves targets of envious rivals.
 
 ## The Law: Official Business
 
@@ -84,13 +84,13 @@ Once a member, don a mask and robe. Reputation within the compound is tracked se
 
 **Pay Your Dues:** +3 Lifestyle each Winter
 
-### Collegium Magisterium
+### The Tower Magisterium
 
-Home of the [[Mage's Council\|Mage's Council]], this tower of wizardry is a place where the noble-born are taught the ancient arts. The Collegium is a beacon of learning, where legends of old are studied and where the gifted are trained to harness the mystical energies that flow through the world.
+Home of the [[Mage's Council\|Mage's Council]], this tower of wizardry is a place where the noble-born are taught the ancient arts. The Tower is a beacon of learning, where legends of old are studied and where the gifted are trained to harness the mystical energies that flow through the world.
 
 #### Tutelage
 
-Members may treat the Collegium as an Instructor for the purpose of learning new spells and skills.
+Members may treat the Tower as an Instructor for the purpose of learning new spells and skills.
 
 **Seek Training Lifestyle Cost:** +4 per spell or skill
 
