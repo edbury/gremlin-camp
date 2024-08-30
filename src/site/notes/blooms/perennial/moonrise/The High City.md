@@ -1,5 +1,5 @@
 ---
-{"aliases":["The High City"],"date-created":"2024-08-28T15:42","date-modified":"2024-08-29T12:03","dg-publish":true,"tags":["moonrise"],"title":"The High City","dg-path":"moonrise/The High City.md","permalink":"/moonrise/the-high-city/","dgPassFrontmatter":true}
+{"aliases":["The High City"],"date-created":"2024-08-28T15:42","date-modified":"2024-08-29T18:27","dg-publish":true,"tags":["moonrise"],"title":"The High City","dg-path":"moonrise/The High City.md","permalink":"/moonrise/the-high-city/","dgPassFrontmatter":true}
 ---
 
 
@@ -68,19 +68,19 @@ On any given day, two items from `Loot Table 4` and one from `Loot Table 5` are 
 
 Though tales abound of flying ships and the mythical floating [[Castle Ardmor\|Castle Ardmor]], none have been seen in living memory. The Skydock mainly serves the occasional wind-borne beast rider and makes a fine dumping site, emptying onto [[Middenmire\|Middenmire]]'s heap far, far below.
 
-### The Golden Leash
+### The Jade Hand
 
-The most exclusive lodging in all of Feudor is reserved for members of the Society of the Golden Leash. Within the walls of this heavily guarded hotel compound, members indulge their most unsavory appetites. Security and anonymity are chief concerns; the crimes on display in the Golden Leash would chill the blood of the common folk of Highwater.
+The most exclusive lodging in all of Feudor is reserved for members of the Society of the Jade Hand. Within the walls of this heavily guarded hotel compound, members indulge their most unsavory appetites. Security and anonymity are chief concerns; the crimes on display in the Jade Hand would chill the blood of the common folk of Highwater.
 
 #### Members Only
 
-You must pass an Ob 8 Circles test to gain admission to the Leash for the first time. Don't fail.
+You must pass an Ob 8 Circles test to gain admission to the Hand for the first time. Don't fail.
 
-**Enter the Leash Lifestyle Cost:** +4
+**Enter the Hand Lifestyle Cost:** +4
 
 #### Dress Code Strictly Enforce
 
-Once a member, don a mask and robe. Reputation within the compound is tracked separately, beginning at 0. Each year during Winter, test Ritualist Ob 6. Succeed and gain +1 society Reputation and public Reputation, to a maximum of 4. All Reputation bonuses become notorious if you lose membership or betray the confidentiality of the Golden Leash.
+Once a member, don a mask and robe. Reputation within the compound is tracked separately, beginning at 0. Each year during Winter, test Ritualist Ob 6. Succeed and gain +1 society Reputation and public Reputation, to a maximum of 4. All Reputation bonuses become notorious if you lose membership or betray the confidentiality of the Jade Hand.
 
 **Pay Your Dues:** +3 Lifestyle each Winter
 
