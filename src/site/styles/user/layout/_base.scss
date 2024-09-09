@@ -45,6 +45,8 @@ body > aside {
 }
 
 .sidebar {
+  height: calc(100vh - var(--space-l));
+  overflow-y: scroll;
   padding-block-start: var(--space-l);
 }
 
