@@ -1,5 +1,5 @@
 ---
-{"aliases":["Getting SPSS Up and Running","SPSS"],"date-created":"2024-09-12T12:25","date-modified":"2024-09-12T12:53","dg-publish":true,"title":"Getting SPSS Up and Running","permalink":"/pathways/greenhouse/spss/","dgPassFrontmatter":true}
+{"aliases":["Getting SPSS Up and Running","SPSS"],"date-created":"2024-09-12T12:25","date-modified":"2024-09-13T12:24","dg-publish":true,"title":"Getting SPSS Up and Running","permalink":"/pathways/greenhouse/spss/","dgPassFrontmatter":true}
 ---
 
 
@@ -29,6 +29,8 @@
 7. Restart SPSS.
 
 ![](https://i.imgur.com/DB1KVO1.png)
+
+**Note:** Some Mac users may have issues after installing, depending on your OS version. If you SPSS fails to start for you, please check out [[pathways/greenhouse/SPSS Sonoma Fix\|SPSS and Sonoma]].
 
 ## PC Users
 
