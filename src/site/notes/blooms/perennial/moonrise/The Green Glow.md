@@ -1,5 +1,5 @@
 ---
-{"aliases":"The Green Glow, Folk Hero,The Green Glow","date-created":"2024-09-16T14:30","date-modified":"2024-09-16T15:32","location":[["The Capital"]],"tags":["moonrise/person"],"title":"The Green Glow, Folk Hero","dg-publish":true,"dg-path":"moonrise/The Green Glow.md","permalink":"/moonrise/the-green-glow/","dgPassFrontmatter":true}
+{"aliases":["The Green Glow, Folk Hero","Folk Hero","The Green Glow","The Green Glow"],"date-created":"2024-09-16T14:30","date-modified":"2024-09-16T15:32","dg-publish":true,"location":[["The Capital"]],"tags":["moonrise/person"],"title":"The Green Glow, Folk Hero","dg-path":"moonrise/The Green Glow.md","permalink":"/moonrise/the-green-glow/","dgPassFrontmatter":true}
 ---
 
 
