@@ -1,5 +1,5 @@
 ---
-{"aliases":["The Story So Far"],"date-created":"2024-08-23T14:56","date-modified":"2024-08-29T09:05","dg-publish":true,"tags":["moonrise","recap"],"title":"The Story So Far","dg-path":"moonrise/tssf.md","permalink":"/moonrise/tssf/","dgPassFrontmatter":true}
+{"aliases":["The Story So Far"],"date-created":"2024-08-23T14:56","date-modified":"2024-09-14T19:05","dg-publish":true,"tags":["moonrise","recap"],"title":"The Story So Far","dg-path":"moonrise/tssf.md","permalink":"/moonrise/tssf/","dgPassFrontmatter":true}
 ---
 
 
@@ -8,6 +8,11 @@
 ## Year 1
 
 - [[The Shepherd\|The Shepherd]] gathers [[blooms/perennial/moonrise/The Brothers\|The Brothers]] from across the kingdom.
+  - [[The Barber\|The Barber]] from [[The Grinding Ice\|The Grinding Ice]].
+  - [[blooms/perennial/moonrise/The Neophyte\|The Neophyte]] from [[The Sweltering Jungle\|The Sweltering Jungle]].
+  - [[The Peddler\|The Peddler]] from [[The Feudal Countryside\|The Feudal Countryside]].
+  - [[blooms/perennial/moonrise/The Doorkeeper\|The Doorkeeper]] from [[The Primeval Forest\|The Primeval Forest]].
+  - [[The Page\|The Page]] from [[The Misty Mountains\|The Misty Mountains]].
 
 ### Spring - The Misty Mountains
 
@@ -25,6 +30,8 @@
 ### Summer - The Primeval Forest
 
 #### The Sleeping Place of the Feathered Swine
+
+- [[The Barber\|The Barber]] obtains his mantle and kills a nun.
 
 #### Brandonsford
 
@@ -143,3 +150,38 @@
 - [[blooms/perennial/moonrise/The Brothers\|The Brothers]] encounter [[Red Robbie\|Red Robbie]] as they return to [[blooms/perennial/moonrise/The Capital\|The Capital]], and [[blooms/perennial/moonrise/The Doorkeeper\|The Doorkeeper]] is notably frustrated.
 - [[The Acolyte\|The Acolyte]] is waiting for [[blooms/perennial/moonrise/The Brothers\|The Brothers]] upon their arrival and escorts them up the elevator to see [[The Notary\|The Notary]].
 - [[blooms/perennial/moonrise/The Brothers\|The Brothers]] inform [[The Notary\|The Notary]] of their journey since last year, sparing no detail.
+
+#### The Audience
+
+- Just before attending court, [[blooms/perennial/moonrise/The Criminal\|The Criminal]] frees [[blooms/perennial/moonrise/The Peddler's Ghost\|Bolero]] on a summoning failure.
+- [[blooms/perennial/moonrise/The Criminal\|The Criminal]] identifies the target: a wooden whale figurine.
+
+#### Town
+
+- [[blooms/perennial/moonrise/The Brothers\|The Brothers]] stay at the [[Tower of the Moon\|Tower of the Moon]].
+- [[blooms/perennial/moonrise/The Criminal\|The Criminal]], [[The Peddler\|The Peddler]], and [[blooms/perennial/moonrise/The Neophyte\|The Neophyte]] take their oaths.
+- [[blooms/perennial/moonrise/The Doorkeeper\|The Doorkeeper]] seeks out someone in [[blooms/perennial/moonrise/The Order\|The Order]] who can train him in meditation and his duties. [[Mother Zabor\|Mother Zabor]] is assigned to keep an eye on him during the course of Winter. She trains and instructs him.
+- [[blooms/perennial/moonrise/The Neophyte\|The Neophyte]] uses the library in the [[Tower of the Moon\|Tower of the Moon]] to do research:
+  - The scroll case contains a deed to an estate [[blooms/perennial/moonrise/The Peddler's Ghost\|The Peddler's Ghost]] used to own in [[The Primeval Forest\|The Primeval Forest]].
+- [[blooms/perennial/moonrise/The Criminal\|The Criminal]] cases [[The Palace\|The Palace]] and discovers the route the trolley will take, but a getaway route is discovered by the palace guards.
+- [[The Page\|The Page]] seeks out [[Karyl Forge-Priest\|Karyl Forge-Priest]].
+- [[The Page\|The Page]] seeks out [[Gregor Manzak\|Gregor Manzak]].
+- [[blooms/perennial/moonrise/The Neophyte\|The Neophyte]] asks another Neophyte about the [[Alchemist of the Primeval Forest\|Alchemist of the Primeval Forest]].
+- [[The Peddler\|The Peddler]] visits the Archives to discover the location of Marion: Questers
+  - Asks about [[The Tinker\|The Tinker]], fails, and gets the location of the Dwarven Tinker, across the world.
+- [[blooms/perennial/moonrise/The Doorkeeper\|The Doorkeeper]] returns to Briar Rosewood and warns her not to fuck with him.
+- [[blooms/perennial/moonrise/The Neophyte\|The Neophyte]] fails a Research on two questions
+  - What is the figurine? It's incredibly fragile.
+  - What is the glass case? It prevents all magic.
+
+#### The Ball / The Heist
+
+- [[blooms/perennial/moonrise/The Doorkeeper\|The Doorkeeper]], [[The Page\|The Page]], and [[The Peddler\|The Peddler]] attend a great ball in honor of [[The Princess\|The Princess]] taking on her mantle.
+- [[blooms/perennial/moonrise/The Criminal\|The Criminal]] and [[blooms/perennial/moonrise/The Neophyte\|The Neophyte]] set out to steal the wooden whale for [[blooms/perennial/moonrise/The Peddler's Ghost\|The Peddler's Ghost]].
+- [[blooms/perennial/moonrise/The Criminal\|The Criminal]] and [[blooms/perennial/moonrise/The Neophyte\|The Neophyte]] enter through a chimney.
+- [[The Peddler\|The Peddler]] makes the acquaintance of [[blooms/perennial/moonrise/Cristory Orthingtane\|Cristory Orthingtane]] and learns more about the figurine and [[blooms/perennial/moonrise/The Peddler's Ghost\|Bolero's]] estate.
+- [[blooms/perennial/moonrise/The Criminal\|The Criminal]] and [[blooms/perennial/moonrise/The Neophyte\|The Neophyte]] knock out the servants inspecting the trolley… and the servants that come to get it.
+- [[blooms/perennial/moonrise/The Doorkeeper\|The Doorkeeper]] is separate from [[Mother Zabor\|Mother Zabor]] by [[blooms/perennial/moonrise/The Green Glow\|The Green Glow]], who inquires about a robbery.
+- [[blooms/perennial/moonrise/Sergeant Doolish\|Sergeant Doolish]] is knocked out by [[The Page\|The Page]].
+- [[blooms/perennial/moonrise/The Criminal\|The Criminal]] picks the lock on the trolley's glass case and loses her gloves liberating the figurine.
+- Two guards arrive to investigate, and [[blooms/perennial/moonrise/The Criminal\|The Criminal]] causes them to flee with her terrible mask.
