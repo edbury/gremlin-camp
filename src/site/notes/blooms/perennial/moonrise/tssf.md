@@ -179,7 +179,7 @@
 - [[blooms/perennial/moonrise/The Doorkeeper\|The Doorkeeper]], [[The Page\|The Page]], and [[The Peddler\|The Peddler]] attend a great ball in honor of [[The Princess\|The Princess]] taking on her mantle.
 - [[blooms/perennial/moonrise/The Criminal\|The Criminal]] and [[blooms/perennial/moonrise/The Neophyte\|The Neophyte]] set out to steal the wooden whale for [[blooms/perennial/moonrise/The Peddler's Ghost\|The Peddler's Ghost]].
 - [[blooms/perennial/moonrise/The Criminal\|The Criminal]] and [[blooms/perennial/moonrise/The Neophyte\|The Neophyte]] enter through a chimney.
-- [[The Peddler\|The Peddler]] makes the acquaintance of [[Cristory Orthingtane\|Cristory Orthingtane]] and learns more about the figurine and [[blooms/perennial/moonrise/The Peddler's Ghost\|Bolero's]] estate.
+- [[The Peddler\|The Peddler]] makes the acquaintance of [[blooms/perennial/moonrise/Cristory Orthingtane\|Cristory Orthingtane]] and learns more about the figurine and [[blooms/perennial/moonrise/The Peddler's Ghost\|Bolero's]] estate.
 - [[blooms/perennial/moonrise/The Criminal\|The Criminal]] and [[blooms/perennial/moonrise/The Neophyte\|The Neophyte]] knock out the servants inspecting the trolley… and the servants that come to get it.
 - [[blooms/perennial/moonrise/The Doorkeeper\|The Doorkeeper]] is separate from [[Mother Zabor\|Mother Zabor]] by [[blooms/perennial/moonrise/The Green Glow\|The Green Glow]], who inquires about a robbery.
 - [[blooms/perennial/moonrise/Sergeant Doolish\|Sergeant Doolish]] is knocked out by [[The Page\|The Page]].
