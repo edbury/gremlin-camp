@@ -181,7 +181,7 @@
 - [[blooms/perennial/moonrise/The Criminal\|The Criminal]] and [[blooms/perennial/moonrise/The Neophyte\|The Neophyte]] enter through a chimney.
 - [[The Peddler\|The Peddler]] makes the acquaintance of [[Cristory Orthingtane\|Cristory Orthingtane]] and learns more about the figurine and [[blooms/perennial/moonrise/The Peddler's Ghost\|Bolero's]] estate.
 - [[blooms/perennial/moonrise/The Criminal\|The Criminal]] and [[blooms/perennial/moonrise/The Neophyte\|The Neophyte]] knock out the servants inspecting the trolley… and the servants that come to get it.
-- [[blooms/perennial/moonrise/The Doorkeeper\|The Doorkeeper]] is separate from [[Mother Zabor\|Mother Zabor]] by [[The Green Glow\|The Green Glow]], who inquires about a robbery.
-- [[Sergeant Doolish\|Sergeant Doolish]] is knocked out by [[The Page\|The Page]].
+- [[blooms/perennial/moonrise/The Doorkeeper\|The Doorkeeper]] is separate from [[Mother Zabor\|Mother Zabor]] by [[blooms/perennial/moonrise/The Green Glow\|The Green Glow]], who inquires about a robbery.
+- [[blooms/perennial/moonrise/Sergeant Doolish\|Sergeant Doolish]] is knocked out by [[The Page\|The Page]].
 - [[blooms/perennial/moonrise/The Criminal\|The Criminal]] picks the lock on the trolley's glass case and loses her gloves liberating the figurine.
 - Two guards arrive to investigate, and [[blooms/perennial/moonrise/The Criminal\|The Criminal]] causes them to flee with her terrible mask.
