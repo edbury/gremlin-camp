@@ -1,5 +1,5 @@
 ---
-{"aliases":["Sergeant Doolish, Corrupt officer","Corrupt officer","Sergeant Doolish","Sergeant Doolish"],"date-created":"2024-09-16T14:29","date-modified":"2024-09-16T15:30","dg-publish":true,"location":[["The Capital"]],"tags":["moonrise/person"],"title":"Sergeant Doolish, Corrupt officer","dg-path":"moonrise/Sergeant Doolish.md","permalink":"/moonrise/sergeant-doolish/","dgPassFrontmatter":true}
+{"aliases":["Sergeant Doolish, Corrupt officer","Corrupt officer","Sergeant Doolish","Sergeant Doolish"],"date-created":"2024-09-16T14:29","date-modified":"2024-09-16T15:32","dg-publish":true,"location":"[[The Capital]]","tags":["moonrise/person"],"title":"Sergeant Doolish, Corrupt officer","dg-path":"moonrise/Sergeant Doolish.md","permalink":"/moonrise/sergeant-doolish/","dgPassFrontmatter":true}
 ---
 
 
