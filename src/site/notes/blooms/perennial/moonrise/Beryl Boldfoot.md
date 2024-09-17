@@ -1,5 +1,5 @@
 ---
-{"aliases":["Beryl Boldfoot, Ratcatcher General","Beryl Boldfoot","Beryl Boldfoot","Ratcatcher General"],"date-created":"2024-09-16T14:35","date-modified":"2024-09-17T12:45","dg-publish":true,"location":"[[blooms/perennial/moonrise/The Capital\|The Capital]]","tags":["moonrise","moonrise/person"],"title":"Beryl Boldfoot, Ratcatcher General","dg-path":"moonrise/Beryl Boldfoot.md","permalink":"/moonrise/beryl-boldfoot/","dgPassFrontmatter":true}
+{"aliases":["Beryl Boldfoot, Ratcatcher General","Beryl Boldfoot","Beryl Boldfoot","Ratcatcher General"],"date-created":"2024-09-16T14:35","date-modified":"2024-09-17T13:34","dg-publish":true,"tags":["moonrise","moonrise/person"],"title":"Beryl Boldfoot, Ratcatcher General","dg-path":"moonrise/Beryl Boldfoot.md","permalink":"/moonrise/beryl-boldfoot/","dgPassFrontmatter":true}
 ---
 
 
@@ -13,7 +13,7 @@ Spread thin as they are, the guild no longer has the resources to deal with the 
 
 ## Beliefs
 
-1. The Ratcatchers' Guild is essential to [[The Capital]]'s wellbeing, despite the king's disdain.
+1. The Ratcatchers' Guild is essential to [[blooms/perennial/moonrise/The Capital\|The Capital]]'s wellbeing, despite the king's disdain.
 2. I must find a way to combat the growing rat infestation with our limited resources.
 3. [[The Verminomancer\|The Verminomancer]]'s influence must be stopped before it overwhelms the city.
 
