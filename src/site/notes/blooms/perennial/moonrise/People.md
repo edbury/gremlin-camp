@@ -5,13 +5,13 @@
 
 # People
 
-| Person                                                                                          | Location                                                      |
-| ----------------------------------------------------------------------------------------------- | ------------------------------------------------------------- |
-| [[blooms/perennial/moonrise/Tantramati\|Tantramati]]                                         | [[Questers\|Questers]]                                        |
-| [[blooms/perennial/moonrise/Cristory Orthingtane\|Cristory Orthingtane]]                     | [[blooms/perennial/moonrise/The High City\|The High City]] |
-| [[blooms/perennial/moonrise/The Green Glow\|The Green Glow]]                                 | [[blooms/perennial/moonrise/The Capital\|The Capital]]     |
-| [[blooms/perennial/moonrise/Sergeant Doolish\|Sergeant Doolish]]                             | [[blooms/perennial/moonrise/The Capital\|The Capital]]     |
-| [[blooms/perennial/moonrise/Mistress Deniveva d'Inequitius\|Mistress Deniveva d'Inequitius]] | <ul><li><ul><li>The High City</li></ul></li></ul>             |
-| [[blooms/perennial/moonrise/The Peddler's Ghost\|The Peddler's Ghost]]                       | \-                                                            |
+| Person                                                                                          | Location                                                                         |
+| ----------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------- |
+| [[blooms/perennial/moonrise/Tantramati\|Tantramati]]                                         | [[Questers\|Questers]]                                                           |
+| [[blooms/perennial/moonrise/Cristory Orthingtane\|Cristory Orthingtane]]                     | [[blooms/perennial/moonrise/The High City\|The High City]]                    |
+| [[blooms/perennial/moonrise/The Green Glow\|The Green Glow]]                                 | [[blooms/perennial/moonrise/The Capital\|The Capital]]                        |
+| [[blooms/perennial/moonrise/Sergeant Doolish\|Sergeant Doolish]]                             | [[blooms/perennial/moonrise/The Capital\|The Capital]]                        |
+| [[blooms/perennial/moonrise/Mistress Deniveva d'Inequitius\|Mistress Deniveva d'Inequitius]] | <ul><li>[[blooms/perennial/moonrise/The High City.md\\|The High City]]</li></ul> |
+| [[blooms/perennial/moonrise/The Peddler's Ghost\|The Peddler's Ghost]]                       | \-                                                                               |
 
 { .block-language-dataview}
