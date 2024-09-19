@@ -8,6 +8,7 @@
 | Person                                                                                          | Location                                                      |
 | ----------------------------------------------------------------------------------------------- | ------------------------------------------------------------- |
 | [[blooms/perennial/moonrise/Tantramati\|Tantramati]]                                         | [[Questers\|Questers]]                                        |
+| [[blooms/perennial/moonrise/Guildmaster Optimus\|Guildmaster Optimus]]                       | [[Questers\|Questers]]                                        |
 | [[blooms/perennial/moonrise/Mistress Deniveva d'Inequitius\|Mistress Deniveva d'Inequitius]] | [[blooms/perennial/moonrise/The High City\|The High City]] |
 | [[blooms/perennial/moonrise/Cristory Orthingtane\|Cristory Orthingtane]]                     | [[blooms/perennial/moonrise/The High City\|The High City]] |
 | [[blooms/perennial/moonrise/The Green Glow\|The Green Glow]]                                 | [[blooms/perennial/moonrise/The Capital\|The Capital]]     |
