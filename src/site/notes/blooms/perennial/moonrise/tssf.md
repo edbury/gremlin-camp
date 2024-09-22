@@ -80,7 +80,7 @@
 - [[blooms/perennial/moonrise/The Doorkeeper\|The Doorkeeper]] kills [[Ambroise\|Ambroise]] and helps free [[blooms/perennial/moonrise/The Neophyte\|The Neophyte]].
 - [[blooms/perennial/moonrise/The Doorkeeper\|The Doorkeeper]] assists [[blooms/perennial/moonrise/The Neophyte\|The Neophyte]] in becoming a semi-vampire and gains a Dark Passenger from the encounter.
 - [[blooms/perennial/moonrise/The Neophyte\|The Neophyte]] witnesses the vast destruction of the jungle by an invading army and [[The Weapon\|The Weapon]], motivating his belief that war preparation is essential to survival.
-- [[The Page\|The Page]] is disturbed to find that the weapon is a living, sentient creature and allows her to go free out of mercy and to protect [[Ned\|Ned]].
+- [[The Page\|The Page]] is disturbed to find that the weapon is a living, sentient creature and allows her to go free out of mercy and to protect [[The Peddler\|The Peddler]].
 - As a result of freeing [[The Weapon\|The Weapon]], a large portion of the jungle turns to stone. [[The Page\|The Page]] tries to make the best of this and hopes it can become the site of a new fortress, but he worries it might be a sign of his failure.
 - [[The Page\|The Page]] sees the aftermath of the invasion in the jungle and is shocked by the lack of an organized response from [[The Monarch\|The Monarch]] or [[blooms/perennial/moonrise/The Order\|The Order]], questioning why figures like [[The Knight\|The Knight]] or [[The Guerrilla\|The Guerrilla]] aren't present.
 
