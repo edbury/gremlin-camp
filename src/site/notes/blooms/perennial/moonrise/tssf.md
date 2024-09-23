@@ -1,5 +1,5 @@
 ---
-{"aliases":["The Story So Far"],"date-created":"2024-08-23T14:56","date-modified":"2024-09-14T19:05","dg-publish":true,"tags":["moonrise","recap"],"title":"The Story So Far","dg-path":"moonrise/tssf.md","permalink":"/moonrise/tssf/","dgPassFrontmatter":true}
+{"aliases":["The Story So Far"],"date-created":"2024-08-23T14:56","date-modified":"2024-09-23T09:27","dg-publish":true,"tags":["moonrise","recap"],"title":"The Story So Far","dg-path":"moonrise/tssf.md","permalink":"/moonrise/tssf/","dgPassFrontmatter":true}
 ---
 
 
@@ -173,6 +173,19 @@
 - [[blooms/perennial/moonrise/The Neophyte\|The Neophyte]] fails a Research on two questions
   - What is the figurine? It's incredibly fragile.
   - What is the glass case? It prevents all magic.
+
+#### Rats in the Bathhouse
+
+- [[blooms/perennial/moonrise/The Neophyte\|The Neophyte]], [[The Page\|The Page]], and [[The Peddler\|The Peddler]] happened upon the doors of a bathhouse bursting open as nobles fled from an infestation of rats--innumerable rats.
+- [[blooms/perennial/moonrise/Beryl Boldfoot\|Beryl Boldfoot]], Ratcatcher General, arrived on the scene, interrogated the crew, and pressed them into resolving the issue.
+- They found the inside decorated with reliefs dedicated to [[Hygon\|Hygon]]--a god of purity and healing--as well as a living carpet of rats. The pool at the end of the room was clogged with rats.
+- [[blooms/perennial/moonrise/The Brothers\|The Brothers]] discovered the ovens below that heat the waters, and [[The Peddler\|The Peddler]] found a [[Crystal Decanter\|Crystal Decanter]] within. He gave this to [[blooms/perennial/moonrise/The Neophyte\|The Neophyte]] who was unable to determine its power.
+- In the subbasement, they confronted [[The Verminomancer\|The Verminomancer]]. He fled and summoned a Rat Archon--a sentient, swirling pillar of rats.
+- After taking a blow to protect [[The Peddler\|The Peddler]], [[The Page\|The Page]] severed the tails of the Rat Archon, dispersing it entirely.
+- [[blooms/perennial/moonrise/The Neophyte\|The Neophyte]] fueled and worked the hypocaust, unbothered by the acrid smoke it emitted--causing the rats to flee the bathhouse.
+- [[The Page\|The Page]] leapt into the pool but was unable to retrieve [[The Golden Mask\|The Golden Mask]] while [[The Peddler\|The Peddler]] stood by to guard him from the fleeing rats.
+- [[The Peddler\|The Peddler]] succumbed to the smoke and fell unconscious;[[blooms/perennial/moonrise/The Neophyte\|The Neophyte]] carried him from the building after making sure it was clear of rats.
+- Outside, [[blooms/perennial/moonrise/The Neophyte\|The Neophyte]] administered the draught within the [[Crystal Decanter\|Crystal Decanter]] to [[The Peddler\|The Peddler]], who began to glow with gentle light and recovered brilliantly.
 
 #### The Ball / The Heist
 
