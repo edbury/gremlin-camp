@@ -1,5 +1,5 @@
 ---
-{"aliases":["The Story So Far"],"date-created":"2024-08-23T14:56","date-modified":"2024-09-23T09:45","dg-publish":true,"tags":["moonrise","recap"],"title":"The Story So Far","dg-path":"moonrise/tssf.md","permalink":"/moonrise/tssf/","dgPassFrontmatter":true}
+{"aliases":["The Story So Far"],"date-created":"2024-08-23T14:56","date-modified":"2024-09-23T17:54","dg-publish":true,"tags":["moonrise","recap"],"title":"The Story So Far","dg-path":"moonrise/tssf.md","permalink":"/moonrise/tssf/","dgPassFrontmatter":true}
 ---
 
 
@@ -10,7 +10,7 @@
 - [[The Shepherd\|The Shepherd]] gathers [[blooms/perennial/moonrise/The Brothers\|The Brothers]] from across the kingdom.
   - [[The Barber\|The Barber]] from [[The Grinding Ice\|The Grinding Ice]].
   - [[blooms/perennial/moonrise/The Neophyte\|The Neophyte]] from [[The Sweltering Jungle\|The Sweltering Jungle]].
-  - [[The Peddler\|The Peddler]] from [[The Feudal Countryside\|The Feudal Countryside]].
+  - [[The Peddler\|The Peddler]] from [[blooms/perennial/moonrise/The Feudal Countryside\|The Feudal Countryside]].
   - [[blooms/perennial/moonrise/The Doorkeeper\|The Doorkeeper]] from [[blooms/perennial/moonrise/The Primeval Forest\|The Primeval Forest]].
   - [[The Page\|The Page]] from [[The Misty Mountains\|The Misty Mountains]].
 
@@ -176,16 +176,16 @@
 
 #### Rats in the Bathhouse
 
-- [[blooms/perennial/moonrise/The Neophyte\|The Neophyte]], [[The Page\|The Page]], and [[The Peddler\|The Peddler]] happened upon the doors of a bathhouse bursting open as nobles fled from an infestation of rats--innumerable rats.
-- [[blooms/perennial/moonrise/Beryl Boldfoot\|Beryl Boldfoot]], Ratcatcher General, arrived on the scene, interrogated the crew, and pressed them into resolving the issue.
-- They found the inside decorated with reliefs dedicated to [[Hygon\|Hygon]]--a god of purity and healing--as well as a living carpet of rats. The pool at the end of the room was clogged with rats.
-- [[blooms/perennial/moonrise/The Brothers\|The Brothers]] discovered the ovens below that heat the waters, and [[The Peddler\|The Peddler]] found a [[Crystal Decanter\|Crystal Decanter]] within. He gave this to [[blooms/perennial/moonrise/The Neophyte\|The Neophyte]] who was unable to determine its power.
-- In the subbasement, they confronted [[The Verminomancer\|The Verminomancer]]. He fled and summoned a Rat Archon--a sentient, swirling pillar of rats.
-- After taking a blow to protect [[The Peddler\|The Peddler]], [[The Page\|The Page]] severed the tails of the Rat Archon, dispersing it entirely.
-- [[blooms/perennial/moonrise/The Neophyte\|The Neophyte]] fueled and worked the hypocaust, unbothered by the acrid smoke it emitted--causing the rats to flee the bathhouse.
-- [[The Page\|The Page]] leapt into the pool but was unable to retrieve [[The Golden Mask\|The Golden Mask]] while [[The Peddler\|The Peddler]] stood by to guard him from the fleeing rats.
-- [[The Peddler\|The Peddler]] succumbed to the smoke and fell unconscious;[[blooms/perennial/moonrise/The Neophyte\|The Neophyte]] carried him from the building after making sure it was clear of rats.
-- Outside, [[blooms/perennial/moonrise/The Neophyte\|The Neophyte]] administered the draught within the [[Crystal Decanter\|Crystal Decanter]] to [[The Peddler\|The Peddler]], who began to glow with gentle light and recovered brilliantly.
+- [[blooms/perennial/moonrise/The Neophyte\|The Neophyte]], [[The Page\|The Page]], and [[The Peddler\|The Peddler]] happen upon the doors of a bathhouse bursting open as nobles flee from an infestation of rats--innumerable rats.
+- [[blooms/perennial/moonrise/Beryl Boldfoot\|Beryl Boldfoot]], Ratcatcher General, arrives on the scene, interrogates the crew, and presses them into resolving the issue.
+- They find the inside decorated with reliefs dedicated to [[Hygon\|Hygon]]--a god of purity and healing--as well as a living carpet of rats. The pool at the end of the room is clogged with rats.
+- [[blooms/perennial/moonrise/The Brothers\|The Brothers]] discover the hypocaust below that heats the waters, and [[The Peddler\|The Peddler]] finds a [[Crystal Decanter\|Crystal Decanter]] within. He gives this to [[blooms/perennial/moonrise/The Neophyte\|The Neophyte]] who is unable to determine its power.
+- In the subbasement, they confront [[The Verminomancer\|The Verminomancer]]. He flees and summons a Rat Archon--a sentient, swirling pillar of rats.
+- After taking a blow to protect [[The Peddler\|The Peddler]], [[The Page\|The Page]] severs the tails of the Rat Archon, dispersing it entirely.
+- [[blooms/perennial/moonrise/The Neophyte\|The Neophyte]] fuels and works the hypocaust, unbothered by the acrid smoke it emits--causing the rats to flee the bathhouse.
+- [[The Page\|The Page]] leaps into the pool but is unable to retrieve [[The Golden Mask\|The Golden Mask]] while [[The Peddler\|The Peddler]] stands by to guard him from the fleeing rats.
+- [[The Peddler\|The Peddler]] succumbs to the smoke and falls unconscious;[[blooms/perennial/moonrise/The Neophyte\|The Neophyte]] carries him from the building after making sure it is clear of rats.
+- Outside, [[blooms/perennial/moonrise/The Neophyte\|The Neophyte]] administers the draught within the [[Crystal Decanter\|Crystal Decanter]] to [[The Peddler\|The Peddler]], who begins to glow with gentle light and recovers brilliantly.
 
 #### The Ball / The Heist
 
@@ -196,5 +196,8 @@
 - [[blooms/perennial/moonrise/The Criminal\|The Criminal]] and [[blooms/perennial/moonrise/The Neophyte\|The Neophyte]] knock out the servants inspecting the trolley… and the servants that come to get it.
 - [[blooms/perennial/moonrise/The Doorkeeper\|The Doorkeeper]] is separate from [[Mother Zabor\|Mother Zabor]] by [[blooms/perennial/moonrise/The Green Glow\|The Green Glow]], who inquires about a robbery.
 - [[blooms/perennial/moonrise/Sergeant Doolish\|Sergeant Doolish]] is knocked out by [[The Page\|The Page]].
+- On the verge of doing something more drastic to tell [[The Monarch\|The Monarch]] what he knows about [[The Non-Mantled Prisoner\|The Non-Mantled Prisoner]], [[blooms/perennial/moonrise/The Doorkeeper\|The Doorkeeper]] is approached by [[Mistress Deniveva d’Inequitus\|Mistress Deniveva d’Inequitus]].
+- She gives [[blooms/perennial/moonrise/The Doorkeeper\|The Doorkeeper]] a [[Very Small Gold Key\|Very Small Gold Key]].
+- In exchange for a future favor, [[blooms/perennial/moonrise/The Doorkeeper\|The Doorkeeper]] tells her everything he knows with the guarantee that she will tell all of it to [[The Monarch\|The Monarch]] and only [[The Monarch\|The Monarch]].
 - [[blooms/perennial/moonrise/The Criminal\|The Criminal]] picks the lock on the trolley's glass case and loses her gloves liberating the figurine.
 - Two guards arrive to investigate, and [[blooms/perennial/moonrise/The Criminal\|The Criminal]] causes them to flee with her terrible mask.
