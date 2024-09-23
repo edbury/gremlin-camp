@@ -1,5 +1,5 @@
 ---
-{"aliases":["the Brothers","The Brothers"],"date-created":"2024-08-23T15:14","date-modified":"2024-09-23T09:33","dg-publish":true,"tags":["moonrise"],"title":"The Brothers","dg-path":"moonrise/The Brothers.md","permalink":"/moonrise/the-brothers/","dgPassFrontmatter":true}
+{"aliases":["the Brothers","The Brothers"],"date-created":"2024-08-23T15:14","date-modified":"2024-09-23T09:34","dg-publish":true,"tags":["moonrise"],"title":"The Brothers","dg-path":"moonrise/The Brothers.md","permalink":"/moonrise/the-brothers/","dgPassFrontmatter":true}
 ---
 
 
@@ -44,22 +44,29 @@
 </div></div>
 
 
-## The Doorkeeper
 
-### Beliefs
+<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/moonrise/the-doorkeeper/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
+
+
+
+
+
+# The Doorkeeper
+
+## Beliefs
 
 1. I am Warden to be feared.
 2. I must discover the power of my key.
 3. I will hunt the tardy knight and deliver him to his brothers in the barrow of the elf king.
 4. Above all else, I am a servant of the Order.
 
-### Instincts
+## Instincts
 
 1. When not indoors, keep an arrow nocked.
 2. Always watch for movement in the shadows.
 3. Always tell the truth. The stories say so, now I know why.
 
-### Traits
+## Traits
 
 - Lunatic
 - Savage Consequences
@@ -69,6 +76,10 @@
 - Key to the Doors
 - Rat Speak
 - Single-Minded
+
+
+</div></div>
+
 
 ## The Neophyte
 
