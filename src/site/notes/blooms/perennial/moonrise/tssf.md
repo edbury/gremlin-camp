@@ -11,7 +11,7 @@
   - [[The Barber\|The Barber]] from [[The Grinding Ice\|The Grinding Ice]].
   - [[blooms/perennial/moonrise/The Neophyte\|The Neophyte]] from [[The Sweltering Jungle\|The Sweltering Jungle]].
   - [[The Peddler\|The Peddler]] from [[The Feudal Countryside\|The Feudal Countryside]].
-  - [[blooms/perennial/moonrise/The Doorkeeper\|The Doorkeeper]] from [[The Primeval Forest\|The Primeval Forest]].
+  - [[blooms/perennial/moonrise/The Doorkeeper\|The Doorkeeper]] from [[+/The Primeval Forest\|The Primeval Forest]].
   - [[The Page\|The Page]] from [[The Misty Mountains\|The Misty Mountains]].
 
 ### Spring - The Misty Mountains
@@ -162,7 +162,7 @@
 - [[blooms/perennial/moonrise/The Criminal\|The Criminal]], [[The Peddler\|The Peddler]], and [[blooms/perennial/moonrise/The Neophyte\|The Neophyte]] take their oaths.
 - [[blooms/perennial/moonrise/The Doorkeeper\|The Doorkeeper]] seeks out someone in [[blooms/perennial/moonrise/The Order\|The Order]] who can train him in meditation and his duties. [[Mother Zabor\|Mother Zabor]] is assigned to keep an eye on him during the course of Winter. She trains and instructs him.
 - [[blooms/perennial/moonrise/The Neophyte\|The Neophyte]] uses the library in the [[Tower of the Moon\|Tower of the Moon]] to do research:
-  - The scroll case contains a deed to an estate [[blooms/perennial/moonrise/The Peddler's Ghost\|The Peddler's Ghost]] used to own in [[The Primeval Forest\|The Primeval Forest]].
+  - The scroll case contains a deed to an estate [[blooms/perennial/moonrise/The Peddler's Ghost\|The Peddler's Ghost]] used to own in [[+/The Primeval Forest\|The Primeval Forest]].
 - [[blooms/perennial/moonrise/The Criminal\|The Criminal]] cases [[The Palace\|The Palace]] and discovers the route the trolley will take, but a getaway route is discovered by the palace guards.
 - [[The Page\|The Page]] seeks out [[Karyl Forge-Priest\|Karyl Forge-Priest]].
 - [[The Page\|The Page]] seeks out [[Gregor Manzak\|Gregor Manzak]].
