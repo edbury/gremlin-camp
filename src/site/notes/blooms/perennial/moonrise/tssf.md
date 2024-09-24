@@ -12,7 +12,7 @@
   - [[blooms/perennial/moonrise/The Neophyte\|The Neophyte]] from [[blooms/perennial/moonrise/The Sweltering Jungle\|The Sweltering Jungle]].
   - [[The Peddler\|The Peddler]] from [[blooms/perennial/moonrise/The Feudal Countryside\|The Feudal Countryside]].
   - [[blooms/perennial/moonrise/The Doorkeeper\|The Doorkeeper]] from [[blooms/perennial/moonrise/The Primeval Forest\|The Primeval Forest]].
-  - [[The Page\|The Page]] from [[The Misty Mountains\|The Misty Mountains]].
+  - [[The Page\|The Page]] from [[blooms/perennial/moonrise/The Misty Mountains\|The Misty Mountains]].
 
 ### Spring - The Misty Mountains
 
