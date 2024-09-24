@@ -1,5 +1,5 @@
 ---
-{"aliases":["The Story So Far"],"date-created":"2024-08-23T14:56","date-modified":"2024-09-23T17:54","dg-publish":true,"tags":["moonrise","recap"],"title":"The Story So Far","dg-path":"moonrise/tssf.md","permalink":"/moonrise/tssf/","dgPassFrontmatter":true}
+{"aliases":["The Story So Far"],"date-created":"2024-08-23T14:56","date-modified":"2024-09-23T18:15","dg-publish":true,"tags":["moonrise","recap"],"title":"The Story So Far","dg-path":"moonrise/tssf.md","permalink":"/moonrise/tssf/","dgPassFrontmatter":true}
 ---
 
 
@@ -9,6 +9,7 @@
 
 - [[The Shepherd\|The Shepherd]] gathers [[blooms/perennial/moonrise/The Brothers\|The Brothers]] from across the kingdom.
   - [[The Barber\|The Barber]] from [[The Grinding Ice\|The Grinding Ice]].
+  - [[blooms/perennial/moonrise/The Criminal\|The Criminal]] from [[+/The Scorching Desert\|The Scorching Desert]].
   - [[blooms/perennial/moonrise/The Neophyte\|The Neophyte]] from [[blooms/perennial/moonrise/The Sweltering Jungle\|The Sweltering Jungle]].
   - [[The Peddler\|The Peddler]] from [[blooms/perennial/moonrise/The Feudal Countryside\|The Feudal Countryside]].
   - [[blooms/perennial/moonrise/The Doorkeeper\|The Doorkeeper]] from [[blooms/perennial/moonrise/The Primeval Forest\|The Primeval Forest]].
