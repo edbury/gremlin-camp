@@ -9,7 +9,7 @@
 
 - [[The Shepherd\|The Shepherd]] gathers [[blooms/perennial/moonrise/The Brothers\|The Brothers]] from across the kingdom.
   - [[The Barber\|The Barber]] from [[The Grinding Ice\|The Grinding Ice]].
-  - [[blooms/perennial/moonrise/The Neophyte\|The Neophyte]] from [[The Sweltering Jungle\|The Sweltering Jungle]].
+  - [[blooms/perennial/moonrise/The Neophyte\|The Neophyte]] from [[blooms/perennial/moonrise/The Sweltering Jungle\|The Sweltering Jungle]].
   - [[The Peddler\|The Peddler]] from [[blooms/perennial/moonrise/The Feudal Countryside\|The Feudal Countryside]].
   - [[blooms/perennial/moonrise/The Doorkeeper\|The Doorkeeper]] from [[blooms/perennial/moonrise/The Primeval Forest\|The Primeval Forest]].
   - [[The Page\|The Page]] from [[The Misty Mountains\|The Misty Mountains]].
