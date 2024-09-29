@@ -136,7 +136,7 @@
 
 1. I've gotta find out the story behind this Whitewood Sword. If it's important enough for the King to have similar gear, it might be….LEGENDARY.
 2. I'm gonna make the Knight and his clique (the Squire and the Herald, afaik) regret giving me that beating.
-3. I'm going to see to it that the events of the Princess's Ball result in more power for her, and for me.
+3. I'm going to see to it that the events of the Princess's Ball result in more power for me.
 4. My allegiance to Princess Providence is unwavering and absolute; through her wisdom, I shall find my path, and in her service, I dedicate my purpose. (Her guidance is that the ultimate virtue is…POWER. Never reveal her secret about The Prisoner…but why is she harboring him?)
 
 ## Instincts
