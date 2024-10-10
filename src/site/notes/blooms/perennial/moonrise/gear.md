@@ -1,5 +1,5 @@
 ---
-{"aliases":["gear","Gear"],"date-created":"2023-11-29T18:30","date-modified":"2024-07-15T19:58","dg-publish":true,"tags":["moonrise"],"title":"Gear","dg-path":"moonrise/gear.md","permalink":"/moonrise/gear/","dgPassFrontmatter":true}
+{"aliases":["gear","Gear"],"date-created":"2023-11-29T18:30","date-modified":"2024-10-10T14:14","dg-publish":true,"tags":["moonrise"],"title":"Gear","dg-path":"moonrise/gear.md","permalink":"/moonrise/gear/","dgPassFrontmatter":true}
 ---
 
 
@@ -43,6 +43,8 @@
 | Elven plated mail                   | 9   | worn/torso 1           |        |
 | Gambeson                            | 2   | worn/torso 1           |        |
 | Great helm                          | 5   | worn/head              |        |
+| Hide                                | 2   | worn/torso 2           | 0      |
+| Leather Bracers                     | 1   | worn/hands 2           | 1      |
 | Poor quality bascinet               | 3   | worn/head              |        |
 | Poor quality reinforced leather     | 2   | worn/torso 1           |        |
 | Poor quality spangenhelm            | 2   | worn/head              |        |
@@ -58,49 +60,112 @@
 
 Worn under chain or plate, an arming jacket acts as leather armor once the chain or plate is damaged. When worn under chain, it is worn/torso 1 (in addition to the chain armor). If worn under plate, there is no additional inventory requirement. Must be custom-made for the bearer and counts as leather armor for restrictions.
 
+### Hide Armor
+
+Thick armor made from pelts, skins, shells or scales. Offers protection similar to light mail without the movement penalties; however, spears, bolts and arrows ignore the armor. In warm weather, wearing hide armor counts as a fatigue factor.
+
+### Leather Bracers
+
+Thick leather bands that serve to protect the wearer's wrists and forearms from injury. When used, roll 1d6: on 4-6, the bracers also prevent you from being disarmed.
+
+Leather bracers may only be used once per conflict.
+
 ## Arms
 
-| Item           | Ob  | Slots                                | Rarity |
-| -------------- | --- | ------------------------------------ | ------ |
-| Arming Sword   | 3   | carried 1, belt 1; wielded 1         |        |
-| Arquebus       |     |                                      | 2      |
-| Axe†           | 2   | carried 1; wielded 2                 | 0      |
-| Crossbow       | 4   | carried 2, belt 1; wielded 2         | 2      |
-| Daggerº        | 5   | carried 1, belt 1; wielded 1         | 2      |
-| Dirk           | 3   | carried 1, belt 1; wielded 1         | 1      |
-| Dwarven arms   | 6   | varies                               | 2      |
-| Dwarven shield | 7   | carried 1, worn/torso 1; wielded 1   | 2      |
-| Elven bow      | 6   | quiver 1, carried 1; wielded 2       | 2      |
-| Footman's Axe  | 3   | carried 1; wielded 2                 | 1      |
-| Great Bow      | 4   | carried 1; wielded 2                 | 2      |
-| Great Maceº    | 5   | carried 1; wielded 2                 | 2      |
-| Hammer         | 3   | carried 1; wielded 2                 | 2      |
-| Hammerº        | 5   | carried 1; wielded 2                 | 2      |
-| Hatchet        | 3   | belt 1, pack 2, carried 1; wielded 1 | 0      |
-| Heavy Crossbow |     | carried 2; wielded 2                 | 2      |
-| Hunting Bow    | 3   | quiver 1, carried 1; wielded 2       | 1      |
-| Knife, shiv†   | 2   | carried 1, belt 1; wielded 1         | 0      |
-| Lance™         | 3   | carried 1; wielded 1                 | 1      |
-| Light Axe      | 3   | carried 1, belt 1; wielded 1         | 1      |
-| Long Sword     | 3   | carried 1, belt 1; wielded 1         | 1      |
-| Long Swordº    | 5   | carried 1, belt 1; wielded 1         | 2      |
-| Mace           | 3   | carried 1, belt 1; wielded 1         | 2      |
-| Pistol         |     |                                      | 2      |
-| Polearm        | 3   | carried 1; wielded 2                 | 2      |
-| Polearmº       | 5   | carried 1; wielded 2                 | 2      |
-| Short Spear    | 3   | carried 1; wielded 1                 | 1      |
-| Short Sword    | 3   | carried 1, belt 1; wielded 1         | 1      |
-| Spear          | 3   | carried 1; wielded 2                 | 1      |
-| Spearº         | 5   | carried 1; wielded 2                 | 2      |
-| Spear†         | 2   | carried 1; wielded 2                 | 0      |
-| Sweet Axeº     | 5   | carried 1; wielded 2                 | 2      |
-| Sword†         | 2   | carried 1, belt 1; wielded 1         | 0      |
+| Item            | Ob  | Slots                                  | Rarity |
+| --------------- | --- | -------------------------------------- | ------ |
+| Arming Sword    | 3   | carried 1, belt 1; wielded 1           |        |
+| Arquebus        |     |                                        | 2      |
+| Axe†            | 2   | carried 1; wielded 2                   | 0      |
+| Bola            | 1   | carried 1, belt 1; wielded 1           | 1      |
+| Buckler         | 1   | carried 1; belt 1                      | 0      |
+| Crossbow        | 4   | carried 2, belt 1; wielded 2           | 2      |
+| Daggerº         | 5   | carried 1, belt 1; wielded 1           | 2      |
+| Dirk            | 3   | carried 1, belt 1; wielded 1           | 1      |
+| Dwarven arms    | 6   | varies                                 | 2      |
+| Dwarven shield  | 7   | carried 1, worn/torso 1; wielded 1     | 2      |
+| Elven bow       | 6   | quiver 1, carried 1; wielded 2         | 2      |
+| Footman's Axe   | 3   | carried 1; wielded 2                   | 1      |
+| Great Bow       | 4   | carried 1; wielded 2                   | 2      |
+| Great Maceº     | 5   | carried 1; wielded 2                   | 2      |
+| Hammer          | 3   | carried 1; wielded 2                   | 2      |
+| Hammerº         | 5   | carried 1; wielded 2                   | 2      |
+| Harpoon         | 2   | carried 2; wielded 2                   | 2      |
+| Hatchet         | 3   | belt 1, pack 2, carried 1; wielded 1   | 0      |
+| Heavy Crossbow  |     | carried 2; wielded 2                   | 2      |
+| Hunting Bow     | 3   | quiver 1, carried 1; wielded 2         | 1      |
+| Knife, shiv†    | 2   | carried 1, belt 1; wielded 1           | 0      |
+| Lance™          | 3   | carried 1; wielded 1                   | 1      |
+| Light Axe       | 3   | carried 1, belt 1; wielded 1           | 1      |
+| Long Sword      | 3   | carried 1, belt 1; wielded 1           | 1      |
+| Long Swordº     | 5   | carried 1, belt 1; wielded 1           | 2      |
+| Mace            | 3   | carried 1, belt 1; wielded 1           | 2      |
+| Pistol          |     |                                        | 2      |
+| Polearm         | 3   | carried 1; wielded 2                   | 2      |
+| Polearmº        | 5   | carried 1; wielded 2                   | 2      |
+| Rapier          | 3   | carried 1; belt 1                      | 1      |
+| Short Spear     | 3   | carried 1; wielded 1                   | 1      |
+| Short Sword     | 3   | carried 1, belt 1; wielded 1           | 1      |
+| Sickle          | 1   | carried 1, belt 1; wielded 1           | 0      |
+| Spear           | 3   | carried 1; wielded 2                   | 1      |
+| Spearº          | 5   | carried 1; wielded 2                   | 2      |
+| Spear†          | 2   | carried 1; wielded 2                   | 0      |
+| Staff           | 1   | carried 1; wielded 2                   | 0      |
+| Stiletto        | 5   | carried 1; belt 1                      | 2      |
+| Sweet Axeº      | 5   | carried 1; wielded 2                   | 2      |
+| Sword†          | 2   | carried 1, belt 1; wielded 1           | 0      |
+| Throwing Blades | 3   | carried 1 (3), belt 1 (3), torso 1 (3) | 1      |
+| Whip            | 1   | carried 1; belt 1; wielded 1           | 2      |
 
 † Poor quality arms—Using poor quality arms incurs a +1 Ob penalty to all combat tests using the weapon.
 
 º Superior quality arms—Use the superior quality weapon stats.
 
 ™ Must be mounted and have Mounted Combat Training.
+
+### Bola
+
+A simple hunting weapon used to entangle game or impede assailants. A successful test with a bola also grants impedes (+1 Ob) and immobilizes the victim. Unlike a sling, the bola itself is thrown; the wielder is disarmed until a new weapon is equipped. Bolas do not cause damage but grant +2D in Range and Cover maneuvers.
+
+### Buckler
+
+A small, round shield that doesn't impede your opportunity to attack.
+
+### Harpoon
+
+A large hunting spear used to capture large aquatic beasts. The harpoon lodges itself into its target's hide, then the barbed
+
+tip detaches from the weapon's shaft. A line attached to the barb is often employed, allowing the thrower to impede
+
+movement or drag the target to shore. Frostfolk use these weapons when fishing for large prey, whales or even sea serpents.
+
+**Special:** Harpoons may be thrown short distances. On a hit, the target is impeded for as long as the thrower is holding onto the line—the harpoon cannot be used again that conflict. The target will remain impeded until the thrower drops the line or is disarmed.
+
+### Rapier
+
+An ornate, thrusting sword made to pierce leather and hide. Unlike a sword, it cannot grant a bonus to defense.
+
+### Sickle
+
+Sickles are improvised weapons. Characters with tools for Peasant skills may carry a sickle as part of their skill tools without using a pack slot.
+
+### Staff
+
+This simple staff is easy to fabricate, inexpensive to purchase and inordinately useful as a tool or as an improvised weapon.
+
+### Stiletto
+
+A thrusting dagger designed to slide between ribs or through gaps in armor. A stiletto may be concealed on the body.
+
+Attacks against an impeded, unarmed, or otherwise helpless opponent ignore armor.
+
+### Throwing Blades
+
+Throwing blades may be spikes, rings, stars or darts. One blade may be thrown per action. Unless you have multiple blades in hand, you're disarmed until you wield another weapon. Some blades may be disguised as clothing if you have slots available—a razor-edged belt buckle, a pair of spiky earrings or sharp hair pins.
+
+### Whip
+
+The whip is a long, braided leather thong with a wooden handle. A herding tool, it may also be used to intimidate wild animals and cause pain and trauma when striking unarmored or lightly armored opponents. A whip may be used like a rope swing to traverse hazards provided there's an anchoring point overhead. Using a whip turns an independent test to a versus test against melee weapons. It is less effective against opponents wearing armor—whips do no damage to armor or helmets.
 
 ## Clothing
 
@@ -425,8 +490,10 @@ A tinderbox allows your character to light a fire without making a test under no
 | Candle lantern  | 2   | carried 1 or pack 2          | 1      |
 | Candle          | 1   | carried 1 or pack 1 for four | 0      |
 | Covered lantern | 4   | carried 1 or pack 2          | 1      |
+| Ghost Lantern   | 1/2 | carried 1                    | 2      |
 | Lantern         | 3   | carried 1 or pack 2          | 1      |
 | Long torch      | 2   | carried 2 each, set of two   | 1      |
+| Rushlights      | 1   | carried 1; pack 1(6)         | 1      |
 | Torch           | 2   | carried 1 or pack 1 for four | 1      |
 
 ### Candle Lantern
@@ -441,9 +508,19 @@ A covered lantern houses a better wick and reservoir for its fuel oil. Covered l
 
 It provides light for three characters and dim light for three others, and its oil reservoir burns for four tests rather than three.
 
+### Ghost Lantern
+
+Ghost lanterns are made from paper or silk and lit by a single candle rather than a flask of oil. They serve to protect lit candles from wind and rain. A candle placed inside a ghost lantern cannot be snuffed out or blown out at the GM's whim.
+
+Paper lanterns shield candles from wind while the more expensive, more durable cloth lanterns safeguard candles from both wind and rain. Ghost lanterns may be hung on the end of a staff or pole while traveling.
+
 ### Long Torch
 
 A long torch is the length of a staff and must be carried with two hands. It provides light for two people (and dim light for two more) for four tests. They are sold in sets of two.
+
+### Rushlights
+
+Rushlights are bundles of dried reeds soaked in animal fat. They burn like candles but burn for 1d6 turns. If 1-2 is rolled, the rushlight provides light for an additional person. If 5-6 is rolled, it only provides dim light.
 
 ## Magical and Religious Equipment
 
@@ -459,11 +536,11 @@ A long torch is the length of a staff and must be carried with two hands. It pro
 
 ## Musical Instruments
 
-| Item   | Ob  | Slots                         | Rarity |
-| ------ | --- | ----------------------------- | ------ |
-| Fiddle | 3   | carried 1 or pack 3; played 2 | 1      |
-| Flute  | 2   | carried 1 or pack 1; played 2 | 0      |
-| Harp   | 4   | carried 1 or pack 3; played 2 | 2      |
+| Item   | Ob  | Slots                                  | Rarity |
+| ------ | --- | -------------------------------------- | ------ |
+| Fiddle | 3   | carried 1 or pack 3; torso 1; played 2 | 1      |
+| Flute  | 2   | carried 1 or pack 1; torso 1; played 2 | 0      |
+| Harp   | 4   | carried 1 or pack 3; torso 1; played 2 | 2      |
 
 ## Misc
 
