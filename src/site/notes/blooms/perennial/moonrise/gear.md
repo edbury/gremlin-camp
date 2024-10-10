@@ -1,5 +1,5 @@
 ---
-{"aliases":["gear","Gear"],"date-created":"2023-11-29T18:30","date-modified":"2024-10-10T14:14","dg-publish":true,"tags":["moonrise"],"title":"Gear","dg-path":"moonrise/gear.md","permalink":"/moonrise/gear/","dgPassFrontmatter":true}
+{"aliases":["gear","Gear"],"date-created":"2023-11-29T18:30","date-modified":"2024-10-10T16:51","dg-publish":true,"tags":["moonrise"],"title":"Gear","dg-path":"moonrise/gear.md","permalink":"/moonrise/gear/","dgPassFrontmatter":true}
 ---
 
 
@@ -39,6 +39,7 @@
 | Barding, leather or quilted         | 3   | mount/worn 1 or pack 3 |        |
 | Barding, plated leather or lamellar | 4   | mount/worn 1           |        |
 | Barding, plated mail                | 6   | mount/worn 2           |        |
+| Breastplate                         | 3   | worn/torso 2           | 1      |
 | Dwarven mail                        | 10  | worn/torso 2           |        |
 | Elven plated mail                   | 9   | worn/torso 1           |        |
 | Gambeson                            | 2   | worn/torso 1           |        |
@@ -60,6 +61,12 @@
 
 Worn under chain or plate, an arming jacket acts as leather armor once the chain or plate is damaged. When worn under chain, it is worn/torso 1 (in addition to the chain armor). If worn under plate, there is no additional inventory requirement. Must be custom-made for the bearer and counts as leather armor for restrictions.
 
+### Breastplate
+
+When targeted by a successful attack, you may negate the damage and damage your armor *or* roll a 1d6. On a 4+ you negate the damage and your armor is unharmed. On a roll of 1-3 you fail to reduce damage.
+
+Against a mace, war hammer, or great club, you must roll 1d6 to determine if your armor protects you. These weapons always damage your armor. Wearing a breastplate causes fatigue unless you have the Armor Training.
+
 ### Hide Armor
 
 Thick armor made from pelts, skins, shells or scales. Offers protection similar to light mail without the movement penalties; however, spears, bolts and arrows ignore the armor. In warm weather, wearing hide armor counts as a fatigue factor.
@@ -72,56 +79,63 @@ Leather bracers may only be used once per conflict.
 
 ## Arms
 
-| Item            | Ob  | Slots                                  | Rarity |
-| --------------- | --- | -------------------------------------- | ------ |
-| Arming Sword    | 3   | carried 1, belt 1; wielded 1           |        |
-| Arquebus        |     |                                        | 2      |
-| Axe†            | 2   | carried 1; wielded 2                   | 0      |
-| Bola            | 1   | carried 1, belt 1; wielded 1           | 1      |
-| Buckler         | 1   | carried 1; belt 1                      | 0      |
-| Crossbow        | 4   | carried 2, belt 1; wielded 2           | 2      |
-| Daggerº         | 5   | carried 1, belt 1; wielded 1           | 2      |
-| Dirk            | 3   | carried 1, belt 1; wielded 1           | 1      |
-| Dwarven arms    | 6   | varies                                 | 2      |
-| Dwarven shield  | 7   | carried 1, worn/torso 1; wielded 1     | 2      |
-| Elven bow       | 6   | quiver 1, carried 1; wielded 2         | 2      |
-| Footman's Axe   | 3   | carried 1; wielded 2                   | 1      |
-| Great Bow       | 4   | carried 1; wielded 2                   | 2      |
-| Great Maceº     | 5   | carried 1; wielded 2                   | 2      |
-| Hammer          | 3   | carried 1; wielded 2                   | 2      |
-| Hammerº         | 5   | carried 1; wielded 2                   | 2      |
-| Harpoon         | 2   | carried 2; wielded 2                   | 2      |
-| Hatchet         | 3   | belt 1, pack 2, carried 1; wielded 1   | 0      |
-| Heavy Crossbow  |     | carried 2; wielded 2                   | 2      |
-| Hunting Bow     | 3   | quiver 1, carried 1; wielded 2         | 1      |
-| Knife, shiv†    | 2   | carried 1, belt 1; wielded 1           | 0      |
-| Lance™          | 3   | carried 1; wielded 1                   | 1      |
-| Light Axe       | 3   | carried 1, belt 1; wielded 1           | 1      |
-| Long Sword      | 3   | carried 1, belt 1; wielded 1           | 1      |
-| Long Swordº     | 5   | carried 1, belt 1; wielded 1           | 2      |
-| Mace            | 3   | carried 1, belt 1; wielded 1           | 2      |
-| Pistol          |     |                                        | 2      |
-| Polearm         | 3   | carried 1; wielded 2                   | 2      |
-| Polearmº        | 5   | carried 1; wielded 2                   | 2      |
-| Rapier          | 3   | carried 1; belt 1                      | 1      |
-| Short Spear     | 3   | carried 1; wielded 1                   | 1      |
-| Short Sword     | 3   | carried 1, belt 1; wielded 1           | 1      |
-| Sickle          | 1   | carried 1, belt 1; wielded 1           | 0      |
-| Spear           | 3   | carried 1; wielded 2                   | 1      |
-| Spearº          | 5   | carried 1; wielded 2                   | 2      |
-| Spear†          | 2   | carried 1; wielded 2                   | 0      |
-| Staff           | 1   | carried 1; wielded 2                   | 0      |
-| Stiletto        | 5   | carried 1; belt 1                      | 2      |
-| Sweet Axeº      | 5   | carried 1; wielded 2                   | 2      |
-| Sword†          | 2   | carried 1, belt 1; wielded 1           | 0      |
-| Throwing Blades | 3   | carried 1 (3), belt 1 (3), torso 1 (3) | 1      |
-| Whip            | 1   | carried 1; belt 1; wielded 1           | 2      |
+| Item            | Ob  | Slots                                   | Rarity |
+| --------------- | --- | --------------------------------------- | ------ |
+| Arming Sword    | 3   | carried 1, belt 1; wielded 1            |        |
+| Arquebus        |     |                                         | 2      |
+| Axe†            | 2   | carried 1; wielded 2                    | 0      |
+| Bastard Sword   | 3   | carried 1, worn/torso 1; wielded 1 or 2 | 2      |
+| Bola            | 1   | carried 1, belt 1; wielded 1            | 1      |
+| Buckler         | 1   | carried 1; belt 1                       | 0      |
+| Crossbow        | 4   | carried 2, belt 1; wielded 2            | 2      |
+| Daggerº         | 5   | carried 1, belt 1; wielded 1            | 2      |
+| Dirk            | 3   | carried 1, belt 1; wielded 1            | 1      |
+| Dwarven arms    | 6   | varies                                  | 2      |
+| Dwarven shield  | 7   | carried 1, worn/torso 1; wielded 1      | 2      |
+| Elven bow       | 6   | quiver 1, carried 1; wielded 2          | 2      |
+| Footman's Axe   | 3   | carried 1; wielded 2                    | 1      |
+| Great Bow       | 4   | carried 1; wielded 2                    | 2      |
+| Great Maceº     | 5   | carried 1; wielded 2                    | 2      |
+| Hammer          | 3   | carried 1; wielded 2                    | 2      |
+| Hammerº         | 5   | carried 1; wielded 2                    | 2      |
+| Harpoon         | 2   | carried 2; wielded 2                    | 2      |
+| Hatchet         | 3   | belt 1, pack 2, carried 1; wielded 1    | 0      |
+| Heavy Crossbow  |     | carried 2; wielded 2                    | 2      |
+| Hide Shield     | 2   | carried 1                               | 1      |
+| Hunting Bow     | 3   | quiver 1, carried 1; wielded 2          | 1      |
+| Javelin         | 1/2 | carried 1 (2); wielded 1                | 1      |
+| Knife, shiv†    | 2   | carried 1, belt 1; wielded 1            | 0      |
+| Lance™          | 3   | carried 1; wielded 1                    | 1      |
+| Light Axe       | 3   | carried 1, belt 1; wielded 1            | 1      |
+| Long Sword      | 3   | carried 1, belt 1; wielded 1            | 1      |
+| Long Swordº     | 5   | carried 1, belt 1; wielded 1            | 2      |
+| Mace            | 3   | carried 1, belt 1; wielded 1            | 2      |
+| Pistol          |     |                                         | 2      |
+| Polearm         | 3   | carried 1; wielded 2                    | 2      |
+| Polearmº        | 5   | carried 1; wielded 2                    | 2      |
+| Rapier          | 3   | carried 1; belt 1                       | 1      |
+| Short Spear     | 3   | carried 1; wielded 1                    | 1      |
+| Short Sword     | 3   | carried 1, belt 1; wielded 1            | 1      |
+| Sickle          | 1   | carried 1, belt 1; wielded 1            | 0      |
+| Spear           | 3   | carried 1; wielded 2                    | 1      |
+| Spearº          | 5   | carried 1; wielded 2                    | 2      |
+| Spear†          | 2   | carried 1; wielded 2                    | 0      |
+| Staff           | 1   | carried 1; wielded 2                    | 0      |
+| Stiletto        | 5   | carried 1; belt 1                       | 2      |
+| Sweet Axeº      | 5   | carried 1; wielded 2                    | 2      |
+| Sword†          | 2   | carried 1, belt 1; wielded 1            | 0      |
+| Throwing Blades | 3   | carried 1 (3), belt 1 (3), torso 1 (3)  | 1      |
+| Whip            | 1   | carried 1; belt 1; wielded 1            | 2      |
 
 † Poor quality arms—Using poor quality arms incurs a +1 Ob penalty to all combat tests using the weapon.
 
 º Superior quality arms—Use the superior quality weapon stats.
 
 ™ Must be mounted and have Mounted Combat Training.
+
+### Bastard Sword
+
+A well-balanced longsword that may be used either one-handed or two-handed.
 
 ### Bola
 
@@ -140,6 +154,14 @@ tip detaches from the weapon's shaft. A line attached to the barb is often emplo
 movement or drag the target to shore. Frostfolk use these weapons when fishing for large prey, whales or even sea serpents.
 
 **Special:** Harpoons may be thrown short distances. On a hit, the target is impeded for as long as the thrower is holding onto the line—the harpoon cannot be used again that conflict. The target will remain impeded until the thrower drops the line or is disarmed.
+
+### Hide Shield
+
+Hide shields only negate damage on a roll of 5-6. If you negate damage, roll 1d6. The shield is damaged on a roll of 1-3. Hide shields act as 3-slot containers to store hand axes, daggers, or throwing blades.
+
+### Javelin
+
+Javelins are throwing weapons that bypass leather armor. You may carry a pair in your off hand, with or without a shield.
 
 ### Rapier
 
