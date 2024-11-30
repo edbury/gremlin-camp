@@ -1,5 +1,5 @@
 ---
-{"aliases":["STARS Transit and Recruiting Services","Bring Your Own Character","BYOC"],"date-created":"2023-08-01T19:15","date-modified":"2023-12-07T21:08","dg-publish":true,"tags":["mosh"],"title":"STARS Transit and Recruiting Services","permalink":"/blooms/dormant/mosh/byoc/","dgPassFrontmatter":true}
+{"aliases":["Bring Your Own Character","BYOC","STARS Transit and Recruiting Services"],"date-created":"2023-08-01T19:15","date-modified":"2024-10-29T16:38","dg-publish":true,"tags":["mosh"],"title":"STARS Transit and Recruiting Services","permalink":"/blooms/dormant/mosh/byoc/","dgPassFrontmatter":true}
 ---
 
 
@@ -23,11 +23,11 @@ STARS contractors are paid a standard salary based on their training. For every 
 - 1,000cr for every Expert Skill
 - 2,000cr for every Master Skill
 
-STARS contractors are also entitled to Hazard and Jump Pay, depending on the job. 
+STARS contractors are also entitled to Hazard and Jump Pay, depending on the job.
 
 #### Hazard Pay
 
-Every STARS contract is rated with a Hazard level of 1-5, which acts as a multiplier for your salary. 
+Every STARS contract is rated with a Hazard level of 1-5, which acts as a multiplier for your salary.
 
 *That's right! Taking on challenging and exciting work can earn you up to 5x your normal salary!*
 
@@ -41,7 +41,7 @@ Every STARS contract will indicate the amount of Jumps you'll be undertaking pri
 
 *Here at STARS, we embrace the methodology of Rapid Skill Learning. By following our regimented training program, you can learn a new skill over the course of a few jobs, rather than several months!*
 
-Contractors can learn a **Trained Skill** in 3 sessions, an **Expert Skill** in 5 sessions, and a **Master Skill** in 10 sessions. 
+Contractors can learn a **Trained Skill** in 3 sessions, an **Expert Skill** in 5 sessions, and a **Master Skill** in 10 sessions.
 
 Credit costs remain unchanged and contractors will need to purchase their own materials during Shore Leave.
 
@@ -61,11 +61,11 @@ When contractors are looking over the station's job board, a standard job might 
 > Hazard: 2
 > Jumps: 0
 > Players: 3-5
-> 
+>
 > The Daedalus Robotics Lab is in lockdown after personnel were fatally compromised in a random incident. Reports are linking the events to a work tool found at the scene, now classified as Artifact 21. Further details are undisclosed.
-> 
+>
 > Daedalus Robotics Lab's parent company, Jensen-Hung, is excited to offer an attractive opportunity to any self-motivated freelancers in the sector! Taking on the important role of Temporary Maintenance Crew, contractees are tasked with retrieving Artifact 21 for analysis. Caution is advised; discretion is enforced.
-> 
+>
 > Jensen-Hung reminds its contractees that they are legally distinct from employees, and as such will receive no compensation in the event they are compromised.
 
 ## Players
@@ -94,7 +94,7 @@ A checklist for between-session solo play might look something like:
   - Decide on a Port Class based on your available credits.
   - Resolve Shore Leave as normal.
 2. Seek medical attention.
-  - You'll want to heal those wounds and remove any conditions you have... if you can pay.
+  - You'll want to heal those wounds and remove any conditions you have… if you can pay.
 3. Pay for Skill Training
   - If you have the credits and you're not currently learning a skill, now is the time to pay for your training.
 4. Go shopping.
@@ -105,11 +105,12 @@ Some tables may take Shore Leave together rather than asynchronously.
 #### For campaign play
 
 Additional Shore Leave options may be available during campaign play or at a Warden's discretion. You may wish to mark these encounters in your log.
-  
+
+
 
 ## State of this Document
 
-This document is an early work-in-progress. Tone, content, and the site are likely to change a lot over time. 
+This document is an early work-in-progress. Tone, content, and the site are likely to change a lot over time.
 
 ### To Do
 

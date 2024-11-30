@@ -270,7 +270,7 @@
 - [x] Reload jarburg speak to Jar-bairn ✅ 2024-07-22
 - [x] Reload jarburg again and speak to Jar-bairn ✅ 2024-07-22
 - [x] ENTER MOHGWYN PALACE ✅ 2024-07-22
-- [ ] Kill 3 invaders at blood swamp {fails if mohg is killed}
+- [x] Kill 3 invaders at blood swamp {fails if mohg is killed} ✅ 2024-11-15
 - [x] Find invasion sign [Varre] near Mausoleum Dynasty Midpoint ✅ 2024-07-18
 - [x] KILL MOHG ✅ 2024-07-22
 - [ ] KILL MALENIA
@@ -290,7 +290,7 @@
 
 - [ ] Find Corhyn at tip of spear (Leyndell, Ash)
 - [ ] Find Goldmask through path under elevator (Leyndell, Ash)
-- [ ] Reload are and go back to Corhyn and Goldmask to pick up respective sets
+- [ ] Reload area and go back to Corhyn and Goldmask to pick up respective sets
 - [ ] Exhaust dialogue between Rodreika and Hewg
 - [x] Find Alexander and defeat him (Crumbling Farum Azula) ✅ 2024-07-22
 - [x] Give Jar Bairn Alexander's Innards (jarburg) ✅ 2024-07-22

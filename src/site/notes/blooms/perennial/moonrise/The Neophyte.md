@@ -1,5 +1,5 @@
 ---
-{"aliases":["the Neophyte","The Neophyte"],"date-created":"2024-08-23T15:28","date-modified":"2024-09-24T11:28","dg-publish":true,"tags":["moonrise"],"title":"The Neophyte","dg-path":"moonrise/The Neophyte.md","permalink":"/moonrise/the-neophyte/","dgPassFrontmatter":true}
+{"aliases":["the Neophyte","The Neophyte"],"date-created":"2024-08-23T15:28","date-modified":"2024-11-05T14:25","dg-publish":true,"tags":["moonrise"],"title":"The Neophyte","dg-path":"moonrise/The Neophyte.md","permalink":"/moonrise/the-neophyte/","dgPassFrontmatter":true}
 ---
 
 
@@ -18,6 +18,20 @@
 2. If confronted with an unknown threat, consult the texts for guidance before proceeding.
 3. Never leave treasure on the table.
 4. Always get a twinge in the head from impending danger.
+
+## Skills
+
+- Ancient History
+- Ancient Languages
+- Cartography
+- Corruption-wise
+- Enchanting
+- Great Masters-wise
+- Read
+- Research
+- Staff
+- Symbology
+- Write
 
 ## Traits
 

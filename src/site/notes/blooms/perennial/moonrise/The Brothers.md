@@ -104,6 +104,20 @@
 3. Never leave treasure on the table.
 4. Always get a twinge in the head from impending danger.
 
+## Skills
+
+- Ancient History
+- Ancient Languages
+- Cartography
+- Corruption-wise
+- Enchanting
+- Great Masters-wise
+- Read
+- Research
+- Staff
+- Symbology
+- Write
+
 ## Traits
 
 - Collector
