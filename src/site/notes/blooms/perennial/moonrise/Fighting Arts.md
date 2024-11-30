@@ -1,9 +1,36 @@
 ---
-{"aliases":["Fighting Arts"],"date-created":"2024-11-30T10:02","date-modified":"2024-11-30T11:31","dg-publish":true,"tags":["moonrise"],"title":"Fighting Arts","dg-path":"moonrise/Fighting Arts.md","permalink":"/moonrise/fighting-arts/","dgPassFrontmatter":true}
+{"aliases":["Fighting Arts"],"date-created":"2024-11-30T10:02","date-modified":"2024-11-30T11:50","dg-publish":true,"tags":["moonrise"],"title":"Fighting Arts","dg-path":"moonrise/Fighting Arts.md","permalink":"/moonrise/fighting-arts/","dgPassFrontmatter":true}
 ---
 
 
 # Fighting Arts
+
+## Jungle Scholar's Way - Agility/Power
+
+In the urban centers of [[blooms/perennial/moonrise/The Sweltering Jungle\|The Sweltering Jungle]], scholars developed a defensive fighting art centered around the staff, teaching initiates to maintain distance and control the pace of combat.
+
+### Default Fight Actions
+
+Jungle Scholar's Way grants the Avoid, Block, Push, and Strike actions
+
+### Advancement
+
+| Exponent | Forms           |
+| -------- | --------------- |
+| 2        | Bare Fist       |
+| 3        | Staff           |
+| 4        | Short Spear     |
+| 5        | Spear           |
+| 6        | Polearm         |
+
+| Techniques      | Learning Obstacles |                |          |
+| --------------- | ------------------ | -------------- | -------- |
+| Shield Training | Instruction Ob 2   | Survival Ob 2  | JSW Ob 2 |
+| Feint           | Instruction Ob 2   | Falsehood Ob 3 | JSW Ob 3 |
+| Lock            | Instruction Ob 3   | Will Ob 3      | JSW Ob 3 |
+| Beat            | Instruction Ob 3   | Power Ob 3     | JSW Ob 3 |
+| Counterstrike   | Instruction Ob 4   | Agility Ob 4   | JSW Ob 4 |
+| Great Strike    | Instruction Ob 4   | Power Ob 4     | JSW Ob 4 |
 
 ## Military Archery - Agility/Power
 
@@ -58,7 +85,7 @@ Orphans and thieves of [[blooms/perennial/moonrise/The Scorching Desert\|The Sco
 
 ### Default Fight Actions
 
-Scorching Desert Street Fighting grants the Avoid, Block, Strike, Push actions
+Scorching Desert Street Fighting grants the Avoid, Strike, Push, and Throw actions
 
 ### Advancement
 
@@ -74,7 +101,7 @@ Scorching Desert Street Fighting grants the Avoid, Block, Strike, Push actions
 | ------------------------------------------ | ------------------ | -------------------- | --------- |
 | Sand in Eyes (Feint)                       | Instruction Ob 2   | Sleight of Hand Ob 3 | SDSF Ob 3 |
 | Get Inside (Increase WL during Engagement) | Instruction Ob 2   | Speed Ob 4           | SDSF Ob 3 |
-| Market Chase (use SDSF for positioning)    | Instruction Ob 3   | Speed Ob 3           | SDSF Ob 4 |
+| Block                                      | Instruction Ob 3   | Agility Ob 3         | SDSF Ob 4 |
 | Lock                                       | Instruction Ob 3   | Agility Ob 4         | SDSF Ob 4 |
 | Quick Draw (-1 action)                     | Instruction Ob 4   | Speed Ob   4         | SDSF Ob 4 |
 | Counterstrike                              | Instruction Ob 4   | Sleight of Hand Ob 4 | SDSF Ob 4 |
