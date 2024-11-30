@@ -1,5 +1,5 @@
 ---
-{"aliases":["Fighting Arts"],"date-created":"2024-11-30T10:02","date-modified":"2024-11-30T11:20","dg-publish":true,"tags":["moonrise"],"title":"Fighting Arts","dg-path":"moonrise/Fighting Arts.md","permalink":"/moonrise/fighting-arts/","dgPassFrontmatter":true}
+{"aliases":["Fighting Arts"],"date-created":"2024-11-30T10:02","date-modified":"2024-11-30T11:31","dg-publish":true,"tags":["moonrise"],"title":"Fighting Arts","dg-path":"moonrise/Fighting Arts.md","permalink":"/moonrise/fighting-arts/","dgPassFrontmatter":true}
 ---
 
 
@@ -34,7 +34,7 @@ Deep in [[blooms/perennial/moonrise/The Primeval Forest\|The Primeval Forest]], 
 
 ### Default Fight Actions
 
-Protector of the Forest grants Aim, Nock and Draw, and Release Bow actions
+Protector of the Forest grants Aim, Avoid, Nock and Draw, and Release Bow actions
 
 ### Advancement
 
@@ -44,10 +44,10 @@ Protector of the Forest grants Aim, Nock and Draw, and Release Bow actions
 | 4        | Great Bow   |
 | 6        | Elven Bow   |
 
-| Techniques                                        | Learning Obstacles |                 |         |
-| ------------------------------------------------- | ------------------ | --------------- | ------- |
-| Avoid                                             | Instruction Ob 2   | Speed Ob 2      | PotF Ob 1 |
-| Whispers of the Leaves (use PotF for positioning) | Instruction Ob 2   | Stealthy Ob 2   | PotF Ob 4 |
+| Techniques                                        | Learning Obstacles |                 |           |
+| ------------------------------------------------- | ------------------ | --------------- | --------- |
+| Beat                                              | Instruction Ob 2   | Power Ob 2      | PotF Ob 2 |
+| Whispers of the Leaves (use PotF for positioning) | Instruction Ob 2   | Stealthy Ob 2   | PotF Ob 3 |
 | Fast Nock (-1 action)                             | Instruction Ob 3   | Agility Ob 4    | PotF Ob 4 |
 | Snapshot                                          | Instruction Ob 3   | Speed Ob 4      | PotF Ob 3 |
 | Dead Eye (+1D Aim)                                | Instruction Ob 4   | Perception Ob 4 | PotF Ob 4 |
