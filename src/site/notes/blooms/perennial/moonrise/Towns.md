@@ -1,5 +1,5 @@
 ---
-{"aliases":["Towns"],"date-created":"2024-02-24T14:57","date-modified":"2024-12-27T06:57","dg-publish":true,"tags":["moonrise"],"title":"Towns","dg-path":"moonrise/Towns.md","permalink":"/moonrise/towns/","dgPassFrontmatter":true}
+{"aliases":["Towns"],"date-created":"2024-02-24T14:57","date-modified":"2024-12-27T07:03","dg-publish":true,"tags":["moonrise"],"title":"Towns","dg-path":"moonrise/Towns.md","permalink":"/moonrise/towns/","dgPassFrontmatter":true}
 ---
 
 
@@ -68,6 +68,14 @@ Specific towns may offer additional or alternate services.
 A small house of worship, the chapel offers solace in a war-torn territory. The iron-forged priests can successfully repair any one piece of armor during your stay in town and will have it ready for you when you leave. However, if you fail to pay your Lifestyle cost, the priests will curse your name and keep the armor.
 
 **Repair Armor Lifestyle Cost:** +2
+
+### Den of Iniquity
+
+A locale of illegal activity, the den of iniquity tempts visitors with any imaginable illicit activity for a small fee. One can sleep in small private chambers where every imaginable vice can be indulged. No free recovery here, but you may pay for any number of recovery attempts at your own expense.
+
+**Rest and Recover Lifestyle Cost:** +3 plus 1 per additional recovery attempt.
+
+**Illicit Activity Lifestyle Cost:** +1
 
 ### Flophouse
 
