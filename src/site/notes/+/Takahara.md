@@ -58,7 +58,7 @@ Built from green-tinted wood and stone, this stable complex houses breeds from a
 
 > See also [[blooms/perennial/moonrise/Towns#Stables\|Towns#Stables]]
 
-### The Moonlight Sake House
+### The Katai Sake House
 
 Built around a courtyard where a fragment of a fallen floating island rests, this establishment serves travelers from all rings of the city.
 
