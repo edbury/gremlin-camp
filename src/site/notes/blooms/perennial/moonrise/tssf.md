@@ -1,5 +1,5 @@
 ---
-{"aliases":["The Story So Far"],"date-created":"2024-08-23T14:56","date-modified":"2024-09-23T18:15","dg-publish":true,"tags":["moonrise","recap"],"title":"The Story So Far","dg-path":"moonrise/tssf.md","permalink":"/moonrise/tssf/","dgPassFrontmatter":true}
+{"aliases":["The Story So Far"],"date-created":"2024-08-23T14:56","date-modified":"2024-12-16T11:40","dg-publish":true,"tags":["moonrise","recap"],"title":"The Story So Far","dg-path":"moonrise/tssf.md","permalink":"/moonrise/tssf/","dgPassFrontmatter":true}
 ---
 
 
@@ -202,3 +202,37 @@
 - In exchange for a future favor, [[blooms/perennial/moonrise/The Doorkeeper\|The Doorkeeper]] tells her everything he knows with the guarantee that she will tell all of it to [[The Monarch\|The Monarch]] and only [[The Monarch\|The Monarch]].
 - [[blooms/perennial/moonrise/The Criminal\|The Criminal]] picks the lock on the trolley's glass case and loses her gloves liberating the figurine.
 - Two guards arrive to investigate, and [[blooms/perennial/moonrise/The Criminal\|The Criminal]] causes them to flee with her terrible mask.
+
+## Year 3
+
+### Spring - The Primeval Forest
+
+#### The Greenwood
+
+##### Brandonsford
+
+##### Auntie's House
+
+##### The Doorkeeper's Cabin
+
+##### The Haunting of Whispering Hollow
+
+#### The Silk Veil
+
+##### Trouble in Dawn's Perch
+
+##### The Pagoda of Shadows
+
+- [[blooms/perennial/moonrise/The Brothers\|The Brothers]] infiltrate [[Kegare Sōhei\|Kegare Sōhei]]'s pagoda
+- [[blooms/perennial/moonrise/The Criminal\|The Criminal]] is rescued from a preparation chamber in the basement
+- [[blooms/perennial/moonrise/The Brothers\|The Brothers]] defeat animated armors containing trapped human souls
+- [[blooms/perennial/moonrise/The Brothers\|The Brothers]] discover various ways to navigate the pagoda's strange architecture through darkness and paintings
+- [[blooms/perennial/moonrise/The Doorkeeper\|The Doorkeeper]] becomes diseased after gaining a Corruption trait
+- [[blooms/perennial/moonrise/The Criminal\|The Criminal]] finds a demon skull and [[The Sword of Hungry Shadows\|The Sword of Hungry Shadows]] in the observatory
+- [[Kegare Sōhei\|Kegare Sōhei]] reveals his plan to force a Dark Spirit from Takahara's sacred Jinju tree to [[blooms/perennial/moonrise/The Capital\|The Capital]]
+- [[blooms/perennial/moonrise/The Neophyte\|The Neophyte]] temporarily allows the demon [[Gashadokuro\|Gashadokuro]] to possess him to defeat [[Kegare Sōhei\|Kegare Sōhei]]
+- [[blooms/perennial/moonrise/The Doorkeeper\|The Doorkeeper]] is mortally wounded in the fight
+- [[blooms/perennial/moonrise/The Brothers\|The Brothers]] deliver forbidden scrolls to the Emperor
+- The Emperor grants [[blooms/perennial/moonrise/The Brothers\|The Brothers]] access to Takahara's resources and medical care for [[blooms/perennial/moonrise/The Doorkeeper\|The Doorkeeper]]
+
+#### Takahara - Town Phase

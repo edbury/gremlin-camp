@@ -1,5 +1,5 @@
 ---
-{"aliases":["Towns"],"date-created":"2024-02-24T14:57","date-modified":"2024-03-08T22:22","dg-publish":true,"tags":["moonrise"],"title":"Towns","dg-path":"moonrise/Towns.md","permalink":"/moonrise/towns/","dgPassFrontmatter":true}
+{"aliases":["Towns"],"date-created":"2024-02-24T14:57","date-modified":"2024-12-27T06:57","dg-publish":true,"tags":["moonrise"],"title":"Towns","dg-path":"moonrise/Towns.md","permalink":"/moonrise/towns/","dgPassFrontmatter":true}
 ---
 
 
@@ -25,7 +25,7 @@ To build or repair items rather than buy them, rent facilities at the guild hall
 
 When asking around about a rumor about an adventure location or lost treasure, test Circles. If you have some bit of evidence—a scrap of a map, an inscription or someone who saw something—the additional information grants +1D to the Circles test.
 
-The game master determines the obstacle based on the type of person being sought. 
+The game master determines the obstacle based on the type of person being sought.
 
 **Asking Around Lifestyle Cost:** +1
 
@@ -71,12 +71,16 @@ A small house of worship, the chapel offers solace in a war-torn territory. The 
 
 ### Flophouse
 
-At a flophouse, adventurers crash in the common room and don't get much else aside from fleas. 
+At a flophouse, adventurers crash in the common room and don't get much else aside from fleas.
 
-- If you are injured, mark four weeks of recovery. 
+- If you are injured, mark four weeks of recovery.
 - You cannot recovery from injuries or sickness here if you are Diseased.
 
 **Flophouse Lifestyle Cost:** +1
+
+### Forge
+
+The forge permits the Use Facilities activity of the Guild Hall but for Armorer and Weaponsmith only.
 
 ### Guild Hall
 { #9c0439}
@@ -87,9 +91,9 @@ Most towns are run by a league of powerful guilds. They control all trade and co
 #### Rent Facilities
 
 - Non-guild members must pay a fee to do any work related to the guild. Once the fee is paid, the guild will begrudgingly allow use of its facilities for a short period of time. Renting guild facilities is the legal way to make trade or craft skill tests—like Armorer or Weaving—during the town phase. If one tries to sneak a repair in one's hotel room, the staff will report them, and the guild will assay a fine—an Ob 2 or 3 Favors test—that must be paid lest the adventurer be branded a shirker and outlaw! Guild fees are required for:
-  - Scribing scrolls 
-  - Repairing armor 
-  - Crafting items  
+  - Scribing scrolls
+  - Repairing armor
+  - Crafting items
   - Practicing alchemy or enchanting
 
 **Using Facilities Lifestyle Cost:** +1 per trade or craft skill test
@@ -102,7 +106,7 @@ Most towns are run by a league of powerful guilds. They control all trade and co
 
 ##### Hiring an Apprentice Circles Modifiers
 
-- Laborers +1 Ob  
+- Laborers +1 Ob
 - Craftsmen (blacksmith, carpenter, weaver, etc.) +2 Ob
 - Specialists (mason, armorer, goldsmith) +3 Ob
 - Educated (apothecary, scholar, cartographer) +4 Ob
@@ -126,7 +130,7 @@ Some settlements boast a local magician who has retired from adventuring and set
 
 ### Homes
 
-If an adventurer's relationship resides in town, they can stay with them for free. 
+If an adventurer's relationship resides in town, they can stay with them for free.
 
 **Homes Lifestyle Cost:** 0
 
@@ -134,15 +138,15 @@ If an adventurer's relationship resides in town, they can stay with them for fre
 
 When staying at a hotel, guests are ensconced in a private room with a private bath and private entrance. Guests are also assigned to servants to attend to them.
 
-- Meals are provided (free recovery from hungry and thirsty).  
-- And the service is so posh, injured guests may mark 8 weeks of recovery.  
-- Staying at the hotel grants a +1D bonus to Health tests to recover from sickness or wounds.  
+- Meals are provided (free recovery from hungry and thirsty).
+- And the service is so posh, injured guests may mark 8 weeks of recovery.
+- Staying at the hotel grants a +1D bonus to Health tests to recover from sickness or wounds.
 
 **Hotel Lifestyle Cost:** +3
 
 ### Infirmary
 
-The infirmary, a place of refuge from the torments of the road, provides healing for those in desperate need. However, those that are truly ill sometimes never leave. 
+The infirmary, a place of refuge from the torments of the road, provides healing for those in desperate need. However, those that are truly ill sometimes never leave.
 
 - Mark 4 weeks of recovery.
 - Gain +1D to recover injury or disease.
@@ -153,10 +157,18 @@ The infirmary, a place of refuge from the torments of the road, provides healing
 
 While staying at an inn, guests receive a private room with a shared bath and shared entrance. Each room is also assigned a servant to attend to it.
 
-- Breakfast is provided (free recovery from hungry and thirsty). 
-- Injured guests may mark 8 weeks of recovery time; diseased guests mark 4.  
+- Breakfast is provided (free recovery from hungry and thirsty).
+- Injured guests may mark 8 weeks of recovery time; diseased guests mark 4.
 
 **Inn Lifestyle Cost:** +2
+
+### Iwan
+
+The majestic iwan serves as a gateway to a sacred space. Inside, priests offer religious services and prayers.
+
+**Religious Services Cost:** Pay in advance.
+
+**Atonement Ritual Lifestyle Cost:** +3
 
 ### Market
 
@@ -167,7 +179,7 @@ At the market, adventurers will find all manner of goods and items for purchase.
 - To purchase items, test Favors using the obstacles laid out in [[blooms/perennial/moonrise/gear\|gear]].
 - The game master can exclude items either due to town events or from simple mischievous intent.
 
-**Market Buying Lifestyle Cost:** +0 
+**Market Buying Lifestyle Cost:** +0
 
 #### Selling Kit or Salvage
 
@@ -183,11 +195,11 @@ At the market, adventurers will find all manner of goods and items for purchase.
 - If so inclined, an adventurer can haggle over prices with the shopkeepers and merchants at the market. Before beginning a spending spree or trying to sell a family heirloom, test Haggling at the market. Note that this test does increase lifestyle cost by 1, so there's some risk involved. Use the following obstacles:
   - Bustling Metropolis: Ob 4
   - Busy Crossroads: Ob 2
-  - Dwarven Halls: Ob 3  
+  - Dwarven Halls: Ob 3
   - Elfhome: Ob 5
   - Religious Bastion: Ob 3
   - Remote Village: Ob 3
-  - Walled Town: Ob 3  
+  - Walled Town: Ob 3
   - Wizard's Tower: Ob 4
 - If successful, roll 1d6 on the Successful Market Haggling table. If failed, roll 1d6 on the Unsuccessful Market Haggling table.
 - Each adventurer may haggle their own prices at the market. However, merchants will honor good deals with the person who haggled the price, not their deadbeat friends. No riding on your friend's magical haggling coattails.
@@ -216,12 +228,12 @@ In the stables, adventurers mingle with animals to find some succor from life on
 #### Hiding Out
 
 - Interested parties suffer a +1 Ob when trying to locate adventurers hiding out in the stables.
-  
+
 **Stables Lifestyle Cost:** +1
 
 ### The Streets
 
-Life on the streets gives nothing but a boot to the gut and a cold patch of cobblestones to curl up on. Those who sleep on the streets do not mark recovery during this town phase. 
+Life on the streets gives nothing but a boot to the gut and a cold patch of cobblestones to curl up on. Those who sleep on the streets do not mark recovery during this town phase.
 
 Roll on the Streets Events table.
 
@@ -233,7 +245,7 @@ Travelers meet at the tavern to slake their thirst, hire help, listen to the rum
 
 #### Drink
 
-- The first drink at a tavern removes the hungry and thirsty condition. 
+- The first drink at a tavern removes the hungry and thirsty condition.
 - The first drink also earns a roll on the Tavern Rumors table.
 - A second drink at the tavern grants +1D to the next Circles test made.
 
@@ -249,14 +261,14 @@ Travelers meet at the tavern to slake their thirst, hire help, listen to the rum
 
 ##### Porters
 
-- A porter has Laborer 4 and helps with all tests related to the skill. 
-- A porter has two available pack inventory slots in which they'll carry things for their boss.  
+- A porter has Laborer 4 and helps with all tests related to the skill.
+- A porter has two available pack inventory slots in which they'll carry things for their boss.
 - A porter can be made to carry up to two slots of inventory in their hands—like a lantern or a sack of loot—but they'll drop what they're holding and run at the first sign of danger.
 
 ##### Sentries
 
-- A sentry has a B3 Appropriate Arms but will act only to protect a camp or baggage, or to avert disaster when on watch (no check required). 
-- A sentry comes equipped with clothes, shoes, a satchel (containing preserved rations and a bottle of wine) and a weapon. 
+- A sentry has a B3 Appropriate Arms but will act only to protect a camp or baggage, or to avert disaster when on watch (no check required).
+- A sentry comes equipped with clothes, shoes, a satchel (containing preserved rations and a bottle of wine) and a weapon.
   - Roll 1d6. 1-2: dagger, 3-5: staff, 6: spear
 - Adventurers can further equip sentries from their own supplies.
 
@@ -264,7 +276,7 @@ Travelers meet at the tavern to slake their thirst, hire help, listen to the rum
 
 - A guide has a B4 Orienteering and an appropriate wise related to the area. They will help with journeys, but they prefer to provide aid with their appropriate "local area-wise" when traveling.
 - Guides do not explore ancient ruins or plunge into dark places.
-- A guide carries a pack with one free inventory slot in which they can store something important for their boss.  
+- A guide carries a pack with one free inventory slot in which they can store something important for their boss.
 
 **Hiring Help Lifestyle Cost:** porter +1, sentry +2, guide +2
 
@@ -274,11 +286,11 @@ Travelers meet at the tavern to slake their thirst, hire help, listen to the rum
 - Make an Oratory test (or perhaps Boasting or Singing):
   - Bustling Metropolis: Ob 4
   - Busy Crossroads: Ob 3
-  - Dwarven Halls: Ob 5  
+  - Dwarven Halls: Ob 5
   - Elfhome: Ob 4
   - Religious Bastion: Ob 5
   - Remote Village: Ob 2
-  - Walled Town: Ob 3  
+  - Walled Town: Ob 3
   - Wizard's Tower: Ob 4
 - If passed, roll 2d6 on the Successful Telling Tales Events table. If failed, roll 2d6 on the Unsuccessful Telling Tales Events table.
 
@@ -287,6 +299,20 @@ Travelers meet at the tavern to slake their thirst, hire help, listen to the rum
 - Each time an adventurer tells tales in a particular settlement, the obstacle increases by one on the next visit, up to a max of +3 Ob.
 
 **Telling Tales Lifestyle Cost:** +1
+
+### Teahouse
+
+An establishment serving tea and other refreshments. People gather to chat, socialize, relax, and trade. Trading is informal and only items worth Ob 3 or less are available. In the back room, strange concoctions are available for payment in advance.
+
+#### Teas and Elixirs
+
+Partaking of a relaxing tea eases the muscles, and each drink provides one recovery test for exhausted.
+
+Purchase elixirs that remove various conditions for a cost of Favors Ob 4 each.
+
+**Trading Cost:** Pay up front.
+
+**Drinking Lifestyle Cost:** +1 Lifestyle or Ob 4 Favors.
 
 ### Temple
 

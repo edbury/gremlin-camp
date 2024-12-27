@@ -1,11 +1,17 @@
 ---
-{"aliases":["-Wises","Our Gathered Knowledge"],"date-created":"2024-08-29T09:08","date-modified":"2024-11-16T16:16","dg-publish":true,"tags":["moonrise"],"title":"Our Gathered Knowledge","dg-path":"moonrise/-Wises.md","permalink":"/moonrise/wises/","dgPassFrontmatter":true}
+{"aliases":["-Wises","Our Gathered Knowledge"],"date-created":"2024-08-29T09:08","date-modified":"2024-12-16T11:41","dg-publish":true,"tags":["moonrise"],"title":"Our Gathered Knowledge","dg-path":"moonrise/-Wises.md","permalink":"/moonrise/wises/","dgPassFrontmatter":true}
 ---
 
 
 # Our Gathered Knowledge
 
+## Ancient Scrolls-Wise
+
+- The Six Demon Scrolls in the Shadow Pagoda empower one to rewrite ancient agreements with the kami.
+
 ## Cult of the Moon Bear-Wise
+
+## Sword of Hungry Shadows-wise
 
 ## Fairy Tales-Wise
 
@@ -14,6 +20,16 @@
 ## Palaces-Wise
 
 - You can always access the aqueducts from the rooftop.
+
+## Seat of the Eternal Emperor-Wise
+
+- The Emperor views the people as his children, and feels a great responsibility to protect and enlighten them.
+
+## Secret Paths-Wise
+
+## Treasures of the Shadow Pagoda-Wise
+
+## Onmyoji-wise
 
 ## Vengeful Spirit-Wise
 
