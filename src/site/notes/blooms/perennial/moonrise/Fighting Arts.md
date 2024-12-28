@@ -1,5 +1,5 @@
 ---
-{"aliases":["Fighting Arts"],"date-created":"2024-11-30T10:02","date-modified":"2024-12-09T10:52","dg-publish":true,"tags":["moonrise"],"title":"Fighting Arts","dg-path":"moonrise/Fighting Arts.md","permalink":"/moonrise/fighting-arts/","dgPassFrontmatter":true}
+{"aliases":["Fighting Arts"],"date-created":"2024-11-30T10:02","date-modified":"2024-12-28T09:53","dg-publish":true,"tags":["moonrise"],"title":"Fighting Arts","dg-path":"moonrise/Fighting Arts.md","permalink":"/moonrise/fighting-arts/","dgPassFrontmatter":true}
 ---
 
 
@@ -106,6 +106,33 @@ Scorching Desert Street Fighting grants the Avoid, Strike, Push, and Throw actio
 | Lock                                       | Instruction Ob 3   | Agility Ob 4         | SDSF Ob 4 |
 | Quick Draw (-1 action)                     | Instruction Ob 4   | Speed Ob   4         | SDSF Ob 4 |
 | Counterstrike                              | Instruction Ob 4   | Sleight of Hand Ob 4 | SDSF Ob 4 |
+
+## The Six Glorious Mysteries - Agility/Will
+
+A fighting style that emphasizes misdirection and hidden weapons. Its practitioners claim ancient monastic origins, speaking of sacred scrolls and hidden temples, though most learned it in back alleys and thieves' dens.
+
+### Default Fight Actions
+
+The Six Glorious Mysteries grants the Avoid, Feint, Push, and Strike actions.
+
+### Advancement
+
+| Exponent | Forms            |
+| -------- | ---------------- |
+| 2        | Bare Fist, Knife |
+| 3        | Mace             |
+| 4        | Chain            |
+| 5        | Throwing Knives  |
+| 6        | Stiletto         |
+
+| Techniques                                  | Learning Obstacles                             |
+| ------------------------------------------- | ---------------------------------------------- |
+| Lock                                        | Instruction Ob 2, Falsehood Ob 2, SGM Ob 2     |
+| Armor Training                              | Instruction Ob 2, Inconspicuous Ob 3, SGM Ob 3 |
+| Throw Person                                | Instruction Ob 3, Agility Ob 3, SGM Ob 3       |
+| Mysterious Stance (use SGM for positioning) | Instruction Ob 3, Acting Ob 4, SGM Ob 4        |
+| Counterstrike                               | Instruction Ob 4, Agility Ob 4, SGM Ob 4       |
+| Deadly Misdirection (+1D to Feint)          | Instruction Ob 4, Acting Ob 4, SGM Ob 4        |
 
 ## Street Fighting - Power
 
