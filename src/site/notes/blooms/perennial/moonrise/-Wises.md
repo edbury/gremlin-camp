@@ -1,5 +1,5 @@
 ---
-{"aliases":["-Wises","Our Gathered Knowledge"],"date-created":"2024-08-29T09:08","date-modified":"2024-12-16T11:41","dg-publish":true,"tags":["moonrise"],"title":"Our Gathered Knowledge","dg-path":"moonrise/-Wises.md","permalink":"/moonrise/wises/","dgPassFrontmatter":true}
+{"aliases":["-Wises","Our Gathered Knowledge"],"date-created":"2024-08-29T09:08","date-modified":"2024-12-28T15:04","dg-publish":true,"tags":["moonrise"],"title":"Our Gathered Knowledge","dg-path":"moonrise/-Wises.md","permalink":"/moonrise/wises/","dgPassFrontmatter":true}
 ---
 
 
@@ -10,6 +10,8 @@
 - The Six Demon Scrolls in the Shadow Pagoda empower one to rewrite ancient agreements with the kami.
 
 ## Cult of the Moon Bear-Wise
+
+## Demonic Artifacts-Wise
 
 ## Sword of Hungry Shadows-wise
 
