@@ -7,7 +7,7 @@
 
 ## Mouse (Feudal Countryside)
 
-| Will | Perception | Agility | Speed | Power | Forte | Health | Reflexes | Mortal Wound | Steel |
+| Will | Perception | Agility | Speed | Power | Forte | Health | Reflexes | MW | Steel |
 | ---- | ---------- | ------- | ----- | ----- | ----- | ------ | -------- | ------------ | ----- |
 | B2   | B3         | B4      | B4    | B1    | B1    | B2     | B4       | B4           | B4    |
 
