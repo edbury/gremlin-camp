@@ -1,11 +1,37 @@
 ---
-{"aliases":["Fighting Arts"],"date-created":"2024-11-30T10:02","date-modified":"2024-12-28T09:53","dg-publish":true,"tags":["moonrise"],"title":"Fighting Arts","dg-path":"moonrise/Fighting Arts.md","permalink":"/moonrise/fighting-arts/","dgPassFrontmatter":true}
+{"aliases":["Fighting Arts"],"date-created":"2024-11-30T10:02","date-modified":"2025-01-02T10:11","dg-publish":true,"tags":["moonrise"],"title":"Fighting Arts","dg-path":"moonrise/Fighting Arts.md","permalink":"/moonrise/fighting-arts/","dgPassFrontmatter":true}
 ---
 
 
 # Fighting Arts
 
-## Jungle Scholar's Way - Agility/Power
+## Courtly Dueling - Agility/Will
+
+A refined fighting art focused on precision and control, developed in [[blooms/perennial/moonrise/The High City\|The High City]]'s noble courts.
+
+### Default Fight Actions
+
+Court Dueling grants the Avoid, Block, Feint, and Strike actions
+
+### Advancement
+
+| Exponent | Forms        |
+| -------- | ------------ |
+| 2        | Dirk         |
+| 3        | Rapier       |
+| 4        | Arming Sword |
+| 5        | Long Sword   |
+
+| Techniques                                            | Learning Obstacles                        |
+| ----------------------------------------------------- | ----------------------------------------- |
+| Beat                                                  | Instruction Ob 2, Etiquette Ob 2, CD Ob 2 |
+| Elegant Defense (+1D to Block vs lesser weapons)      | Instruction Ob 2, Dance Ob 3, CD Ob 3     |
+| Counterstrike                                         | Instruction Ob 3, Etiquette Ob 3, CD Ob 3 |
+| First Blood (wound without killing)                   | Instruction Ob 3, Will Ob 3, CD Ob 3      |
+| Disarm                                                | Instruction Ob 4, Agility Ob 4, CD Ob 4   |
+| Perfect Form (+1D to social tests after duel victory) | Instruction Ob 4, Dance Ob 4, CD Ob 4     |
+
+## Rosha Spiral Defense - Agility/Power
 
 In the urban centers of [[blooms/perennial/moonrise/The Sweltering Jungle\|The Sweltering Jungle]], scholars developed a defensive fighting art centered around the staff, teaching initiates to maintain distance and control the pace of combat.
 
@@ -117,13 +143,13 @@ The Six Glorious Mysteries grants the Avoid, Feint, Push, and Strike actions.
 
 ### Advancement
 
-| Exponent | Forms            |
-| -------- | ---------------- |
-| 2        | Bare Fist, Knife |
-| 3        | Mace             |
-| 4        | Chain            |
-| 5        | Throwing Knives  |
-| 6        | Stiletto         |
+| Exponent | Forms           |
+| -------- | --------------- |
+| 2        | Bare Fist       |
+| 3        | Knife           |
+| 4        | Mace            |
+| 5        | Throwing Knives |
+| 6        | Stiletto        |
 
 | Techniques                                  | Learning Obstacles                             |
 | ------------------------------------------- | ---------------------------------------------- |
