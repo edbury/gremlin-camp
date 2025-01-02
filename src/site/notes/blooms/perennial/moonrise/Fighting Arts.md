@@ -1,5 +1,5 @@
 ---
-{"aliases":["Fighting Arts"],"date-created":"2024-11-30T10:02","date-modified":"2025-01-02T10:11","dg-publish":true,"tags":["moonrise"],"title":"Fighting Arts","dg-path":"moonrise/Fighting Arts.md","permalink":"/moonrise/fighting-arts/","dgPassFrontmatter":true}
+{"aliases":["Fighting Arts"],"date-created":"2024-11-30T10:02","date-modified":"2025-01-02T12:20","dg-publish":true,"tags":["moonrise"],"title":"Fighting Arts","dg-path":"moonrise/Fighting Arts.md","permalink":"/moonrise/fighting-arts/","dgPassFrontmatter":true}
 ---
 
 
@@ -17,7 +17,7 @@ Court Dueling grants the Avoid, Block, Feint, and Strike actions
 
 | Exponent | Forms        |
 | -------- | ------------ |
-| 2        | Dirk         |
+| 2        | Knife        |
 | 3        | Rapier       |
 | 4        | Arming Sword |
 | 5        | Long Sword   |
