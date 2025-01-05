@@ -1,5 +1,5 @@
 ---
-{"aliases":["The Peddler"],"date-created":"2024-09-24T11:27","date-modified":"2024-09-24T11:28","dg-publish":true,"tags":["moonrise"],"title":"The Peddler","dg-path":"moonrise/The Peddler.md","permalink":"/moonrise/the-peddler/","dgPassFrontmatter":true}
+{"aliases":["The Peddler"],"date-created":"2024-09-24T11:27","date-modified":"2024-09-24T11:28","dg-publish":true,"tags":["moonrise"],"title":"The Peddler","dg-path":"moonrise/The Peddler.md","permalink":"/moonrise/the-peddler/","dgPassFrontmatter":true,"updated":"2024-09-24T11:28"}
 ---
 
 

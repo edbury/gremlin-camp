@@ -1,5 +1,5 @@
 ---
-{"aliases":["Regions","regions"],"date-created":"2024-01-25T23:08","date-modified":"2024-01-27T13:17","dg-publish":true,"tags":["moonrise"],"title":"Regions","dg-path":"moonrise/regions.md","permalink":"/moonrise/regions/","dgPassFrontmatter":true}
+{"aliases":["Regions","regions"],"date-created":"2024-01-25T23:08","date-modified":"2024-01-27T13:17","dg-publish":true,"tags":["moonrise"],"title":"Regions","dg-path":"moonrise/regions.md","permalink":"/moonrise/regions/","dgPassFrontmatter":true,"updated":"2024-01-27T13:17"}
 ---
 
 

@@ -1,5 +1,5 @@
 ---
-{"aliases":["the Brothers","The Brothers"],"date-created":"2024-08-23T15:14","date-modified":"2024-09-24T11:27","dg-publish":true,"tags":["moonrise"],"title":"The Brothers","dg-path":"moonrise/The Brothers.md","permalink":"/moonrise/the-brothers/","dgPassFrontmatter":true}
+{"aliases":["the Brothers","The Brothers"],"date-created":"2024-08-23T15:14","date-modified":"2024-09-24T11:27","dg-publish":true,"tags":["moonrise"],"title":"The Brothers","dg-path":"moonrise/The Brothers.md","permalink":"/moonrise/the-brothers/","dgPassFrontmatter":true,"updated":"2024-09-24T11:27"}
 ---
 
 

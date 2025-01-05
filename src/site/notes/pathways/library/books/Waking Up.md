@@ -1,5 +1,5 @@
 ---
-{"aliases":["Waking Up"],"author":"Sam Harris","cover":"https://i.imgur.com/2WhCbgS.jpeg","date-created":"2023-10-03T22:10","date-modified":"2024-08-22T12:58","dg-publish":true,"finished":"2023-07-25T00:00:00","location":"Denver","subtitle":"A Guide to Spirituality Without Religion","tags":["source/book"],"title":"Waking Up","translator":null,"up":[["sources moc"]],"year":2014,"permalink":"/pathways/library/books/waking-up/","dgPassFrontmatter":true}
+{"aliases":["Waking Up"],"author":"Sam Harris","cover":"https://i.imgur.com/2WhCbgS.jpeg","date-created":"2023-10-03T22:10","date-modified":"2024-08-22T12:58","dg-publish":true,"finished":"2023-07-25T00:00:00","location":"Denver","subtitle":"A Guide to Spirituality Without Religion","tags":["source/book"],"title":"Waking Up","translator":null,"up":[["sources moc"]],"year":2014,"permalink":"/pathways/library/books/waking-up/","dgPassFrontmatter":true,"updated":"2024-08-22T12:58"}
 ---
 
 

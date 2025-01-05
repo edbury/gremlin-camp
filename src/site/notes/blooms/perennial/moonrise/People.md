@@ -1,5 +1,5 @@
 ---
-{"aliases":["People"],"date-created":"2024-09-16T15:22","date-modified":"2024-09-16T15:26","dg-publish":true,"tags":["moonrise"],"title":"People","dg-path":"moonrise/People.md","permalink":"/moonrise/people/","dgPassFrontmatter":true}
+{"aliases":["People"],"date-created":"2024-09-16T15:22","date-modified":"2024-09-16T15:26","dg-publish":true,"tags":["moonrise"],"title":"People","dg-path":"moonrise/People.md","permalink":"/moonrise/people/","dgPassFrontmatter":true,"updated":"2024-09-16T15:26"}
 ---
 
 

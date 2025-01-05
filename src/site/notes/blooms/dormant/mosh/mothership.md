@@ -1,5 +1,5 @@
 ---
-{"aliases":["Mothership"],"date-created":"2022-09-12T16:41","date-modified":"2023-08-03T00:48","dg-permalink":"mothership/","dg-publish":true,"tags":["mosh"],"title":"Mothership","permalink":"/mothership/","dgPassFrontmatter":true}
+{"aliases":["Mothership"],"date-created":"2022-09-12T16:41","date-modified":"2023-08-03T00:48","dg-permalink":"mothership/","dg-publish":true,"tags":["mosh"],"title":"Mothership","permalink":"/mothership/","dgPassFrontmatter":true,"updated":"2023-08-03T00:48"}
 ---
 
 

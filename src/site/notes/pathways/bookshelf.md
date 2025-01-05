@@ -1,5 +1,5 @@
 ---
-{"aliases":["Bookshelf"],"date-created":"2022-09-13T13:54","date-modified":"2023-10-13T21:43","dg-publish":true,"tags":["map"],"title":"Bookshelf","up":[["+home"]],"permalink":"/pathways/bookshelf/","dgPassFrontmatter":true}
+{"aliases":["Bookshelf"],"date-created":"2022-09-13T13:54","date-modified":"2023-10-13T21:43","dg-publish":true,"tags":["map"],"title":"Bookshelf","up":[["+home"]],"permalink":"/pathways/bookshelf/","dgPassFrontmatter":true,"updated":"2023-10-13T21:43"}
 ---
 
 

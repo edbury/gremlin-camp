@@ -1,5 +1,5 @@
 ---
-{"aliases":["the Neophyte","The Neophyte"],"date-created":"2024-08-23T15:28","date-modified":"2024-11-05T14:25","dg-publish":true,"tags":["moonrise"],"title":"The Neophyte","dg-path":"moonrise/The Neophyte.md","permalink":"/moonrise/the-neophyte/","dgPassFrontmatter":true}
+{"aliases":["the Neophyte","The Neophyte"],"date-created":"2024-08-23T15:28","date-modified":"2024-11-05T14:25","dg-publish":true,"tags":["moonrise"],"title":"The Neophyte","dg-path":"moonrise/The Neophyte.md","permalink":"/moonrise/the-neophyte/","dgPassFrontmatter":true,"updated":"2024-11-05T14:25"}
 ---
 
 

@@ -1,5 +1,5 @@
 ---
-{"aliases":["The Doorkeeper"],"date-created":"2024-08-23T15:18","date-modified":"2024-09-23T09:35","dg-publish":true,"tags":["moonrise"],"title":"The Doorkeeper","dg-path":"moonrise/The Doorkeeper.md","permalink":"/moonrise/the-doorkeeper/","dgPassFrontmatter":true}
+{"aliases":["The Doorkeeper"],"date-created":"2024-08-23T15:18","date-modified":"2024-09-23T09:35","dg-publish":true,"tags":["moonrise"],"title":"The Doorkeeper","dg-path":"moonrise/The Doorkeeper.md","permalink":"/moonrise/the-doorkeeper/","dgPassFrontmatter":true,"updated":"2024-09-23T09:35"}
 ---
 
 

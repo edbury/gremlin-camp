@@ -1,5 +1,5 @@
 ---
-{"aliases":["Dune"],"author":"Frank Herbert","cover":"https://i.imgur.com/KnBh5JV.jpg","date-created":"2022-08-02T16:03","date-modified":"2024-08-22T12:58","dg-publish":true,"finished":"2022-02-25T00:00:00","location":"Oakland","subtitle":null,"tags":["dune","source/book"],"title":"Dune","translator":null,"up":"[[sources moc]]","year":1965,"permalink":"/pathways/library/books/dune/","dgPassFrontmatter":true}
+{"aliases":["Dune"],"author":"Frank Herbert","cover":"https://i.imgur.com/KnBh5JV.jpg","date-created":"2022-08-02T16:03","date-modified":"2024-08-22T12:58","dg-publish":true,"finished":"2022-02-25T00:00:00","location":"Oakland","subtitle":null,"tags":["dune","source/book"],"title":"Dune","translator":null,"up":"[[sources moc]]","year":1965,"permalink":"/pathways/library/books/dune/","dgPassFrontmatter":true,"updated":"2024-08-22T12:58"}
 ---
 
 

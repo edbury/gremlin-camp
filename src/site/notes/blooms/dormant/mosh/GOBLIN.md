@@ -1,5 +1,5 @@
 ---
-{"aliases":["G.O.B.L.I.N.","GOBLIN"],"date-created":"2023-09-14T16:06","date-modified":"2023-09-21T08:46","dg-publish":true,"tags":["mosh"],"title":"G.O.B.L.I.N.","permalink":"/blooms/dormant/mosh/goblin/","dgPassFrontmatter":true}
+{"aliases":["G.O.B.L.I.N.","GOBLIN"],"date-created":"2023-09-14T16:06","date-modified":"2023-09-21T08:46","dg-publish":true,"tags":["mosh"],"title":"G.O.B.L.I.N.","permalink":"/blooms/dormant/mosh/goblin/","dgPassFrontmatter":true,"updated":"2023-09-21T08:46"}
 ---
 
 

@@ -1,5 +1,5 @@
 ---
-{"aliases":["The Capital, Highwater","Highwater"],"date-created":"2024-03-08T10:47","date-modified":"2024-08-28T12:47","dg-publish":true,"tags":["moonrise"],"title":"The Capital, Highwater","dg-path":"moonrise/The Capital.md","permalink":"/moonrise/the-capital/","dgPassFrontmatter":true}
+{"aliases":["The Capital, Highwater","Highwater"],"date-created":"2024-03-08T10:47","date-modified":"2024-08-28T12:47","dg-publish":true,"tags":["moonrise"],"title":"The Capital, Highwater","dg-path":"moonrise/The Capital.md","permalink":"/moonrise/the-capital/","dgPassFrontmatter":true,"updated":"2024-08-28T12:47"}
 ---
 
 

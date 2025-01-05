@@ -1,5 +1,5 @@
 ---
-{"aliases":["workout prompt"],"date-created":"2023-07-03T23:05","date-modified":"2023-07-03T23:11","dg-publish":true,"tags":["ai","chat.gpt"],"title":"workout prompt","permalink":"//workout-prompt/","dgPassFrontmatter":true}
+{"aliases":["workout prompt"],"date-created":"2023-07-03T23:05","date-modified":"2023-07-03T23:11","dg-publish":true,"tags":["ai","chat.gpt"],"title":"workout prompt","permalink":"//workout-prompt/","dgPassFrontmatter":true,"updated":"2023-07-03T23:11"}
 ---
 
 

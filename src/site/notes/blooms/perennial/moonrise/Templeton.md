@@ -1,5 +1,5 @@
 ---
-{"aliases":["Templeton"],"date-created":"2024-03-08T10:47","date-modified":"2024-09-10T16:48","dg-publish":true,"tags":["moonrise"],"title":"Templeton","dg-path":"moonrise/Templeton.md","permalink":"/moonrise/templeton/","dgPassFrontmatter":true}
+{"aliases":["Templeton"],"date-created":"2024-03-08T10:47","date-modified":"2024-09-10T16:48","dg-publish":true,"tags":["moonrise"],"title":"Templeton","dg-path":"moonrise/Templeton.md","permalink":"/moonrise/templeton/","dgPassFrontmatter":true,"updated":"2024-09-10T16:48"}
 ---
 
 

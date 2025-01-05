@@ -1,5 +1,5 @@
 ---
-{"aliases":["Cristory Orthingtane, Auctioneer & Tastemaker","auctioneer & tastemaker","Auctioneer & Tastemaker","Cristory Orthingtane","Cristory Orthingtane","Cristory Orthingtane"],"date-created":"2024-09-16T14:45","date-modified":"2024-09-16T15:36","dg-publish":true,"location":"[[The High City]]","tags":["moonrise","moonrise/person"],"title":"Cristory Orthingtane, Auctioneer & Tastemaker","dg-path":"moonrise/Cristory Orthingtane.md","permalink":"/moonrise/cristory-orthingtane/","dgPassFrontmatter":true}
+{"aliases":["Cristory Orthingtane, Auctioneer & Tastemaker","auctioneer & tastemaker","Auctioneer & Tastemaker","Cristory Orthingtane","Cristory Orthingtane","Cristory Orthingtane"],"date-created":"2024-09-16T14:45","date-modified":"2024-09-16T15:36","dg-publish":true,"location":"[[The High City]]","tags":["moonrise","moonrise/person"],"title":"Cristory Orthingtane, Auctioneer & Tastemaker","dg-path":"moonrise/Cristory Orthingtane.md","permalink":"/moonrise/cristory-orthingtane/","dgPassFrontmatter":true,"updated":"2024-09-16T15:36"}
 ---
 
 

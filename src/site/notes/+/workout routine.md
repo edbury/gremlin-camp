@@ -1,5 +1,5 @@
 ---
-{"aliases":["Daily Workout Routine","workout routine"],"date-created":"2023-07-03T22:57","date-modified":"2023-07-03T23:11","dg-publish":true,"tags":["ai.generated"],"title":"Daily Workout Routine","permalink":"//workout-routine/","dgPassFrontmatter":true}
+{"aliases":["Daily Workout Routine","workout routine"],"date-created":"2023-07-03T22:57","date-modified":"2023-07-03T23:11","dg-publish":true,"tags":["ai.generated"],"title":"Daily Workout Routine","permalink":"//workout-routine/","dgPassFrontmatter":true,"updated":"2023-07-03T23:11"}
 ---
 
 

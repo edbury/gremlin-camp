@@ -1,5 +1,5 @@
 ---
-{"aliases":["The Misty Mountains"],"date-created":"2024-09-23T18:05","date-modified":"2024-09-23T18:13","dg-publish":true,"tags":["moonrise","moonrise/place"],"title":"The Misty Mountains","dg-path":"moonrise/The Misty Mountains.md","permalink":"/moonrise/the-misty-mountains/","dgPassFrontmatter":true}
+{"aliases":["The Misty Mountains"],"date-created":"2024-09-23T18:05","date-modified":"2024-09-23T18:13","dg-publish":true,"tags":["moonrise","moonrise/place"],"title":"The Misty Mountains","dg-path":"moonrise/The Misty Mountains.md","permalink":"/moonrise/the-misty-mountains/","dgPassFrontmatter":true,"updated":"2024-09-23T18:13"}
 ---
 
 

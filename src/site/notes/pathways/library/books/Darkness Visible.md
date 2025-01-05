@@ -1,5 +1,5 @@
 ---
-{"aliases":["Darkness Visible"],"author":"William Styron","cover":"https://i.imgur.com/m1zGANR.jpg","date-created":"2023-09-17T18:57","date-modified":"2024-08-22T12:58","dg-publish":true,"finished":"2023-09-17T00:00:00","location":"Denver","subtitle":null,"tags":["source/book"],"title":"Darkness Visible","translator":null,"up":"[[sources moc]]","year":1990,"permalink":"/pathways/library/books/darkness-visible/","dgPassFrontmatter":true}
+{"aliases":["Darkness Visible"],"author":"William Styron","cover":"https://i.imgur.com/m1zGANR.jpg","date-created":"2023-09-17T18:57","date-modified":"2024-08-22T12:58","dg-publish":true,"finished":"2023-09-17T00:00:00","location":"Denver","subtitle":null,"tags":["source/book"],"title":"Darkness Visible","translator":null,"up":"[[sources moc]]","year":1990,"permalink":"/pathways/library/books/darkness-visible/","dgPassFrontmatter":true,"updated":"2024-08-22T12:58"}
 ---
 
 

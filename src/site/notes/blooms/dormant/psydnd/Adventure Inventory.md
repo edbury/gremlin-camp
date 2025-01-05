@@ -1,5 +1,5 @@
 ---
-{"aliases":["Planescape Adventure Inventory","Adventure Inventory"],"date-created":"2024-02-14T18:50","date-modified":"2024-02-14T20:38","dg-publish":true,"title":"Planescape Adventure Inventory","permalink":"/blooms/dormant/psydnd/adventure-inventory/","dgPassFrontmatter":true}
+{"aliases":["Planescape Adventure Inventory","Adventure Inventory"],"date-created":"2024-02-14T18:50","date-modified":"2024-02-14T20:38","dg-publish":true,"title":"Planescape Adventure Inventory","permalink":"/blooms/dormant/psydnd/adventure-inventory/","dgPassFrontmatter":true,"updated":"2024-02-14T20:38"}
 ---
 
 

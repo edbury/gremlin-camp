@@ -1,5 +1,5 @@
 ---
-{"aliases":["'Race', Racism, and Psychology"],"author":"Graham Richards","cover":"https://i.imgur.com/eX7WDsl.jpeg","date-created":"2024-08-12T09:09","date-modified":"2024-08-16T07:29","dg-publish":true,"edition":"2nd","finished":null,"location":"Denver","subtitle":"Towards a Reflexive History","tags":["source/book"],"title":"'Race', Racism, and Psychology","translator":null,"year":2012,"permalink":"/pathways/library/books/race-racism-and-psychology/","dgPassFrontmatter":true}
+{"aliases":["'Race', Racism, and Psychology"],"author":"Graham Richards","cover":"https://i.imgur.com/eX7WDsl.jpeg","date-created":"2024-08-12T09:09","date-modified":"2024-08-16T07:29","dg-publish":true,"edition":"2nd","finished":null,"location":"Denver","subtitle":"Towards a Reflexive History","tags":["source/book"],"title":"'Race', Racism, and Psychology","translator":null,"year":2012,"permalink":"/pathways/library/books/race-racism-and-psychology/","dgPassFrontmatter":true,"updated":"2024-08-16T07:29"}
 ---
 
 

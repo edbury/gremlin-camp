@@ -1,5 +1,5 @@
 ---
-{"aliases":["Character Burning","Burning a Character","Burning Characters"],"date-created":"2023-11-29T12:38","date-modified":"2024-01-28T21:43","dg-publish":true,"tags":["moonrise"],"title":"Character Burning","dg-path":"moonrise/character burning.md","permalink":"/moonrise/character-burning/","dgPassFrontmatter":true}
+{"aliases":["Character Burning","Burning a Character","Burning Characters"],"date-created":"2023-11-29T12:38","date-modified":"2024-01-28T21:43","dg-publish":true,"tags":["moonrise"],"title":"Character Burning","dg-path":"moonrise/character burning.md","permalink":"/moonrise/character-burning/","dgPassFrontmatter":true,"updated":"2024-01-28T21:43"}
 ---
 
 
