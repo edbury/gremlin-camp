@@ -9,8 +9,8 @@ Though there are countless forests throughout the Twilight, few loom above all o
 
 ## Locations in the Forest
 
-- [[blooms/perennial/moonrise/Takahara\|Takahara]]
 - [[blooms/perennial/moonrise/Brandonsford\|Brandonsford]]
+- [[blooms/perennial/moonrise/Takahara\|Takahara]]
 
 { .block-language-dataview}
 
