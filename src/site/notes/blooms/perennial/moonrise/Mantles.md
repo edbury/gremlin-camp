@@ -15,7 +15,7 @@
 
 ## The Courtier
 
-- The Obsidian Fan (Oath of the Unyielding): Grants [[The Courtier\|The Courtier]] the Aura Reading skill and Second Sight for the purpose of determining Corruption (traits, intents, actions, etc).
+- The Obsidian Fan (Oath of the Unyielding): Grants [[blooms/perennial/moonrise/The Courtier\|The Courtier]] the Aura Reading skill and Second Sight for the purpose of determining Corruption (traits, intents, actions, etc).
 
 ## The Criminal
 

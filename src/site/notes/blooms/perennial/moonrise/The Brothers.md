@@ -17,15 +17,15 @@
 ## Beliefs
 
 1. I am called by God to take wealth and power from the few and give it to the many.
-2. I must find a way to take off this mask and extinguish the flame of malevolence inside me.
-3. It's my duty to obtain Bolero's weird fish before I leave the Capitol.
+2. I must make contact with the masked warriors—even if it means meeting with the Green Glow.
+3. My skills will be essential to solving these murders.
 4. I believe in the potential for redemption in all beings; through my actions, I shall light the way back from darkness, guiding lost souls towards the dawn.
 
 ## Instincts
 
-1. When a fight starts, I go on the defensive.
-2. Never tell a willing falsehood.
-3. Always work carefully.
+1. Never tell a willing falsehood.
+2. I hesitate before I can deliver a mortal wound.
+3. Always keep the Tears of the Sea safe and secure.
 
 ## Traits
 
@@ -34,8 +34,6 @@
 - Devout
 - Small Fry
 - Alert
-- Aura of Malevolence
-- Child Prodigy
 - Bottomless Stomach
 - Fearless
 - Dexterity of the Cat
@@ -92,31 +90,17 @@
 
 ## Beliefs
 
-1. I must help the Criminal fulfill his ghostly pact so spirits aren't able to possess him and the swords.
-2. It's my duty to the kingdom to use my newfound alliance with the Mage's Council to uncover their true motives.
-3. In order to manage my grave condition I must find the name of an accomplished Alchemist to teach me Alchemy.
+1. It's my duty as Warden to do what's best for the Twilight.
+2. In order to create enchantments beyond imagination I need to recruit as many Warden as I can to my cause.
+3. I am Gashadakuro's final prison.
 4. I swear to seek the secrets hidden in the dark, to understand rather than fear the unknown, and to use this knowledge in service of the realm's safety.
 
 ## Instincts
 
 1. Always keep my maps up to date.
 2. If confronted with an unknown threat, consult the texts for guidance before proceeding.
-3. Never leave treasure on the table.
+3. When my sisters rest I imbue our equipment.
 4. Always get a twinge in the head from impending danger.
-
-## Skills
-
-- Ancient History
-- Ancient Languages
-- Cartography
-- Corruption-wise
-- Enchanting
-- Great Masters-wise
-- Read
-- Research
-- Staff
-- Symbology
-- Write
 
 ## Traits
 
@@ -126,7 +110,8 @@
 - Nose for Trouble
 - Rot Scarred Legs
 - Scarred Chest
-- Child Prodigy
+- Aura of Fear
+- Radula
 - Blood Lust
 - Sixth Sense
 - Slave to the Power of Death

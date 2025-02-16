@@ -1,5 +1,5 @@
 ---
-{"aliases":["awesome lists","Awesome Lists"],"date-created":"2025-01-15T10:40","date-modified":"2025-01-16T09:00","dg-publish":true,"title":"Awesome Lists","permalink":"//awesome-lists/","dgPassFrontmatter":true,"updated":"2025-01-16T09:00"}
+{"aliases":["awesome lists","Awesome Lists"],"date-created":"2025-01-15T10:40","date-modified":"2025-01-16T11:29","dg-publish":true,"title":"Awesome Lists","permalink":"//awesome-lists/","dgPassFrontmatter":true,"updated":"2025-01-16T11:29"}
 ---
 
 
@@ -28,3 +28,4 @@ Awesome lists that I find useful + stay current.
 - <https://github.com/RichardLitt/awesome-fantasy>
 - <https://github.com/k4m4/movies-for-hackers>
 - <https://github.com/johnjago/awesome-uncopyright>
+- <https://github.com/posquit0/Awesome-CV>

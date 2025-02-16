@@ -1,5 +1,5 @@
 ---
-{"aliases":["-Wises","Our Gathered Knowledge"],"date-created":"2024-08-29T09:08","date-modified":"2024-12-28T15:04","dg-publish":true,"tags":["moonrise"],"title":"Our Gathered Knowledge","dg-path":"moonrise/-Wises.md","permalink":"/moonrise/wises/","dgPassFrontmatter":true,"updated":"2024-12-28T15:04"}
+{"id":"-Wises","aliases":["-Wises","Our Gathered Knowledge"],"tags":["moonrise"],"date-created":"2024-08-29T09:08","date-modified":"2024-12-28T15:04","dg-publish":true,"title":"Our Gathered Knowledge","dg-path":"moonrise/-Wises.md","permalink":"/moonrise/wises/","dgPassFrontmatter":true,"updated":"2024-12-28T15:04"}
 ---
 
 
@@ -13,11 +13,18 @@
 
 ## Demonic Artifacts-Wise
 
+## Demons of the Night-Wise
+
+- The One of Many must be located and killed.
+  - It cannot be harmed by mortal weapons.
+
 ## Sword of Hungry Shadows-wise
 
 ## Fairy Tales-Wise
 
 - Wolves haunt wizards' towers.
+
+## Magic Doll-Wise
 
 ## Palaces-Wise
 

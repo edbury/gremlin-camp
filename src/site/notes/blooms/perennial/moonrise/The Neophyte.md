@@ -1,5 +1,5 @@
 ---
-{"aliases":["the Neophyte","The Neophyte"],"date-created":"2024-08-23T15:28","date-modified":"2024-11-05T14:25","dg-publish":true,"tags":["moonrise"],"title":"The Neophyte","dg-path":"moonrise/The Neophyte.md","permalink":"/moonrise/the-neophyte/","dgPassFrontmatter":true,"updated":"2024-11-05T14:25"}
+{"aliases":["the Neophyte","The Neophyte"],"date-created":"2024-08-23T15:28","date-modified":"2025-01-18T08:17","dg-publish":true,"tags":["moonrise"],"title":"The Neophyte","dg-path":"moonrise/The Neophyte.md","permalink":"/moonrise/the-neophyte/","dgPassFrontmatter":true,"updated":"2025-01-18T08:17"}
 ---
 
 
@@ -7,31 +7,17 @@
 
 ## Beliefs
 
-1. I must help the Criminal fulfill his ghostly pact so spirits aren't able to possess him and the swords.
-2. It's my duty to the kingdom to use my newfound alliance with the Mage's Council to uncover their true motives.
-3. In order to manage my grave condition I must find the name of an accomplished Alchemist to teach me Alchemy.
+1. It's my duty as Warden to do what's best for the Twilight.
+2. In order to create enchantments beyond imagination I need to recruit as many Warden as I can to my cause.
+3. I am Gashadakuro's final prison.
 4. I swear to seek the secrets hidden in the dark, to understand rather than fear the unknown, and to use this knowledge in service of the realm's safety.
 
 ## Instincts
 
 1. Always keep my maps up to date.
 2. If confronted with an unknown threat, consult the texts for guidance before proceeding.
-3. Never leave treasure on the table.
+3. When my sisters rest I imbue our equipment.
 4. Always get a twinge in the head from impending danger.
-
-## Skills
-
-- Ancient History
-- Ancient Languages
-- Cartography
-- Corruption-wise
-- Enchanting
-- Great Masters-wise
-- Read
-- Research
-- Staff
-- Symbology
-- Write
 
 ## Traits
 
@@ -41,7 +27,8 @@
 - Nose for Trouble
 - Rot Scarred Legs
 - Scarred Chest
-- Child Prodigy
+- Aura of Fear
+- Radula
 - Blood Lust
 - Sixth Sense
 - Slave to the Power of Death
