@@ -1,5 +1,5 @@
 ---
-{"aliases":["The Harvest Moon Murders"],"date-created":"2025-01-03T20:22","date-modified":"2025-02-16T16:07","dg-publish":true,"id":"The Harvest Moon Murders","tags":["moonrise"],"title":"The Harvest Moon Murders","dg-path":"moonrise/The Harvest Moon Murders.md","permalink":"/moonrise/the-harvest-moon-murders/","dgPassFrontmatter":true,"updated":"2025-02-16T16:07"}
+{"aliases":["The Harvest Moon Murders"],"date-created":"2025-01-03T20:22","date-modified":"2025-02-16T18:19","dg-publish":true,"id":"The Harvest Moon Murders","tags":["moonrise"],"title":"The Harvest Moon Murders","dg-path":"moonrise/The Harvest Moon Murders.md","permalink":"/moonrise/the-harvest-moon-murders/","dgPassFrontmatter":true,"updated":"2025-02-16T18:19"}
 ---
 
 
@@ -531,10 +531,13 @@ Use the second column when the town Descends into Chaos (≤7 Major NPCs live).
 - They meet [[Grimylgus\|Grimylgus]]. He reveals the holy sword of brandon, the book of saints, and the jeweled cutlass (rapier tho).
 - They run into [[The Giant's Cottage\|The Giant's Cottage]] on the way to [[The Barrow of Ser Brandon\|The Barrow of Ser Brandon]]
 - They rescue [[Brother Dirk\|Brother Dirk]], a dwarven pilgrim, and rob the giant. Dirk is on his way to Brandon's Barrow as well.
+- [[blooms/perennial/moonrise/The Neophyte\|The Neophyte]] updates his maps to include Takahara and the southern forest.
+- [[Brother Dirk\|Brother Dirk]] tells them about Ser Brandon's buried fellows.
+- [[blooms/perennial/moonrise/The Criminal\|The Criminal]] summons [[Limerick, the Standard Bearer\|Limerick, the Standard Bearer]] and bargains for his service for a year.
+- [[blooms/perennial/moonrise/The Criminal\|The Criminal]] takes the golden-glass chalice.
+- A lot of shit happens. Ultimately, they steal the sword of Brandon which turns Dirk against them, then smash Alfred's glass coffin which fills the mound with sea water (which then begins leaking into the river).
+- They are now back outside the barrow, with Utoa, the sword, a tied up Dirk, and the mirror, preparing to leap to the Peddler's Estate.
 
 ## Today's Session
 
-- [[blooms/perennial/moonrise/The Neophyte\|The Neophyte]] updates his maps.
-- [[Brother Dirk\|Brother Dirk]] tells them about Ser Brandon's buried fellows.
-- [[blooms/perennial/moonrise/The Criminal\|The Criminal]] summons [[Limerick, the Standard Bearer\|Limerick, the Standard Bearer]] and bargains for his service for a year.
--
+
