@@ -1,5 +1,5 @@
 ---
-{"aliases":["The Harvest Moon Murders"],"date-created":"2025-01-03T20:22","date-modified":"2025-02-16T18:19","dg-publish":true,"id":"The Harvest Moon Murders","tags":["moonrise"],"title":"The Harvest Moon Murders","dg-path":"moonrise/The Harvest Moon Murders.md","permalink":"/moonrise/the-harvest-moon-murders/","dgPassFrontmatter":true,"updated":"2025-02-16T18:19"}
+{"aliases":["The Harvest Moon Murders"],"date-created":"2025-01-03T20:22","date-modified":"2025-02-23T19:16","dg-publish":true,"id":"The Harvest Moon Murders","tags":["moonrise"],"title":"The Harvest Moon Murders","dg-path":"moonrise/The Harvest Moon Murders.md","permalink":"/moonrise/the-harvest-moon-murders/","dgPassFrontmatter":true,"updated":"2025-02-23T19:16"}
 ---
 
 
@@ -540,4 +540,12 @@ Use the second column when the town Descends into Chaos (≤7 Major NPCs live).
 
 ## Today's Session
 
-
+- Zigbor, one of [[Gashadokuro\|Gashadokuro]]'s true names.
+- They go through the mirror into the Egg Building and the neophyte identifies the heraldry of the Sabazios family, famous for their school of spear-fighting, from the Feudal Countryside.
+- The Courtier discovers four marked items among the personal belongings in the Egg. They are:
+    - A Satchel, silk
+    - A Coinpurse, opulent
+    - A Cloak, dark blue
+    - A Weapon, spear
+- The far room/island is a half-cylindrical tower full of drawers that contain people's secrets. The floor is white marble. The secrets are always related to the character's traits.
+-
