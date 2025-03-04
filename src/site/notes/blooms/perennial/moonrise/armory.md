@@ -27,7 +27,7 @@ A shimmering cloak that renders the wearer in grayscale. Found at Whispering Hol
 
 ## Mantles
 
-All known mantles are tracked under [[blooms/perennial/moonrise/Mantles\|Mantles]].
+All known mantles are tracked under [[blooms/perennial/moonrise/mantles\|Mantles]].
 
 ## Misc
 
