@@ -1,5 +1,5 @@
 ---
-{"aliases":["Known Mantles","Mantles"],"date-created":"2024-12-28T08:53","date-modified":"2025-01-02T10:13","dg-publish":true,"tags":["moonrise"],"title":"Known Mantles","dg-path":"moonrise/Mantles.md","permalink":"/moonrise/mantles/","dgPassFrontmatter":true,"updated":"2025-01-02T10:13"}
+{"aliases":["Known Mantles","Mantles"],"date-created":"2024-12-28T08:53","date-modified":"2025-03-04T12:40","dg-publish":true,"tags":["moonrise"],"title":"Known Mantles","dg-path":"moonrise/Mantles.md","permalink":"/moonrise/mantles/","dgPassFrontmatter":true,"updated":"2025-03-04T12:40"}
 ---
 
 
@@ -15,23 +15,23 @@
 
 ## The Courtier
 
-- The Obsidian Fan (Oath of the Unyielding): Grants [[blooms/perennial/moonrise/The Courtier\|The Courtier]] the Aura Reading skill and Second Sight for the purpose of determining Corruption (traits, intents, actions, etc).
+- The Obsidian Fan (Oath of the Unyielding): Grants [[blooms/perennial/moonrise/The Courtier\|The Courtier]] the Aura Reading skill and Second Sight for traits, intents, actions, etc. related to Corruption.
 
 ## The Criminal
 
-- The Criminal's Ring (Oath of Redemption): Allows [[blooms/perennial/moonrise/The Criminal\|The Criminal]] to use the Summoning skill; grants the Order "Victims of the Criminal" at Journeyman level.
+- The Criminal's Ring (Oath of Redemption): Allows [[blooms/perennial/moonrise/The Criminal\|The Criminal]] to use the Summoning skill without Gifted or a circle; grants the Order "Victims of the Criminal" at Journeyman level.
 
 ## The Doorkeeper
 
-- The Black Iron Key (Oath of Servitude): Allows [[blooms/perennial/moonrise/The Doorkeeper\|The Doorkeeper]] to travel across great distances using Doors. (High obstacles, mechanic taken from Under a Serpent Sun)
+- The Black Iron Key (Oath of Servitude): Allows [[blooms/perennial/moonrise/The Doorkeeper\|The Doorkeeper]] to travel across great distances using Doors.
 
 ## The Neophyte
 
-- The Silver Bracer (Oath of the Veil): Grants [[blooms/perennial/moonrise/The Neophyte\|The Neophyte]] the Gifted trait for the skill in which he is being trained by a Great Master. (In this case, grants Gifted for use with Enchanting while being trained by [[The Albino\|The Albino]].)
+- The Silver Bracer (Oath of the Veil): Grants [[blooms/perennial/moonrise/The Neophyte\|The Neophyte]] the required trait for a skill in which he is being trained by a Great Master. (Currently granting Gifted for use with Enchanting while being trained by [[The Albino\|The Albino]].)
 
 ## The Nurse
 
-- The Alkaline Needle (Oath of Redemption): Allows [[The Nurse\|The Nurse]] to sew up even the most grievous injuries--removing one forced Die Trait from the wounded player when treating an injury.
+- The Alkaline Needle (Oath of Redemption): Allows [[The Nurse\|The Nurse]] to sew up even the most grievous injuries--removing one required Die Trait from the wounded player when treating an injury.
 
 ## The Page
 
@@ -43,4 +43,4 @@
 
 ## The Pilgrim
 
-- I Forgot What Her Mantle Is (Oath of Redemption): Allows [[The Pilgrim\|The Pilgrim]] to know the direction and distance to the nearest settlement.
+- Unknown Object (Oath of Redemption): Allows [[The Pilgrim\|The Pilgrim]] to know the direction and distance to the nearest settlement.
