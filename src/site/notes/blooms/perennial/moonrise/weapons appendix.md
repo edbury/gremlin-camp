@@ -1,5 +1,5 @@
 ---
-{"aliases":["weapons appendix","Weapons Appendix"],"date-created":"2025-03-05T08:32","date-modified":"2025-03-05T13:16","dg-publish":true,"tags":["moonrise"],"title":"Weapons Appendix","dg-path":"moonrise/weapons appendix.md","permalink":"/moonrise/weapons-appendix/","dgPassFrontmatter":true,"updated":"2025-03-05T13:16"}
+{"aliases":["weapons appendix","Weapons Appendix"],"date-created":"2025-03-05T08:32","date-modified":"2025-03-05T13:32","dg-publish":true,"tags":["moonrise"],"title":"Weapons Appendix","dg-path":"moonrise/weapons appendix.md","permalink":"/moonrise/weapons-appendix/","dgPassFrontmatter":true,"updated":"2025-03-05T13:32"}
 ---
 
 
@@ -56,6 +56,28 @@
 | Spear              | 2   | 2   | 2   | 2   | Longest  | Two handed |
 
 ## Miscellaneous Weapon Gear
+
+| Weapon           | Pow | Add | WS  | VA  | WL        | Handedness                             |
+| ---------------- | --- | --- | --- | --- | --------- | -------------------------------------- |
+| Hilt/Pommel/Butt | 1   | 2   | 1   | -   | -1 WL     | All weapons                            |
+| Spiked Pommel    | 1   | 2   | 1   | 1   | -1 WL     | May be added to any weapon             |
+| Weighted Pommel  | 2   | 2   | 1   | -   | -1 WL     | May be added to any weapon             |
+| Beak             | 1   | 2   | 1   | 3   | As weapon | May be added to polearm, axe, or spear |
+| Shield           | 1   | 2   | 1   | -   | Short     | One handed                             |
+
+## Found Weapons
+
+| Weapon       | Pow | Add | WS  | VA  | WL       | Handedness |
+| ------------ | --- | --- | --- | --- | -------- | ---------- |
+| Bed knob     | 1   | 2   | 1   | -   | Shortest | One handed |
+| Spike/Nail   | 1   | 2   | 2   | -   | Shortest | One handed |
+| Bottle       | 1   | 2   | 2   | -   | Shortest | One handed |
+| Mallet       | 2   | 2   | 1   | -   | Short    | One handed |
+| Broom Handle | 1   | 2   | 2   | -   | Short    | One handed |
+| Lantern      | 2   | 2   | 1   | -   | Short    | One handed |
+| Chair        | 2   | 2   | 1   | -   | Short    | Two handed |
+| Pick         | 4   | 2   | 1   | 1   | Short    | Two handed |
+| Branch       | 2   | 2   | 2   | -   | Varies   | Varies     |
 
 `X` - These weapons can Strike consecutively any amount of
 
