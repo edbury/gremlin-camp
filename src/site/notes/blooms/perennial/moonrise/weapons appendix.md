@@ -1,5 +1,5 @@
 ---
-{"aliases":["weapons appendix","Weapons Appendix"],"date-created":"2025-03-05T08:32","date-modified":"2025-03-05T16:06","dg-publish":true,"tags":["moonrise"],"title":"Weapons Appendix","dg-path":"moonrise/weapons appendix.md","permalink":"/moonrise/weapons-appendix/","dgPassFrontmatter":true,"updated":"2025-03-05T16:06"}
+{"aliases":["weapons appendix","Weapons Appendix"],"date-created":"2025-03-05T08:32","date-modified":"2025-03-05T16:08","dg-publish":true,"tags":["moonrise"],"title":"Weapons Appendix","dg-path":"moonrise/weapons appendix.md","permalink":"/moonrise/weapons-appendix/","dgPassFrontmatter":true,"updated":"2025-03-05T16:08"}
 ---
 
 
@@ -23,11 +23,11 @@ This appendix seeks to gather all of the BWHQ weapon stats and mechanics in one 
 | Weapon        | Pow | Add | WS  | VA  | WL       | Handedness |
 | ------------- | --- | --- | --- | --- | -------- | ---------- |
 | Knife, Shiv   | -   | 1   | X   | -   | Shortest | One handed |
+| Kumade/Kanabo | 2   | 2   |     | -   | Short    | One handed |
 | Sword         | 3   | 2   | 2   | -   | Long     | One handed |
 | Axe           | 4   | 2   | 1   | 1   | Long     | Two handed |
-| Spear         | 1   | 2   | 3   | -   | Longest  | Two handed |
-| Kumade/Kanabo | 2   | 2   |     | -   | Short    | One handed |
 | Yari**        | 2   | 2   |     | -   | Longer   | Two handed |
+| Spear         | 1   | 2   | 3   | -   | Longest  | Two handed |
 
 ### Run of the Mill Weapons
 
@@ -56,7 +56,7 @@ This appendix seeks to gather all of the BWHQ weapon stats and mechanics in one 
 | Naginata           | 3    | 2   | 2   | 1   | Longer   | Two handed  |
 | Bastard Sword      | 3(4) | 2   | 2   | -   | Long     | Varies***   |
 | Rapier             | 2    | 2   | 4   | -   | Long     | One handed  |
-| Whip****               | 1    | 2   | 2   | -   | Longest  | One handed  |
+| Whip****           | 1    | 2   | 2   | -   | Longest  | One handed  |
 
 ### Super Quality Weapons
 
