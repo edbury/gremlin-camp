@@ -1,5 +1,5 @@
 ---
-{"aliases":["weapons appendix","Weapons Appendix"],"date-created":"2025-03-05T08:32","date-modified":"2025-03-05T13:32","dg-publish":true,"tags":["moonrise"],"title":"Weapons Appendix","dg-path":"moonrise/weapons appendix.md","permalink":"/moonrise/weapons-appendix/","dgPassFrontmatter":true,"updated":"2025-03-05T13:32"}
+{"aliases":["weapons appendix","Weapons Appendix"],"date-created":"2025-03-05T08:32","date-modified":"2025-03-05T13:57","dg-publish":true,"tags":["moonrise"],"title":"Weapons Appendix","dg-path":"moonrise/weapons appendix.md","permalink":"/moonrise/weapons-appendix/","dgPassFrontmatter":true,"updated":"2025-03-05T13:57"}
 ---
 
 
@@ -16,12 +16,14 @@
 
 ## Poor Quality Weapons
 
-| Weapon      | Pow | Add | WS  | VA  | WL       | Handedness |
-| ----------- | --- | --- | --- | --- | -------- | ---------- |
-| Knife, Shiv | -   | 1   | X   | -   | Shortest | One handed |
-| Sword       | 3   | 2   | 2   | -   | Long     | One handed |
-| Axe         | 4   | 2   | 1   | 1   | Long     | Two handed |
-| Spear       | 1   | 2   | 3   | -   | Longest  | Two handed |
+| Weapon        | Pow | Add | WS  | VA  | WL       | Handedness |
+| ------------- | --- | --- | --- | --- | -------- | ---------- |
+| Knife, Shiv   | -   | 1   | X   | -   | Shortest | One handed |
+| Sword         | 3   | 2   | 2   | -   | Long     | One handed |
+| Axe           | 4   | 2   | 1   | 1   | Long     | Two handed |
+| Spear         | 1   | 2   | 3   | -   | Longest  | Two handed |
+| Kumade/Kanabo | 2   | 2   |     | -   | Short    | One handed |
+| Yari          | 2   | 2   |     | -   | Longer   | Two handed |
 
 ## Run of the Mill Weapons
 
@@ -41,6 +43,13 @@
 | Polearm Thrust     | 2   | 2   | 2   | 1   | Longer   | Two handed  |
 | Spear              | 2   | 2   | 2   | 1   | Longest  | Two handed  |
 | Lance              | 4   | 2   | 1   | 2   | Longest  | One handed* |
+| Kumade/Kanabo      | 2   | 2   | 4   | 1   | Short    | One handed  |
+| Bo/Shakujo         | 2   | 2   | 3   | -   | Longer   | Two handed  |
+| Yari**             | 2   | 2   | 3   | 1   | Longest  | Two handed  |
+| Tanto              | 1   | 1   | X   | -   | Shortest | One handed  |
+| Tachi              | 3   | 2   | 2   | -   | Long     | One handed  |
+| Odachi             | 4   | 2   | 1   | 1   | Longer   | Two handed  |
+| Naginata           | 3   | 2   | 2   | 1   | Longer   | Two handed  |
 
 ## Super Quality Weapons
 
@@ -54,6 +63,14 @@
 | Hammer             | 3   | 2   | 2   | 2   | Longer   | Two handed |
 | Polearm Thrust     | 2   | 2   | 2   | 2   | Longer   | Two handed |
 | Spear              | 2   | 2   | 2   | 2   | Longest  | Two handed |
+| Tachi              | 3   | 2   | 2   | 1   | Long     | One handed |
+| Mino Tachi         | 3   | 2   | 2   | 1   | Long     | One handed |
+
+## Special Weapons
+
+| Weapon      | Pow | Add | WS  | VA  | WL   | Handedness |
+| ----------- | --- | --- | --- | --- | ---- | ---------- |
+| Named Tachi | 3   | 2   | 2   | 2   | Long | One handed |
 
 ## Miscellaneous Weapon Gear
 
@@ -82,3 +99,7 @@
 `X` - These weapons can Strike consecutively any amount of
 
 `*` - Must be mounted and have Mounted Combat Training
+
+`**` - Visibly carrying a Yari with a knowledge of Sojutsu at exponent 4 or below imposes an Ob 2 penalty for any Circles tests involving anyone from the Provincial Warrior setting.
+
+Ownership of a weapon in general is reserved to the nobility of Sorans. Anyone in Soran territories bearing a weapon and who does not appear to be a Bushi, Ronin, Heiankyo Noble, Monk or Yamabushi, suffers a +3 Ob penalty to Circles tests in the Artisan, Imperial Court and Provincial Warrior settings.
