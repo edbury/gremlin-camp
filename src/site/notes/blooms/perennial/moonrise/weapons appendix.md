@@ -1,5 +1,5 @@
 ---
-{"aliases":["weapons appendix","Weapons Appendix"],"date-created":"2025-03-05T08:32","date-modified":"2025-03-06T09:16","dg-publish":true,"tags":["moonrise"],"title":"Weapons Appendix","dg-path":"moonrise/weapons appendix.md","permalink":"/moonrise/weapons-appendix/","dgPassFrontmatter":true,"updated":"2025-03-06T09:16"}
+{"aliases":["weapons appendix","Weapons Appendix"],"date-created":"2025-03-05T08:32","date-modified":"2025-03-06T10:35","dg-publish":true,"tags":["moonrise"],"title":"Weapons Appendix","dg-path":"moonrise/weapons appendix.md","permalink":"/moonrise/weapons-appendix/","dgPassFrontmatter":true,"updated":"2025-03-06T10:35"}
 ---
 
 
@@ -55,7 +55,7 @@ This appendix seeks to gather all of the BWHQ weapon stats and mechanics in one 
 | Odachi             | 4    | 2   | 1   | 1   | Longer   | Two handed  |
 | Naginata           | 3    | 2   | 2   | 1   | Longer   | Two handed  |
 | Bastard Sword      | 3(4) | 2   | 2   | -   | Long     | Varies***   |
-| Rapier             | 1    | 1   | 4   | -   | Long     | One handed  |
+| Rapier             | 2    | 2   | 4   | -   | Long     | One handed  |
 | Whip****           | 1    | 2   | 2   | -   | Longest  | One handed  |
 
 ### Super Quality Weapons
@@ -73,7 +73,6 @@ This appendix seeks to gather all of the BWHQ weapon stats and mechanics in one 
 | Tachi              | 3    | 2   | 2   | 1   | Long     | One handed |
 | Mino Tachi         | 3    | 2   | 2   | 1   | Long     | One handed |
 | Bastard Sword      | 3(4) | 2   | 3   | 1   | Long     | Varies***  |
-| Rapier             | 1    | 1   | 4   | 1   | Long     | One handed |
 | Stiletto*****      | 1    | 1   | X   | 2   | Shortest | One handed |
 
 ### Special Weapons
