@@ -1,5 +1,5 @@
 ---
-{"aliases":["gear","Gear"],"date-created":"2023-11-29T18:30","date-modified":"2024-10-10T16:51","dg-publish":true,"tags":["moonrise"],"title":"Gear","dg-path":"moonrise/gear.md","permalink":"/moonrise/gear/","dgPassFrontmatter":true,"updated":"2024-10-10T16:51"}
+{"aliases":["gear","Gear"],"date-created":"2023-11-29T18:30","date-modified":"2025-03-08T17:24","dg-publish":true,"tags":["moonrise"],"title":"Gear","dg-path":"moonrise/gear.md","permalink":"/moonrise/gear/","dgPassFrontmatter":true,"updated":"2025-03-08T17:24"}
 ---
 
 
@@ -133,17 +133,9 @@ Leather bracers may only be used once per conflict.
 
 ™ Must be mounted and have Mounted Combat Training.
 
-### Bastard Sword
-
-A well-balanced longsword that may be used either one-handed or two-handed.
-
 ### Bola
 
 A simple hunting weapon used to entangle game or impede assailants. A successful test with a bola also grants impedes (+1 Ob) and immobilizes the victim. Unlike a sling, the bola itself is thrown; the wielder is disarmed until a new weapon is equipped. Bolas do not cause damage but grant +2D in Range and Cover maneuvers.
-
-### Buckler
-
-A small, round shield that doesn't impede your opportunity to attack.
 
 ### Harpoon
 
@@ -161,19 +153,11 @@ Hide shields only negate damage on a roll of 5-6. If you negate damage, roll 1d6
 
 ### Javelin
 
-Javelins are throwing weapons that bypass leather armor. You may carry a pair in your off hand, with or without a shield.
-
-### Rapier
-
-An ornate, thrusting sword made to pierce leather and hide. Unlike a sword, it cannot grant a bonus to defense.
+You may carry a pair in your off hand, with or without a shield.
 
 ### Sickle
 
 Sickles are improvised weapons. Characters with tools for Peasant skills may carry a sickle as part of their skill tools without using a pack slot.
-
-### Staff
-
-This simple staff is easy to fabricate, inexpensive to purchase and inordinately useful as a tool or as an improvised weapon.
 
 ### Stiletto
 
