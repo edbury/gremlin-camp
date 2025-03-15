@@ -1,5 +1,5 @@
 ---
-{"aliases":["The Harvest Moon Murders"],"date-created":"2025-01-03T20:22","date-modified":"2025-02-23T19:16","dg-publish":true,"id":"The Harvest Moon Murders","tags":["moonrise"],"title":"The Harvest Moon Murders","dg-path":"moonrise/The Harvest Moon Murders.md","permalink":"/moonrise/the-harvest-moon-murders/","dgPassFrontmatter":true,"updated":"2025-02-23T19:16"}
+{"aliases":["The Harvest Moon Murders"],"date-created":"2025-01-03T20:22","date-modified":"2025-03-09T17:21","dg-publish":true,"id":"The Harvest Moon Murders","tags":["moonrise"],"title":"The Harvest Moon Murders","dg-path":"moonrise/The Harvest Moon Murders.md","permalink":"/moonrise/the-harvest-moon-murders/","dgPassFrontmatter":true,"updated":"2025-03-09T17:21"}
 ---
 
 
@@ -537,9 +537,6 @@ Use the second column when the town Descends into Chaos (≤7 Major NPCs live).
 - [[blooms/perennial/moonrise/The Criminal\|The Criminal]] takes the golden-glass chalice.
 - A lot of shit happens. Ultimately, they steal the sword of Brandon which turns Dirk against them, then smash Alfred's glass coffin which fills the mound with sea water (which then begins leaking into the river).
 - They are now back outside the barrow, with Utoa, the sword, a tied up Dirk, and the mirror, preparing to leap to the Peddler's Estate.
-
-## Today's Session
-
 - Zigbor, one of [[Gashadokuro\|Gashadokuro]]'s true names.
 - They go through the mirror into the Egg Building and the neophyte identifies the heraldry of the Sabazios family, famous for their school of spear-fighting, from the Feudal Countryside.
 - The Courtier discovers four marked items among the personal belongings in the Egg. They are:
@@ -548,4 +545,8 @@ Use the second column when the town Descends into Chaos (≤7 Major NPCs live).
     - A Cloak, dark blue
     - A Weapon, spear
 - The far room/island is a half-cylindrical tower full of drawers that contain people's secrets. The floor is white marble. The secrets are always related to the character's traits.
--
+
+## Today's Session
+
+- Three part prophecy for The Princess.
+- Someone knows about the Corvid's Timepiece.

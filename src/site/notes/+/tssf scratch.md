@@ -1,5 +1,5 @@
 ---
-{"aliases":["Campaign Timeline","The Story So Far"],"date-created":"2025-03-15T00:00","date-modified":"2025-03-15T08:10","dg-publish":true,"tags":["moonrise","recap"],"title":"The Story So Far","dg-path":"moonrise/tssf.md","permalink":"/moonrise/tssf/","dgPassFrontmatter":true,"updated":"2025-03-15T08:10"}
+{"aliases":["Campaign Timeline","The Story So Far"],"date-created":"2025-03-15T00:00","date-modified":"2025-03-15T07:13","dg-publish":true,"tags":["moonrise","recap"],"title":"The Story So Far","permalink":"//tssf-scratch/","dgPassFrontmatter":true,"updated":"2025-03-15T07:13"}
 ---
 
 
@@ -8,12 +8,12 @@
 ## Year 1
 
 - [[The Shepherd\|The Shepherd]] gathers [[blooms/perennial/moonrise/The Brothers\|The Brothers]] from across the kingdom.
-    - [[The Barber\|The Barber]] from [[The Grinding Ice\|The Grinding Ice]].
-    - [[blooms/perennial/moonrise/The Criminal\|The Criminal]] from [[blooms/perennial/moonrise/The Scorching Desert\|The Scorching Desert]].
-    - [[blooms/perennial/moonrise/The Neophyte\|The Neophyte]] from [[blooms/perennial/moonrise/The Sweltering Jungle\|The Sweltering Jungle]].
-    - [[blooms/perennial/moonrise/The Peddler\|The Peddler]] from [[blooms/perennial/moonrise/The Feudal Countryside\|The Feudal Countryside]].
-    - [[blooms/perennial/moonrise/The Doorkeeper\|The Doorkeeper]] from [[blooms/perennial/moonrise/The Primeval Forest\|The Primeval Forest]].
-    - [[blooms/perennial/moonrise/The Page\|The Page]] from [[blooms/perennial/moonrise/The Misty Mountains\|The Misty Mountains]].
+  - [[The Barber\|The Barber]] from [[The Grinding Ice\|The Grinding Ice]].
+  - [[blooms/perennial/moonrise/The Criminal\|The Criminal]] from [[blooms/perennial/moonrise/The Scorching Desert\|The Scorching Desert]].
+  - [[blooms/perennial/moonrise/The Neophyte\|The Neophyte]] from [[blooms/perennial/moonrise/The Sweltering Jungle\|The Sweltering Jungle]].
+  - [[blooms/perennial/moonrise/The Peddler\|The Peddler]] from [[blooms/perennial/moonrise/The Feudal Countryside\|The Feudal Countryside]].
+  - [[blooms/perennial/moonrise/The Doorkeeper\|The Doorkeeper]] from [[blooms/perennial/moonrise/The Primeval Forest\|The Primeval Forest]].
+  - [[blooms/perennial/moonrise/The Page\|The Page]] from [[blooms/perennial/moonrise/The Misty Mountains\|The Misty Mountains]].
 
 ### Spring - The Misty Mountains
 
@@ -110,7 +110,7 @@
 #### The Magnate's Ship
 
 - [[blooms/perennial/moonrise/The Neophyte\|The Neophyte]] infects someone with [[Blood Lust\|Blood Lust]] at the den of iniquity.
-- [[Sviral\|Sviral]] sacrifices himself after being asked by [[blooms/perennial/moonrise/The Doorkeeper\|The Doorkeeper]], claiming it is all part of the plan. He gives [[blooms/perennial/moonrise/The Doorkeeper\|The Doorkeeper]] a sealed cylinder.
+- [[Sviral\|Sviral]] sacrifices himself after being asked by [[blooms/perennial/moonrise/The Doorkeeper\|The Doorkeeper]], claiming it is all part of the plan. He gives The Doorkeeper a sealed cylinder.
 - [[Derakus\|Derakus]] is a sneak thief.
 - [[blooms/perennial/moonrise/The Neophyte\|The Neophyte]] lies in the infirmary with [[Ada\|Ada]].
 - [[blooms/perennial/moonrise/The Criminal\|The Criminal]] and [[blooms/perennial/moonrise/The Page\|The Page]] search for a flower to help [[Ada\|Ada]] heal their brother.
@@ -119,11 +119,11 @@
 - [[Hendricks\|Hendricks]] is an NPC circled up by [[blooms/perennial/moonrise/The Doorkeeper\|The Doorkeeper]]; successful Circles but failed Intimidate.
 - [[blooms/perennial/moonrise/The Criminal\|The Criminal]] fails to summon his ghost and instead summons [[blooms/perennial/moonrise/The Peddler's Ghost\|The Peddler's Ghost]], "Bolero." He swears an oath to retrieve something that used to be part of [[blooms/perennial/moonrise/The Peddler\|The Peddler]]'s collection next time he is in the capital.
 - [[blooms/perennial/moonrise/The Doorkeeper\|The Doorkeeper]] uses Fairy Tale-Wise to determine a creature's weakness: light and a reminder of its true nature or former self.
-- [[blooms/perennial/moonrise/The Neophyte\|The Neophyte]] researches the map [[blooms/perennial/moonrise/The Doorkeeper\|The Doorkeeper]] got from [[The Man with No Name\|The Man with No Name]]:
-    - The [[Tears of the Sea\|Tears of the Sea]] are housed in the depths of the tower.
-    - The tower entrance is high up.
-    - The Strider's mantle is obtained through ritual combat.
-    - The tower is haunted, and the entity is sleeping.
+- [[blooms/perennial/moonrise/The Neophyte\|The Neophyte]] researches the map The Doorkeeper got from [[The Man with No Name\|The Man with No Name]]:
+  - The [[Tears of the Sea\|Tears of the Sea]] are housed in the depths of the tower.
+  - The tower entrance is high up.
+  - The Strider's mantle is obtained through ritual combat.
+  - The tower is haunted, and the entity is sleeping.
 - [[blooms/perennial/moonrise/The Page\|The Page]] successfully persuades [[Karrlo\|Karrlo]] in the infirmary, resulting in Karrlo penning a letter and swearing an oath to return to speak with his father regarding sending [[Duskwall\|Duskwall]]'s soldiers to defend the capital.
 - [[blooms/perennial/moonrise/The Criminal\|The Criminal]] encounters [[Sa'id\|Sa'id]], a criminal from the Scorching Sands and awful teacher.
 - [[blooms/perennial/moonrise/The Page\|The Page]] makes an enemy of [[The Cripple\|The Cripple]] in the mess.
@@ -132,11 +132,11 @@
 ### Fall - The Grinding Ice
 
 - [[blooms/perennial/moonrise/The Brothers\|The Brothers]] disembark from the ship.
-- Two undead man braziers where [[the long road\|the long road]] meets the Shimmering Sea; [[The Shepherd\|The Shepherd]] waits for them without his cart.
+- Two undead man braziers where [[The long road\|The long road]] meets the Shimmering Sea; [[The Shepherd\|The Shepherd]] waits for them without his cart.
 - Days into the journey, [[The Strider\|The Strider]] attacks the group during a snowstorm, shooting [[The Shepherd\|The Shepherd]]'s eye out.
-    - [[blooms/perennial/moonrise/The Page\|The Page]] pursues on horseback into the storm.
-    - [[blooms/perennial/moonrise/The Doorkeeper\|The Doorkeeper]] and [[blooms/perennial/moonrise/The Criminal\|The Criminal]] pursue on foot, hunting [[The Strider\|The Strider]].
-    - [[blooms/perennial/moonrise/The Doorkeeper\|The Doorkeeper]] confronts [[The Strider\|The Strider]], and she pleads for him to abandon his quest. He agrees to combat her later and shoots her when she turns her back. The arrow breaks, unable to pierce her flesh, and she leaves without turning.
+  - [[blooms/perennial/moonrise/The Page\|The Page]] pursues on horseback into the storm.
+  - [[blooms/perennial/moonrise/The Doorkeeper\|The Doorkeeper]] and [[blooms/perennial/moonrise/The Criminal\|The Criminal]] pursue on foot, hunting [[The Strider\|The Strider]].
+  - [[blooms/perennial/moonrise/The Doorkeeper\|The Doorkeeper]] confronts [[The Strider\|The Strider]], and she pleads for him to abandon his quest. He agrees to combat her later and shoots her when she turns her back. The arrow breaks, unable to pierce her flesh, and she leaves without turning.
 - After a week, [[The Man With No Name\|The Man With No Name]] approaches the party near the tower, offering [[blooms/perennial/moonrise/The Doorkeeper\|The Doorkeeper]] a black arrow that can kill [[The Strider\|The Strider]] in exchange for a deal. [[blooms/perennial/moonrise/The Doorkeeper\|The Doorkeeper]] talks him into handing over the black arrow as a sign of good faith.
 - [[The Shepherd\|The Shepherd]] says goodbye at the base of the tower, wishing [[blooms/perennial/moonrise/The Doorkeeper\|The Doorkeeper]] luck. [[blooms/perennial/moonrise/The Page\|The Page]] offers some water from his marked wineskin, but it smells like piss, leading [[The Shepherd\|The Shepherd]] to think it is a prank.
 
@@ -167,17 +167,17 @@
 - [[blooms/perennial/moonrise/The Criminal\|The Criminal]], [[blooms/perennial/moonrise/The Peddler\|The Peddler]], and [[blooms/perennial/moonrise/The Neophyte\|The Neophyte]] take their oaths.
 - [[blooms/perennial/moonrise/The Doorkeeper\|The Doorkeeper]] seeks out someone in [[blooms/perennial/moonrise/The Order\|The Order]] who can train him in meditation and his duties. [[Mother Zabor\|Mother Zabor]] is assigned to keep an eye on him during the course of Winter. She trains and instructs him.
 - [[blooms/perennial/moonrise/The Neophyte\|The Neophyte]] uses the library in the [[Tower of the Moon\|Tower of the Moon]] to do research:
-    - The scroll case contains a deed to an estate [[blooms/perennial/moonrise/The Peddler's Ghost\|The Peddler's Ghost]] used to own in [[blooms/perennial/moonrise/The Primeval Forest\|The Primeval Forest]].
+  - The scroll case contains a deed to an estate [[blooms/perennial/moonrise/The Peddler's Ghost\|The Peddler's Ghost]] used to own in [[blooms/perennial/moonrise/The Primeval Forest\|The Primeval Forest]].
 - [[blooms/perennial/moonrise/The Criminal\|The Criminal]] cases [[The Palace\|The Palace]] and discovers the route the trolley will take, but a getaway route is discovered by the palace guards.
 - [[blooms/perennial/moonrise/The Page\|The Page]] seeks out [[Karyl Forge-Priest\|Karyl Forge-Priest]].
 - [[blooms/perennial/moonrise/The Page\|The Page]] seeks out [[Gregor Manzak\|Gregor Manzak]].
 - [[blooms/perennial/moonrise/The Neophyte\|The Neophyte]] asks another Neophyte about the [[Alchemist of the Primeval Forest\|Alchemist of the Primeval Forest]].
 - [[blooms/perennial/moonrise/The Peddler\|The Peddler]] visits the Archives to discover the location of Marion: Questers
-    - Asks about [[The Tinker\|The Tinker]], fails, and gets the location of the Dwarven Tinker, across the world.
+  - Asks about [[The Tinker\|The Tinker]], fails, and gets the location of the Dwarven Tinker, across the world.
 - [[blooms/perennial/moonrise/The Doorkeeper\|The Doorkeeper]] returns to Briar Rosewood and warns her not to fuck with him.
 - [[blooms/perennial/moonrise/The Neophyte\|The Neophyte]] fails a Research on two questions
-    - What is the figurine? It's incredibly fragile.
-    - What is the glass case? It prevents all magic.
+  - What is the figurine? It's incredibly fragile.
+  - What is the glass case? It prevents all magic.
 
 #### Rats in the Bathhouse
 
@@ -212,41 +212,149 @@
 
 ## Year 3
 
+[This is where the order of events starts to get messy. I will lay out a more complete version of the headings, indicating when certain events have happened. Your generated content is below that.]
+
 ### Spring - The Primeval Forest
 
 #### The Greenwood
 
-- [[blooms/perennial/moonrise/The Brothers\|The Brothers]] join a caravan heading to [[blooms/perennial/moonrise/Brandonsford\|Brandonsford]]. Among others, it includes [[The Pilgrim\|The Pilgrim]] and [[The Herald\|The Herald]].
-- [[blooms/perennial/moonrise/The Brothers\|The Brothers]] encounter [[The Horrible Bastard\|The Horrible Bastard]] and kill a troll to defend the caravan.
+[They join a caravan heading to Brandonsford. Among others, it includes [[The Pilgrim\|The Pilgrim]] and [[The Herald\|The Herald]]. They encounter [[The Horrible Bastard\|The Horrible Bastard]] and kill a troll to defend the caravan.]
 
 ##### Brandonsford
 
-- [[blooms/perennial/moonrise/The Brothers\|The Brothers]] make their first stop on the way to [[Auntie's House\|Auntie's House]].
-- [[blooms/perennial/moonrise/The Neophyte\|The Neophyte]] meets [[The Albino\|The Albino]], his Roden teacher/mentor/master.
-- [[blooms/perennial/moonrise/The Neophyte\|The Neophyte]] robs an herbalist's shop.
+[This is just their first stop on the way to Auntie's House, etc. Almost nothing happens. This is where The Neophyte meets The Albino, his Roden teacher/mentor/master. The Neophyte also robs an herbalist's shop.]
 
 ##### Auntie's House
 
-- [[blooms/perennial/moonrise/The Brothers\|The Brothers]] find out more about the blight infecting the [[Silk Veil\|Silk Veil]].
-- They encounter a blighted deer.
-- [[blooms/perennial/moonrise/The Page\|The Page]] loses a hand after it becomes infected.
+[They find out more about the blight infecting the Silk Veil. They encounter a blighted deer. The Page loses a hand after it becomes infected.]
 
-##### The Doorkeeper's Cottage
+##### The Doorkeeper's Cabin
 
-- [[blooms/perennial/moonrise/The Brothers\|The Brothers]] visit [[The Doorkeeper's Cottage\|The Doorkeeper's Cottage]], which features:
-    - Above ground feature: Towering, Ancient Bones
-    - Below ground feature: Finger Flutings
-    - A back room containing a crib
+[Another quick visit. There are some huge bones growing out of the ground in front of the cabin.]
 
 ##### The Haunting of Whispering Hollow
 
-- [[blooms/perennial/moonrise/The Brothers\|The Brothers]] encounter a group of young nobles heading toward an abandoned estate called [[Whispering Hollow\|Whispering Hollow]].
-- [[blooms/perennial/moonrise/The Criminal\|The Criminal]] refuses to pull over and let the nobles pass. Billy offers to drive the party's cart so that [[blooms/perennial/moonrise/The Criminal\|The Criminal]] can eat.
-- [[blooms/perennial/moonrise/The Neophyte\|The Neophyte]] drives the nobles' carriage to [[Whispering Hollow\|Whispering Hollow]], snagging its roof on the bottom of a hanging sign when turning down the road to the estate.
-- [[blooms/perennial/moonrise/The Brothers\|The Brothers]] also encounter [[The Nurse\|The Nurse]] (a new PC who has joined the game), who is traveling with the nobles.
-- At [[Whispering Hollow\|Whispering Hollow]], [[Yvette\|Yvette]] triggers the estate's defenses, causing most NPCs to flee out onto the grounds.
+[The entire adventure as written in the Whispering Hollow notes happens at this time.]
+
+#### The Silk Veil
+
+[Traveling dayward, the Brothers cross into the civil twilight for the first time.]
+
+##### Trouble in Dawn's Perch
+
+[All the stuff in the infected village from Trouble in Hochen and Dinner for One happens here. They fight some cultists, find an infected god-tree in the woods, set it on fire, then go to the lord's manor house, fight him and some infected servants, and set the manor on fire.]
+
+[This is also where The Albino has been asked to be taken, as he lives in the woods outside of Dawn's Perch.]
+
+#### Takahara
+
+[The Brothers travel across the civil twilight, locating the hidden, mist-shrouded city of Takahara after being intercepted by the city's ninja-like guards.]
+
+##### The Pagoda of Shadows
+
+- [[blooms/perennial/moonrise/The Brothers\|The Brothers]] infiltrate [[Kegare Sōhei\|Kegare Sōhei]]'s pagoda
+- [[blooms/perennial/moonrise/The Criminal\|The Criminal]] is rescued from a preparation chamber in the basement
+- [[blooms/perennial/moonrise/The Brothers\|The Brothers]] defeat animated armors containing trapped human souls
+- [[blooms/perennial/moonrise/The Brothers\|The Brothers]] discover various ways to navigate the pagoda's strange architecture through darkness and paintings
+- [[blooms/perennial/moonrise/The Doorkeeper\|The Doorkeeper]] becomes diseased after gaining a Corruption trait
+- [[blooms/perennial/moonrise/The Criminal\|The Criminal]] finds a demon skull and [[The Sword of Hungry Shadows\|The Sword of Hungry Shadows]] in the observatory
+- [[Kegare Sōhei\|Kegare Sōhei]] reveals his plan to force a Dark Spirit from Takahara's sacred Jinju tree to [[blooms/perennial/moonrise/The Capital\|The Capital]]
+- [[blooms/perennial/moonrise/The Neophyte\|The Neophyte]] temporarily allows the demon [[Gashadokuro\|Gashadokuro]] to possess him to defeat [[Kegare Sōhei\|Kegare Sōhei]]
+- [[blooms/perennial/moonrise/The Doorkeeper\|The Doorkeeper]] is mortally wounded in the fight
+- [[blooms/perennial/moonrise/The Brothers\|The Brothers]] deliver forbidden scrolls to the Emperor
+- The Emperor grants [[blooms/perennial/moonrise/The Brothers\|The Brothers]] access to Takahara's resources and medical care for [[blooms/perennial/moonrise/The Doorkeeper\|The Doorkeeper]]
+
+##### Town Phase in Takahara
+
+### Summer - The Primeval Forest
+
+[[[The Brothers\|[The Brothers]] reverse course, picking up The Albino on their way back to the Nautical Twilight/Greenwood.]
+
+#### The Greenwood
+
+[This is where the Brothers encounter a bunch of leaflets nailed to trees explaining that the Briargate is closing and encouraging citizens to flee to the Capital. It's also where they encounter signs that Brandonsford is on strike.]
+
+##### Brandonsford
+
+[This is where the first phase of Harvest Moon Murders happens.]
+
+##### The Peddler's Estate
+
+[There is an early and brief jaunt to the peddler's estate via the mirror. The Criminal becomes marked by Kurgl, a shitty little imp, but also gains the ability to control the mirror. They return to Brandonsford via mirror.]
+
+##### Brandonsford
+
+[They come back to Brandonsford to find the townspeople being magically peeled like apples, a power of One of Many, apparently. They basically let the town fend for itself while continuing their investigation of the demon. Failing to intervene results in a few dozen deaths. They take the mirror from Bentley's bar and put it in their cart, so that they can travel to the Peddler's Estate when needed.]
+
+##### The Giant's Cottage
+
+[Traveling north to the barrow of ser brandon, in search of a holy blade to fight One of Many with, they stop at a Giant's Cottage and rescue Brother Dirk.]
+
+##### The Barrow of Ser Brandon
+
+[They meet Utoa, a woman warrior and fey creature (tho the Brothers do not know this) outside the Barrow. The speaks Soran, the language of Takahara, albeit poorly. This is how they communicate with her. Inside the Barrow, a bunch of wild stuff happens. They loot the tomb thoroughly, stealing the sword of ser brandon among other items. Desecrating the tomb leads to it filling with salt water, which then poisons the river.]
+
+##### The Peddler's Estate
+
+[The Brothers return to the Peddler's Estate via the mirror. They encounter a ton of weird stuff in weird buildings, eventually uncovering the demon's containment chamber and it's true nature. The Criminal is contacted by The Dreaming Mother. She asks him to return One of Many (her "son") to her, at the edge of Night. The Criminal convinces the party to comply.]
+
+
+#### The Edge of Night
+
+[They venture a week nightward into the actual border of Night and free One of Many. It is a small Night Rat, immediately devoured by/returned to a sea of Night Rats that are somehow related to The Dreaming Mother. She appears to The Criminal and offers her a bead of her sweat to drink. Upon drinking, The Criminal becomes a Believer (gains the trait) and is forgiven for all her past sins, melting the Forge Mask that has been adhered to her face.]
+
+#### The Greenwood
+
+[The Brothers travel back toward the Twilight and the Peddler's estate. They use the mirror to return to the Barrow of Ser Brandon, Utoa indicates she is going home and points to a fawn's grove on the Neophyte's map. She leaves them and The Brothers travel back toward Brandonsford.]
+
+##### Brandonsford - Town Phase
+
+[The Brothers are about to start Town Phase in a Brandonsford that has been severely depopulated and is now facing a brackish river.]
+
+---Below this line is not canon yet.---
+
+### Spring - The Primeval Forest
+
+#### The Greenwood
+
+- [[blooms/perennial/moonrise/The Brothers\|The Brothers]] arrive at [[blooms/perennial/moonrise/Brandonsford\|Brandonsford]] to investigate a blight threatening the forest and its inhabitants, along with securing medicinal herbs for the capital.
+- The town is fractured under multiple pressures:
+  - Two brutal murders have destabilized local authority
+  - Agricultural workers strike during critical harvest time
+  - [[The Briargate\|The Briargate]]'s imminent closure threatens to cut the town off from [[blooms/perennial/moonrise/The Capital\|The Capital]] entirely
+
+##### Brandonsford
+
+- [[blooms/perennial/moonrise/The Brothers\|The Brothers]] discover that town reeve [[Eric the Reeve\|Eric the Reeve]] and the head of Town Watch have been murdered.
+- [[blooms/perennial/moonrise/The Criminal\|The Criminal]] warns the townspeople about the dangers of the coming undead.
+- [[The Herald\|The Herald]] conveys a message from [[The Iron Will\|The Iron Will]] to [[blooms/perennial/moonrise/The Courtier\|The Courtier]]: we're watching and you need to resolve this situation.
+- [[blooms/perennial/moonrise/The Neophyte\|The Neophyte]] discovers that the herbalist he had robbed during the first visit was actually [[Marion\|Marion]]! She appears to have no memory of the encounter and is chuffed by The Neophyte's effort to put things right.
+- The party discovers the murders are being committed by townsfolk who have gazed into the enchanted mirror behind the bar of [[The Clumsy Fox\|The Clumsy Fox]].
+- [[Bentley\|Bentley]], the tavern keeper, has been using the mirror to compel townspeople to act on their darkest impulses.
+- [[Old Nan\|Old Nan]] is possessed by a creature at the estate and is defeated by [[blooms/perennial/moonrise/The Neophyte\|The Neophyte]], who discovers she has been possessed but not by what.
+- [[The Alchemist\|The Alchemist]] hosts a party where [[blooms/perennial/moonrise/The Brothers\|The Brothers]] discover that another killer is present.
+- [[Marion\|Marion]] is ensorcelled:
+  - [[blooms/perennial/moonrise/The Courtier\|The Courtier]] uses her fan to determine this and that: the spell is being sustained by someone, the effect is that she cannot remember "anything that would break her heart", and that she did not willingly take on the spell.
+  - She can't remember anything about [[The Duelist\|The Duelist]], nothing at all.
+- [[blooms/perennial/moonrise/The Neophyte\|The Neophyte]] allows [[Gashadokuro\|Gashadokuro]] to temporarily possess him to defeat [[Bentley\|Bentley]].
+- When [[blooms/perennial/moonrise/Sergeant Doolish\|Sergeant Doolish]] arrives, [[blooms/perennial/moonrise/The Brothers\|The Brothers]] flee through the tavern's mirror.
+
+##### The Doorkeeper's Cottage
+
+- [[blooms/perennial/moonrise/The Brothers\|The Brothers]] discover [[The Doorkeeper's Cottage\|The Doorkeeper's Cottage]], which features:
+  - Above ground feature: Towering, Ancient Bones
+  - Below ground feature: Finger Flutings
+  - A back room containing a crib
+
+##### The Haunting of Whispering Hollow
+
+- [[blooms/perennial/moonrise/The Brothers\|The Brothers]] encounter a group of young nobles heading toward an abandoned estate called Whispering Hollow.
+- [[blooms/perennial/moonrise/The Criminal\|The Criminal]] refused to pull over and let the nobles pass. Billy offered to drive the party's cart so that The Criminal could eat.
+- [[blooms/perennial/moonrise/The Neophyte\|The Neophyte]] drove the nobles' carriage to Whispering Hollow, snagging its roof on the bottom of a hanging sign when turning down the road to the estate.
+- [[blooms/perennial/moonrise/The Brothers\|The Brothers]] also encountered [[The Nurse\|The Nurse]] (a new PC who has joined the game), who was traveling with the nobles.
+- At Whispering Hollow, [[Yvette\|Yvette]] triggers the estate's defenses, causing most NPCs to flee out onto the grounds.
 - [[blooms/perennial/moonrise/The Brothers\|The Brothers]] discover [[Yvette\|Yvette]] is the Copycat Killer, emulating the true Slasher that haunts the property.
-- [[blooms/perennial/moonrise/The Neophyte\|The Neophyte]] and [[blooms/perennial/moonrise/The Doorkeeper\|The Doorkeeper]] encounter [[Yvette\|Yvette]] at the Lakeside Dock, where [[blooms/perennial/moonrise/The Neophyte\|The Neophyte]] uses his Aura of Fear to disable and then kill her.
+- [[blooms/perennial/moonrise/The Neophyte\|The Neophyte]] and [[blooms/perennial/moonrise/The Doorkeeper\|The Doorkeeper]] encounter [[Yvette\|Yvette]] at the Lakeside Dock, where The Neophyte uses his Aura of Fear to disable and then kill her.
 - [[blooms/perennial/moonrise/The Criminal\|The Criminal]] encounters the true Slasher in the Wine Cellar but manages to escape.
 - [[blooms/perennial/moonrise/The Doorkeeper\|The Doorkeeper]] discovers the Secret Chamber but flees immediately.
 - [[blooms/perennial/moonrise/The Doorkeeper\|The Doorkeeper]] acquires the [[Phantom Cloak\|Phantom Cloak]], which renders the wearer in grayscale.
@@ -256,11 +364,7 @@
 
 ##### Trouble in Dawn's Perch
 
-- [[blooms/perennial/moonrise/The Brothers\|The Brothers]] travel to [[+/Dawn's Perch\|Dawn's Perch]], a settlement in the dawnward region of the forest.
-- They fight some cultists and find an infected god-tree in the woods.
-- [[blooms/perennial/moonrise/The Brothers\|The Brothers]] set the infected tree on fire.
-- They go to the lord's manor house, fight him and some infected servants, and set the manor on fire.
-- This is also where [[The Albino\|The Albino]] has been asked to be taken, as he lives in the woods outside of [[+/Dawn's Perch\|Dawn's Perch]].
+- [[blooms/perennial/moonrise/The Brothers\|The Brothers]] travel to Dawn's Perch, a settlement in the dawnward region of the forest.
 - [[Rachel Parque\|Rachel Parque]] erupts and takes hold of three townspeople, all four of whom are peeling like apples.
 
 ##### The Pagoda of Shadows
@@ -282,89 +386,18 @@
 - [[blooms/perennial/moonrise/The Brothers\|The Brothers]] liquidate almost everything they own for resources.
 - They discover correspondence between [[The Princess\|The Princess]] and [[Kegare Sōhei\|Kegare Sōhei]] about a shared project and "friend."
 
-### Summer - The Primeval Forest
-
-- [[blooms/perennial/moonrise/The Brothers\|The Brothers]] reverse course, picking up [[The Albino\|The Albino]] on their way back to the Nautical Twilight/Greenwood.
-
-#### The Greenwood
-
-- [[blooms/perennial/moonrise/The Brothers\|The Brothers]] encounter a bunch of leaflets nailed to trees explaining that the Briargate is closing and encouraging citizens to flee to [[blooms/perennial/moonrise/The Capital\|The Capital]].
-- They also encounter signs that [[blooms/perennial/moonrise/Brandonsford\|Brandonsford]] is on strike.
-
-##### Brandonsford
-
-- [[blooms/perennial/moonrise/The Brothers\|The Brothers]] arrive at [[blooms/perennial/moonrise/Brandonsford\|Brandonsford]] to investigate a blight threatening the forest and its inhabitants, along with securing medicinal herbs for the capital.
-- The town is fractured under multiple pressures:
-    - Two brutal murders have destabilized local authority
-    - Agricultural workers strike during critical harvest time
-    - [[The Briargate\|The Briargate]]'s imminent closure threatens to cut the town off from [[blooms/perennial/moonrise/The Capital\|The Capital]] entirely
-- [[blooms/perennial/moonrise/The Brothers\|The Brothers]] discover that town reeve [[Eric the Reeve\|Eric the Reeve]] and the head of Town Watch have been murdered.
-- [[blooms/perennial/moonrise/The Criminal\|The Criminal]] warns the townspeople about the dangers of the coming undead.
-- [[The Herald\|The Herald]] conveys a message from [[The Iron Will\|The Iron Will]] to [[blooms/perennial/moonrise/The Courtier\|The Courtier]]: we're watching and you need to resolve this situation.
-- [[blooms/perennial/moonrise/The Neophyte\|The Neophyte]] discovers that the herbalist he had robbed during the first visit was actually [[Marion\|Marion]]! She appears to have no memory of the encounter and is chuffed by [[blooms/perennial/moonrise/The Neophyte\|The Neophyte]]'s effort to put things right.
-- The party discovers the murders are being committed by townsfolk who have gazed into the enchanted mirror behind the bar of [[The Clumsy Fox\|The Clumsy Fox]].
-- [[Bentley\|Bentley]], the tavern keeper, has been using the mirror to compel townspeople to act on their darkest impulses.
-- [[Old Nan\|Old Nan]] is possessed by a creature at the estate and is defeated by [[blooms/perennial/moonrise/The Neophyte\|The Neophyte]], who discovers she has been possessed but not by what.
-- [[The Alchemist\|The Alchemist]] hosts a party where [[blooms/perennial/moonrise/The Brothers\|The Brothers]] discover that another killer is present.
-- [[Marion\|Marion]] is ensorcelled:
-    - [[blooms/perennial/moonrise/The Courtier\|The Courtier]] uses her fan to determine this and that: the spell is being sustained by someone, the effect is that she cannot remember "anything that would break her heart", and that she did not willingly take on the spell.
-    - She can't remember anything about [[The Duelist\|The Duelist]], nothing at all.
-- [[blooms/perennial/moonrise/The Neophyte\|The Neophyte]] allows [[Gashadokuro\|Gashadokuro]] to temporarily possess him to defeat [[Bentley\|Bentley]].
-- When [[blooms/perennial/moonrise/Sergeant Doolish\|Sergeant Doolish]] arrives, [[blooms/perennial/moonrise/The Brothers\|The Brothers]] flee through the tavern's mirror.
-- They come back to [[blooms/perennial/moonrise/Brandonsford\|Brandonsford]] to find the townspeople being magically peeled like apples, a power of One of Many, apparently.
-- They basically let the town fend for itself while continuing their investigation of the demon.
-- Failing to intervene results in a few dozen deaths.
-- They take the mirror from [[Bentley\|Bentley]]'s bar and put it in their cart, so that they can travel to the [[Peddler's Estate\|Peddler's Estate]] when needed.
-
-##### The Peddler's Estate
-
-- There is an early and brief jaunt to the [[Peddler's Estate\|Peddler's Estate]] via the mirror.
-- [[blooms/perennial/moonrise/The Criminal\|The Criminal]] becomes marked by Kurgl, a shitty little imp, but also gains the ability to control the mirror.
-- They return to [[blooms/perennial/moonrise/Brandonsford\|Brandonsford]] via mirror.
-
-##### The Giant's Cottage
-
-- Traveling north to the [[Barrow of Ser Brandon\|Barrow of Ser Brandon]], in search of a holy blade to fight One of Many with, they stop at a Giant's Cottage and rescue [[Brother Dirk\|Brother Dirk]].
-
 ##### The Barrow of Ser Brandon
 
-- They meet Utoa, a woman warrior and fey creature (though [[blooms/perennial/moonrise/The Brothers\|The Brothers]] do not know this) outside the Barrow. She speaks Soran, the language of Takahara, albeit poorly. This is how they communicate with her.
-- Inside the Barrow, a bunch of wild stuff happens.
-- [[blooms/perennial/moonrise/The Brothers\|The Brothers]] loot the tomb thoroughly, stealing the sword of Ser Brandon among other items.
-- Desecrating the tomb leads to it filling with salt water, which then poisons the river.
-- They leap through a mirror, landing on one of many islands in a placid lake filled with meat vines.
+- [[blooms/perennial/moonrise/The Brothers\|The Brothers]] leap through a mirror, landing on one of many islands in a placid lake filled with meat vines.
 - They meet [[Grimylgus\|Grimylgus]]. He reveals the holy sword of Brandon, the book of saints, and the jeweled cutlass (actually a rapier).
+- They run into [[The Giant's Cottage\|The Giant's Cottage]] on the way to [[The Barrow of Ser Brandon\|The Barrow of Ser Brandon]].
+- They rescue [[Brother Dirk\|Brother Dirk]], a dwarven pilgrim, and rob the giant. Dirk is on his way to Brandon's Barrow as well.
 - [[blooms/perennial/moonrise/The Neophyte\|The Neophyte]] updates his maps to include Takahara and the southern forest.
 - [[Brother Dirk\|Brother Dirk]] tells them about Ser Brandon's buried fellows.
 - [[blooms/perennial/moonrise/The Criminal\|The Criminal]] summons [[Limerick, the Standard Bearer\|Limerick, the Standard Bearer]] and bargains for his service for a year.
 - [[blooms/perennial/moonrise/The Criminal\|The Criminal]] takes the golden-glass chalice.
-- They steal the sword of Brandon which turns [[Brother Dirk\|Brother Dirk]] against them, then smash Alfred's glass coffin which fills the mound with sea water (which then begins leaking into the river).
-- They return outside the barrow, with Utoa, the sword, a tied up [[Brother Dirk\|Brother Dirk]], and the mirror, preparing to leap to the [[Peddler's Estate\|Peddler's Estate]].
-
-##### The Peddler's Estate
-
-- [[blooms/perennial/moonrise/The Brothers\|The Brothers]] return to the [[Peddler's Estate\|Peddler's Estate]] via the mirror.
-- They encounter a ton of weird stuff in weird buildings, eventually uncovering the demon's containment chamber and its true nature.
-- [[blooms/perennial/moonrise/The Criminal\|The Criminal]] is contacted by The Dreaming Mother. She asks him to return One of Many (her "son") to her, at the edge of Night.
-- [[blooms/perennial/moonrise/The Criminal\|The Criminal]] convinces the party to comply.
-
-#### The Edge of Night
-
-- They venture a week nightward into the actual border of Night and free One of Many.
-- It is a small Night Rat, immediately devoured by/returned to a sea of Night Rats that are somehow related to The Dreaming Mother.
-- She appears to [[blooms/perennial/moonrise/The Criminal\|The Criminal]] and offers her a bead of her sweat to drink.
-- Upon drinking, [[blooms/perennial/moonrise/The Criminal\|The Criminal]] becomes a Believer (gains the trait) and is forgiven for all her past sins, melting the Forge Mask that has been adhered to her face.
-
-#### The Greenwood
-
-- [[blooms/perennial/moonrise/The Brothers\|The Brothers]] travel back toward the Twilight and the [[Peddler's Estate\|Peddler's Estate]].
-- They use the mirror to return to the [[Barrow of Ser Brandon\|Barrow of Ser Brandon]].
-- Utoa indicates she is going home and points to a fawn's grove on [[blooms/perennial/moonrise/The Neophyte\|The Neophyte]]'s map.
-- She leaves them and [[blooms/perennial/moonrise/The Brothers\|The Brothers]] travel back toward [[blooms/perennial/moonrise/Brandonsford\|Brandonsford]].
-
-##### Brandonsford - Town Phase
-
-- [[blooms/perennial/moonrise/The Brothers\|The Brothers]] are about to start Town Phase in a [[blooms/perennial/moonrise/Brandonsford\|Brandonsford]] that has been severely depopulated and is now facing a brackish river.
+- They steal the sword of Brandon which turns Dirk against them, then smash Alfred's glass coffin which fills the mound with sea water (which then begins leaking into the river).
+- They return outside the barrow, with Utoa, the sword, a tied up Dirk, and the mirror, preparing to leap to the Peddler's Estate.
 
 ### Ongoing Missions
 
