@@ -1,5 +1,5 @@
 ---
-{"aliases":["Campaign Timeline","The Story So Far"],"date-created":"2025-03-15T00:00","date-modified":"2025-03-15T08:10","dg-publish":true,"tags":["moonrise","recap"],"title":"The Story So Far","dg-path":"moonrise/tssf.md","permalink":"/moonrise/tssf/","dgPassFrontmatter":true,"updated":"2025-03-15T08:10"}
+{"aliases":["Campaign Timeline","The Story So Far"],"date-created":"2025-03-15T00:00","date-modified":"2025-03-15T08:14","dg-publish":true,"tags":["moonrise",{"recap title":"The Story So Far"}],"title":"The Story So Far","dg-path":"moonrise/tssf.md","permalink":"/moonrise/tssf/","dgPassFrontmatter":true,"updated":"2025-03-15T08:14"}
 ---
 
 
@@ -365,11 +365,3 @@
 ##### Brandonsford - Town Phase
 
 - [[blooms/perennial/moonrise/The Brothers\|The Brothers]] are about to start Town Phase in a [[blooms/perennial/moonrise/Brandonsford\|Brandonsford]] that has been severely depopulated and is now facing a brackish river.
-
-### Ongoing Missions
-
-- [[blooms/perennial/moonrise/The Criminal\|The Criminal]] must fulfill his oath to [[blooms/perennial/moonrise/The Peddler's Ghost\|Bolero]] to retrieve something from [[blooms/perennial/moonrise/The Peddler's Ghost\|The Peddler's Ghost]]'s collection.
-- [[blooms/perennial/moonrise/The Brothers\|The Brothers]] must continue investigating the blight threatening the Primeval Forest and secure medicinal herbs for the capital.
-- [[blooms/perennial/moonrise/The Doorkeeper\|The Doorkeeper]] has sworn to burn down [[blooms/perennial/moonrise/The Order\|The Order]] if it proves to be an enemy.
-- [[blooms/perennial/moonrise/The Neophyte\|The Neophyte]] seeks to recruit as many Wardens as possible to his cause.
-- [[blooms/perennial/moonrise/The Page\|The Page]] is committed to his loyalty to [[The Princess\|The Princess]] while harboring her secret about [[blooms/perennial/moonrise/The Prisoner\|The Prisoner]].
