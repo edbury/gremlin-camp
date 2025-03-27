@@ -1,5 +1,5 @@
 ---
-{"id":"-Wises","aliases":["-Wises","Our Gathered Knowledge"],"tags":["moonrise"],"date-created":"2024-08-29T09:08","date-modified":"2024-12-28T15:04","dg-publish":true,"title":"Our Gathered Knowledge","dg-path":"moonrise/-Wises.md","permalink":"/moonrise/wises/","dgPassFrontmatter":true,"updated":"2024-12-28T15:04"}
+{"aliases":["-Wises","Our Gathered Knowledge"],"date-created":"2024-08-29T09:08","date-modified":"2025-03-25T12:32","dg-publish":true,"id":"-Wises","tags":["moonrise"],"title":"Our Gathered Knowledge","dg-path":"moonrise/-Wises.md","permalink":"/moonrise/wises/","dgPassFrontmatter":true,"updated":"2025-03-25T12:32"}
 ---
 
 
@@ -48,3 +48,7 @@
 
 - The nature of the threat in Whispering Hollow.
 - The Whisper Stone exists.
+
+## Treasure-wise
+
+-
