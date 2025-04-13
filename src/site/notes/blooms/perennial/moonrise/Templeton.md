@@ -17,7 +17,7 @@ Blasphemers who disrespect these ancient legends are publicly humiliated in the 
 
 ## Getting Around
 
-- [[Dockshore\|Dockshore]]: On foot; Carriage Ob 1
+- [[+/Dockshore\|Dockshore]]: On foot; Carriage Ob 1
 - [[Questers\|Questers]]: Carriage Ob 2
 - [[Scaffolding\|Scaffolding]]: Carriage Ob 2
 - [[blooms/perennial/moonrise/The High City\|The High City]]: On foot; Carriage Ob 1

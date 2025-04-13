@@ -1,5 +1,5 @@
 ---
-{"aliases":["-Wises","Our Gathered Knowledge"],"date-created":"2024-08-29T09:08","date-modified":"2025-03-25T12:32","dg-publish":true,"id":"-Wises","tags":["moonrise"],"title":"Our Gathered Knowledge","dg-path":"moonrise/-Wises.md","permalink":"/moonrise/wises/","dgPassFrontmatter":true,"updated":"2025-03-25T12:32"}
+{"aliases":["-Wises","Our Gathered Knowledge"],"date-created":"2024-08-29T09:08","date-modified":"2025-03-30T13:09","dg-publish":true,"id":"-Wises","tags":["moonrise"],"title":"Our Gathered Knowledge","dg-path":"moonrise/-Wises.md","permalink":"/moonrise/wises/","dgPassFrontmatter":true,"updated":"2025-03-30T13:09"}
 ---
 
 
@@ -40,6 +40,8 @@
 
 ## Onmyoji-wise
 
+## Forest-wise
+
 ## Vengeful Spirit-Wise
 
 - Destroying the vessel a spirit is bound to will also destroy the spirit.
@@ -50,5 +52,3 @@
 - The Whisper Stone exists.
 
 ## Treasure-wise
-
--

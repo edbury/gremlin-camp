@@ -1,5 +1,5 @@
 ---
-{"aliases":["The Capital, Highwater","Highwater"],"date-created":"2024-03-08T10:47","date-modified":"2024-08-28T12:47","dg-publish":true,"tags":["moonrise"],"title":"The Capital, Highwater","dg-path":"moonrise/The Capital.md","permalink":"/moonrise/the-capital/","dgPassFrontmatter":true,"updated":"2024-08-28T12:47"}
+{"aliases":["The Capital, Highwater","The Capital, Highwater","Highwater"],"date-created":"2024-03-08T10:47","date-modified":"2025-03-29T16:18","dg-publish":true,"tags":["moonrise"],"title":"The Capital, Highwater","dg-path":"moonrise/The Capital.md","permalink":"/moonrise/the-capital/","dgPassFrontmatter":true,"updated":"2025-03-29T16:18"}
 ---
 
 
@@ -25,7 +25,7 @@ Highwater's got six distinct neighborhoods, each a town unto itself with its own
 
 The six districts are:
 
-- [[Dockshore\|Dockshore]]
+- [[+/Dockshore\|Dockshore]]
 - [[Middenmire\|Middenmire]]
 - [[Questers\|Questers]]
 - [[Scaffolding\|Scaffolding]]
@@ -36,7 +36,7 @@ The six districts are:
 
 Almost everyone enters the bustling metropolis from one of these three locations:
 
-- Sea vessels arrive at the [[Customhouse\|Customhouse]] in [[Dockshore\|Dockshore]].
+- Sea vessels arrive at the [[Customhouse\|Customhouse]] in [[+/Dockshore\|Dockshore]].
 - Those with the means enter through [[The King's Gate\|The King's Gate]] in [[blooms/perennial/moonrise/Templeton\|Templeton]].
 - Most poor wretches just pass through [[The Drowning Gate\|The Drowning Gate]] in [[Questers\|Questers]].
 
