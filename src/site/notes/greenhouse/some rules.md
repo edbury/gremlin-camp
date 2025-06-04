@@ -5,5 +5,5 @@
 
 # Some Rules
 
-1. Always keep water in the [[blooms/perennial/vehicles/big green truck\|big green truck]].
+1. Always keep water in the [[workshop/vehicles/big green truck\|big green truck]].
 2. The window seat gets the window, the aisle seat gets the access and legroom, the middle seat gets both armrests.
