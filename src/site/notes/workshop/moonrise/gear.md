@@ -1,5 +1,5 @@
 ---
-{"aliases":["gear","Gear"],"date-created":"2023-11-29T18:30","date-modified":"2025-03-08T17:24","dg-publish":true,"tags":["moonrise"],"title":"Gear","permalink":"/workshop/moonrise/gear/","dgPassFrontmatter":true,"updated":"2025-03-08T17:24"}
+{"aliases":["gear","Gear"],"date-created":"2023-11-29T18:30","date-modified":"2025-03-08T17:24","dg-publish":true,"tags":["moonrise"],"title":"Gear","dg-path":"moonrise/gear.md","permalink":"/moonrise/gear/","dgPassFrontmatter":true,"updated":"2025-03-08T17:24"}
 ---
 
 

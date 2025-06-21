@@ -1,5 +1,5 @@
 ---
-{"aliases":["The Primeval Forest"],"date-created":"2024-09-23T09:37","date-modified":"2024-09-29T13:46","dg-publish":true,"tags":["moonrise","moonrise/place"],"title":"The Primeval Forest","permalink":"/workshop/moonrise/the-primeval-forest/","dgPassFrontmatter":true,"updated":"2024-09-29T13:46"}
+{"aliases":["The Primeval Forest"],"date-created":"2024-09-23T09:37","date-modified":"2024-09-29T13:46","dg-publish":true,"tags":["moonrise","moonrise/place"],"title":"The Primeval Forest","dg-path":"moonrise/The Primeval Forest.md","permalink":"/moonrise/the-primeval-forest/","dgPassFrontmatter":true,"updated":"2024-09-29T13:46"}
 ---
 
 
@@ -9,8 +9,8 @@ Though there are countless forests throughout the Twilight, few loom above all o
 
 ## Locations in the Forest
 
-- [[workshop/moonrise/Brandonsford\|Brandonsford]]
 - [[workshop/moonrise/Takahara\|Takahara]]
+- [[workshop/moonrise/Brandonsford\|Brandonsford]]
 
 { .block-language-dataview}
 

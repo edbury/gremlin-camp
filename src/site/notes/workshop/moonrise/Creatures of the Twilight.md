@@ -1,5 +1,5 @@
 ---
-{"aliases":["Creatures of the Twilight"],"date-created":"2025-01-01T12:33","date-modified":"2025-01-01T12:41","dg-publish":true,"tags":["moonrise"],"title":"Creatures of the Twilight","permalink":"/workshop/moonrise/creatures-of-the-twilight/","dgPassFrontmatter":true,"updated":"2025-01-01T12:41"}
+{"aliases":["Creatures of the Twilight"],"date-created":"2025-01-01T12:33","date-modified":"2025-01-01T12:41","dg-publish":true,"tags":["moonrise"],"title":"Creatures of the Twilight","dg-path":"moonrise/Creatures of the Twilight.md","permalink":"/moonrise/creatures-of-the-twilight/","dgPassFrontmatter":true,"updated":"2025-01-01T12:41"}
 ---
 
 

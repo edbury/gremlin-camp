@@ -1,5 +1,5 @@
 ---
-{"aliases":["A Red String Compendium","red strings"],"date-created":"2025-04-21T09:55","date-modified":"2025-04-21T13:08","dg-publish":true,"tags":["moonrise"],"title":"A Red String Compendium","permalink":"/workshop/moonrise/red-strings/","dgPassFrontmatter":true,"updated":"2025-04-21T13:08"}
+{"aliases":["A Red String Compendium","red strings"],"date-created":"2025-04-21T09:55","date-modified":"2025-04-21T13:08","dg-publish":true,"tags":["moonrise"],"title":"A Red String Compendium","dg-path":"moonrise/red strings.md","permalink":"/moonrise/red-strings/","dgPassFrontmatter":true,"updated":"2025-04-21T13:08"}
 ---
 
 

@@ -1,5 +1,5 @@
 ---
-{"aliases":["Brandonsford"],"date-created":"2024-03-08T10:47","date-modified":"2024-09-29T13:47","dg-publish":true,"tags":["moonrise","moonrise/place","moonrise/the-forest"],"title":"Brandonsford","permalink":"/workshop/moonrise/brandonsford/","dgPassFrontmatter":true,"updated":"2024-09-29T13:47"}
+{"aliases":["Brandonsford"],"date-created":"2024-03-08T10:47","date-modified":"2024-09-29T13:47","dg-publish":true,"tags":["moonrise","moonrise/place","moonrise/the-forest"],"title":"Brandonsford","dg-path":"moonrise/Brandonsford.md","permalink":"/moonrise/brandonsford/","dgPassFrontmatter":true,"updated":"2024-09-29T13:47"}
 ---
 
 

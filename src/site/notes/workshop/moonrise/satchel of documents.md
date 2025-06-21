@@ -1,5 +1,5 @@
 ---
-{"aliases":["A satchel of documents","satchel of documents"],"date-created":"2025-02-22T12:00","date-modified":"2025-02-23T13:32","dg-publish":true,"tags":["moonrise"],"title":"A satchel of documents","permalink":"/workshop/moonrise/satchel-of-documents/","dgPassFrontmatter":true,"updated":"2025-02-23T13:32"}
+{"aliases":["A satchel of documents","satchel of documents"],"date-created":"2025-02-22T12:00","date-modified":"2025-02-23T13:32","dg-publish":true,"tags":["moonrise"],"title":"A satchel of documents","dg-path":"moonrise/satchel of documents.md","permalink":"/moonrise/satchel-of-documents/","dgPassFrontmatter":true,"updated":"2025-02-23T13:32"}
 ---
 
 

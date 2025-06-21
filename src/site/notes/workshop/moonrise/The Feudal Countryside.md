@@ -1,5 +1,5 @@
 ---
-{"aliases":["The Feudal Countryside"],"date-created":"2024-09-23T17:25","date-modified":"2024-09-23T17:57","dg-publish":true,"tags":["moonrise","moonrise/place"],"title":"The Feudal Countryside","permalink":"/workshop/moonrise/the-feudal-countryside/","dgPassFrontmatter":true,"updated":"2024-09-23T17:57"}
+{"aliases":["The Feudal Countryside"],"date-created":"2024-09-23T17:25","date-modified":"2024-09-23T17:57","dg-publish":true,"tags":["moonrise","moonrise/place"],"title":"The Feudal Countryside","dg-path":"moonrise/The Feudal Countryside.md","permalink":"/moonrise/the-feudal-countryside/","dgPassFrontmatter":true,"updated":"2024-09-23T17:57"}
 ---
 
 

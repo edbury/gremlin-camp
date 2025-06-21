@@ -1,5 +1,5 @@
 ---
-{"aliases":["Favors"],"date-created":"2023-11-29T12:38","date-modified":"2023-12-08T10:07","dg-publish":true,"tags":["moonrise"],"title":"Favors","permalink":"/workshop/moonrise/favors/","dgPassFrontmatter":true,"updated":"2023-12-08T10:07"}
+{"aliases":["Favors"],"date-created":"2023-11-29T12:38","date-modified":"2023-12-08T10:07","dg-publish":true,"tags":["moonrise"],"title":"Favors","dg-path":"moonrise/favors.md","permalink":"/moonrise/favors/","dgPassFrontmatter":true,"updated":"2023-12-08T10:07"}
 ---
 
 

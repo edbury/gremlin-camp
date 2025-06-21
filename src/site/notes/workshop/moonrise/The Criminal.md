@@ -1,5 +1,5 @@
 ---
-{"aliases":["The Criminal"],"date-created":"2024-08-23T15:10","date-modified":"2025-05-28T13:30","dg-publish":true,"tags":["moonrise"],"title":"The Criminal","permalink":"/workshop/moonrise/the-criminal/","dgPassFrontmatter":true,"updated":"2025-05-28T13:30"}
+{"aliases":["The Criminal"],"date-created":"2024-08-23T15:10","date-modified":"2025-05-28T13:30","dg-publish":true,"tags":["moonrise"],"title":"The Criminal","dg-path":"moonrise/The Criminal.md","permalink":"/moonrise/the-criminal/","dgPassFrontmatter":true,"updated":"2025-05-28T13:30"}
 ---
 
 

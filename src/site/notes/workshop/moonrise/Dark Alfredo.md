@@ -1,5 +1,5 @@
 ---
-{"aliases":["Dark Alfredo, Mountebank","Dark Alfredo","Mountebank"],"date-created":"2024-09-16T14:52","date-modified":"2024-09-16T15:09","dg-publish":true,"tags":["moonrise"],"title":"Dark Alfredo, Mountebank","permalink":"/workshop/moonrise/dark-alfredo/","dgPassFrontmatter":true,"updated":"2024-09-16T15:09"}
+{"aliases":["Dark Alfredo, Mountebank","Dark Alfredo","Mountebank"],"date-created":"2024-09-16T14:52","date-modified":"2024-09-16T15:09","dg-publish":true,"tags":["moonrise"],"title":"Dark Alfredo, Mountebank","dg-path":"moonrise/Dark Alfredo.md","permalink":"/moonrise/dark-alfredo/","dgPassFrontmatter":true,"updated":"2024-09-16T15:09"}
 ---
 
 

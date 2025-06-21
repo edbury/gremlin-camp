@@ -1,5 +1,5 @@
 ---
-{"aliases":["Known Mantles","Mantles"],"date-created":"2024-12-28T08:53","date-modified":"2025-03-04T12:45","dg-publish":true,"tags":["moonrise"],"title":"Known Mantles","permalink":"/workshop/moonrise/mantles/","dgPassFrontmatter":true,"updated":"2025-03-04T12:45"}
+{"aliases":["Known Mantles","Mantles"],"date-created":"2024-12-28T08:53","date-modified":"2025-03-04T12:45","dg-publish":true,"tags":["moonrise"],"title":"Known Mantles","dg-path":"moonrise/mantles.md","permalink":"/moonrise/mantles/","dgPassFrontmatter":true,"updated":"2025-03-04T12:45"}
 ---
 
 

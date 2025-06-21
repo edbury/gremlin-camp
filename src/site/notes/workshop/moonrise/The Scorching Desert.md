@@ -1,5 +1,5 @@
 ---
-{"aliases":["The Scorching Desert"],"date-created":"2024-09-23T18:15","date-modified":"2024-09-23T18:50","dg-publish":true,"tags":["moonrise","moonrise/place"],"title":"The Scorching Desert","permalink":"/workshop/moonrise/the-scorching-desert/","dgPassFrontmatter":true,"updated":"2024-09-23T18:50"}
+{"aliases":["The Scorching Desert"],"date-created":"2024-09-23T18:15","date-modified":"2024-09-23T18:50","dg-publish":true,"tags":["moonrise","moonrise/place"],"title":"The Scorching Desert","dg-path":"moonrise/The Scorching Desert.md","permalink":"/moonrise/the-scorching-desert/","dgPassFrontmatter":true,"updated":"2024-09-23T18:50"}
 ---
 
 

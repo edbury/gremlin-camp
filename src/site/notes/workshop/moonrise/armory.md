@@ -1,5 +1,5 @@
 ---
-{"aliases":["The Armory","The Treasury","treasury"],"date-created":"2025-03-04T12:22","date-modified":"2025-03-04T13:21","dg-publish":true,"tags":["moonrise"],"title":"The Armory","permalink":"/workshop/moonrise/armory/","dgPassFrontmatter":true,"updated":"2025-03-04T13:21"}
+{"aliases":["The Armory","The Treasury","treasury"],"date-created":"2025-03-04T12:22","date-modified":"2025-03-04T13:21","dg-publish":true,"tags":["moonrise"],"title":"The Armory","dg-path":"moonrise/armory.md","permalink":"/moonrise/armory/","dgPassFrontmatter":true,"updated":"2025-03-04T13:21"}
 ---
 
 

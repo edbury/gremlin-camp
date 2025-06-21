@@ -1,5 +1,5 @@
 ---
-{"aliases":["The Sweltering Jungle"],"date-created":"2024-09-23T17:57","date-modified":"2024-09-23T18:04","dg-publish":true,"tags":["moonrise","moonrise/place"],"title":"The Sweltering Jungle","permalink":"/workshop/moonrise/the-sweltering-jungle/","dgPassFrontmatter":true,"updated":"2024-09-23T18:04"}
+{"aliases":["The Sweltering Jungle"],"date-created":"2024-09-23T17:57","date-modified":"2024-09-23T18:04","dg-publish":true,"tags":["moonrise","moonrise/place"],"title":"The Sweltering Jungle","dg-path":"moonrise/The Sweltering Jungle.md","permalink":"/moonrise/the-sweltering-jungle/","dgPassFrontmatter":true,"updated":"2024-09-23T18:04"}
 ---
 
 

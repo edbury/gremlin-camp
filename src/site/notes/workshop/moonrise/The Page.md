@@ -1,5 +1,5 @@
 ---
-{"aliases":["The Page"],"date-created":"2024-09-24T11:26","date-modified":"2025-05-28T13:34","dg-publish":true,"tags":["moonrise"],"title":"The Page","permalink":"/workshop/moonrise/the-page/","dgPassFrontmatter":true,"updated":"2025-05-28T13:34"}
+{"aliases":["The Page"],"date-created":"2024-09-24T11:26","date-modified":"2025-05-28T13:34","dg-publish":true,"tags":["moonrise"],"title":"The Page","dg-path":"moonrise/The Page.md","permalink":"/moonrise/the-page/","dgPassFrontmatter":true,"updated":"2025-05-28T13:34"}
 ---
 
 

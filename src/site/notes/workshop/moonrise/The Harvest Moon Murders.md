@@ -1,5 +1,5 @@
 ---
-{"aliases":["The Harvest Moon Murders"],"date-created":"2025-01-03T20:22","date-modified":"2025-04-30T21:58","dg-publish":true,"id":"The Harvest Moon Murders","tags":["moonrise"],"title":"The Harvest Moon Murders","permalink":"/workshop/moonrise/the-harvest-moon-murders/","dgPassFrontmatter":true,"updated":"2025-04-30T21:58"}
+{"aliases":["The Harvest Moon Murders"],"date-created":"2025-01-03T20:22","date-modified":"2025-04-30T21:58","dg-publish":true,"id":"The Harvest Moon Murders","tags":["moonrise"],"title":"The Harvest Moon Murders","dg-path":"moonrise/The Harvest Moon Murders.md","permalink":"/moonrise/the-harvest-moon-murders/","dgPassFrontmatter":true,"updated":"2025-04-30T21:58"}
 ---
 
 

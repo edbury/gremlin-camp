@@ -1,5 +1,5 @@
 ---
-{"aliases":["-Wises","Our Gathered Knowledge"],"date-created":"2024-08-29T09:08","date-modified":"2025-06-01T18:19","dg-publish":true,"id":"-Wises","tags":["moonrise"],"title":"Our Gathered Knowledge","permalink":"/workshop/moonrise/wises/","dgPassFrontmatter":true,"updated":"2025-06-01T18:19"}
+{"aliases":["-Wises","Our Gathered Knowledge"],"date-created":"2024-08-29T09:08","date-modified":"2025-06-01T18:19","dg-publish":true,"id":"-Wises","tags":["moonrise"],"title":"Our Gathered Knowledge","dg-path":"moonrise/-Wises.md","permalink":"/moonrise/wises/","dgPassFrontmatter":true,"updated":"2025-06-01T18:19"}
 ---
 
 

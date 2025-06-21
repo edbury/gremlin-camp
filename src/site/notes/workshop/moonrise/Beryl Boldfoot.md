@@ -1,5 +1,5 @@
 ---
-{"aliases":["Beryl Boldfoot, Ratcatcher General","Beryl Boldfoot","Beryl Boldfoot","Ratcatcher General"],"date-created":"2024-09-16T14:35","date-modified":"2024-09-17T13:48","dg-publish":true,"tags":["moonrise","moonrise/person"],"title":"Beryl Boldfoot, Ratcatcher General","permalink":"/workshop/moonrise/beryl-boldfoot/","dgPassFrontmatter":true,"updated":"2024-09-17T13:48"}
+{"aliases":["Beryl Boldfoot, Ratcatcher General","Beryl Boldfoot","Beryl Boldfoot","Ratcatcher General"],"date-created":"2024-09-16T14:35","date-modified":"2024-09-17T13:48","dg-publish":true,"tags":["moonrise","moonrise/person"],"title":"Beryl Boldfoot, Ratcatcher General","dg-path":"moonrise/Beryl Boldfoot.md","permalink":"/moonrise/beryl-boldfoot/","dgPassFrontmatter":true,"updated":"2024-09-17T13:48"}
 ---
 
 

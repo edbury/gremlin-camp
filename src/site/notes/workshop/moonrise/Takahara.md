@@ -1,5 +1,5 @@
 ---
-{"aliases":["Takahara"],"date-created":"2024-12-26T23:34","date-modified":"2024-12-27T07:10","dg-publish":true,"tags":["moonrise","moonrise/place","moonrise/the-forest"],"title":"Takahara","permalink":"/workshop/moonrise/takahara/","dgPassFrontmatter":true,"updated":"2024-12-27T07:10"}
+{"aliases":["Takahara"],"date-created":"2024-12-26T23:34","date-modified":"2024-12-27T07:10","dg-publish":true,"tags":["moonrise","moonrise/place","moonrise/the-forest"],"title":"Takahara","dg-path":"moonrise/Takahara.md","permalink":"/moonrise/takahara/","dgPassFrontmatter":true,"updated":"2024-12-27T07:10"}
 ---
 
 

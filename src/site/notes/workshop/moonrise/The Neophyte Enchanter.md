@@ -1,5 +1,5 @@
 ---
-{"aliases":["the Neophyte","The Neophyte","The Neophyte Enchanter"],"date-created":"2024-08-23T15:28","date-modified":"2025-05-28T13:27","dg-publish":true,"tags":["moonrise"],"title":"The Neophyte Enchanter","permalink":"/workshop/moonrise/the-neophyte-enchanter/","dgPassFrontmatter":true,"updated":"2025-05-28T13:27"}
+{"aliases":["the Neophyte","The Neophyte","The Neophyte Enchanter"],"date-created":"2024-08-23T15:28","date-modified":"2025-05-28T13:27","dg-publish":true,"tags":["moonrise"],"title":"The Neophyte Enchanter","dg-path":"moonrise/The Neophyte Enchanter.md","permalink":"/moonrise/the-neophyte-enchanter/","dgPassFrontmatter":true,"updated":"2025-05-28T13:27"}
 ---
 
 

@@ -1,5 +1,5 @@
 ---
-{"aliases":["Fighting Arts"],"date-created":"2024-11-30T10:02","date-modified":"2025-03-19T19:29","dg-publish":true,"tags":["moonrise"],"title":"Fighting Arts","permalink":"/workshop/moonrise/fighting-arts/","dgPassFrontmatter":true,"updated":"2025-03-19T19:29"}
+{"aliases":["Fighting Arts"],"date-created":"2024-11-30T10:02","date-modified":"2025-03-19T19:29","dg-publish":true,"tags":["moonrise"],"title":"Fighting Arts","dg-path":"moonrise/Fighting Arts.md","permalink":"/moonrise/fighting-arts/","dgPassFrontmatter":true,"updated":"2025-03-19T19:29"}
 ---
 
 
