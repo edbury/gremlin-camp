@@ -1,9 +1,20 @@
 ---
-{"aliases":["apartment hunt 2025","Apartment Hunt 2025"],"date-created":"2025-06-26T13:26","date-modified":"2025-06-26T14:18","dg-publish":true,"title":"Apartment Hunt 2025","permalink":"/workshop/apartment-hunt-2025/","dgPassFrontmatter":true,"updated":"2025-06-26T14:18"}
+{"aliases":["apartment hunt 2025","Apartment Hunt 2025"],"date-created":"2025-06-26T13:26","date-modified":"2025-06-26T14:31","dg-publish":true,"title":"Apartment Hunt 2025","permalink":"/workshop/apartment-hunt-2025/","dgPassFrontmatter":true,"updated":"2025-06-26T14:31"}
 ---
 
 
 # Apartment Hunt 2025
+
+| Property     | X-Streets  | Plan    | SqFt | Price | Value    |
+| ------------ | ---------- | ------- | ---- | ----- | -------- |
+| 1357 Cook    | Cook/14th  | OneBr   | 739  | $1435 | $1.94/ft |
+| 1120 York    | York/11th  | A1      | 595  | $1412 | $2.21/ft |
+| 1120 York    | York/11th  | A2      | 545  | $1331 | $2.44/ft |
+| 1190 Birch   | Birch/12th | S       | 500  | $1224 | $2.45/ft |
+| 870 Cherry   | Cherry/9th | A       | 615  | $1279 | $2.08/ft |
+| The Novelist | Grant/10th | A1      | 614  | $1276 | $2.08/ft |
+| Five50       | Pearl/3rd  | 550Stud | 470  | $1110 | $2.36/ft |
+| Five50       | Pearl/3rd  | 5501x1  | 560  | $1284 | $2.29/ft |
 
 ## 1357 & 1373 Cook
 
