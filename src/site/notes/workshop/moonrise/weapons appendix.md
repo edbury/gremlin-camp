@@ -1,5 +1,5 @@
 ---
-{"aliases":["weapons appendix","Weapons Appendix"],"date-created":"2025-03-05T08:32","date-modified":"2025-03-06T15:31","dg-publish":true,"tags":["moonrise"],"title":"Weapons Appendix","dg-path":"moonrise/weapons appendix.md","permalink":"/moonrise/weapons-appendix/","dgPassFrontmatter":true,"updated":"2025-03-06T15:31"}
+{"aliases":["weapons appendix","Weapons Appendix"],"date-created":"2025-03-05T08:32","date-modified":"2025-06-23T10:22","dg-publish":true,"tags":["moonrise"],"title":"Weapons Appendix","dg-path":"moonrise/weapons appendix.md","permalink":"/moonrise/weapons-appendix/","dgPassFrontmatter":true,"updated":"2025-06-23T10:22"}
 ---
 
 
@@ -120,8 +120,6 @@ This appendix seeks to gather all of the BWHQ weapon stats and mechanics in one 
 
 `*****` - A Stiletto bypasses armor completely when attacking helpless or unaware opponents.
 
-Ownership of a weapon in general is reserved to the nobility of Sorans. Anyone in Soran territories bearing a weapon and who does not appear to be a Bushi, Ronin, Heiankyo Noble, Monk or Yamabushi, suffers a +3 Ob penalty to Circles tests in the Artisan, Imperial Court and Provincial Warrior settings.
-
 ## Missile Weapons
 
 | Weapon         | I (DoF)  | M (DoF)  | S (DoF)   | VA      | Actions          |
@@ -160,9 +158,9 @@ Ownership of a weapon in general is reserved to the nobility of Sorans. Anyone i
 | Leaf Head    | +1  | -1  | -   | -            |
 | Frog Crotch  | +1  | -1  | +1  | +1 Ob to hit |
 | Blunt Head   | -1  | -1  | -1  | -            |
-| Barbed Tip   | -   | -   | -   | See below    |
+| Barbed Tip*  | -   | -   | -   | See below    |
 
-Same stats as hunting arrow, but the character takes an additional Mark result wound if the barbed arrow is improperly removed. It is an Ob 4 Field Dressing or Ob 3 Surgery test to remove a barbed arrow properly.
+ `*` - Same stats as hunting arrow, but the character takes an additional Mark result wound if the barbed arrow is improperly removed. It is an Ob 4 Field Dressing or Ob 3 Surgery test to remove a barbed arrow properly.
 
 ## Thrown Weapons
 

@@ -113,8 +113,8 @@
 - [x] Meet Hyetta at Bellum Church (Liurnia) ✅ 2024-06-25
 - [x] Defeat Festering Fingerprint Vyke near Church of Inhibition (Liurnia) ✅ 2024-06-25
 - [x] Give Fingerprint Grape to Hyetta in Bellum Church ✅ 2024-06-25
-- [ ] Talk to Boc
-- [ ] Give Larval Tear to Boc {Boc dies} OR use "You're Beautiful" Prattling Pate in front of him
+- [-] Talk to Boc
+- [-] Give Larval Tear to Boc {Boc dies} OR use "You're Beautiful" Prattling Pate in front of him
 - [x] Meet Iji (W Liurnia) ✅ 2024-06-25
 - [x] Meet Ranni in Ranni's Rise (Three Sisters) ✅ 2024-06-29
 - [x] Agree to serve Ranni ✅ 2024-06-29
@@ -218,8 +218,8 @@
 - [x] Defeat God-Skin Noble and get Serpent's Amnion (Volcano Manor) ✅ 2024-07-18
 - [x] Give Serpent's Amnion to Zoraya (Volcano Manor) ✅ 2024-07-18
 - [x] Speak to Tanith about Zorayas' absence (Volcano Manor) ✅ 2024-07-18
-- [ ] Find and talk to Zoraya (Volcano Manor)
-- [ ] Kill Rya {transforms into snake and drops Daedicar's Woe}, leave her alive and come back after killing rykard {Rya gone, Daedicar's Woe, Zorayas' Letter}, or give Tonic of Forgetfulness {After Rykard is killed and manor inhabitants left, she will return to her spot, reload to find Daedicar's Woe}
+- [-] Find and talk to Zoraya (Volcano Manor)
+- [-] Kill Rya {transforms into snake and drops Daedicar's Woe}, leave her alive and come back after killing rykard {Rya gone, Daedicar's Woe, Zorayas' Letter}, or give Tonic of Forgetfulness {After Rykard is killed and manor inhabitants left, she will return to her spot, reload to find Daedicar's Woe}
 - [x] Exhaust dialogue with Jar-Bairn and Diallos (Jarburg) ✅ 2024-07-18
 - [x] Defeat Godskin Apostle at top of Dominula and exhaust Millicent's dialogue after resting (Altus Plateau) ✅ 2024-07-18
 - [x] Speak to Boggart in outer moat, buy crab (outside Leyndell) ✅ 2024-07-18
@@ -237,7 +237,7 @@
 - [x] Exhaust Boggart's dialogue (Leyndell Moat) ✅ 2024-07-18
 - [x] Find Boggart's body and defeat Dung Eater (Leyndell Moat) ✅ 2024-07-18
 - [x] Talk to Dung Eater (Roundtable Hold) ✅ 2024-07-18
-- [ ] Find and feed Dung Eater 5 seedbed curses {won't find all now just before finishing game} (Subterranean Shunning Grounds)
+- [-] Find and feed Dung Eater 5 seedbed curses {won't find all now just before finishing game} (Subterranean Shunning Grounds)
 - [x] Get Law of Regression (Leyndell) ✅ 2024-07-18
 - [x] Find statue west of Ertree sanctuary grace until you see white message and cast Law of Regression (Leyndell) ✅ 2024-07-18
 - [x] Speak with Goldmask (Leyndell) ✅ 2024-07-18
@@ -246,7 +246,7 @@
 ### Before Rykard
 
 - [x] Speak to Hyetta in Frenzied Flame Proscription {MEETING THREE FINGERS WILL LOCK YOU OUT OF OTHER ENDINGS} (Subterranean Shunning Grounds) ✅ 2024-07-19
-- [ ] {If you met Three Fingers} Reload where you spoke to Hyetta and pick up Frenzied Flame Seal (Subterranean Shunning Grounds)
+- [-] {If you met Three Fingers} Reload where you spoke to Hyetta and pick up Frenzied Flame Seal (Subterranean Shunning Grounds)
 - [x] Return to Godrick grace and rest; Speak to Gostoc, Kenneth, and Nepheli at throne room ✅ 2024-07-19
 - [x] Assassinate Juno Hoslow, Knight of Blood (Mountaintops of the Giants) ✅ 2024-07-19
 - [x] Find Corhyn and Goldmask at bridge south of stargazers Ruins; exhaust dialogue (Mountaintop of the Giants) ✅ 2024-07-21
@@ -273,25 +273,25 @@
 - [x] Kill 3 invaders at blood swamp {fails if mohg is killed} ✅ 2024-11-15
 - [x] Find invasion sign [Varre] near Mausoleum Dynasty Midpoint ✅ 2024-07-18
 - [x] KILL MOHG ✅ 2024-07-22
-- [ ] KILL MALENIA
+- [-] KILL MALENIA
 
 ### Before Maliketh
 
-- [ ] Tell Gideon about locations and deaths of Mohg and Malenia (Roundtable Hold)
-- [ ] Kill ulcerated tree spirit (Miquella's Haligtree)
-- [ ] Assist Millicent {rotten winged sword insignia} OR assist her sisters {millicent's prothesis} (Miquella's Haligtree)
-- [ ] {If assisted Millicent} reload area and exhaust dialog with millicent
-- [ ] Take unalloyed gold needle and interact with flower in malenia's arena (Miquella's Haligtree)
-- [ ] Kill/loot Gowry in Gowry's shack (Caelid)
-- [ ] Find and defeat Bernahl (Crumbling Farum Azula)
-- [ ] DEFEAT MALIKETH
+- [-] Tell Gideon about locations and deaths of Mohg and Malenia (Roundtable Hold)
+- [-] Kill ulcerated tree spirit (Miquella's Haligtree)
+- [-] Assist Millicent {rotten winged sword insignia} OR assist her sisters {millicent's prothesis} (Miquella's Haligtree)
+- [-] {If assisted Millicent} reload area and exhaust dialog with millicent
+- [-] Take unalloyed gold needle and interact with flower in malenia's arena (Miquella's Haligtree)
+- [-] Kill/loot Gowry in Gowry's shack (Caelid)
+- [-] Find and defeat Bernahl (Crumbling Farum Azula)
+- [-] DEFEAT MALIKETH
 
 ### Before the End
 
-- [ ] Find Corhyn at tip of spear (Leyndell, Ash)
-- [ ] Find Goldmask through path under elevator (Leyndell, Ash)
-- [ ] Reload area and go back to Corhyn and Goldmask to pick up respective sets
-- [ ] Exhaust dialogue between Rodreika and Hewg
+- [-] Find Corhyn at tip of spear (Leyndell, Ash)
+- [-] Find Goldmask through path under elevator (Leyndell, Ash)
+- [-] Reload area and go back to Corhyn and Goldmask to pick up respective sets
+- [-] Exhaust dialogue between Rodreika and Hewg
 - [x] Find Alexander and defeat him (Crumbling Farum Azula) ✅ 2024-07-22
 - [x] Give Jar Bairn Alexander's Innards (jarburg) ✅ 2024-07-22
 - [x] Reload area get companion Jar Talisman where Jar-Bairn was seated ✅ 2024-07-22

@@ -1,5 +1,5 @@
 ---
-{"aliases":["Bring Your Own Character","BYOC","STARS Transit and Recruiting Services"],"date-created":"2023-08-01T19:15","date-modified":"2024-10-29T16:38","dg-publish":true,"tags":["mosh"],"title":"STARS Transit and Recruiting Services","permalink":"/archive/mosh/byoc/","dgPassFrontmatter":true,"updated":"2024-10-29T16:38"}
+{"aliases":["Bring Your Own Character","BYOC","STARS Transit and Recruiting Services"],"date-created":"2023-08-01T19:15","date-modified":"2025-06-23T11:15","dg-publish":true,"tags":["mosh"],"title":"STARS Transit and Recruiting Services","permalink":"/archive/mosh/byoc/","dgPassFrontmatter":true,"updated":"2025-06-23T11:15"}
 ---
 
 
@@ -106,14 +106,12 @@ Some tables may take Shore Leave together rather than asynchronously.
 
 Additional Shore Leave options may be available during campaign play or at a Warden's discretion. You may wish to mark these encounters in your log.
 
-
-
 ## State of this Document
 
 This document is an early work-in-progress. Tone, content, and the site are likely to change a lot over time.
 
 ### To Do
 
-- [ ] Add sections for playing with expanded TKG content and possible shared lore. For ex, assuming Prospero's Dream as a home base for characters.
-- [ ] Does ship stuff matter? Or the frame? For ex, who pays for fuel and warp cores? Maybe the _Prometheus_ in Prometheus (2012) is the best analog.
-- [ ] Review all of the naming and language in this doc. Is BYOC right?
+- [>] Add sections for playing with expanded TKG content and possible shared lore. For ex, assuming Prospero's Dream as a home base for characters. ✅ 2025-06-23
+- [>] Does ship stuff matter? Or the frame? For ex, who pays for fuel and warp cores? Maybe the _Prometheus_ in Prometheus (2012) is the best analog. ✅ 2025-06-23
+- [>] Review all of the naming and language in this doc. Is BYOC right? ✅ 2025-06-23

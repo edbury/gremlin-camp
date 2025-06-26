@@ -17,7 +17,7 @@ Meanwhile, [[Bentley\|Bentley]], keeper of [[The Clumsy Fox\|The Clumsy Fox]], u
 
 ### The Situation
 
-[[workshop/moonrise/The Brothers\|The Brothers]] arrive to find [[workshop/moonrise/Brandonsford\|Brandonsford]] fracturing under multiple pressures:
+[[The Brothers\|The Brothers]] arrive to find [[workshop/moonrise/Brandonsford\|Brandonsford]] fracturing under multiple pressures:
 
 - Two brutal murders have destabilized local authority - [[Eric the Reeve\|Eric the Reeve]] and the head of Town Watch
 - Agricultural workers strike during critical harvest time
@@ -53,7 +53,7 @@ Meanwhile, [[Bentley\|Bentley]], keeper of [[The Clumsy Fox\|The Clumsy Fox]], u
 - This investigation works best paced over several sessions.
 - The town teeters on the brink of chaos. While people grow hungry and neighbors murder each other senselessly, fear of [[workshop/moonrise/The Capital\|The Capital]]'s response prompts the formation of armed factions. When pushed over the edge, encounters escalate in violence.
 - Exposing [[Bentley\|Bentley]] earns some trust but doesn't end the strike. If [[The Order\|The Order]] learns of his abilities, they demand he be captured alive for study.
-- During the next Town Phase, [[workshop/moonrise/The Capital\|The Capital]] dispatches a company of knights to break the strike if [[workshop/moonrise/The Brothers\|The Brothers]] fail.
+- During the next Town Phase, [[workshop/moonrise/The Capital\|The Capital]] dispatches a company of knights to break the strike if [[The Brothers\|The Brothers]] fail.
 
 ### Running the Murder Mystery
 
@@ -419,13 +419,13 @@ Single father (5y/o daughter Beatrice). Constantly interrupts.
 
 #### Marion
 
-Herbalist. Sharp features, silver-streaked hair. Heart-shaped face. Carries [[workshop/moonrise/The Peddler's Ghost\|Bolero]]'s locket.
+Herbalist. Sharp features, silver-streaked hair. Heart-shaped face. Carries [[The Peddler's Ghost\|Bolero]]'s locket.
 
 - Location: Workshop (Day), General Store (Night)
 - Faction: Nominally Moderate Faction but treats all
 - Strike Loyalty: Focused on ensuring town's survival
 - As Murderer: Yellow foam pouring from victim's mouth. Tests reveal rare fungi.
-- As Victim: Letter from [[workshop/moonrise/The Peddler's Ghost\|Bolero]] about the Estate
+- As Victim: Letter from [[The Peddler's Ghost\|Bolero]] about the Estate
 - Upon Death: Strange growth in new fields spreads unchecked. Without her treatments, workers start falling ill. Town quarantined in 1 day.
 
 "[Last Murderer] came by late one night, seemed completely gone. Thought they were just drunk, but they had that same look Wren did. When Wren—when Wren did it."
@@ -479,18 +479,18 @@ Use the second column when the town Descends into Chaos (≤7 Major NPCs live).
 
 ## The Story So Far
 
-- [[workshop/moonrise/The Brothers\|The Brothers]] picked up [[The Albino\|The Albino]] (and their goodies) and made their way Nightward along the Dawn's Road
+- [[The Brothers\|The Brothers]] picked up [[The Albino\|The Albino]] (and their goodies) and made their way Nightward along the Dawn's Road
 - Arriving near [[workshop/moonrise/Brandonsford\|Brandonsford]], they found flyers nailed to trees announcing the closing of the Briargate, encouraging people to head to the Capital
 - They also found a large painted sign indicating that the farmers were on strike (ish)
 - In the city, three factions formed around how to handle the closing of the Briargate: abandon Bford for the Capital, work out a deal with the Capital, and become completely self-sufficient
-- [[workshop/moonrise/The Criminal\|The Criminal]] warned the townspeople about the dangers of the coming undead
-- [[The Herald\|The Herald]] conveyed a message from [[The Iron Will\|The Iron Will]] to [[workshop/moonrise/The Courtier\|The Courtier]]: we're watching and you need to resolve this situation
+- [[The Criminal\|The Criminal]] warned the townspeople about the dangers of the coming undead
+- [[The Herald\|The Herald]] conveyed a message from [[The Iron Will\|The Iron Will]] to [[The Courtier\|The Courtier]]: we're watching and you need to resolve this situation
 - The Neophyte discovered that the herbalist he had robbed during the first visit was actually [[Marion\|Marion]]! She appeared to have no memory of the encounter and was chuffed by The Neophyte's effort to put things right
 - Fanning the discontent: two murders had just happened. [[Eric the Reeve\|Eric the Reeve]] and the captain of the guard were both killed by people close to them (the reeve's wife and an officer of the guard, respectively)
 - While investigating, another murder occurred!
-- [[workshop/moonrise/Sergeant Doolish\|Sergeant Doolish]] arrived in [[workshop/moonrise/Brandonsford\|Brandonsford]] and revealed to [[workshop/moonrise/The Courtier\|The Courtier]] that he's been tracking [[workshop/moonrise/The Brothers\|The Brothers]] since the ball
-- [[workshop/moonrise/The Neophyte Enchanter\|The Neophyte Enchanter]] stayed at the [[Church of Broken Shields\|Church of Broken Shields]], keeping an eye on the nuns and the bodies
-- [[workshop/moonrise/The Courtier\|The Courtier]] and [[workshop/moonrise/The Criminal\|The Criminal]] got a room at [[The Clumsy Fox\|The Clumsy Fox]], and stayed out late surveilling the town
+- [[Sergeant Doolish\|Sergeant Doolish]] arrived in [[workshop/moonrise/Brandonsford\|Brandonsford]] and revealed to [[The Courtier\|The Courtier]] that he's been tracking [[The Brothers\|The Brothers]] since the ball
+- [[The Neophyte Enchanter\|The Neophyte Enchanter]] stayed at the [[Church of Broken Shields\|Church of Broken Shields]], keeping an eye on the nuns and the bodies
+- [[The Courtier\|The Courtier]] and [[The Criminal\|The Criminal]] got a room at [[The Clumsy Fox\|The Clumsy Fox]], and stayed out late surveilling the town
 - [[The Criminal's Ghost\|The Criminal's Ghost]] was sent to keep an eye on [[Quinn\|Quinn]] and report back the following evening
 
 ## Previously On
@@ -505,9 +505,9 @@ Use the second column when the town Descends into Chaos (≤7 Major NPCs live).
 >
 > As night falls, The Criminal's Ghost drifts silently through The Golden Egg's walls, watching Quinn's private meetings with property-hungry nobles while the harvest moon rises blood-red over the desperate town.
 
-- We open on [[workshop/moonrise/The Neophyte Enchanter\|The Neophyte Enchanter]], [[workshop/moonrise/The Courtier\|The Courtier]], and [[workshop/moonrise/The Criminal\|The Criminal]] having a late breakfast (having slept in) at [[The Clumsy Fox\|The Clumsy Fox]].
+- We open on [[The Neophyte Enchanter\|The Neophyte Enchanter]], [[The Courtier\|The Courtier]], and [[The Criminal\|The Criminal]] having a late breakfast (having slept in) at [[The Clumsy Fox\|The Clumsy Fox]].
 - At the Reeve's house, they find the ship in a bottle, an inscription reads, "To my friend for your service." The Magnate to the Reeve.
-    - Old Nan is posessed by the creater at the estate and is defeated by [[workshop/moonrise/The Neophyte Enchanter\|The Neophyte Enchanter]], who discovers she has been posessed but not by what
+    - Old Nan is posessed by the creater at the estate and is defeated by [[The Neophyte Enchanter\|The Neophyte Enchanter]], who discovers she has been posessed but not by what
 - All kinds of weird one night stand type stuff with The Alchemist and The Albino.
 - The boys spend nearly the entire day at The Reeve's house, waiting to talk to Sarah. Old Nan tries to drug and kill them.
 - They bring Sarah (Sarah?) to the watch and lock her in the dead captain's office.
@@ -517,24 +517,24 @@ Use the second column when the town Descends into Chaos (≤7 Major NPCs live).
 - They arrive at The Alchemist's workshop to find she is having a party. They convince her of the supernatural nature of the killings and discover that another killer is here!
 - The Amalgam is known as The One of Many. It is from the Night. It has been referred to as a demon.
 - Marion is ensorceled.
-  - [[workshop/moonrise/The Courtier\|The Courtier]] uses her fan to determine this and that: the spell is being sustained by someone, the effect is that she cannot remember "anything that would break her heart", and that she did not willingly take on the spell.
+  - [[The Courtier\|The Courtier]] uses her fan to determine this and that: the spell is being sustained by someone, the effect is that she cannot remember "anything that would break her heart", and that she did not willingly take on the spell.
   - She can't remember anything about [[The Duelist\|The Duelist]], nothing at all.
 - Folklore (Ob 6): Hanging Angels' Trumpets in your house prevents demonic possession.
-- Letter from [[The Princess\|The Princess]] to Cedric asking him to keep an eye out for [[workshop/moonrise/The Courtier\|The Courtier]], who has been asking a lot of questions.
+- Letter from [[The Princess\|The Princess]] to Cedric asking him to keep an eye out for [[The Courtier\|The Courtier]], who has been asking a lot of questions.
 - "May His Light Cover the World" is the battlecry of the Great Adversary.
 - The Dreaming Mother - [[The Criminal's\|The Criminal's]] Goddess
 - The Great Adversary wishes to overcome the dark wholly and completely.
 - He is a living, immortal man.
 - [[The Man With No Name\|The Man With No Name]] is known as Naagazir Qasmat, [[The Inevitable Fate\|The Inevitable Fate]]; he is The Dreaming Mother's champion on Oarth.
 - Rachel Parque has erupted and taken hold of three townspeople, all four of whom are peeling like apples.
-- [[workshop/moonrise/The Brothers\|The Brothers]] have leapt through the mirror, landing on one of many islands in a placid lake. There are meat vines here.
+- [[The Brothers\|The Brothers]] have leapt through the mirror, landing on one of many islands in a placid lake. There are meat vines here.
 - They meet [[Grimylgus\|Grimylgus]]. He reveals the holy sword of brandon, the book of saints, and the jeweled cutlass (rapier tho).
 - They run into [[The Giant's Cottage\|The Giant's Cottage]] on the way to [[The Barrow of Ser Brandon\|The Barrow of Ser Brandon]]
 - They rescue [[Brother Dirk\|Brother Dirk]], a dwarven pilgrim, and rob the giant. Dirk is on his way to Brandon's Barrow as well.
-- [[workshop/moonrise/The Neophyte Enchanter\|The Neophyte Enchanter]] updates his maps to include Takahara and the southern forest.
+- [[The Neophyte Enchanter\|The Neophyte Enchanter]] updates his maps to include Takahara and the southern forest.
 - [[Brother Dirk\|Brother Dirk]] tells them about Ser Brandon's buried fellows.
-- [[workshop/moonrise/The Criminal\|The Criminal]] summons [[Limerick, the Standard Bearer\|Limerick, the Standard Bearer]] and bargains for his service for a year.
-- [[workshop/moonrise/The Criminal\|The Criminal]] takes the golden-glass chalice.
+- [[The Criminal\|The Criminal]] summons [[Limerick, the Standard Bearer\|Limerick, the Standard Bearer]] and bargains for his service for a year.
+- [[The Criminal\|The Criminal]] takes the golden-glass chalice.
 - A lot of shit happens. Ultimately, they steal the sword of Brandon which turns Dirk against them, then smash Alfred's glass coffin which fills the mound with sea water (which then begins leaking into the river).
 - They are now back outside the barrow, with Utoa, the sword, a tied up Dirk, and the mirror, preparing to leap to the Peddler's Estate.
 - Zigbor, one of [[Gashadokuro\|Gashadokuro]]'s true names.

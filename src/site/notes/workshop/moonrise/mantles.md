@@ -15,19 +15,19 @@ The Thirsty Bowl (Oath of the Veil): Allows [[The Barber\|The Barber]] to use Bl
 
 ## The Courtier
 
-The Obsidian Fan (Oath of the Unyielding): Grants [[workshop/moonrise/The Courtier\|The Courtier]] the Aura Reading skill and Second Sight for traits, intents, actions, etc. related to Corruption.
+The Obsidian Fan (Oath of the Unyielding): Grants [[The Courtier\|The Courtier]] the Aura Reading skill and Second Sight for traits, intents, actions, etc. related to Corruption.
 
 ## The Criminal
 
-The Criminal's Ring (Oath of Redemption): Allows [[workshop/moonrise/The Criminal\|The Criminal]] to use the Summoning skill without Gifted or a circle; grants the Order "Victims of the Criminal" at Journeyman level.
+The Criminal's Ring (Oath of Redemption): Allows [[The Criminal\|The Criminal]] to use the Summoning skill without Gifted or a circle; grants the Order "Victims of the Criminal" at Journeyman level.
 
 ## The Doorkeeper
 
-The Black Iron Key (Oath of Servitude): Allows [[workshop/moonrise/The Doorkeeper\|The Doorkeeper]] to travel across great distances using Doors.
+The Black Iron Key (Oath of Servitude): Allows [[The Doorkeeper\|The Doorkeeper]] to travel across great distances using Doors.
 
 ## The Neophyte
 
-The Silver Bracer (Oath of the Veil): Grants [[workshop/moonrise/The Neophyte Enchanter\|The Neophyte Enchanter]] the required trait for a skill in which he is being trained by a Great Master. (Currently granting Gifted for use with Enchanting while being trained by [[The Albino\|The Albino]].)
+The Silver Bracer (Oath of the Veil): Grants [[The Neophyte Enchanter\|The Neophyte Enchanter]] the required trait for a skill in which he is being trained by a Great Master. (Currently granting Gifted for use with Enchanting while being trained by [[The Albino\|The Albino]].)
 
 ## The Nurse
 
@@ -35,11 +35,11 @@ The Alkaline Needle (Oath of Redemption): Allows [[The Nurse\|The Nurse]] to sew
 
 ## The Page
 
-The Silver Gorget (Oath of Loyalty): Allows [[workshop/moonrise/The Page\|The Page]] to speak and understand any language, as long as it's in the service of his betters.
+The Silver Gorget (Oath of Loyalty): Allows [[The Page\|The Page]] to speak and understand any language, as long as it's in the service of his betters.
 
 ## The Peddler
 
-The Worn Pendant (Oath of Redemption): Allows [[workshop/moonrise/The Peddler\|The Peddler]] to use Circles outside of his settings, as long as it's for a mercantile purpose.
+The Worn Pendant (Oath of Redemption): Allows [[The Peddler\|The Peddler]] to use Circles outside of his settings, as long as it's for a mercantile purpose.
 
 ## The Pilgrim
 
