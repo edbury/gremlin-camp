@@ -9,4 +9,4 @@ Welcome to Gremlin Camp.
 
 I'm currently figuring out how to tend my garden.
 
-For now, check out my [[paths/bookshelf\|bookshelf]] and collection of [[archive/mosh/mothership\|mothership]] notes.
+For now, check out my [[atlas/bookshelf\|bookshelf]] and collection of [[workshop/mosh/mothership\|mothership]] notes.
