@@ -1,5 +1,5 @@
 ---
-{"aliases":["Psychoanalytic Psychotherapy"],"author":"Nancy McWilliams","cover":"https://i.imgur.com/O3NEkdO.jpg","date-created":"2023-10-13T20:41","date-modified":"2024-08-22T12:58","dg-publish":true,"finished":"2023-10-13T08:42:00","location":"Denver","subtitle":"A Practitioner's Guide","tags":["psychology","source/book"],"title":"Psychoanalytic Psychotherapy","translator":null,"up":"[[sources moc]]","year":2004,"permalink":"/library/books/psychoanalytic-psychotherapy/","dgPassFrontmatter":true,"updated":"2024-08-22T12:58"}
+{"aliases":["Psychoanalytic Psychotherapy"],"author":"Nancy McWilliams","cover":"https://i.imgur.com/O3NEkdO.jpg","date-created":"2023-10-13T20:41","date-modified":"2026-01-12T13:14","dg-publish":true,"finished":"2023-10-13","location":"Denver","subtitle":"A Practitioner's Guide","tags":["psychology","source/book"],"title":"Psychoanalytic Psychotherapy","translator":null,"up":"[[sources moc]]","year":2004,"permalink":"/library/books/psychoanalytic-psychotherapy/","dgPassFrontmatter":true,"updated":"2026-01-12T13:14"}
 ---
 
 
