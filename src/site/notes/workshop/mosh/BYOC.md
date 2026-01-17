@@ -1,5 +1,5 @@
 ---
-{"aliases":["Bring Your Own Character","BYOC","STARS Transit and Recruiting Services"],"date-created":"2023-08-01T19:15","date-modified":"2025-10-15T11:27","dg-publish":true,"tags":["mosh"],"title":"STARS Transit and Recruiting Services","dg-path":"mosh/BYOC.md","permalink":"/mosh/byoc/","dgPassFrontmatter":true,"updated":"2025-10-15T11:27"}
+{"aliases":["Bring Your Own Character","BYOC","STARS Transit and Recruiting Services"],"date-created":"2023-08-01T19:15","date-modified":"2025-10-15T11:27","dg-publish":true,"tags":["mosh"],"title":"STARS Transit and Recruiting Services","id":"BYOC","dg-path":"mosh/BYOC.md","permalink":"/mosh/byoc/","dgPassFrontmatter":true,"updated":"2025-10-15T11:27"}
 ---
 
 
@@ -9,21 +9,21 @@ A framework for Mothership character progression outside of campaign play.
 
 *Do you feel like you're always starting from square one? Are you tired of risking your life for credits you never seem to spend? Does shore leave seem like a distant dream?*
 
-*Here at STARS Transit and Recruiting Services, we recognize the difficulties facing contractors today. We partner with STARS-approved employers to bring you standardized pay, on-the-job training, and guaranteed time off.*
+*Here at STARS Transit and Recruiting Services, we recognize the difficulties facing operators today. We partner with STARS-approved employers to bring you standardized pay, on-the-job training, and guaranteed time off.*
 
-## Contractors
+## Operators
 
 ### Salary
 
 > These guidelines are adapted from the [[workshop/mosh/Wardens Operations Manual\|Wardens Operations Manual]], page 48.
 
-STARS contractors are paid a standard salary based on their training. For every on-the-job session, you can expect:
+STARS operators are paid a standard salary based on their training. For every on-the-job session, you can expect:
 
 - 500cr for every Trained Skill
 - 1,000cr for every Expert Skill
 - 2,000cr for every Master Skill
 
-STARS contractors are also entitled to Hazard and Jump Pay, depending on the job.
+STARS operators are also entitled to Hazard and Jump Pay, depending on the job.
 
 #### Hazard Pay
 
@@ -33,7 +33,7 @@ Every STARS contract is rated with a Hazard level of 1-5, which acts as a multip
 
 #### Jump Pay
 
-Every STARS contract will indicate the amount of Jumps you'll be undertaking prior to and during the job. Contractors are entitled to a 1kcr bonus _per jump_. A high jump rating may indicate work conditions extremely outside the norm.
+Every STARS contract will indicate the amount of Jumps you'll be undertaking prior to and during the job. Operators are entitled to a 1kcr bonus _per jump_. A high jump rating may indicate work conditions extremely outside the norm.
 
 ### Skill Training
 
@@ -41,9 +41,9 @@ Every STARS contract will indicate the amount of Jumps you'll be undertaking pri
 
 *Here at STARS, we embrace the methodology of Rapid Skill Learning. By following our regimented training program, you can learn a new skill over the course of a few jobs, rather than several months!*
 
-Contractors can learn a **Trained Skill** in 3 sessions, an **Expert Skill** in 5 sessions, and a **Master Skill** in 10 sessions.
+Operators can learn a **Trained Skill** in 3 sessions, an **Expert Skill** in 5 sessions, and a **Master Skill** in 10 sessions.
 
-Credit costs remain unchanged and contractors will need to purchase their own materials during Shore Leave.
+Credit costs remain unchanged and operators will need to purchase their own materials during Shore Leave.
 
 ## Wardens
 
@@ -53,9 +53,9 @@ First, decide on the Hazard Level and Jump Pay up front. Announcing these ahead 
 
 ~~Second, if any of your players are bringing a legacy character, take a quick look over their sheet. They may have gear or conditions from previous missions you may want to account for or request they leave behind.~~ [This should be standardized in some way. Mission constraints, maybe. "No explosives permitted." for ex.]
 
-~~The High Score of participating characters will provide a loose ceiling for player power level.~~ [Maybe some guidelines here. "X-Y are likely entry-level contractors."]
+~~The High Score of participating characters will provide a loose ceiling for player power level.~~ [Maybe some guidelines here. "X-Y are likely entry-level operators."]
 
-When contractors are looking over the station's job board, a standard job might look something like:
+When operators are looking over the station's job board, a standard job might look something like:
 
 > Location: Daedalus Robotics Lab
 > Hazard: 2
