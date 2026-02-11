@@ -1,5 +1,5 @@
 ---
-{"aliases":["Bring Your Own Character","BYOC","STARS Transit and Recruiting Services"],"date-created":"2023-08-01T19:15","date-modified":"2025-10-15T11:27","dg-publish":true,"tags":["mosh"],"title":"STARS Transit and Recruiting Services","id":"BYOC","dg-path":"mosh/BYOC.md","permalink":"/mosh/byoc/","dgPassFrontmatter":true,"updated":"2025-10-15T11:27"}
+{"aliases":["Bring Your Own Character","BYOC","STARS Transit and Recruiting Services"],"date-created":"2023-08-01T19:15","date-modified":"2026-01-28T18:00","dg-publish":true,"id":"BYOC","tags":["mosh"],"title":"STARS Transit and Recruiting Services","dg-path":"mosh/BYOC.md","permalink":"/mosh/byoc/","dgPassFrontmatter":true,"updated":"2026-01-28T18:00"}
 ---
 
 

@@ -1,5 +1,5 @@
 ---
-{"aliases":["Mothership"],"date-created":"2022-09-12T16:41","date-modified":"2023-08-03T00:48","dg-permalink":"mothership/","dg-publish":true,"tags":["mosh"],"title":"Mothership","dg-path":"mosh/mothership.md","permalink":"/mothership/","dgPassFrontmatter":true,"updated":"2023-08-03T00:48"}
+{"aliases":["Mothership"],"date-created":"2022-09-12T16:41","date-modified":"2026-01-28T18:14","dg-permalink":"mothership/","dg-publish":true,"tags":["mosh"],"title":"Mothership","id":"mothership","dg-path":"mosh/mothership.md","permalink":"/mothership/","dgPassFrontmatter":true,"updated":"2026-01-28T18:14"}
 ---
 
 
@@ -19,7 +19,7 @@ Note: many cluster names are not official but do represent related content/stell
 
 [ChrisAir](https://chrisair.itch.io/) curates a collection of [all Mothership modules on itch.io](https://itch.io/c/2753663/all-mothership-modules-on-itchio).
 
-[[Leo\|Leo]] has created [an excellent inventory](https://docs.google.com/spreadsheets/d/1bvQQJUjc3BNIR00NtULOM6ccArHR7Ohre4IUXCu5FyA/edit?usp=sharing) of where many modules can be acquired.
+Leo has created [an excellent inventory](https://docs.google.com/spreadsheets/d/1bvQQJUjc3BNIR00NtULOM6ccArHR7Ohre4IUXCu5FyA/edit?usp=sharing) of where many modules can be acquired.
 
 | Module                                                                                                                                                                | Publisher/Creator                               | Cluster                                                         |
 | --------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------- | --------------------------------------------------------------- |
