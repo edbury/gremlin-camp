@@ -1,5 +1,5 @@
 ---
-{"aliases":["High Scores","HIGH SCORES","The Future Game"],"date-created":"2023-04-14T00:04","date-modified":"2026-02-11T14:10","dg-publish":true,"tags":["mosh","tfg"],"title":"High Scores","up":[["mothership"]],"dg-path":"mosh/high scores.md","permalink":"/mosh/high-scores/","dgPassFrontmatter":true,"updated":"2026-02-11T14:10"}
+{"aliases":["High Scores","HIGH SCORES","The Future Game"],"date-created":"2023-04-14T00:04","date-modified":"2026-02-11T14:12","dg-publish":true,"tags":["mosh","tfg"],"title":"High Scores","up":[["mothership"]],"dg-path":"mosh/high scores.md","permalink":"/mosh/high-scores/","dgPassFrontmatter":true,"updated":"2026-02-11T14:12"}
 ---
 
 
@@ -15,7 +15,6 @@
 | 7     | Van Gwin              | MIA      |                   | TEN    |
 | 6     | Dr. Elvis J. Xaverian | MIA      |                   | JCM    |
 | 5     | Bleach                | MIA      |                   | CFD    |
-| 3     | Teddie Bark           | MIA      |                   | JCM    |
 | 3     | 467                   | MIA      |                   | RCB    |
 | 2     | Willie Lasalle        | MIA      |                   | CFD    |
 | 1     | Bob Geiger            | MIA      |                   | WSV    |
