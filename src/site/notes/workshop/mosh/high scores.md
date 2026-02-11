@@ -1,9 +1,9 @@
 ---
-{"aliases":["High Scores","HIGH SCORES","The Future Game"],"date-created":"2023-04-14T00:04","date-modified":"2026-02-11T13:19","dg-publish":true,"tags":["mosh","tfg"],"title":"HIGH SCORES","up":[["mothership"]],"dg-path":"mosh/high scores.md","permalink":"/mosh/high-scores/","dgPassFrontmatter":true,"updated":"2026-02-11T13:19"}
+{"aliases":["High Scores","HIGH SCORES","The Future Game"],"date-created":"2023-04-14T00:04","date-modified":"2026-02-11T13:22","dg-publish":true,"tags":["mosh","tfg"],"title":"High Scores","up":[["mothership"]],"dg-path":"mosh/high scores.md","permalink":"/mosh/high-scores/","dgPassFrontmatter":true,"updated":"2026-02-11T13:22"}
 ---
 
 
-# HIGH SCORES
+# High Scores
 
 | SCORE | CHARACTER     | STATUS   | CAUSE             | PLAYER |
 | ----- | ------------- | -------- | ----------------- | ------ |
