@@ -1,5 +1,5 @@
 ---
-{"aliases":["Mothership"],"date-created":"2022-09-12T16:41","date-modified":"2026-01-28T18:14","dg-permalink":"mothership/","dg-publish":true,"tags":["mosh"],"title":"Mothership","id":"mothership","dg-path":"mosh/mothership.md","permalink":"/mothership/","dgPassFrontmatter":true,"updated":"2026-01-28T18:14"}
+{"aliases":["Mothership"],"date-created":"2022-09-12T16:41","date-modified":"2026-02-11T13:41","dg-permalink":"mothership/","dg-publish":true,"id":"mothership","tags":["mosh"],"title":"Mothership","dg-path":"mosh/mothership.md","permalink":"/mothership/","dgPassFrontmatter":true,"updated":"2026-02-11T13:41"}
 ---
 
 
@@ -7,7 +7,7 @@
 
 I'm currently working on notes regarding [[workshop/mosh/a campaign structure for Mothership\|a campaign structure for Mothership]] based on [[workshop/mosh/modules/A Pound of Flesh\|A Pound of Flesh]].
 
-Notes on my home campaign are filed under [[workshop/mosh/TFG\|The Future Game]].
+High scores for my home campaign are filed under [[workshop/mosh/high scores\|The Future Game]].
 
 These notes are gathered under the #mosh tag.
 
@@ -90,8 +90,8 @@ Leo has created [an excellent inventory](https://docs.google.com/spreadsheets/d/
 | [[workshop/mosh/modules/What We Give to Alien Gods\|What We Give to Alien Gods]]                                                                                   | Lone Archivist                                  | \-                                                              |
 | [[workshop/mosh/modules/Dying Hard on Hardlight Station\|Dying Hard on Hardlight Station]]                                                                         | Magnum Galaxy Games                             | Magnum                                                          |
 | [[workshop/mosh/modules/Nirvana on Fire\|Nirvana on Fire]]                                                                                                         | Magnum Galaxy Games                             | Magnum                                                          |
-| [[workshop/mosh/modules/The Cleaning of Prison Station Echo\|The Cleaning of Prison Station Echo]]                                                                 | Magnum Galaxy Games                             | Magnum                                                          |
 | [[workshop/mosh/modules/The Horror on Tau Sigma 7\|The Horror on Tau Sigma 7]]                                                                                     | Magnum Galaxy Games                             | Magnum                                                          |
+| [[workshop/mosh/modules/The Cleaning of Prison Station Echo\|The Cleaning of Prison Station Echo]]                                                                 | Magnum Galaxy Games                             | Magnum                                                          |
 | [[workshop/mosh/modules/Abyssal\|Abyssal]]                                                                                                                         | Mandala Studios                                 | \-                                                              |
 | [[workshop/mosh/modules/Active Resting\|Active Resting]]                                                                                                           | Mandala Studios                                 | \-                                                              |
 | [[workshop/mosh/modules/Criminal Class\|Criminal Class]]                                                                                                           | Mandala Studios                                 | \-                                                              |
