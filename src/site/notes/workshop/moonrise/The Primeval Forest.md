@@ -9,8 +9,8 @@ Though there are countless forests throughout the Twilight, few loom above all o
 
 ## Locations in the Forest
 
-- [[workshop/moonrise/Brandonsford\|Brandonsford]]
 - [[workshop/moonrise/Takahara\|Takahara]]
+- [[workshop/moonrise/Brandonsford\|Brandonsford]]
 
 { .block-language-dataview}
 
