@@ -1,5 +1,5 @@
 ---
-{"aliases":["Campaign Gear Reference","Gear Reference"],"date-created":"2026-03-05T18:05","date-modified":"2026-03-05T18:09","dg-publish":true,"tags":["mosh/gear"],"title":"Campaign Gear Reference","dg-path":"mosh/gear-reference.md","permalink":"/mosh/gear-reference/","dgPassFrontmatter":true,"updated":"2026-03-05T18:09"}
+{"aliases":["Campaign Gear Reference","Gear Reference"],"date-created":"2026-03-05T18:05","date-modified":"2026-03-05T18:13","dg-publish":true,"tags":["mosh","mosh/gear"],"title":"Campaign Gear Reference","dg-path":"mosh/gear-reference.md","permalink":"/mosh/gear-reference/","dgPassFrontmatter":true,"updated":"2026-03-05T18:13"}
 ---
 
 
@@ -7,7 +7,7 @@
 
 *Non-standard equipment encountered across missions, available for purchase on Prospero's Dream.*
 
-## WEAPONS
+## Weapons
 
 ### Wilbur Mk-II Anti-Material Rifle (AMR)
 
@@ -25,7 +25,7 @@
 | ------- | ------- | ------- | ----- | ------------------ | ------------------------------------------- |
 | Unknown | Extreme | 2d10x10 | 1     | Fire/Explosion [+] | Two-handed. Heavy. Reloading takes a round. |
 
-## VEHICLES
+## Vehicles
 
 ### Valkyrie All-Terrain Vehicle (ATV)
 
@@ -35,7 +35,7 @@
 | ------- | --- | ------ | --------- | ------------- | ----------------- |
 | Unknown | 6   | 1(20)  | 90 mph    | 3             | Front-facing GPMG |
 
-## MEDICAL & LAB EQUIPMENT
+## Medical & Lab Equipment
 
 ### Litkovich MedPod 1080a
 
