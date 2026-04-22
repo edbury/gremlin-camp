@@ -1,5 +1,5 @@
 ---
-{"aliases":["High Scores","HIGH SCORES","The Future Game"],"date-created":"2023-04-14T00:04","date-modified":"2026-02-25T17:04","dg-publish":true,"tags":["mosh","tfg"],"title":"High Scores","up":[["mothership"]],"dg-path":"mosh/high scores.md","permalink":"/mosh/high-scores/","dgPassFrontmatter":true,"updated":"2026-02-25T17:04"}
+{"aliases":["High Scores","HIGH SCORES","The Future Game"],"date-created":"2023-04-14T00:04","date-modified":"2026-02-25T17:04","dg-publish":true,"tags":["mosh","tfg"],"title":"High Scores","up":[["mothership"]],"dg-path":"mosh/high scores.md","permalink":"/mosh/high-scores/","dgPassFrontmatter":true,"updated":"2026-02-25T17:04","dg-note-properties":{"aliases":["High Scores","HIGH SCORES","The Future Game"],"date-created":"2023-04-14T00:04","date-modified":"2026-02-25T17:04","tags":["mosh","tfg"],"title":"High Scores","up":[["mothership"]]}}
 ---
 
 

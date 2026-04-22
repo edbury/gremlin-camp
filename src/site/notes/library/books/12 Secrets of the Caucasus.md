@@ -1,5 +1,5 @@
 ---
-{"aliases":["12 Secrets of the Caucasus"],"author":"Essad Bey","cover":"https://i.imgur.com/jNeuhx2.jpg","date-created":"2022-08-02T16:03","date-modified":"2025-06-27T13:09","dg-publish":true,"finished":"2022-05-17","location":"Oakland","subtitle":null,"tags":["source/book"],"title":"12 Secrets of the Caucasus","translator":null,"year":1930,"permalink":"/library/books/12-secrets-of-the-caucasus/","dgPassFrontmatter":true,"updated":"2025-06-27T13:09"}
+{"aliases":["12 Secrets of the Caucasus"],"author":"Essad Bey","cover":"https://i.imgur.com/jNeuhx2.jpg","date-created":"2022-08-02T16:03","date-modified":"2025-06-27T13:09","dg-publish":true,"finished":"2022-05-17","location":"Oakland","subtitle":null,"tags":["source/book"],"title":"12 Secrets of the Caucasus","translator":null,"year":1930,"permalink":"/library/books/12-secrets-of-the-caucasus/","dgPassFrontmatter":true,"updated":"2025-06-27T13:09","dg-note-properties":{"aliases":["12 Secrets of the Caucasus"],"author":"Essad Bey","cover":"https://i.imgur.com/jNeuhx2.jpg","date-created":"2022-08-02T16:03","date-modified":"2025-06-27T13:09","finished":"2022-05-17","location":"Oakland","subtitle":null,"tags":["source/book"],"title":"12 Secrets of the Caucasus","translator":null,"year":1930}}
 ---
 
 

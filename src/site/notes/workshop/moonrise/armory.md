@@ -1,5 +1,5 @@
 ---
-{"aliases":["The Armory","The Treasury","treasury"],"date-created":"2025-03-04T12:22","date-modified":"2025-06-23T10:20","dg-publish":true,"id":"armory","tags":["moonrise"],"title":"The Armory","dg-path":"moonrise/armory.md","permalink":"/moonrise/armory/","dgPassFrontmatter":true,"updated":"2025-06-23T10:20"}
+{"aliases":["The Armory","The Treasury","treasury"],"date-created":"2025-03-04T12:22","date-modified":"2025-06-23T10:20","dg-publish":true,"id":"armory","tags":["moonrise"],"title":"The Armory","dg-path":"moonrise/armory.md","permalink":"/moonrise/armory/","dgPassFrontmatter":true,"updated":"2025-06-23T10:20","dg-note-properties":{"aliases":["The Armory","The Treasury","treasury"],"date-created":"2025-03-04T12:22","date-modified":"2025-06-23T10:20","id":"armory","tags":["moonrise"],"title":"The Armory"}}
 ---
 
 

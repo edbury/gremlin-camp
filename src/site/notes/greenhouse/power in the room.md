@@ -1,5 +1,5 @@
 ---
-{"aliases":["power in the room"],"date-created":"2024-07-30T12:58","date-modified":"2024-08-05T13:05","dg-publish":true,"title":"power in the room","permalink":"/greenhouse/power-in-the-room/","dgPassFrontmatter":true,"updated":"2024-08-05T13:05"}
+{"aliases":["power in the room"],"date-created":"2024-07-30T12:58","date-modified":"2024-08-05T13:05","dg-publish":true,"title":"power in the room","permalink":"/greenhouse/power-in-the-room/","dgPassFrontmatter":true,"updated":"2024-08-05T13:05","dg-note-properties":{"aliases":["power in the room"],"date-created":"2024-07-30T12:58","date-modified":"2024-08-05T13:05","title":"power in the room"}}
 ---
 
 

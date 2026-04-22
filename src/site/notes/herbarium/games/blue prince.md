@@ -1,5 +1,5 @@
 ---
-{"aliases":["blue prince"],"date-created":"2025-04-13T06:29","date-modified":"2025-04-18T19:25","dg-publish":true,"title":"blue prince","permalink":"/herbarium/games/blue-prince/","dgPassFrontmatter":true,"updated":"2025-04-18T19:25"}
+{"aliases":["blue prince"],"date-created":"2025-04-13T06:29","date-modified":"2025-04-18T19:25","dg-publish":true,"title":"blue prince","permalink":"/herbarium/games/blue-prince/","dgPassFrontmatter":true,"updated":"2025-04-18T19:25","dg-note-properties":{"aliases":["blue prince"],"date-created":"2025-04-13T06:29","date-modified":"2025-04-18T19:25","title":"blue prince"}}
 ---
 
 

@@ -1,5 +1,5 @@
 ---
-{"aliases":["Letters for My Father"],"author":"Louis Hoffman","cover":null,"date-created":"2025-06-27T13:09","date-modified":"2025-06-30T09:47","dg-publish":true,"edition":"Manuscript","finished":"2025-06-27","location":"Denver","subtitle":"Grief, Love, and Self-Exploration","tags":["source/book"],"title":"Letters for My Father","translator":null,"year":2025,"permalink":"/library/books/letters-for-my-father/","dgPassFrontmatter":true,"updated":"2025-06-30T09:47"}
+{"aliases":["Letters for My Father"],"author":"Louis Hoffman","cover":null,"date-created":"2025-06-27T13:09","date-modified":"2025-06-30T09:47","dg-publish":true,"edition":"Manuscript","finished":"2025-06-27","location":"Denver","subtitle":"Grief, Love, and Self-Exploration","tags":["source/book"],"title":"Letters for My Father","translator":null,"year":2025,"permalink":"/library/books/letters-for-my-father/","dgPassFrontmatter":true,"updated":"2025-06-30T09:47","dg-note-properties":{"aliases":["Letters for My Father"],"author":"Louis Hoffman","cover":null,"date-created":"2025-06-27T13:09","date-modified":"2025-06-30T09:47","edition":"Manuscript","finished":"2025-06-27","location":"Denver","subtitle":"Grief, Love, and Self-Exploration","tags":["source/book"],"title":"Letters for My Father","translator":null,"year":2025}}
 ---
 
 

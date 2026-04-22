@@ -1,5 +1,5 @@
 ---
-{"aliases":["Phenomenology for Psychologists"],"date-created":"2025-06-04T13:10","date-modified":"2025-06-04T13:11","dg-publish":true,"title":"Phenomenology for Psychologists","permalink":"/archive/cpsy-5073-qualitative-research-methods/phenomenology-for-psychologists/","dgPassFrontmatter":true,"updated":"2025-06-04T13:11"}
+{"aliases":["Phenomenology for Psychologists"],"date-created":"2025-06-04T13:10","date-modified":"2025-06-04T13:11","dg-publish":true,"title":"Phenomenology for Psychologists","permalink":"/archive/cpsy-5073-qualitative-research-methods/phenomenology-for-psychologists/","dgPassFrontmatter":true,"updated":"2025-06-04T13:11","dg-note-properties":{"aliases":["Phenomenology for Psychologists"],"date-created":"2025-06-04T13:10","date-modified":"2025-06-04T13:11","title":"Phenomenology for Psychologists"}}
 ---
 
 <style>

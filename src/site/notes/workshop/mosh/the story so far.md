@@ -1,5 +1,5 @@
 ---
-{"aliases":["The story so far","the story so far"],"date-created":"2024-01-15T17:39","date-modified":"2024-01-15T18:51","dg-publish":true,"tags":["mosh","mosh/tfg"],"title":"The story so far","dg-path":"mosh/the story so far.md","permalink":"/mosh/the-story-so-far/","dgPassFrontmatter":true,"updated":"2024-01-15T18:51"}
+{"aliases":["the story so far","The story so far"],"date-created":"2024-01-15T17:39","date-modified":"2026-03-05T19:11","dg-publish":true,"tags":["mosh","mosh/tfg"],"title":"The story so far","dg-path":"mosh/the story so far.md","permalink":"/mosh/the-story-so-far/","dgPassFrontmatter":true,"updated":"2026-03-05T19:11","dg-note-properties":{"aliases":["the story so far","The story so far"],"date-created":"2024-01-15T17:39","date-modified":"2026-03-05T19:11","tags":["mosh","mosh/tfg"],"title":"The story so far"}}
 ---
 
 

@@ -1,5 +1,5 @@
 ---
-{"aliases":["Practicum Sites 2024"],"date-created":"2024-01-14T17:51","date-modified":"2024-02-20T15:26","dg-publish":true,"title":"Practicum Sites 2024","permalink":"/archive/practicum-sites-2024/","dgPassFrontmatter":true,"updated":"2024-02-20T15:26"}
+{"aliases":["Practicum Sites 2024"],"date-created":"2024-01-14T17:51","date-modified":"2024-02-20T15:26","dg-publish":true,"title":"Practicum Sites 2024","permalink":"/archive/practicum-sites-2024/","dgPassFrontmatter":true,"updated":"2024-02-20T15:26","dg-note-properties":{"aliases":["Practicum Sites 2024"],"date-created":"2024-01-14T17:51","date-modified":"2024-02-20T15:26","title":"Practicum Sites 2024"}}
 ---
 
 

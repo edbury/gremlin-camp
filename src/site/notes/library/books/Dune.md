@@ -1,5 +1,5 @@
 ---
-{"aliases":["Dune"],"author":"Frank Herbert","cover":"https://i.imgur.com/KnBh5JV.jpg","date-created":"2022-08-02T16:03","date-modified":"2025-06-27T13:08","dg-publish":true,"finished":"2022-02-25T00:00:00","id":"Dune","location":"Oakland","tags":["dune","source/book"],"title":"Dune","up":"[[sources moc]]","year":1965,"permalink":"/library/books/dune/","dgPassFrontmatter":true,"updated":"2025-06-27T13:08"}
+{"aliases":["Dune"],"author":"Frank Herbert","cover":"https://i.imgur.com/KnBh5JV.jpg","date-created":"2022-08-02T16:03","date-modified":"2025-06-27T13:08","dg-publish":true,"finished":"2022-02-25T00:00:00","id":"Dune","location":"Oakland","tags":["dune","source/book"],"title":"Dune","up":"[[sources moc]]","year":1965,"permalink":"/library/books/dune/","dgPassFrontmatter":true,"updated":"2025-06-27T13:08","dg-note-properties":{"aliases":["Dune"],"author":"Frank Herbert","cover":"https://i.imgur.com/KnBh5JV.jpg","date-created":"2022-08-02T16:03","date-modified":"2025-06-27T13:08","finished":"2022-02-25T00:00:00","id":"Dune","location":"Oakland","tags":["dune","source/book"],"title":"Dune","up":"[[sources moc]]","year":1965}}
 ---
 
 

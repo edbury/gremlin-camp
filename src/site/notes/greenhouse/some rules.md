@@ -1,5 +1,5 @@
 ---
-{"aliases":["Some Rules","some rules"],"date-created":"2023-07-28T16:02","date-modified":"2024-08-05T14:56","dg-publish":true,"tags":[],"title":"Some Rules","permalink":"/greenhouse/some-rules/","dgPassFrontmatter":true,"updated":"2024-08-05T14:56"}
+{"aliases":["Some Rules","some rules"],"date-created":"2023-07-28T16:02","date-modified":"2024-08-05T14:56","dg-publish":true,"tags":[],"title":"Some Rules","permalink":"/greenhouse/some-rules/","dgPassFrontmatter":true,"updated":"2024-08-05T14:56","dg-note-properties":{"aliases":["Some Rules","some rules"],"date-created":"2023-07-28T16:02","date-modified":"2024-08-05T14:56","tags":[],"title":"Some Rules"}}
 ---
 
 

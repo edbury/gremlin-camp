@@ -1,5 +1,5 @@
 ---
-{"aliases":["Campaign Timeline","The Story So Far"],"date-created":"2025-03-15T00:00","date-modified":"2025-03-15T07:13","dg-publish":true,"tags":["moonrise","recap"],"title":"The Story So Far","permalink":"/inbox/tssf-scratch/","dgPassFrontmatter":true,"updated":"2025-03-15T07:13"}
+{"aliases":["Campaign Timeline","The Story So Far"],"date-created":"2025-03-15T00:00","date-modified":"2025-03-15T07:13","dg-publish":true,"tags":["moonrise","recap"],"title":"The Story So Far","permalink":"/inbox/tssf-scratch/","dgPassFrontmatter":true,"updated":"2025-03-15T07:13","dg-note-properties":{"aliases":["Campaign Timeline","The Story So Far"],"date-created":"2025-03-15T00:00","date-modified":"2025-03-15T07:13","tags":["moonrise","recap"],"title":"The Story So Far"}}
 ---
 
 
@@ -268,7 +268,7 @@
 
 ### Summer - The Primeval Forest
 
-[[[The Brothers\|[The Brothers]] reverse course, picking up The Albino on their way back to the Nautical Twilight/Greenwood.]
+[[[The Brothers\|The Brothers]] reverse course, picking up The Albino on their way back to the Nautical Twilight/Greenwood.]
 
 #### The Greenwood
 

@@ -1,5 +1,5 @@
 ---
-{"aliases":["Bookshelf"],"date-created":"2022-09-13T13:54","date-modified":"2026-01-12T13:17","dg-publish":true,"tags":["map"],"title":"Bookshelf","up":[["+home"]],"permalink":"/atlas/bookshelf/","dgPassFrontmatter":true,"updated":"2026-01-12T13:17"}
+{"aliases":["Bookshelf"],"date-created":"2022-09-13T13:54","date-modified":"2026-01-12T13:17","dg-publish":true,"tags":["map"],"title":"Bookshelf","up":[["+home"]],"permalink":"/atlas/bookshelf/","dgPassFrontmatter":true,"updated":"2026-01-12T13:17","dg-note-properties":{"aliases":["Bookshelf"],"date-created":"2022-09-13T13:54","date-modified":"2026-01-12T13:17","tags":["map"],"title":"Bookshelf","up":[["+home"]]}}
 ---
 
 

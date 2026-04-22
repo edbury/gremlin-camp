@@ -1,5 +1,5 @@
 ---
-{"aliases":["202104262218 proximal process results - more than self-sufficiency"],"date-created":"2022-06-15T23:23","date-modified":"2023-10-25T18:27","dg-publish":true,"tags":["psychx140","bronfenbrenner"],"title":"202104262218 proximal process results - more than self-sufficiency","permalink":"/inbox/202104262218-proximal-process-results-more-than-self-sufficiency/","dgPassFrontmatter":true,"updated":"2023-10-25T18:27"}
+{"aliases":["202104262218 proximal process results - more than self-sufficiency"],"date-created":"2022-06-15T23:23","date-modified":"2023-10-25T18:27","dg-publish":true,"tags":["psychx140","bronfenbrenner"],"title":"202104262218 proximal process results - more than self-sufficiency","permalink":"/inbox/202104262218-proximal-process-results-more-than-self-sufficiency/","dgPassFrontmatter":true,"updated":"2023-10-25T18:27","dg-note-properties":{"aliases":["202104262218 proximal process results - more than self-sufficiency"],"date-created":"2022-06-15T23:23","date-modified":"2023-10-25T18:27","tags":["psychx140","bronfenbrenner"],"title":"202104262218 proximal process results - more than self-sufficiency"}}
 ---
 
 

@@ -1,5 +1,5 @@
 ---
-{"aliases":["Campaign Gear Reference","Gear Reference"],"date-created":"2026-03-05T18:05","date-modified":"2026-03-05T18:13","dg-publish":true,"tags":["mosh","mosh/gear"],"title":"Campaign Gear Reference","dg-path":"mosh/gear-reference.md","permalink":"/mosh/gear-reference/","dgPassFrontmatter":true,"updated":"2026-03-05T18:13"}
+{"aliases":["Campaign Gear Reference","Gear Reference"],"date-created":"2026-03-05T18:05","date-modified":"2026-03-05T18:13","dg-publish":true,"tags":["mosh","mosh/gear"],"title":"Campaign Gear Reference","dg-path":"mosh/gear-reference.md","permalink":"/mosh/gear-reference/","dgPassFrontmatter":true,"updated":"2026-03-05T18:13","dg-note-properties":{"aliases":["Campaign Gear Reference","Gear Reference"],"date-created":"2026-03-05T18:05","date-modified":"2026-03-05T18:13","tags":["mosh","mosh/gear"],"title":"Campaign Gear Reference"}}
 ---
 
 
@@ -49,6 +49,6 @@
 
 **Source:** Mission 01 — Another Bug Hunt — Greta Base Medbay
 
-| Cost | Special |
-|---|---|
+| Cost    | Special                                                                                                                                                           |
+| ------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | Unknown | Prints synthetic biological material. Requires stem cell cartridges (consumable). Repairs take 1d10 hours if broken. Further applications at Warden's discretion. |

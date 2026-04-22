@@ -1,5 +1,5 @@
 ---
-{"aliases":["Hello World"],"date-created":"2023-04-12T01:33","date-modified":"2026-01-28T18:14","dg-home":true,"dg-publish":true,"id":"garden","tags":["gardenEntry"],"title":"Hello World","permalink":"/garden/","dgPassFrontmatter":true,"updated":"2026-01-28T18:14"}
+{"aliases":["Hello World"],"date-created":"2023-04-12T01:33","date-modified":"2026-01-28T18:14","dg-home":true,"dg-publish":true,"id":"garden","tags":["gardenEntry"],"title":"Hello World","permalink":"/garden/","dgPassFrontmatter":true,"updated":"2026-01-28T18:14","dg-note-properties":{"aliases":["Hello World"],"date-created":"2023-04-12T01:33","date-modified":"2026-01-28T18:14","id":"garden","tags":["gardenEntry"],"title":"Hello World"}}
 ---
 
 

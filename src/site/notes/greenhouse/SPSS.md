@@ -1,5 +1,5 @@
 ---
-{"aliases":["Getting SPSS Up and Running","SPSS"],"date-created":"2024-09-12T12:25","date-modified":"2024-09-13T12:24","dg-publish":true,"title":"Getting SPSS Up and Running","permalink":"/greenhouse/spss/","dgPassFrontmatter":true,"updated":"2024-09-13T12:24"}
+{"aliases":["Getting SPSS Up and Running","SPSS"],"date-created":"2024-09-12T12:25","date-modified":"2024-09-13T12:24","dg-publish":true,"title":"Getting SPSS Up and Running","permalink":"/greenhouse/spss/","dgPassFrontmatter":true,"updated":"2024-09-13T12:24","dg-note-properties":{"aliases":["Getting SPSS Up and Running","SPSS"],"date-created":"2024-09-12T12:25","date-modified":"2024-09-13T12:24","title":"Getting SPSS Up and Running"}}
 ---
 
 

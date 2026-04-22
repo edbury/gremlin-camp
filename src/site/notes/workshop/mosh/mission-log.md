@@ -1,5 +1,5 @@
 ---
-{"aliases":["Mission Log"],"date-created":"2026-03-05T18:05","date-modified":"2026-03-05T18:08","dg-publish":true,"id":"mission-log","tags":["mosh/log"],"title":"Mission Log","dg-path":"mosh/mission-log.md","permalink":"/mosh/mission-log/","dgPassFrontmatter":true,"updated":"2026-03-05T18:08"}
+{"aliases":["Mission Log"],"date-created":"2026-03-05T18:05","date-modified":"2026-03-05T18:08","dg-publish":true,"id":"mission-log","tags":["mosh/log"],"title":"Mission Log","dg-path":"mosh/mission-log.md","permalink":"/mosh/mission-log/","dgPassFrontmatter":true,"updated":"2026-03-05T18:08","dg-note-properties":{"aliases":["Mission Log"],"date-created":"2026-03-05T18:05","date-modified":"2026-03-05T18:08","id":"mission-log","tags":["mosh/log"],"title":"Mission Log"}}
 ---
 
 

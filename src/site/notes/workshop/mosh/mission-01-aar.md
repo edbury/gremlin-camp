@@ -1,5 +1,5 @@
 ---
-{"aliases":["Mission 01 — After-Action Report"],"date-created":"2026-03-05T18:05","date-modified":"2026-03-05T18:08","dg-publish":true,"tags":["mosh/log"],"title":"Mission 01 — After-Action Report","dg-path":"mosh/mission-01-aar.md","permalink":"/mosh/mission-01-aar/","dgPassFrontmatter":true,"updated":"2026-03-05T18:08"}
+{"aliases":["Mission 01 — After-Action Report"],"date-created":"2026-03-05T18:05","date-modified":"2026-03-05T18:08","dg-publish":true,"tags":["mosh/log"],"title":"Mission 01 — After-Action Report","dg-path":"mosh/mission-01-aar.md","permalink":"/mosh/mission-01-aar/","dgPassFrontmatter":true,"updated":"2026-03-05T18:08","dg-note-properties":{"aliases":["Mission 01 — After-Action Report"],"date-created":"2026-03-05T18:05","date-modified":"2026-03-05T18:08","tags":["mosh/log"],"title":"Mission 01 — After-Action Report"}}
 ---
 
 

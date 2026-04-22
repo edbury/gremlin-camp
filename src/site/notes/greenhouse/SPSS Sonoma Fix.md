@@ -1,5 +1,5 @@
 ---
-{"aliases":["SPSS and Sonoma","SPSS Sonoma Fix"],"date-created":"2023-10-25T17:36","date-modified":"2023-10-25T18:44","dg-publish":true,"tags":["gspp"],"title":"SPSS and Sonoma","permalink":"/greenhouse/spss-sonoma-fix/","dgPassFrontmatter":true,"updated":"2023-10-25T18:44"}
+{"aliases":["SPSS and Sonoma","SPSS Sonoma Fix"],"date-created":"2023-10-25T17:36","date-modified":"2023-10-25T18:44","dg-publish":true,"tags":["gspp"],"title":"SPSS and Sonoma","permalink":"/greenhouse/spss-sonoma-fix/","dgPassFrontmatter":true,"updated":"2023-10-25T18:44","dg-note-properties":{"aliases":["SPSS and Sonoma","SPSS Sonoma Fix"],"date-created":"2023-10-25T17:36","date-modified":"2023-10-25T18:44","tags":["gspp"],"title":"SPSS and Sonoma"}}
 ---
 
 

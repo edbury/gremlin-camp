@@ -1,5 +1,5 @@
 ---
-{"aliases":["G.O.B.L.I.N.","GOBLIN"],"date-created":"2023-09-14T16:06","date-modified":"2023-09-21T08:46","dg-publish":true,"tags":["mosh"],"title":"G.O.B.L.I.N.","dg-path":"mosh/GOBLIN.md","permalink":"/mosh/goblin/","dgPassFrontmatter":true,"updated":"2023-09-21T08:46"}
+{"aliases":["G.O.B.L.I.N.","GOBLIN"],"date-created":"2023-09-14T16:06","date-modified":"2026-03-05T19:10","dg-publish":true,"tags":["mosh"],"title":"G.O.B.L.I.N.","dg-path":"mosh/GOBLIN.md","permalink":"/mosh/goblin/","dgPassFrontmatter":true,"updated":"2026-03-05T19:10","dg-note-properties":{"aliases":["G.O.B.L.I.N.","GOBLIN"],"date-created":"2023-09-14T16:06","date-modified":"2026-03-05T19:10","tags":["mosh"],"title":"G.O.B.L.I.N."}}
 ---
 
 
@@ -36,7 +36,7 @@ If you're following this guide in order, there should be a hideously dated dialo
 
 #### Layout Options
 
-First, you'll need to select one of OGRE's layout options. Depending on your firmware version, the names may be slightly different than those detailed here. 
+First, you'll need to select one of OGRE's layout options. Depending on your firmware version, the names may be slightly different than those detailed here.
 
 | Roll | Layout                           |
 | ---- | -------------------------------- |
@@ -45,7 +45,7 @@ First, you'll need to select one of OGRE's layout options. Depending on your fir
 | 3    | Science and Analysis Priority    |
 | 4    | Exploration and Navigation Setup |
 | 5    | Stealth and Infiltration Mode    |
-| 6    | Multi-Task Madness               | 
+| 6    | Multi-Task Madness               |
 | 7    | Media & Entertainment Overlay    |
 | 8    | Economic & Trade Prioritization  |
 | 9    | Engineering & Repair Focus       |
@@ -76,7 +76,7 @@ In addition to your selected widgets, there should be another dialog front and c
 | 4    | Sunset Horizon (Oranges and purples)   |
 | 5    | Ice Fortress (Blues and whites)        |
 | 6    | Heat Vision (Reds and yellows)         |
-| 7    | Pastel Paradise (Soft, muted tones)    | 
+| 7    | Pastel Paradise (Soft, muted tones)    |
 | 8    | Cyberpunk Hues (Pinks and cyans)       |
 | 9    | Desert Mirage (Browns and golds)       |
 | 10   | Midnight Ocean (Dark blues and blacks) |
@@ -112,7 +112,7 @@ Ever want to replay those key memories? With the integration of the Black Box, O
 
 ##### Holoprojector
 
-The Holoprojector paired with OGRE takes shared experiences to a new level. Witness memories, holographic pets, or key data with your crew. Like a shared dream... but real.
+The Holoprojector paired with OGRE takes shared experiences to a new level. Witness memories, holographic pets, or key data with your crew. Like a shared dream… but real.
 
 ##### Huntershot
 
@@ -168,7 +168,7 @@ If you _really_ want to break your warranty, Section 3 includes directions for g
 
 ## Section 2: Informational Display Add-Ons
 
-Informational Display Add-Ons (IDAs) are plugins that utilize the OGRE API. And plugins are like the apps of the OGRE world. There's an ocean of them, some deep and dark, and others clear and shiny. 
+Informational Display Add-Ons (IDAs) are plugins that utilize the OGRE API. And plugins are like the apps of the OGRE world. There's an ocean of them, some deep and dark, and others clear and shiny.
 
 ### 2.1 Sourcing IDAs
 
@@ -209,7 +209,7 @@ Alright, techno-wizards. Time to level up from mundane to magnificent. Whip out 
 
 ### 3.1 Root Access
 
-Grabbing root access is like nabbing the master key to the OGRE mansion. Doors? What doors? They're all open now. But with great power... well, you know the drill.
+Grabbing root access is like nabbing the master key to the OGRE mansion. Doors? What doors? They're all open now. But with great power… well, you know the drill.
 
 - **Advantages**:
     - _Full control_: Your OGRE, your rules.

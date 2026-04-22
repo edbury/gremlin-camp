@@ -1,5 +1,5 @@
 ---
-{"aliases":["weapons appendix","Weapons Appendix"],"date-created":"2025-03-05T08:32","date-modified":"2025-06-23T10:22","dg-publish":true,"tags":["moonrise"],"title":"Weapons Appendix","dg-path":"moonrise/weapons appendix.md","permalink":"/moonrise/weapons-appendix/","dgPassFrontmatter":true,"updated":"2025-06-23T10:22"}
+{"aliases":["weapons appendix","Weapons Appendix"],"date-created":"2025-03-05T08:32","date-modified":"2025-06-23T10:22","dg-publish":true,"tags":["moonrise"],"title":"Weapons Appendix","dg-path":"moonrise/weapons appendix.md","permalink":"/moonrise/weapons-appendix/","dgPassFrontmatter":true,"updated":"2025-06-23T10:22","dg-note-properties":{"aliases":["weapons appendix","Weapons Appendix"],"date-created":"2025-03-05T08:32","date-modified":"2025-06-23T10:22","tags":["moonrise"],"title":"Weapons Appendix"}}
 ---
 
 

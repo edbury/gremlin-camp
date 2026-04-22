@@ -1,5 +1,5 @@
 ---
-{"aliases":["awesome lists","Awesome Lists"],"date-created":"2025-01-15T10:40","date-modified":"2025-01-16T11:29","dg-publish":true,"title":"Awesome Lists","permalink":"/inbox/awesome-lists/","dgPassFrontmatter":true,"updated":"2025-01-16T11:29"}
+{"aliases":["awesome lists","Awesome Lists"],"date-created":"2025-01-15T10:40","date-modified":"2025-01-16T11:29","dg-publish":true,"title":"Awesome Lists","permalink":"/inbox/awesome-lists/","dgPassFrontmatter":true,"updated":"2025-01-16T11:29","dg-note-properties":{"aliases":["awesome lists","Awesome Lists"],"date-created":"2025-01-15T10:40","date-modified":"2025-01-16T11:29","title":"Awesome Lists"}}
 ---
 
 
