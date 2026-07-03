@@ -9,6 +9,7 @@ Highlights from recent readings.
 
 | Book                                                                                | Author                  | Year       |
 | ----------------------------------------------------------------------------------- | ----------------------- | ---------- |
+| [[library/books/Star Trek 9\|Star Trek 9]]                                       | James Blish             | 1973       |
 | [[library/books/Letters for My Father\|Letters for My Father]]                   | Louis Hoffman           | 2025       |
 | [[library/books/Systems Theory in Action\|Systems Theory in Action]]             | Shelly Smith-Acuña      | 2011       |
 | [[library/books/The Analyst's Vulnerability\|The Analyst's Vulnerability]]       | Karen J. Maroda         | 2020       |
@@ -19,9 +20,9 @@ Highlights from recent readings.
 | [[library/books/The Tibetan Book of the Dead\|The Tibetan Book of the Dead]]     | Padmasambhāva           | 1994       |
 | [[library/books/12 Secrets of the Caucasus\|12 Secrets of the Caucasus]]         | Essad Bey               | 1930       |
 | [[library/books/Dune\|Dune]]                                                     | Frank Herbert           | 1965       |
-| [[library/books/Wasted\|Wasted]]                                                 | Marya Hornbacher        | 1998, 2014 |
-| [[library/books/Family Therapy\|Family Therapy]]                                 | Michael P. Nichols      | 2017       |
 | [[library/books/Brainstorm\|Brainstorm]]                                         | Daniel J. Siegel        | 2015       |
 | [[library/books/'Race', Racism, and Psychology\|'Race', Racism, and Psychology]] | Graham Richards         | 2012       |
+| [[library/books/Family Therapy\|Family Therapy]]                                 | Michael P. Nichols      | 2017       |
+| [[library/books/Wasted\|Wasted]]                                                 | Marya Hornbacher        | 1998, 2014 |
 
 { .block-language-dataview}
