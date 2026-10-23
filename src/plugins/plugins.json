@@ -1,0 +1,9 @@
+{
+  "plugins": {
+    "dg-timestamps": {
+      "settings": {
+        "showOnHome": false
+      }
+    }
+  }
+}

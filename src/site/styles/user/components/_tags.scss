@@ -12,7 +12,8 @@
   }
 }
 
-.header-tags {
+.header-tags,
+.result-tags {
   display: flex;
   gap: var(--space-s);
   margin-block-end: var(--space-m);

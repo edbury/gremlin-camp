@@ -85,8 +85,12 @@ $max-line-length: 60ch;
   --graph-muted: var(--text-muted);
 }
 
-.tag-mosh {
-  // base 16 format.
+// Color schemes. userSetup.js sets data-scheme on <html> from the page's
+// directory; each scheme only swaps the base16 palette (and anything that
+// differs from the mappings above).
+
+:root[data-scheme="mosh"] {
+  // base 16 format. dracula.
   --base00: #282936;
   --base01: #3a3c4e;
   --base02: #4d4f68;
@@ -104,42 +108,10 @@ $max-line-length: 60ch;
   --base0e: #b45bcf;
   --base0f: #00f769;
 
-  // colors
-  --background-color-base: var(--base00);
-  --background-color-accent: var(--base01);
-  --text-color-body: var(--base07);
-  --text-color-accent: var(--base0d);
-  --link-text-color: var(--base0a);
-  --h1-color: var(--base0a);
-  --h2-color: var(--base0b);
-  --h3-color: var(--base0c);
-  --h4-color: var(--base0d);
-  --h5-color: var(--base0e);
-  --h6-color: var(--base0f);
-
-  // type
   --font-family-primary: ui-monospace, menlo, monaco, "cascadia mono", "segoe ui mono", "roboto mono", "oxygen mono", "ubuntu monospace", "source code pro", "fira mono", "droid sans mono", "courier new", monospace;
-
-  // shape
-  --border-width: 1px;
-  --border-style: solid;
-  --border-color: var(--base03);
-  --border-radius: calc(var(--font-scale-0)/4);
-
-  // conversion tokens
-
-  //// digital garden
-
-  --note-icon-1: url(/img/tree-1.svg);
-  --note-icon-2: url(/img/tree-2.svg);
-  --note-icon-3: url(/img/tree-3.svg);
-  --note-icon-fallback: url(/img/default-note-icon.svg);
-  --graph-main: var(--text-accent);
-  --graph-muted: var(--text-muted);
 }
 
-.tag-moonrise {
-  
+:root[data-scheme="moonrise"] {
   --base00: #1e1e1e;
   --base01: #323537;
   --base02: #464b50;
@@ -157,37 +129,5 @@ $max-line-length: 60ch;
   --base0e: #9b859d;
   --base0f: #9b703f;
 
-
-  // colors
-  --background-color-base: var(--base00);
-  --background-color-accent: var(--base01);
-  --text-color-body: var(--base07);
-  --text-color-accent: var(--base0d);
   --link-text-color: var(--base0c);
-  --h1-color: var(--base0a);
-  --h2-color: var(--base0b);
-  --h3-color: var(--base0c);
-  --h4-color: var(--base0d);
-  --h5-color: var(--base0e);
-  --h6-color: var(--base0f);
-
-  // type
-  --font-family-primary: 'open sans', -apple-system, blinkmacsystemfont, avenir next, avenir, segoe ui, helvetica neue, helvetica, ubuntu, roboto, noto, arial, sans-serif;
-
-  // shape
-  --border-width: 1px;
-  --border-style: solid;
-  --border-color: var(--base03);
-  --border-radius: calc(var(--font-scale-0)/4);
-
-  // conversion tokens
-
-  //// digital garden
-
-  --note-icon-1: url(/img/tree-1.svg);
-  --note-icon-2: url(/img/tree-2.svg);
-  --note-icon-3: url(/img/tree-3.svg);
-  --note-icon-fallback: url(/img/default-note-icon.svg);
-  --graph-main: var(--text-accent);
-  --graph-muted: var(--text-muted);
 }
