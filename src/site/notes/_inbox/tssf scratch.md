@@ -268,7 +268,7 @@
 
 ### Summer - The Primeval Forest
 
-[[[The Brothers\|The Brothers]] reverse course, picking up The Albino on their way back to the Nautical Twilight/Greenwood.]
+[[[The Brothers\|[The Brothers]] reverse course, picking up The Albino on their way back to the Nautical Twilight/Greenwood.]
 
 #### The Greenwood
 
