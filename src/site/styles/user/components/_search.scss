@@ -53,9 +53,11 @@
   margin-top: 20px;
   overflow-y: auto;
   padding: 20px;
-  display: flex;
-  justify-content: center;
   max-height: 50vh;
+}
+
+.search-preview-panel {
+  display: none;
 }
 
 #search-results .searchresult {
@@ -84,10 +86,21 @@
   margin-right: 20px;
 }
 
-.search-link {
+.navigation-hint code,
+.search-keys code {
+  font: inherit;
+  background: none;
+}
+
+.result-title {
   display: block;
   margin-bottom: 4px;
   font-size: 1.4rem;
+  color: var(--link-text-color);
+}
+
+.result-tags .tag {
+  color: var(--link-text-color);
 }
 
 .search-button {
@@ -110,5 +123,16 @@
 
   .search-icon {
       display: flex;
+  }
+
+  .search-keys {
+      text-transform: uppercase;
+
+      // The label and keys are separate flex items, which drops the
+      // space between them in the markup.
+      &::before {
+          content: " ";
+          white-space: pre;
+      }
   }
 }

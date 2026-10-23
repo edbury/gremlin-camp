@@ -1,0 +1,8 @@
+// The template turns the sidebar into a bottom sheet on narrow screens.
+// Gremlin Camp keeps the sidebar in the page flow, so the sheet's controls
+// stay hidden.
+.page-panel-toggle,
+.page-panel-backdrop,
+.page-panel-header {
+  display: none;
+}
