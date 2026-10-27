@@ -1,0 +1,169 @@
+// The terminal frame (src/plugins/gremlin-frame). The page scrolls normally
+// underneath. From back to front:
+//   bands   solid strips from each viewport edge to half a line inside the
+//           border, so text scrolls out of sight before it reaches the border
+//   frame   the border itself
+//   border  the labels on the border line, with a background that cuts the
+//           line around them
+
+.gc-band {
+  position: fixed;
+  z-index: 6;
+  inset-inline: 0;
+  height: calc(var(--gc-y) + 0.5lh);
+  background-color: var(--bg);
+}
+
+.gc-band--top {
+  top: 0;
+}
+
+.gc-band--bottom {
+  bottom: 0;
+}
+
+.gc-frame {
+  position: fixed;
+  z-index: 7;
+  inset-block: var(--gc-y);
+  inset-inline: var(--gc-x);
+  border: 1px solid var(--line);
+  pointer-events: none;
+}
+
+.gc-border {
+  position: fixed;
+  z-index: 8;
+  inset-inline: calc(var(--gc-x) + 2ch);
+  display: grid;
+  align-items: center;
+  column-gap: 2ch;
+  height: 1lh;
+  pointer-events: none;
+
+  > * {
+    pointer-events: auto;
+  }
+}
+
+// Title on the left, site address on the right.
+.gc-border--top {
+  top: calc(var(--gc-y) - 0.5lh);
+  grid-template-columns: minmax(0, max-content) max-content;
+  justify-content: space-between;
+}
+
+// Location on the left, keys in the middle, progress on the right.
+.gc-border--bottom {
+  bottom: calc(var(--gc-y) - 0.5lh);
+  grid-template-columns: minmax(0, 1fr) max-content minmax(0, 1fr);
+}
+
+.gc-label {
+  margin: 0;
+  padding-inline: 1ch;
+  background-color: var(--bg);
+  white-space: nowrap;
+}
+
+.gc-title {
+  min-width: 0;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  font-weight: 700;
+  color: var(--h1);
+}
+
+.gc-site {
+  color: var(--muted);
+  font-style: var(--muted-style);
+  text-decoration: none;
+
+  &:hover {
+    color: var(--strong);
+  }
+}
+
+.gc-path {
+  grid-column: 1;
+  justify-self: start;
+  max-width: 100%;
+  overflow: hidden;
+  text-overflow: ellipsis;
+}
+
+.gc-dim {
+  color: var(--muted);
+}
+
+.gc-keys {
+  grid-column: 2;
+  display: grid;
+  grid-auto-flow: column;
+  column-gap: 2ch;
+
+  button {
+    border: 0;
+    cursor: pointer;
+  }
+}
+
+.gc-key {
+  font-weight: 700;
+  color: var(--accent);
+}
+
+.gc-short {
+  display: none;
+}
+
+// frame.js draws this many cells.
+.gc-progress {
+  --gc-cells: 12;
+  grid-column: 3;
+  justify-self: end;
+}
+
+.gc-fill {
+  color: var(--accent);
+}
+
+.gc-rest {
+  color: var(--line);
+}
+
+// A page without a pane (the home page) has no contents key.
+body:not(:has(> aside :is(.toc, .backlinks, .gc-book))) .gc-contents-button {
+  display: none;
+}
+
+@media (width < $gc-narrow) {
+  .gc-border {
+    inset-inline: calc(var(--gc-x) + 1ch);
+    column-gap: 1ch;
+  }
+
+  .gc-border--bottom {
+    grid-template-columns: max-content minmax(0, 1fr);
+  }
+
+  .gc-path,
+  .gc-site,
+  .gc-long {
+    display: none;
+  }
+
+  .gc-keys {
+    grid-column: 1;
+    column-gap: 1ch;
+  }
+
+  .gc-short {
+    display: inline;
+  }
+
+  .gc-progress {
+    --gc-cells: 6;
+    grid-column: 2;
+  }
+}

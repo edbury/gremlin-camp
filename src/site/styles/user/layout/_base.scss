@@ -1,92 +1,148 @@
+// Page layout inside the frame. The page scrolls normally; the frame and its
+// borders are fixed on top (components/_frame.scss).
+//
+// body is a grid. The text sits in a centered track up to 72ch wide; on wide
+// screens the contents pane is a fourth track against the frame's right
+// border, sticky so it stays in view border to border.
+
 body {
   display: grid;
-  grid-template-columns: minmax(0, 1fr);
-  column-gap: var(--space-m);
-  row-gap: var(--space-l);
-  grid-template-rows: min-content;
-  align-content: start;
+  grid-template-columns: minmax(2ch, 1fr) minmax(0, var(--measure)) minmax(2ch, 1fr);
   align-items: start;
-  justify-items: center;
-  min-height: 100vh;
-  margin: 0;
-  padding-inline: var(--space-m);
-}
+  min-height: 100dvh;
+  padding-block: calc(var(--gc-y) + 1px);
+  padding-inline: calc(var(--gc-x) + 1px);
 
-.navbar {
-  display: flex;
-  // grid-column: 1 / 4;
-  justify-content: space-between;
-  align-items: center;
-  width: 100%;
-  gap: var(--space-s);
-  align-self: start;
-  padding-block: var(--space-m);
+  > * {
+    grid-column: 2;
+  }
 
-  h1 {
-    margin-block-end: 0;
-    font-size: var(--font-scale-1);
-    white-space: nowrap;
+  > .content,
+  > aside {
+    grid-row: 1;
   }
 }
 
 .content {
-  // grid-column: 2/3;
-  max-width: min(var(--max-line-length), 100%);
+  min-width: 0;
+  padding-block: 2lh;
   overflow-wrap: break-word;
-  align-self: start;
-  margin-inline: auto;
-  margin-block-start: 0;
-  margin-block-end: var(--space-l);
-  justify-self: center;
+
+  // The note's own title is in the top border; keep it for screen readers.
+  > header + h1,
+  .highlight--title {
+    @include visually-hidden;
+  }
+
+  // End of the note, the way a pager marks it.
+  &::after {
+    content: "(END)";
+    content: "(END)" / "";
+    display: block;
+    margin-block-start: 2lh;
+    color: var(--muted);
+    font-style: var(--muted-style);
+  }
 }
 
+// Tags and the updated date run as one line of text above the note.
+.content > header {
+  margin-block-end: 2lh;
+  color: var(--muted);
+  font-style: var(--muted-style);
+
+  .header-meta,
+  .header-tags,
+  .timestamps,
+  .timestamps > div {
+    display: inline;
+  }
+
+  .tag,
+  .timestamps {
+    margin-inline-end: 2ch;
+  }
+}
+
+.timestamps .human-date::before {
+  content: "updated ";
+}
+
+// Template pieces this design replaces.
+[data-lucide],
+.floating-actions,
+.page-panel-backdrop,
+.page-panel-header,
+.page-panel-toggle {
+  display: none;
+}
+
+// The contents pane: the template's sidebar.
 body > aside {
-  // position: sticky;
-  inset-block-start: 0;
-  align-self: start;
-  // grid-column: 3/4;
+  z-index: 7;
+  background-color: var(--bg);
 }
 
-.sidebar {
-  height: calc(100vh - var(--space-l));
-  overflow-y: scroll;
-  padding-block-start: var(--space-l);
+// No contents, backlinks or book details: no pane.
+body > aside:not(:has(.toc, .backlinks, .gc-book)) {
+  display: none;
 }
 
-.highlight--cover {
-  // position: sticky;
-  align-self: start;
-  // grid-column: 1/2;
-  grid-row: 2/3;
-  max-width: calc(0.5 * var(--max-line-length));
-  inset-block-start: var(--space-l);
-  margin: 0;
-  // justify-self: end;
+#page-panel {
+  height: 100%;
+  overflow-y: auto;
+  padding: 2lh 2ch;
 }
 
-@media (min-width: ($max-line-length * 1.5)) {
-  body {
-    grid-template-columns: minmax(0, 0.5fr) minmax(0, 1fr) minmax(0, 0.5fr);
-  }
-  
-  .navbar {
-    grid-column: 1 / 4;
-    padding-inline: var(--space-m);
-  }
-  
-  .content {
-    grid-column: 2/3;
-  }
-  
+.sidebar-container {
+  display: grid;
+  gap: 2lh;
+  width: fit-content;
+  max-width: 100%;
+  margin-inline: auto;
+}
+
+@media (width >= $gc-wide) {
   body > aside {
+    grid-column: 4;
     position: sticky;
-    grid-column: 3/4;
+    top: calc(var(--gc-y) + 1px);
+    height: calc(100dvh - 2 * var(--gc-y) - 2px);
+    border-inline-start: 1px solid var(--line);
   }
 
-  
-  .highlight--cover {
-    position: sticky;
-    grid-column: 1/2;
-    justify-self: end;
+  html:not(.gc-contents-closed) body:has(> aside :is(.toc, .backlinks, .gc-book)) {
+    grid-template-columns: minmax(2ch, 1fr) minmax(0, var(--measure)) minmax(2ch, 1fr) calc(var(--pane) + 4ch + 1px);
   }
+
+  .gc-contents-closed body > aside {
+    display: none;
+  }
+}
+
+// Below the wide breakpoint the pane opens with t, as a box above the bottom
+// border that covers the text.
+@media (width < $gc-wide) {
+  body > aside {
+    position: fixed;
+    inset-block: calc(var(--gc-y) + 2lh) calc(var(--gc-y) + 1lh);
+    inset-inline-end: calc(var(--gc-x) + 1ch);
+    width: min(var(--pane) + 4ch + 2px, 100% - 2 * var(--gc-x) - 2ch);
+    border: 1px solid var(--accent);
+  }
+
+  html:not(.gc-contents-open) body > aside {
+    display: none;
+  }
+}
+
+@media (width < $gc-narrow) {
+  :root {
+    --gc-x: 1ch;
+  }
+}
+
+// The 404 page has no frame.
+.centered {
+  margin-block: 4lh;
 }

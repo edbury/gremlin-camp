@@ -1,127 +1,156 @@
-.fullpage-overlay {
-  background-color: rgba(0, 0, 0, 0.5);
-  position: absolute;
-  top: 0;
-  right: 0;
-  left: 0;
-  bottom: 0;
-  z-index: 5;
-}
+// The dg-search window, restyled as a search box that opens above the bottom
+// border: "Search:" prompt, matching notes listed under it, key hints set into
+// its bottom border.
 
 .search-container {
-  background-color: rgba(0, 0, 0, 0.5);
   position: fixed;
-  top: 0;
-  right: 0;
-  left: 0;
-  bottom: 0;
-  z-index: 15;
-  height: 100%;
-  justify-content: center;
+  inset: 0;
+  z-index: 10;
   display: none;
-}
+  grid-template-rows: minmax(0, 1fr);
+  place-items: end center;
+  padding-block: calc(var(--gc-y) + 2lh) calc(var(--gc-y) + 1lh);
+  padding-inline: calc(var(--gc-x) + 1ch);
 
-.search-container.active {
-  display: flex;
+  &.active {
+    display: grid;
+  }
 }
 
 .search-box {
-  transform: translateY(100px);
-  background-color: var(--background-color-base);
-  max-width: 80%;
-  width: 900px;
-  border-radius: 15px;
-  padding: 10px;
-  height: fit-content;
+  position: relative;
+  display: grid;
+  grid-template-rows: auto minmax(0, 1fr);
+  row-gap: 1lh;
+  width: min(64ch, 100%);
+  max-height: 100%;
+  padding: 1lh 2ch;
+  background-color: var(--bg);
+  border: 1px solid var(--accent);
+
+  &::before {
+    content: "search";
+    position: absolute;
+    inset-block-start: -0.5lh;
+    inset-inline-start: 2ch;
+    padding-inline: 1ch;
+    background-color: var(--bg);
+    font-weight: 700;
+    color: var(--accent);
+  }
 }
 
-.search-box input {
-  width: 100%;
-  padding: 10px;
-  border: none;
-  border-radius: 5px;
-  font-size: 2rem;
-  background-color: var(--background-color-base);
-  color: inherit;
+.search-header {
+  display: grid;
+  grid-template-columns: max-content minmax(0, 1fr);
+  column-gap: 1ch;
+
+  &::before {
+    content: "Search:";
+    font-weight: 700;
+    color: var(--h1);
+  }
+
+  input {
+    width: 100%;
+    padding: 0;
+    border: 0;
+    background: transparent;
+    color: var(--strong);
+    caret-color: var(--accent);
+
+    &:focus,
+    &:focus-visible {
+      outline: none;
+    }
+
+    &::placeholder {
+      color: var(--muted);
+      font-style: var(--muted-style);
+    }
+
+    &::-webkit-search-cancel-button {
+      display: none;
+    }
+  }
 }
 
-.search-box input:focus {
-  outline: none;
+.search-layout {
+  display: grid;
+  min-height: 0;
 }
 
-#search-results {
-  margin-top: 20px;
+.search-results-panel {
+  min-height: 0;
   overflow-y: auto;
-  padding: 20px;
-  max-height: 50vh;
+  color: var(--muted);
+  font-style: var(--muted-style);
 }
 
 .search-preview-panel {
   display: none;
 }
 
-#search-results .searchresult {
-  margin-bottom: 15px;
-  list-style: none;
-  padding: 10px;
-  border-radius: 10px;
-  font-size: 1.2rem;
+.searchresult {
+  margin-block-end: 1lh;
+  padding-inline-start: 1ch;
+  border-inline-start: 1px solid transparent;
+  color: var(--fg);
+  font-style: normal;
   cursor: pointer;
-}
 
-.search-box-footer {
-  display: flex;
-  justify-content: flex-end;
-  margin-top: 10px;
-}
+  &.active {
+    border-inline-start-color: var(--accent);
 
-.navigation-hint {
-  font-size: 1rem;
-  margin-right: 20px;
-}
-
-.navigation-hint code,
-.search-keys code {
-  font: inherit;
-  background: none;
+    .result-title {
+      color: var(--accent);
+    }
+  }
 }
 
 .result-title {
   display: block;
-  margin-bottom: 4px;
-  font-size: 1.4rem;
-  color: var(--link-text-color);
+  color: var(--fg);
 }
 
-.result-tags .tag {
-  color: var(--link-text-color);
+.search-highlight {
+  color: var(--mark);
+  text-decoration: underline;
+  text-underline-offset: 0.2em;
 }
 
-.search-button {
-  background-color: var(--background-color-base);
-  border-radius: 20px;
-  height: 2em;
-  display: flex;
-  align-items: center;
-  min-width: 150px;
-  cursor: pointer;
+.result-excerpt {
+  display: -webkit-box;
+  overflow: hidden;
+  -webkit-box-orient: vertical;
+  -webkit-line-clamp: 2;
+  color: var(--muted);
+  font-style: var(--muted-style);
+}
 
-  > i {
-      margin-left: 10px;
+.search-box-footer {
+  position: absolute;
+  inset-block-end: -0.5lh;
+  inset-inline-end: 2ch;
+  display: grid;
+  grid-auto-flow: column;
+  column-gap: 2ch;
+  padding-inline: 1ch;
+  background-color: var(--bg);
+  color: var(--muted);
+  font-style: var(--muted-style);
+
+  code {
+    padding: 0;
+    background: none;
+    font-style: normal;
+    font-weight: 700;
+    color: var(--accent);
   }
+}
 
-  .search-icon {
-      display: flex;
-  }
-
-  .search-keys {
-      text-transform: uppercase;
-
-      // The label and keys are separate flex items, which drops the
-      // space between them in the markup.
-      &::before {
-          content: " ";
-          white-space: pre;
-      }
+@media (width < $gc-narrow) {
+  .search-box-footer {
+    display: none;
   }
 }

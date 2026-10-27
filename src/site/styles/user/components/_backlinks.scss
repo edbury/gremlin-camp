@@ -1,29 +1,16 @@
-.backlinks {
-  flex: 1;
-  font-size: var(--font-scale-neg1);
-  
-  .backlink-title {
-    margin-block-end: var(--space-s);
-    margin-inline: 0;
-  }
-}
-
-// .backlink-list { }
+// Backlinks, under the contents in the pane.
 
 .backlink-card {
-  padding-block-end: var(--space-m);
-  border-radius: var(--border-radius);
-  width: 100%;
-  
-  .svg-icon {
-    width: 0.75em;
-    height: 0.75em;
-    margin-inline-end: var(--space-s);
+  padding-inline-start: 2ch;
+  text-indent: -2ch;
+
+  &::before {
+    content: "\00a0\00a0";
+    content: "\00a0\00a0" / "";
   }
-  
-  // .backlink {}
 }
 
 .no-backlinks-message {
-  font-size: var(--font-scale-neg1);
+  color: var(--muted);
+  font-style: var(--muted-style);
 }
