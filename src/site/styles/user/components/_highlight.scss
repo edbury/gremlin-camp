@@ -12,12 +12,6 @@
   &:not(:last-child) {
     margin-block-end: 1.5rem;
   }
-
-  &:target {
-    span {
-      background-color: var(--dark4);
-    }
-  }
 }
 
 .highlight--cover-caption {
@@ -33,7 +27,6 @@
 }
 
 .highlight--author {
-  color: var(--light0-soft);
   font-family: var(--font-family-secondary);
   font-size: 0.93em;
   font-style: italic;
