@@ -1,0 +1,11 @@
+{
+  "id": "gremlin-frame",
+  "name": "Gremlin Frame",
+  "version": "1.0.0",
+  "description": "Draws a terminal frame around each page: the note title and site name in the top border; location, search, contents and reading progress in the bottom border.",
+  "author": "Edbury Enegren",
+  "regions": {
+    "navigation": "templates/frame.njk"
+  },
+  "scripts": ["assets/frame.js"]
+}

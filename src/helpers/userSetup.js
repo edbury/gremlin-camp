@@ -2,8 +2,8 @@
 // writes a few inline styles into every page; the transform below removes
 // them from the built HTML so only Gremlin Camp's stylesheet reaches visitors.
 // It also drops template scripts a page doesn't use, tags each page with the
-// color scheme for its directory, and restores the "On this page" heading on
-// the table of contents.
+// color scheme for its directory, names the sidebar sections, disables links
+// to unpublished notes, and lets the keyboard reach header tags.
 
 const OWN_STYLESHEET = "/styles/user/gremlin-camp.css";
 
@@ -98,20 +98,51 @@ const OPTIONAL_SCRIPTS = [
     tags: [/<script\b[^>]*whatwg-fetch[^>]*><\/script>/],
     uses: () => false,
   },
+  {
+    // Lucide icons. The frame uses none; callouts and the graph still do.
+    // The callout script calls lucide.createIcons() on every page, so a
+    // no-op stands in for the library where it is dropped.
+    tags: [
+      /<script\b[^>]*unpkg\.com\/lucide@[^>]*><\/script>/,
+      /<script\b[^>]*>(?:(?!<\/script>)[\s\S]){0,120}?lucide\.createIcons(?:(?!<\/script>)[\s\S])*<\/script>/,
+    ],
+    standIn: "<script>window.lucide={createIcons:function(){}}</script>",
+    uses: (html) => /class="callout\b/.test(html) || html.includes('id="graph-component"'),
+  },
 ];
 
 function stripUnusedScripts(html) {
   for (const script of OPTIONAL_SCRIPTS) {
     if (script.uses(html)) continue;
-    for (const tag of script.tags) html = html.replace(tag, "");
+    script.tags.forEach((tag, i) => {
+      html = html.replace(tag, i === 0 && script.standIn ? script.standIn : "");
+    });
   }
   return html;
 }
 
-// The template titles the table of contents with the note's title, which
-// repeats the first entry below it.
-function setTocTitle(html) {
-  return html.replace(/(<div class="toc-title">)[\s\S]*?(<\/div>)/, "$1On this page$2");
+// Sidebar headings. The template titles the table of contents with the
+// note's title, which repeats the first entry below it.
+function setSidebarTitles(html) {
+  return html
+    .replace(/(<div class="toc-title">)[\s\S]*?(<\/div>)/, "$1contents$2")
+    .replace(/(<div class="backlink-title">)[\s\S]*?(<\/div>)/, "$1backlinks$2");
+}
+
+// Links to unpublished notes point at /404. Keep them as links but disable
+// them: no href, so nothing leads to a dead end, and aria-disabled so screen
+// readers announce a link that isn't available yet.
+function disableUnresolved(html) {
+  return html.replace(
+    /<a class="internal-link is-unresolved"[^>]*>/g,
+    '<a class="internal-link is-unresolved" role="link" aria-disabled="true" title="Not published yet">'
+  );
+}
+
+// The template's header tags have no href, so the keyboard skips them.
+// dg-search opens a tag search for a.tag with this href.
+function focusableTags(html) {
+  return html.replace(/<a class="tag">/g, '<a class="tag" href="javascript:void(0);">');
 }
 
 function setScheme(html, url) {
@@ -129,7 +160,11 @@ function userEleventySetup(eleventyConfig) {
   eleventyConfig.addTransform("gremlin-camp", function (content) {
     const outputPath = (this.page && this.page.outputPath) || "";
     if (!outputPath.endsWith(".html")) return content;
-    const html = stripUnusedScripts(setTocTitle(stripTemplateStyles(content)));
+    let html = stripTemplateStyles(content);
+    html = stripUnusedScripts(html);
+    html = setSidebarTitles(html);
+    html = disableUnresolved(html);
+    html = focusableTags(html);
     return setScheme(html, this.page.url);
   });
 }

@@ -1,0 +1,28 @@
+{#
+  The terminal frame. styles/user/components/_frame.scss draws it; this
+  template supplies the text set into the border.
+  Top border: note title on the left, site address on the right.
+  Bottom border: location, search, contents and reading progress.
+#}
+{%- set gcTitle = title if title else page.fileSlug -%}
+{%- set gcSegments = (page.url or "").split("/") | reject("equalto", "") -%}
+<div class="gc-band gc-band--top" aria-hidden="true"></div>
+<div class="gc-band gc-band--bottom" aria-hidden="true"></div>
+<div class="gc-frame" aria-hidden="true"></div>
+<header class="gc-border gc-border--top">
+  <p class="gc-label gc-title">{{ gcTitle }}</p>
+  <a class="gc-label gc-site" href="/">{{ meta.siteBaseUrl | replace("https://", "") | replace("http://", "") }}</a>
+</header>
+<div class="gc-border gc-border--bottom">
+  <nav class="gc-label gc-path" aria-label="Location">
+    <a href="/" aria-label="Home">~</a>
+    {%- for segment in gcSegments -%}
+      <span class="gc-dim">/</span><span>{{ segment }}</span>
+    {%- endfor -%}
+  </nav>
+  <div class="gc-keys">
+    <button type="button" class="gc-label" data-gc-action="search" aria-haspopup="dialog"><span class="gc-key" aria-hidden="true">/</span> search</button>
+    <button type="button" class="gc-label gc-contents-button" data-gc-action="contents" aria-controls="page-panel" aria-expanded="false"><span class="gc-key" aria-hidden="true">t</span> <span class="gc-long">contents</span><span class="gc-short">toc</span></button>
+  </div>
+  <p class="gc-label gc-progress" data-gc-progress><span aria-hidden="true"><span class="gc-fill"></span><span class="gc-rest">░░░░░░░░░░░░</span> </span><span class="gc-pct">0%</span><span class="gc-sr"> read</span></p>
+</div>

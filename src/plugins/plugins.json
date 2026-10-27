@@ -1,5 +1,8 @@
 {
   "plugins": {
+    "dg-filetree": {
+      "enabled": false
+    },
     "dg-timestamps": {
       "settings": {
         "showOnHome": false

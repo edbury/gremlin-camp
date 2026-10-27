@@ -1,122 +1,156 @@
-$max-line-length: 60ch;
+// Breakpoints, counted in monospace columns. Media queries measure ch in the
+// browser's default font, not the page's monospace, so a column is written
+// as 0.6rem, the advance width of SF Mono, Menlo and DejaVu Sans Mono.
+// rem (and em) in a media query follow the reader's font-size setting.
+$ch: 0.6rem;
+$gc-wide: 116 * $ch; // 72 text + 34 pane (30 + padding) + gutters: the pane fits beside the text
+$gc-narrow: 64 * $ch; // the bottom border's location no longer fits
 
 :root {
-  // base 16 format. gruvbox.
-  --base00: #1d2021; 
-  --base01: #3c3836; 
-  --base02: #504945; 
-  --base03: #665c54; 
-  --base04: #bdae93; 
-  --base05: #d5c4a1; 
-  --base06: #ebdbb2; 
-  --base07: #fbf1c7;
-  --base08: #fb4934; 
-  --base09: #fe8019; 
-  --base0a: #fabd2f;
-  --base0b: #b8bb26;
-  --base0c: #8ec07c;
-  --base0d: #83a598;
-  --base0e: #d3869b;
-  --base0f: #d65d0e;
+  // Measure and frame
+  --measure: 72ch;
+  --pane: 30ch;
+  --gc-x: 2ch; // viewport edge to frame border, left and right
+  --gc-y: 1lh; // viewport edge to frame border, top and bottom
 
-  // colors
-  --background-color-base: var(--base00);
-  --background-color-accent: var(--base01);
-  --text-color-body: var(--base07);
-  --text-color-accent: var(--base0d);
-  --link-text-color: var(--base0a);
-  --h1-color: var(--base0a);
-  --h2-color: var(--base0b);
-  --h3-color: var(--base0c);
-  --h4-color: var(--base0d);
-  --h5-color: var(--base0e);
-  --h6-color: var(--base0f);
-
-  // type
-  --font-family-primary: 'open sans', -apple-system, blinkmacsystemfont, avenir next, avenir, segoe ui, helvetica neue, helvetica, ubuntu, roboto, noto, arial, sans-serif;
-  --font-family-secondary: 'gentium book basic', iowan old style, apple garamond, baskerville, times new roman, droid serif, times, source serif pro, serif, apple color emoji, segoe ui emoji, segoe ui symbol;
-  --line-height-base: 1.5;
-  --max-line-length: #{$max-line-length};
-  --half-line-length: 30ch; // integer for grid math
-  --font-weight-bold: 600;
-
-  // type scale
-  --font-scale-neg1: 0.889rem;
-  --font-scale-0: 1rem;
-  --font-scale-1: 1.125rem;
-  --font-scale-2: 1.266rem;
-  --font-scale-3: 1.424rem;
-  --font-scale-4: 1.602rem;
-  --font-scale-5: 1.802rem;
-  --font-scale-6: 2.027rem;
-  --font-scale-7: 2.281rem;
-  --font-scale-8: 2.566rem;
-  --font-scale-9: 2.887rem;
-  --font-scale-10: 3.247rem;
-  --font-size-body: var(--font-scale-0);
-  --font-size-caption: var(--font-scale-neg1);
-
-  // shape
-  --border-width: 1px;
-  --border-style: solid;
-  --border-color: var(--base03);
-  --border-radius: calc(var(--font-scale-0)/4);
-
-  // spacing
-  --space-m: calc(1rem * var(--line-height-base));
-  --space-s: calc(0.5 * var(--space-m));
-  --space-xs: calc(0.5 * var(--space-s));
-  --space-xxs: calc(0.5 * var(--space-xs));
-  --space-l: calc(2 * var(--space-m));
-
-  // transition
-  --transition-timing: ease-in-out;
-  --transition-duration: 100ms;
+  // Type
+  --font-mono: ui-monospace, "SF Mono", SFMono-Regular, Menlo, Monaco, "Cascadia Mono", "Segoe UI Mono", Consolas, "Liberation Mono", "DejaVu Sans Mono", monospace;
+  --leading: 1.5;
 }
 
-// Color schemes. userSetup.js sets data-scheme on <html> from the page's
-// directory; each scheme only swaps the base16 palette (and anything that
-// differs from the mappings above).
+// Color schemes are Tinted Theming base24 palettes, copied unchanged from
+// https://github.com/tinted-theming/schemes/tree/spring/base24.
+//
+// Each role below takes the first palette slot that clears WCAG 2.2 contrast
+// against base00: 4.5:1 for text, 3:1 for lines and other non-text marks.
+// When a palette has no grey that clears 4.5:1, --muted is the body color and
+// --muted-style sets it in italics instead.
+//
+// userSetup.js sets data-scheme on <html> from the page's directory.
 
+// Gruvbox Dark: the garden's default.
+:root {
+  --base00: #282828;
+  --base01: #3c3836;
+  --base02: #504945;
+  --base03: #665c54;
+  --base04: #928374;
+  --base05: #ebdbb2;
+  --base06: #fbf1c7;
+  --base07: #f9f5d7;
+  --base08: #cc241d;
+  --base09: #d65d0e;
+  --base0a: #d79921;
+  --base0b: #98971a;
+  --base0c: #689d6a;
+  --base0d: #458588;
+  --base0e: #b16286;
+  --base0f: #9d0006;
+  --base10: #2a2520;
+  --base11: #1d1d1d;
+  --base12: #fb4934;
+  --base13: #fabd2f;
+  --base14: #b8bb26;
+  --base15: #8ec07c;
+  --base16: #83a598;
+  --base17: #d3869b;
+
+  --bg: var(--base00);
+  --sel: var(--base02);
+  --fg: var(--base05); // 10.75:1
+  --strong: var(--base07); // 13.39:1
+  --muted: var(--base05); // base04 is 4.02:1
+  --muted-style: italic;
+  --line: var(--base04); // 4.02:1
+  --h1: var(--base0a); // 5.94:1
+  --h2: var(--base0b); // 4.76:1
+  --h3: var(--base0c); // 4.65:1
+  --h4: var(--base16); // 5.48:1
+  --h5: var(--base17); // 5.37:1
+  --h6: var(--base13); // 8.69:1; base09 and base12 are under 4.5:1
+  --link: var(--base16); // 5.48:1
+  --accent: var(--base17); // 5.37:1
+  --mark: var(--base0a); // 5.94:1
+}
+
+// Dracula: ~/mosh and ~/mothership.
 :root[data-scheme="mosh"] {
-  // base 16 format. dracula.
-  --base00: #282936;
-  --base01: #3a3c4e;
-  --base02: #4d4f68;
-  --base03: #626483;
-  --base04: #62d6e8;
-  --base05: #e9e9f4;
-  --base06: #f1f2f8;
-  --base07: #f7f7fb;
-  --base08: #ea51b2;
-  --base09: #b45bcf;
-  --base0a: #00f769;
-  --base0b: #ebff87;
-  --base0c: #a1efe4;
-  --base0d: #62d6e8;
-  --base0e: #b45bcf;
-  --base0f: #00f769;
+  --base00: #282a36;
+  --base01: #21222c;
+  --base02: #44475a;
+  --base03: #6272a4;
+  --base04: #9ea8c7;
+  --base05: #f8f8f2;
+  --base06: #f8f8f2;
+  --base07: #ffffff;
+  --base08: #ff5555;
+  --base09: #ffb86c;
+  --base0a: #f1fa8c;
+  --base0b: #50fa7b;
+  --base0c: #8be9fd;
+  --base0d: #bd93f9;
+  --base0e: #ff79c6;
+  --base0f: #993333;
+  --base10: #1e2029;
+  --base11: #16171d;
+  --base12: #ff6e6e;
+  --base13: #ffffa5;
+  --base14: #69ff94;
+  --base15: #a4ffff;
+  --base16: #d6acff;
+  --base17: #ff92df;
 
-  --font-family-primary: ui-monospace, menlo, monaco, "cascadia mono", "segoe ui mono", "roboto mono", "oxygen mono", "ubuntu monospace", "source code pro", "fira mono", "droid sans mono", "courier new", monospace;
+  --muted: var(--base04); // 6.02:1
+  --muted-style: normal;
+  --line: var(--base03); // 3.03:1
+  --h1: var(--base0a); // 12.74:1
+  --h2: var(--base0b); // 10.38:1
+  --h3: var(--base0c); // 10.29:1
+  --h4: var(--base0d); // 5.9:1
+  --h5: var(--base0e); // 5.97:1
+  --h6: var(--base09); // 8.36:1
+  --link: var(--base0d); // 5.9:1
+  --accent: var(--base0e); // 5.97:1
+  --mark: var(--base09); // 8.36:1
 }
 
+// Twilight: ~/moonrise.
 :root[data-scheme="moonrise"] {
-  --base00: #1e1e1e;
-  --base01: #323537;
-  --base02: #464b50;
-  --base03: #5f5a60;
-  --base04: #838184;
-  --base05: #a7a7a7;
-  --base06: #c3c3c3;
-  --base07: #ffffff;
-  --base08: #cf6a4c;
-  --base09: #cda869;
-  --base0a: #f9ee98;
-  --base0b: #8f9d6a;
-  --base0c: #afc4db;
-  --base0d: #7587a6;
-  --base0e: #9b859d;
-  --base0f: #9b703f;
+  --base00: #141414;
+  --base01: #141414;
+  --base02: #262626;
+  --base03: #5c5c51;
+  --base04: #92927c;
+  --base05: #c8c8a7;
+  --base06: #feffd3;
+  --base07: #feffd3;
+  --base08: #c06c43;
+  --base09: #c2a86c;
+  --base0a: #5a5d61;
+  --base0b: #afb979;
+  --base0c: #778284;
+  --base0d: #444649;
+  --base0e: #b4be7b;
+  --base0f: #603621;
+  --base10: #191919;
+  --base11: #0c0c0c;
+  --base12: #dd7c4c;
+  --base13: #e1c47d;
+  --base14: #cbd88c;
+  --base15: #8a989a;
+  --base16: #5a5d61;
+  --base17: #d0db8e;
 
-  --link-text-color: var(--base0c);
+  --muted: var(--base04); // 5.81:1
+  --muted-style: normal;
+  --line: var(--base04); // 5.81:1; base03 is 2.72:1
+  --h1: var(--base13); // 10.87:1; base0a is 2.78:1
+  --h2: var(--base0b); // 8.81:1
+  --h3: var(--base0c); // 4.66:1
+  --h4: var(--base0e); // 9.29:1; base0d is 1.95:1, base16 2.78:1
+  --h5: var(--base0e); // 9.29:1
+  --h6: var(--base09); // 7.99:1
+  --link: var(--base0c); // 4.66:1; links are always underlined
+  --accent: var(--base0e); // 9.29:1
+  --mark: var(--base09); // 7.99:1
 }

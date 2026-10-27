@@ -1,66 +1,28 @@
-.highlight--book {
-  display: grid;
-  grid-gap: var(--space-l);
-  grid-template-columns: 0.5fr 1fr;
+// Book notes (tag source/book). The title stays in the top border (and,
+// hidden, in the header for screen readers); the cover and details sit at the
+// top of the pane (components/user/sidebar/top/book.njk).
+
+.gc-book-cover {
+  display: block;
+  width: 20ch;
+  max-width: 100%;
+  margin-block-end: 1lh;
+  border: 1px solid var(--line);
 }
 
-.highlight {
-  max-width: var(--max-line-length);
+.gc-book-details {
+  display: grid;
+  grid-template-columns: max-content minmax(0, 22ch);
+  column-gap: 2ch;
   margin: 0;
-  padding: 0;
+  padding-inline-start: 2ch;
 
-  &:not(:last-child) {
-    margin-block-end: 1.5rem;
+  dt {
+    color: var(--muted);
+    font-style: var(--muted-style);
   }
-}
 
-.highlight--cover-caption {
-  @include visually-hidden;
-}
-
-.highlight--main {
-  max-width: var(--max-line-length);
-}
-
-.highlight--title {
-  margin-block-end: var(--space-m);
-}
-
-.highlight--author {
-  font-family: var(--font-family-secondary);
-  font-size: 0.93em;
-  font-style: italic;
-  font-weight: 400;
-}
-
-.highlight--quote {
-  margin: 0;
-  padding: 0;
-}
-
-.highlight--cite {
-  @include visually-hidden;
-}
-
-.highlight--page {
-  font-size: var(--font-size-caption);
-}
-
-.highlight--feed-title {
-  font-family: var(--font-family-secondary);
-  margin-block-end: var(--space-m);
-  max-width: unset;
-}
-
-.highlight--feed {
-  display: grid;
-  grid-gap: var(--space-m);
-  grid-template-columns: repeat(auto-fill, minmax(var(--half-line-length), 1fr));
-  align-items: center;
-  justify-items: center;
-  max-width: unset;
-  width: calc(100vw - (2 * var(--space-m)));
-  margin: 0;
-  padding: 0;
-  list-style-type: none;
+  dd {
+    margin: 0;
+  }
 }

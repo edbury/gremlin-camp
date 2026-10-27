@@ -1,0 +1,17 @@
+{# Book notes (tag source/book): cover and details at the top of the pane. #}
+{% if tags and 'source/book' in tags %}
+<section class="gc-book" aria-labelledby="gc-book-title">
+  <p class="gc-pane-title" id="gc-book-title">book</p>
+  {% if cover %}
+    <img class="gc-book-cover" src="{{ cover }}" alt="Cover of {{ title }}">
+  {% endif %}
+  <dl class="gc-book-details">
+    {% if subtitle %}<dt>subtitle</dt><dd>{{ subtitle }}</dd>{% endif %}
+    {% if author %}<dt>author</dt><dd>{{ author }}</dd>{% endif %}
+    {% if translator %}<dt>translator</dt><dd>{{ translator }}</dd>{% endif %}
+    {% if year %}<dt>year</dt><dd>{{ year }}</dd>{% endif %}
+    {% if edition %}<dt>edition</dt><dd>{{ edition }}</dd>{% endif %}
+    {% if finished %}<dt>finished</dt><dd>{{ (finished | string).slice(0, 10) }}</dd>{% endif %}
+  </dl>
+</section>
+{% endif %}
