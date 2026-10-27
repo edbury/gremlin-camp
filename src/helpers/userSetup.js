@@ -1,8 +1,9 @@
 // Gremlin Camp owns its styling. The template links its own stylesheets and
 // writes a few inline styles into every page; the transform below removes
 // them from the built HTML so only Gremlin Camp's stylesheet reaches visitors.
-// It also tags each page with the color scheme for its directory and
-// restores the "On this page" heading on the table of contents.
+// It also drops template scripts a page doesn't use, tags each page with the
+// color scheme for its directory, and restores the "On this page" heading on
+// the table of contents.
 
 const OWN_STYLESHEET = "/styles/user/gremlin-camp.css";
 
@@ -70,6 +71,43 @@ function stripTemplateStyles(html) {
   return html;
 }
 
+// Scripts the template loads on every page, each kept only on pages that use
+// it. `uses` tests the page's HTML.
+const OPTIONAL_SCRIPTS = [
+  {
+    // Local graph (dgShowLocalGraph). pixi.js loads before the page renders.
+    tags: [/<script type="importmap">[\s\S]*?<\/script>/, /<script\b[^>]*pixi\.js[^>]*><\/script>/],
+    uses: (html) => html.includes('id="graph-component"'),
+  },
+  {
+    tags: [/<script\b[^>]*type="module"[^>]*>[^<]*mermaid[\s\S]*?<\/script>/],
+    uses: (html) => /class="mermaid\b/.test(html),
+  },
+  {
+    // Code highlighting
+    tags: [/<script\b[^>]*\/prism\.min\.js[^>]*><\/script>/, /<script\b[^>]*prism-autoloader[^>]*><\/script>/],
+    uses: (html) => /class="(?:[^"]*\s)?language-/.test(html),
+  },
+  {
+    // Alpine drives the file tree and the graph controls.
+    tags: [/<script\b[^>]*@alpinejs\/persist[^>]*><\/script>/, /<script\b[^>]*\/alpinejs@[^>]*><\/script>/],
+    uses: (html) => /\sx-data\b/.test(html),
+  },
+  {
+    // fetch() polyfill; every current browser has fetch.
+    tags: [/<script\b[^>]*whatwg-fetch[^>]*><\/script>/],
+    uses: () => false,
+  },
+];
+
+function stripUnusedScripts(html) {
+  for (const script of OPTIONAL_SCRIPTS) {
+    if (script.uses(html)) continue;
+    for (const tag of script.tags) html = html.replace(tag, "");
+  }
+  return html;
+}
+
 // The template titles the table of contents with the note's title, which
 // repeats the first entry below it.
 function setTocTitle(html) {
@@ -91,7 +129,8 @@ function userEleventySetup(eleventyConfig) {
   eleventyConfig.addTransform("gremlin-camp", function (content) {
     const outputPath = (this.page && this.page.outputPath) || "";
     if (!outputPath.endsWith(".html")) return content;
-    return setScheme(setTocTitle(stripTemplateStyles(content)), this.page.url);
+    const html = stripUnusedScripts(setTocTitle(stripTemplateStyles(content)));
+    return setScheme(html, this.page.url);
   });
 }
 exports.userMarkdownSetup = userMarkdownSetup;

@@ -28,7 +28,7 @@ a {
     background-position: center right;
     background-repeat: no-repeat;
     background-image: linear-gradient(transparent, transparent), url("/img/outgoing.svg");
-    background-size: var(--font-scale-neg-1);
+    background-size: var(--font-scale-neg1);
     padding-right: 1em;
   }
 
@@ -175,6 +175,17 @@ table {
   &:only-child {
     margin-block-end: 0;
   }
+}
+
+.table-wrapper,
+.block-language-dataview {
+  max-width: 100%;
+  overflow-x: auto;
+}
+
+pre {
+  max-width: 100%;
+  overflow-x: auto;
 }
 
 .table-wrapper {
