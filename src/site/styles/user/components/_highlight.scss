@@ -1,25 +1,30 @@
-// Book notes (tag source/book). The title stays in the top border (and,
-// hidden, in the header for screen readers); the cover and details sit at the
-// top of the pane (components/user/sidebar/top/book.njk).
+// Book notes (tag source/book). The title is in the top border and in the
+// note's header, with the author under it; the cover and details open the
+// pane (components/user/sidebar/top/book.njk).
+
+.highlight--author {
+  display: block;
+  padding-inline-start: 2ch; // under the title, past the "# "
+  font-weight: 400;
+  color: var(--muted);
+}
 
 .gc-book-cover {
   display: block;
-  width: 20ch;
-  max-width: 100%;
-  margin-block-end: 1lh;
-  border: 1px solid var(--line);
+  inline-size: 100%;
+  margin-block-end: var(--space-m);
+  border: var(--border-width) var(--border-style) var(--border-color);
 }
 
 .gc-book-details {
   display: grid;
-  grid-template-columns: max-content minmax(0, 22ch);
-  column-gap: 2ch;
+  grid-template-columns: max-content minmax(0, 1fr);
+  column-gap: var(--space-m);
   margin: 0;
   padding-inline-start: 2ch;
 
   dt {
     color: var(--muted);
-    font-style: var(--muted-style);
   }
 
   dd {

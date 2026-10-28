@@ -1,76 +1,107 @@
-// Breakpoints, counted in monospace columns. Media queries measure ch in the
-// browser's default font, not the page's monospace, so a column is written
-// as 0.6rem, the advance width of SF Mono, Menlo and DejaVu Sans Mono.
-// rem (and em) in a media query follow the reader's font-size setting.
+// Line widths are counted in monospace columns (ch). Media queries measure ch
+// in the browser's default font, not the page's monospace, so a column is
+// written there as 0.6rem, the advance width of SF Mono, Menlo and DejaVu
+// Sans Mono. rem (and em) in a media query follow the reader's font-size
+// setting.
 $ch: 0.6rem;
-$gc-wide: 116 * $ch; // 72 text + 34 pane (30 + padding) + gutters: the pane fits beside the text
-$gc-narrow: 64 * $ch; // the bottom border's location no longer fits
+$leading: 1.5;
+$space: 1rem * $leading;
+
+$measure: 72; // columns of text
+$pane-min: 24; // columns, contents pane
+$pane-max: 40;
+
+// The pane fits beside the text at full measure: text and pane at their
+// widest, frame insets on both sides, and a gutter on both sides of the text.
+$gc-wide: ($measure + $pane-max) * $ch + 4 * $space;
+// The bottom border's location no longer fits.
+$gc-narrow: 64 * $ch;
 
 :root {
-  // Measure and frame
-  --measure: 72ch;
-  --pane: 30ch;
-  --gc-x: 2ch; // viewport edge to frame border, left and right
-  --gc-y: 1lh; // viewport edge to frame border, top and bottom
-
   // Type
   --font-mono: ui-monospace, "SF Mono", SFMono-Regular, Menlo, Monaco, "Cascadia Mono", "Segoe UI Mono", Consolas, "Liberation Mono", "DejaVu Sans Mono", monospace;
-  --leading: 1.5;
+  --font-size-base: 1rem;
+  --leading: #{$leading};
+
+  // Spacing. One line of body text is the base unit; every padding, margin
+  // and gap is a step of it.
+  --space-m: calc(var(--font-size-base) * var(--leading));
+  --space-s: calc(0.5 * var(--space-m));
+  --space-xs: calc(0.5 * var(--space-s));
+  --space-xxs: calc(0.5 * var(--space-xs));
+  --space-l: calc(2 * var(--space-m));
+  --space-xl: calc(2 * var(--space-l));
+
+  // Line widths
+  --measure: #{$measure}ch;
+  --pane-min: #{$pane-min}ch;
+  --pane-max: #{$pane-max}ch;
+  --pane-share: 30%; // of the space inside the frame
+
+  // Frame: viewport edge to frame border
+  --gc-x: var(--space-m);
+  --gc-y: var(--space-m);
+
+  // Shape. Lines a terminal can draw: one cell-edge thick, solid or dashed.
+  --border-width: 1px;
+  --border-style: solid;
+  --border-color: var(--line);
 }
 
 // Color schemes are Tinted Theming base24 palettes, copied unchanged from
-// https://github.com/tinted-theming/schemes/tree/spring/base24.
+// https://github.com/tinted-theming/schemes/tree/spec-0.11/base24.
 //
-// Each role below takes the first palette slot that clears WCAG 2.2 contrast
-// against base00: 4.5:1 for text, 3:1 for lines and other non-text marks.
-// When a palette has no grey that clears 4.5:1, --muted is the body color and
-// --muted-style sets it in italics instead.
+// Each role below takes a palette slot that clears WCAG 2.2 contrast against
+// base00: 4.5:1 for text, 3:1 for lines and other non-text marks. Hovered and
+// focused links reverse their colors (base00 on the role's color), so the
+// same ratio covers those states. --inset is a surface set slightly below
+// base00, and every text role also clears 4.5:1 on it.
 //
 // userSetup.js sets data-scheme on <html> from the page's directory.
 
-// Gruvbox Dark: the garden's default.
+// Flexoki Dark: the garden's default.
 :root {
-  --base00: #282828;
-  --base01: #3c3836;
-  --base02: #504945;
-  --base03: #665c54;
-  --base04: #928374;
-  --base05: #ebdbb2;
-  --base06: #fbf1c7;
-  --base07: #f9f5d7;
-  --base08: #cc241d;
-  --base09: #d65d0e;
-  --base0a: #d79921;
-  --base0b: #98971a;
-  --base0c: #689d6a;
-  --base0d: #458588;
-  --base0e: #b16286;
-  --base0f: #9d0006;
-  --base10: #2a2520;
-  --base11: #1d1d1d;
-  --base12: #fb4934;
-  --base13: #fabd2f;
-  --base14: #b8bb26;
-  --base15: #8ec07c;
-  --base16: #83a598;
-  --base17: #d3869b;
+  --base00: #100f0f;
+  --base01: #1c1b1a;
+  --base02: #282726;
+  --base03: #575653;
+  --base04: #878580;
+  --base05: #cecdc3;
+  --base06: #e6e4d9;
+  --base07: #fffcf0;
+  --base08: #d14d41;
+  --base09: #da702c;
+  --base0a: #d0a215;
+  --base0b: #879a39;
+  --base0c: #3aa99f;
+  --base0d: #4385be;
+  --base0e: #8b7ec8;
+  --base0f: #ce5d97;
+  --base10: #1c1b1a;
+  --base11: #000000;
+  --base12: #af3029;
+  --base13: #bc5215;
+  --base14: #ad8301;
+  --base15: #66800b;
+  --base16: #24837b;
+  --base17: #205ea6;
 
   --bg: var(--base00);
-  --sel: var(--base02);
-  --fg: var(--base05); // 10.75:1
-  --strong: var(--base07); // 13.39:1
-  --muted: var(--base05); // base04 is 4.02:1
-  --muted-style: italic;
-  --line: var(--base04); // 4.02:1
-  --h1: var(--base0a); // 5.94:1
-  --h2: var(--base0b); // 4.76:1
-  --h3: var(--base0c); // 4.65:1
-  --h4: var(--base16); // 5.48:1
-  --h5: var(--base17); // 5.37:1
-  --h6: var(--base13); // 8.69:1; base09 and base12 are under 4.5:1
-  --link: var(--base16); // 5.48:1
-  --accent: var(--base17); // 5.37:1
-  --mark: var(--base0a); // 5.94:1
+  --sel: var(--base02); // selected text, which turns --strong
+  --inset: var(--base11); // code, link targets; every text role above clears 5.34:1 on it
+  --fg: var(--base05); // 11.98:1
+  --strong: var(--base07); // 18.62:1
+  --muted: var(--base04); // 5.19:1
+  --line: var(--base04); // 5.19:1; base03 is 2.61:1
+  --h1: var(--base0a); // 8.08:1
+  --h2: var(--base0b); // 6.12:1
+  --h3: var(--base0d); // 4.86:1
+  --h4: var(--base0e); // 5.39:1
+  --h5: var(--base0f); // 5.14:1
+  --h6: var(--base09); // 5.77:1
+  --link: var(--base0c); // 6.7:1
+  --accent: var(--base0f); // 5.14:1
+  --mark: var(--base0a); // 8.08:1
 }
 
 // Dracula: ~/mosh and ~/mothership.
@@ -100,8 +131,8 @@ $gc-narrow: 64 * $ch; // the bottom border's location no longer fits
   --base16: #d6acff;
   --base17: #ff92df;
 
+  --inset: var(--base11); // every text role clears 7.41:1 on it
   --muted: var(--base04); // 6.02:1
-  --muted-style: normal;
   --line: var(--base03); // 3.03:1
   --h1: var(--base0a); // 12.74:1
   --h2: var(--base0b); // 10.38:1
@@ -141,8 +172,8 @@ $gc-narrow: 64 * $ch; // the bottom border's location no longer fits
   --base16: #5a5d61;
   --base17: #d0db8e;
 
+  --inset: var(--base11); // every text role clears 4.95:1 on it
   --muted: var(--base04); // 5.81:1
-  --muted-style: normal;
   --line: var(--base04); // 5.81:1; base03 is 2.72:1
   --h1: var(--base13); // 10.87:1; base0a is 2.78:1
   --h2: var(--base0b); // 8.81:1
@@ -150,7 +181,7 @@ $gc-narrow: 64 * $ch; // the bottom border's location no longer fits
   --h4: var(--base0e); // 9.29:1; base0d is 1.95:1, base16 2.78:1
   --h5: var(--base0e); // 9.29:1
   --h6: var(--base09); // 7.99:1
-  --link: var(--base0c); // 4.66:1; links are always underlined
+  --link: var(--base0c); // 4.66:1
   --accent: var(--base0e); // 9.29:1
   --mark: var(--base09); // 7.99:1
 }

@@ -6,6 +6,11 @@
 // Breakpoints live only in the stylesheet. This script reads the result:
 // the pane is sticky beside the text on wide screens and fixed over it
 // otherwise, and the progress bar's cell count is the --gc-cells property.
+//
+// The pane also follows the reader: when the template's sidebar script marks
+// a new current section (.toc-active), the pane scrolls itself to keep that
+// entry in view. It scrolls the pane only; scrollIntoView would move the page
+// as well and fight the reader's own scrolling.
 (function () {
   const root = document.documentElement;
   const STORE = "gc-contents";
@@ -47,6 +52,38 @@
     root.classList.toggle("gc-contents-open", !wide && open);
     document.querySelectorAll('[data-gc-action="contents"]').forEach((button) => {
       button.setAttribute("aria-expanded", String(open));
+    });
+    if (open) followContents();
+  }
+
+  const reducedMotion = window.matchMedia("(prefers-reduced-motion: reduce)");
+
+  // Keep the current entry at least two lines inside the pane's edges; when
+  // it leaves that band, bring it to the middle. A hidden entry (the note's
+  // own title, at the top of the note) returns the pane to its top.
+  function followContents() {
+    const panel = document.getElementById("page-panel");
+    const active = panel && panel.querySelector(".toc-container a.toc-active");
+    if (!active || panel.scrollHeight <= panel.clientHeight) return;
+    const behavior = reducedMotion.matches ? "auto" : "smooth";
+    if (!active.getClientRects().length) {
+      panel.scrollTo({ top: 0, behavior });
+      return;
+    }
+    const view = panel.getBoundingClientRect();
+    const entry = active.getBoundingClientRect();
+    const band = 2 * parseFloat(getComputedStyle(active).lineHeight);
+    if (entry.top >= view.top + band && entry.bottom <= view.bottom - band) return;
+    const top = panel.scrollTop + (entry.top - view.top) - (panel.clientHeight - entry.height) / 2;
+    panel.scrollTo({ top, behavior });
+  }
+
+  const contents = document.querySelector(".toc-container");
+  if (contents) {
+    new MutationObserver(followContents).observe(contents, {
+      subtree: true,
+      attributes: true,
+      attributeFilter: ["class"],
     });
   }
 

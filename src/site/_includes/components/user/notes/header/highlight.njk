@@ -1,5 +1,6 @@
-{% if 'source/book' in tags %}
+{# Book notes: title and author, unless the note has a title heading of its own. #}
+{% if 'source/book' in tags and not ("<h1" in content) %}
   <h1 class="highlight--title">{{ title }}
-    <span class="highlight--author">{{ author }}</span>
+    {% if author %}<span class="highlight--author">{{ author }}</span>{% endif %}
   </h1>
 {% endif %}

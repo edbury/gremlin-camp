@@ -1,17 +1,20 @@
 // Page layout inside the frame. The page scrolls normally; the frame and its
 // borders are fixed on top (components/_frame.scss).
 //
-// body is a grid. The text sits in a centered track up to 72ch wide; on wide
-// screens the contents pane is a fourth track against the frame's right
-// border, sticky so it stays in view border to border.
+// body is a grid. The content pane fills the space the contents pane leaves,
+// and the text sits centered in it, never wider than the measure; the
+// gutters on either side take whatever is left. On wide screens the contents
+// pane is a fourth track against the frame's inline-end border, sized to its
+// longest entry within --pane-min and --pane-max, and sticky so it stays in
+// view border to border.
 
 body {
   display: grid;
-  grid-template-columns: minmax(2ch, 1fr) minmax(0, var(--measure)) minmax(2ch, 1fr);
+  grid-template-columns: minmax(var(--space-m), 1fr) minmax(0, var(--measure)) minmax(var(--space-m), 1fr);
   align-items: start;
-  min-height: 100dvh;
-  padding-block: calc(var(--gc-y) + 1px);
-  padding-inline: calc(var(--gc-x) + 1px);
+  min-block-size: 100dvh;
+  padding-block: calc(var(--gc-y) + var(--border-width));
+  padding-inline: calc(var(--gc-x) + var(--border-width));
 
   > * {
     grid-column: 2;
@@ -24,32 +27,24 @@ body {
 }
 
 .content {
-  min-width: 0;
-  padding-block: 2lh;
+  min-inline-size: 0;
+  padding-block: var(--space-l);
   overflow-wrap: break-word;
-
-  // The note's own title is in the top border; keep it for screen readers.
-  > header + h1,
-  .highlight--title {
-    @include visually-hidden;
-  }
 
   // End of the note, the way a pager marks it.
   &::after {
     content: "(END)";
     content: "(END)" / "";
     display: block;
-    margin-block-start: 2lh;
+    margin-block-start: var(--space-l);
     color: var(--muted);
-    font-style: var(--muted-style);
   }
 }
 
 // Tags and the updated date run as one line of text above the note.
 .content > header {
-  margin-block-end: 2lh;
+  margin-block-end: var(--space-l);
   color: var(--muted);
-  font-style: var(--muted-style);
 
   .header-meta,
   .header-tags,
@@ -60,7 +55,13 @@ body {
 
   .tag,
   .timestamps {
-    margin-inline-end: 2ch;
+    margin-inline-end: var(--space-m);
+  }
+
+  // A title the header supplies (books, and notes that don't open with
+  // one) follows the tags and date, as the note's first heading.
+  h1 {
+    margin-block: var(--space-l) 0;
   }
 }
 
@@ -89,30 +90,33 @@ body > aside:not(:has(.toc, .backlinks, .gc-book)) {
 }
 
 #page-panel {
-  height: 100%;
+  block-size: 100%;
   overflow-y: auto;
-  padding: 2lh 2ch;
+  padding-block: var(--space-l);
+  padding-inline: var(--space-m);
 }
 
 .sidebar-container {
   display: grid;
-  gap: 2lh;
-  width: fit-content;
-  max-width: 100%;
-  margin-inline: auto;
+  gap: var(--space-l);
 }
 
 @media (width >= $gc-wide) {
   body > aside {
     grid-column: 4;
     position: sticky;
-    top: calc(var(--gc-y) + 1px);
-    height: calc(100dvh - 2 * var(--gc-y) - 2px);
-    border-inline-start: 1px solid var(--line);
+    inset-block-start: calc(var(--gc-y) + var(--border-width));
+    block-size: calc(100dvh - 2 * (var(--gc-y) + var(--border-width)));
+    min-inline-size: var(--pane-min);
+    border-inline-start: var(--border-width) var(--border-style) var(--border-color);
   }
 
   html:not(.gc-contents-closed) body:has(> aside :is(.toc, .backlinks, .gc-book)) {
-    grid-template-columns: minmax(2ch, 1fr) minmax(0, var(--measure)) minmax(2ch, 1fr) calc(var(--pane) + 4ch + 1px);
+    grid-template-columns:
+      minmax(var(--space-m), 1fr)
+      minmax(0, var(--measure))
+      minmax(var(--space-m), 1fr)
+      fit-content(clamp(var(--pane-min), var(--pane-share), var(--pane-max)));
   }
 
   .gc-contents-closed body > aside {
@@ -125,10 +129,10 @@ body > aside:not(:has(.toc, .backlinks, .gc-book)) {
 @media (width < $gc-wide) {
   body > aside {
     position: fixed;
-    inset-block: calc(var(--gc-y) + 2lh) calc(var(--gc-y) + 1lh);
-    inset-inline-end: calc(var(--gc-x) + 1ch);
-    width: min(var(--pane) + 4ch + 2px, 100% - 2 * var(--gc-x) - 2ch);
-    border: 1px solid var(--accent);
+    inset-block: calc(var(--gc-y) + var(--space-l)) calc(var(--gc-y) + var(--space-m));
+    inset-inline-end: calc(var(--gc-x) + var(--space-s));
+    inline-size: min(var(--pane-max), 100% - 2 * var(--gc-x) - var(--space-m));
+    border: var(--border-width) var(--border-style) var(--accent);
   }
 
   html:not(.gc-contents-open) body > aside {
@@ -138,11 +142,11 @@ body > aside:not(:has(.toc, .backlinks, .gc-book)) {
 
 @media (width < $gc-narrow) {
   :root {
-    --gc-x: 1ch;
+    --gc-x: var(--space-s);
   }
 }
 
 // The 404 page has no frame.
 .centered {
-  margin-block: 4lh;
+  margin-block: var(--space-xl);
 }

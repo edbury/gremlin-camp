@@ -10,16 +10,16 @@
   position: fixed;
   z-index: 6;
   inset-inline: 0;
-  height: calc(var(--gc-y) + 0.5lh);
+  block-size: calc(var(--gc-y) + var(--space-s));
   background-color: var(--bg);
 }
 
 .gc-band--top {
-  top: 0;
+  inset-block-start: 0;
 }
 
 .gc-band--bottom {
-  bottom: 0;
+  inset-block-end: 0;
 }
 
 .gc-frame {
@@ -27,18 +27,18 @@
   z-index: 7;
   inset-block: var(--gc-y);
   inset-inline: var(--gc-x);
-  border: 1px solid var(--line);
+  border: var(--border-width) var(--border-style) var(--border-color);
   pointer-events: none;
 }
 
 .gc-border {
   position: fixed;
   z-index: 8;
-  inset-inline: calc(var(--gc-x) + 2ch);
+  inset-inline: calc(var(--gc-x) + var(--space-m));
   display: grid;
   align-items: center;
-  column-gap: 2ch;
-  height: 1lh;
+  column-gap: var(--space-m);
+  block-size: var(--space-m);
   pointer-events: none;
 
   > * {
@@ -46,19 +46,20 @@
   }
 }
 
-// Title on the left, site address on the right.
+// Title at the start, site address at the end.
 .gc-border--top {
-  top: calc(var(--gc-y) - 0.5lh);
+  inset-block-start: calc(var(--gc-y) - var(--space-s));
   grid-template-columns: minmax(0, max-content) max-content;
   justify-content: space-between;
 }
 
-// Location on the left, keys in the middle, progress on the right.
+// Location at the start, keys in the middle, progress at the end.
 .gc-border--bottom {
-  bottom: calc(var(--gc-y) - 0.5lh);
+  inset-block-end: calc(var(--gc-y) - var(--space-s));
   grid-template-columns: minmax(0, 1fr) max-content minmax(0, 1fr);
 }
 
+// One space on either side of a label cuts the border line around it.
 .gc-label {
   margin: 0;
   padding-inline: 1ch;
@@ -67,7 +68,7 @@
 }
 
 .gc-title {
-  min-width: 0;
+  min-inline-size: 0;
   overflow: hidden;
   text-overflow: ellipsis;
   font-weight: 700;
@@ -76,18 +77,15 @@
 
 .gc-site {
   color: var(--muted);
-  font-style: var(--muted-style);
   text-decoration: none;
 
-  &:hover {
-    color: var(--strong);
-  }
+  @include reverse-video(var(--muted));
 }
 
 .gc-path {
   grid-column: 1;
   justify-self: start;
-  max-width: 100%;
+  max-inline-size: 100%;
   overflow: hidden;
   text-overflow: ellipsis;
 }
@@ -100,11 +98,17 @@
   grid-column: 2;
   display: grid;
   grid-auto-flow: column;
-  column-gap: 2ch;
+  column-gap: var(--space-m);
 
   button {
     border: 0;
     cursor: pointer;
+
+    @include reverse-video(var(--fg));
+
+    &:is(:hover, :focus-visible) .gc-key {
+      color: inherit;
+    }
   }
 }
 
@@ -139,8 +143,8 @@ body:not(:has(> aside :is(.toc, .backlinks, .gc-book))) .gc-contents-button {
 
 @media (width < $gc-narrow) {
   .gc-border {
-    inset-inline: calc(var(--gc-x) + 1ch);
-    column-gap: 1ch;
+    inset-inline: calc(var(--gc-x) + var(--space-s));
+    column-gap: var(--space-s);
   }
 
   .gc-border--bottom {
@@ -155,7 +159,7 @@ body:not(:has(> aside :is(.toc, .backlinks, .gc-book))) .gc-contents-button {
 
   .gc-keys {
     grid-column: 1;
-    column-gap: 1ch;
+    column-gap: var(--space-s);
   }
 
   .gc-short {

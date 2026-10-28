@@ -1,0 +1,6 @@
+{# A note with no top-level heading of its own gets its title as one, so
+   every title is in the document as well as the frame. Books carry theirs in
+   highlight.njk. #}
+{%- if not (tags and 'source/book' in tags) and not ("<h1" in content) -%}
+  <h1>{{ title if title else page.fileSlug }}</h1>
+{%- endif -%}
