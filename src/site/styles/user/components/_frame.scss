@@ -136,6 +136,14 @@
   color: var(--line);
 }
 
+// Room for "100%" at every value, right-aligned the way pagers show it
+// ("  5%"), so the bar holds still as the number gains digits.
+.gc-pct {
+  display: inline-block;
+  min-inline-size: 4ch;
+  text-align: end;
+}
+
 // A page without a pane (the home page) has no contents key.
 body:not(:has(> aside :is(.toc, .backlinks, .gc-book))) .gc-contents-button {
   display: none;
