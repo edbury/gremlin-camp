@@ -3,16 +3,11 @@
 // scroll, gets a > in the two-character slot before each entry.
 
 .toc-title,
-.backlink-title,
-.gc-pane-title {
-  margin-block: 0 1lh;
+.backlink-title {
+  margin-block: 0 var(--space-m);
   padding-inline-start: 2ch;
   font-weight: 700;
   color: var(--accent);
-}
-
-.gc-book .gc-book-cover {
-  margin-inline-start: 2ch;
 }
 
 .toc-container {
@@ -20,36 +15,35 @@
     margin: 0;
     padding: 0;
     list-style: none;
-
-    ol {
-      padding-inline-start: 2ch;
-    }
   }
 
+  // The slot hangs: wrapped lines of an entry start under its first letter,
+  // and a nested list starts there too.
   li {
-    padding: 0;
-    text-indent: 0;
+    padding-inline-start: 2ch;
+    text-indent: -2ch;
 
     &::before {
       content: none;
     }
   }
 
+  // Entries are inline, so a hovered entry reverses only its own text. The
+  // slot paints the page background over it, keeping the marker out of the
+  // highlight.
   a {
-    display: block;
-    padding-inline-start: 2ch;
-    text-indent: -2ch;
     color: var(--fg);
     text-decoration: none;
+
+    @include reverse-video(var(--fg));
 
     &::before {
       content: "\00a0\00a0";
       content: "\00a0\00a0" / "";
-    }
-
-    &:hover {
-      color: var(--strong);
-      text-decoration: underline;
+      display: inline-block;
+      text-indent: 0;
+      background-color: var(--bg);
+      color: var(--accent);
     }
   }
 
@@ -57,21 +51,21 @@
     font-weight: 700;
     color: var(--strong);
 
+    @include reverse-video(var(--strong));
+
     &::before {
       content: ">\00a0";
       content: ">\00a0" / "";
-      color: var(--accent);
     }
   }
 
   // A note's own title is the single top entry; the list starts below it.
   nav.toc > ol > li:only-child {
+    padding-inline-start: 0;
+    text-indent: 0;
+
     > a {
       display: none;
-    }
-
-    > ol {
-      padding-inline-start: 0;
     }
   }
 }

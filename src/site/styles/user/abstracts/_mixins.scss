@@ -9,3 +9,17 @@
     clip-path: inset(50%);
   }
 }
+
+// Hover and focus as a terminal shows them: the element's color becomes its
+// background and its text takes the page background. The ratio between the
+// two is the one the role already clears against the page, so the reversed
+// state passes whenever the resting state does. The transparent outline only
+// appears in forced-colors mode, where backgrounds are dropped.
+@mixin reverse-video($color) {
+  &:hover,
+  &:focus-visible {
+    background-color: $color;
+    color: var(--bg);
+    outline: var(--border-width) var(--border-style) transparent;
+  }
+}

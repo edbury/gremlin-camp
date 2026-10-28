@@ -9,8 +9,8 @@
   display: none;
   grid-template-rows: minmax(0, 1fr);
   place-items: end center;
-  padding-block: calc(var(--gc-y) + 2lh) calc(var(--gc-y) + 1lh);
-  padding-inline: calc(var(--gc-x) + 1ch);
+  padding-block: calc(var(--gc-y) + var(--space-l)) calc(var(--gc-y) + var(--space-m));
+  padding-inline: calc(var(--gc-x) + var(--space-s));
 
   &.active {
     display: grid;
@@ -21,18 +21,18 @@
   position: relative;
   display: grid;
   grid-template-rows: auto minmax(0, 1fr);
-  row-gap: 1lh;
-  width: min(64ch, 100%);
-  max-height: 100%;
-  padding: 1lh 2ch;
+  row-gap: var(--space-m);
+  inline-size: min(64ch, 100%);
+  max-block-size: 100%;
+  padding: var(--space-m);
   background-color: var(--bg);
-  border: 1px solid var(--accent);
+  border: var(--border-width) var(--border-style) var(--accent);
 
   &::before {
     content: "search";
     position: absolute;
-    inset-block-start: -0.5lh;
-    inset-inline-start: 2ch;
+    inset-block-start: calc(-1 * var(--space-s));
+    inset-inline-start: var(--space-m);
     padding-inline: 1ch;
     background-color: var(--bg);
     font-weight: 700;
@@ -52,7 +52,7 @@
   }
 
   input {
-    width: 100%;
+    inline-size: 100%;
     padding: 0;
     border: 0;
     background: transparent;
@@ -66,7 +66,6 @@
 
     &::placeholder {
       color: var(--muted);
-      font-style: var(--muted-style);
     }
 
     &::-webkit-search-cancel-button {
@@ -77,14 +76,13 @@
 
 .search-layout {
   display: grid;
-  min-height: 0;
+  min-block-size: 0;
 }
 
 .search-results-panel {
-  min-height: 0;
+  min-block-size: 0;
   overflow-y: auto;
   color: var(--muted);
-  font-style: var(--muted-style);
 }
 
 .search-preview-panel {
@@ -92,11 +90,10 @@
 }
 
 .searchresult {
-  margin-block-end: 1lh;
-  padding-inline-start: 1ch;
-  border-inline-start: 1px solid transparent;
+  margin-block-end: var(--space-m);
+  padding-inline-start: var(--space-s);
+  border-inline-start: var(--border-width) var(--border-style) transparent;
   color: var(--fg);
-  font-style: normal;
   cursor: pointer;
 
   &.active {
@@ -125,25 +122,22 @@
   -webkit-box-orient: vertical;
   -webkit-line-clamp: 2;
   color: var(--muted);
-  font-style: var(--muted-style);
 }
 
 .search-box-footer {
   position: absolute;
-  inset-block-end: -0.5lh;
-  inset-inline-end: 2ch;
+  inset-block-end: calc(-1 * var(--space-s));
+  inset-inline-end: var(--space-m);
   display: grid;
   grid-auto-flow: column;
-  column-gap: 2ch;
+  column-gap: var(--space-m);
   padding-inline: 1ch;
   background-color: var(--bg);
   color: var(--muted);
-  font-style: var(--muted-style);
 
   code {
     padding: 0;
     background: none;
-    font-style: normal;
     font-weight: 700;
     color: var(--accent);
   }

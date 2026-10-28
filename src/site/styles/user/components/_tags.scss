@@ -3,15 +3,11 @@
 .tag {
   cursor: pointer;
   color: var(--accent);
-  font-style: normal;
   text-decoration: none;
 
-  &:hover {
-    color: var(--strong);
-    text-decoration: underline;
-  }
+  @include reverse-video(var(--accent));
 }
 
 .result-tags .tag {
-  margin-inline-end: 2ch;
+  margin-inline-end: var(--space-m);
 }
