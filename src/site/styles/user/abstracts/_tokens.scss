@@ -14,8 +14,14 @@ $pane-max: 40;
 // The pane fits beside the text at full measure: text and pane at their
 // widest, frame insets on both sides, and a gutter on both sides of the text.
 $gc-wide: ($measure + $pane-max) * $ch + 4 * $space;
-// The bottom border's location no longer fits.
-$gc-narrow: 64 * $ch;
+// Below this the bottom border can't hold the location (16 columns at the
+// least) beside the keys (36) and progress (19), with the gaps between them
+// (5) and the frame insets (10). The location and site address go, and the
+// progress moves to the top border.
+$gc-narrow: 86 * $ch;
+// Below this the keys' short labels (28.5) and narrow insets (5) don't fit,
+// so the key marks go and the words stay.
+$gc-tiny: 34 * $ch;
 
 :root {
   // Type
@@ -46,142 +52,10 @@ $gc-narrow: 64 * $ch;
   --border-width: 1px;
   --border-style: solid;
   --border-color: var(--line);
-}
 
-// Color schemes are Tinted Theming base24 palettes, copied unchanged from
-// https://github.com/tinted-theming/schemes/tree/spec-0.11/base24.
-//
-// Each role below takes a palette slot that clears WCAG 2.2 contrast against
-// base00: 4.5:1 for text, 3:1 for lines and other non-text marks. Hovered and
-// focused links reverse their colors (base00 on the role's color), so the
-// same ratio covers those states. --inset is a surface set slightly below
-// base00, and every text role also clears 4.5:1 on it.
-//
-// userSetup.js sets data-scheme on <html> from the page's directory.
-
-// Flexoki Dark: the garden's default.
-:root {
-  --base00: #100f0f;
-  --base01: #1c1b1a;
-  --base02: #282726;
-  --base03: #575653;
-  --base04: #878580;
-  --base05: #cecdc3;
-  --base06: #e6e4d9;
-  --base07: #fffcf0;
-  --base08: #d14d41;
-  --base09: #da702c;
-  --base0a: #d0a215;
-  --base0b: #879a39;
-  --base0c: #3aa99f;
-  --base0d: #4385be;
-  --base0e: #8b7ec8;
-  --base0f: #ce5d97;
-  --base10: #1c1b1a;
-  --base11: #000000;
-  --base12: #af3029;
-  --base13: #bc5215;
-  --base14: #ad8301;
-  --base15: #66800b;
-  --base16: #24837b;
-  --base17: #205ea6;
-
-  --bg: var(--base00);
-  --sel: var(--base02); // selected text, which turns --strong
-  --inset: var(--base11); // code, link targets; every text role above clears 5.34:1 on it
-  --fg: var(--base05); // 11.98:1
-  --strong: var(--base07); // 18.62:1
-  --muted: var(--base04); // 5.19:1
-  --line: var(--base04); // 5.19:1; base03 is 2.61:1
-  --h1: var(--base0a); // 8.08:1
-  --h2: var(--base0b); // 6.12:1
-  --h3: var(--base0d); // 4.86:1
-  --h4: var(--base0e); // 5.39:1
-  --h5: var(--base0f); // 5.14:1
-  --h6: var(--base09); // 5.77:1
-  --link: var(--base0c); // 6.7:1
-  --accent: var(--base0f); // 5.14:1
-  --mark: var(--base0a); // 8.08:1
-}
-
-// Dracula: ~/mosh and ~/mothership.
-:root[data-scheme="mosh"] {
-  --base00: #282a36;
-  --base01: #21222c;
-  --base02: #44475a;
-  --base03: #6272a4;
-  --base04: #9ea8c7;
-  --base05: #f8f8f2;
-  --base06: #f8f8f2;
-  --base07: #ffffff;
-  --base08: #ff5555;
-  --base09: #ffb86c;
-  --base0a: #f1fa8c;
-  --base0b: #50fa7b;
-  --base0c: #8be9fd;
-  --base0d: #bd93f9;
-  --base0e: #ff79c6;
-  --base0f: #993333;
-  --base10: #1e2029;
-  --base11: #16171d;
-  --base12: #ff6e6e;
-  --base13: #ffffa5;
-  --base14: #69ff94;
-  --base15: #a4ffff;
-  --base16: #d6acff;
-  --base17: #ff92df;
-
-  --inset: var(--base11); // every text role clears 7.41:1 on it
-  --muted: var(--base04); // 6.02:1
-  --line: var(--base03); // 3.03:1
-  --h1: var(--base0a); // 12.74:1
-  --h2: var(--base0b); // 10.38:1
-  --h3: var(--base0c); // 10.29:1
-  --h4: var(--base0d); // 5.9:1
-  --h5: var(--base0e); // 5.97:1
-  --h6: var(--base09); // 8.36:1
-  --link: var(--base0d); // 5.9:1
-  --accent: var(--base0e); // 5.97:1
-  --mark: var(--base09); // 8.36:1
-}
-
-// Twilight: ~/moonrise.
-:root[data-scheme="moonrise"] {
-  --base00: #141414;
-  --base01: #141414;
-  --base02: #262626;
-  --base03: #5c5c51;
-  --base04: #92927c;
-  --base05: #c8c8a7;
-  --base06: #feffd3;
-  --base07: #feffd3;
-  --base08: #c06c43;
-  --base09: #c2a86c;
-  --base0a: #5a5d61;
-  --base0b: #afb979;
-  --base0c: #778284;
-  --base0d: #444649;
-  --base0e: #b4be7b;
-  --base0f: #603621;
-  --base10: #191919;
-  --base11: #0c0c0c;
-  --base12: #dd7c4c;
-  --base13: #e1c47d;
-  --base14: #cbd88c;
-  --base15: #8a989a;
-  --base16: #5a5d61;
-  --base17: #d0db8e;
-
-  --inset: var(--base11); // every text role clears 4.95:1 on it
-  --muted: var(--base04); // 5.81:1
-  --line: var(--base04); // 5.81:1; base03 is 2.72:1
-  --h1: var(--base13); // 10.87:1; base0a is 2.78:1
-  --h2: var(--base0b); // 8.81:1
-  --h3: var(--base0c); // 4.66:1
-  --h4: var(--base0e); // 9.29:1; base0d is 1.95:1, base16 2.78:1
-  --h5: var(--base0e); // 9.29:1
-  --h6: var(--base09); // 7.99:1
-  --link: var(--base0c); // 4.66:1
-  --accent: var(--base0e); // 9.29:1
-  --mark: var(--base09); // 7.99:1
+  // Stacking, back to front. The page scrolls under all of these.
+  --layer-band: 6; // strips that hide text scrolling toward the border
+  --layer-frame: 7; // the border line, and the contents pane beside it
+  --layer-label: 8; // labels set into the border
+  --layer-dialog: 10; // search
 }

@@ -1,14 +1,21 @@
-@import 'abstracts/tokens';
-@import 'abstracts/mixins';
+// Gremlin Camp's stylesheet: the only one userSetup.js lets through to pages.
+//   abstracts   Sass values, custom-property tokens, mixins
+//   themes      color schemes and which section uses which
+//   base        element defaults
+//   layout      the page grid inside the frame
+//   components  frame, pane sections, tags, search, books
 
-@import 'base/reset';
-@import 'base/base';
+@use "abstracts";
+@use "themes";
 
-@import 'layout/base';
+@use "base/reset";
+@use "base/base";
 
-@import 'components/frame';
-@import 'components/toc';
-@import 'components/backlinks';
-@import 'components/tags';
-@import 'components/search';
-@import 'components/highlight';
+@use "layout/base" as layout;
+
+@use "components/frame";
+@use "components/toc";
+@use "components/backlinks";
+@use "components/tags";
+@use "components/search";
+@use "components/highlight";

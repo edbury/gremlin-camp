@@ -2,6 +2,8 @@
 // section, which the template's sidebar script marks with .toc-active as you
 // scroll, gets a > in the two-character slot before each entry.
 
+@use "../abstracts" as *;
+
 .toc-title,
 .backlink-title {
   margin-block: 0 var(--space-m);

@@ -2,10 +2,12 @@
 // border: "Search:" prompt, matching notes listed under it, key hints set into
 // its bottom border.
 
+@use "../abstracts" as *;
+
 .search-container {
   position: fixed;
   inset: 0;
-  z-index: 10;
+  z-index: var(--layer-dialog);
   display: none;
   grid-template-rows: minmax(0, 1fr);
   place-items: end center;

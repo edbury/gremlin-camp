@@ -1,0 +1,48 @@
+// Flexoki Dark, a Tinted Theming base24 scheme copied unchanged from
+// https://github.com/tinted-theming/schemes/blob/spec-0.11/base24/flexoki-dark.yaml
+//
+// Ratios are against base00.
+
+@mixin scheme {
+  --base00: #100f0f;
+  --base01: #1c1b1a;
+  --base02: #282726;
+  --base03: #575653;
+  --base04: #878580;
+  --base05: #cecdc3;
+  --base06: #e6e4d9;
+  --base07: #fffcf0;
+  --base08: #d14d41;
+  --base09: #da702c;
+  --base0a: #d0a215;
+  --base0b: #879a39;
+  --base0c: #3aa99f;
+  --base0d: #4385be;
+  --base0e: #8b7ec8;
+  --base0f: #ce5d97;
+  --base10: #1c1b1a;
+  --base11: #000000;
+  --base12: #af3029;
+  --base13: #bc5215;
+  --base14: #ad8301;
+  --base15: #66800b;
+  --base16: #24837b;
+  --base17: #205ea6;
+
+  --bg: var(--base00);
+  --sel: var(--base02); // selected text, which turns --strong
+  --inset: var(--base11); // code, link targets; every text role clears 5.34:1 on it
+  --fg: var(--base05); // 11.98:1
+  --strong: var(--base07); // 18.62:1
+  --muted: var(--base04); // 5.19:1
+  --line: var(--base04); // 5.19:1; base03 is 2.61:1
+  --h1: var(--base0a); // 8.08:1
+  --h2: var(--base0b); // 6.12:1
+  --h3: var(--base0d); // 4.86:1
+  --h4: var(--base0e); // 5.39:1
+  --h5: var(--base0f); // 5.14:1
+  --h6: var(--base09); // 5.77:1
+  --link: var(--base0c); // 6.7:1
+  --accent: var(--base0f); // 5.14:1
+  --mark: var(--base0a); // 8.08:1
+}

@@ -1,0 +1,48 @@
+// Dracula, a Tinted Theming base24 scheme copied unchanged from
+// https://github.com/tinted-theming/schemes/blob/spec-0.11/base24/dracula.yaml
+//
+// Ratios are against base00.
+
+@mixin scheme {
+  --base00: #282a36;
+  --base01: #21222c;
+  --base02: #44475a;
+  --base03: #6272a4;
+  --base04: #9ea8c7;
+  --base05: #f8f8f2;
+  --base06: #f8f8f2;
+  --base07: #ffffff;
+  --base08: #ff5555;
+  --base09: #ffb86c;
+  --base0a: #f1fa8c;
+  --base0b: #50fa7b;
+  --base0c: #8be9fd;
+  --base0d: #bd93f9;
+  --base0e: #ff79c6;
+  --base0f: #993333;
+  --base10: #1e2029;
+  --base11: #16171d;
+  --base12: #ff6e6e;
+  --base13: #ffffa5;
+  --base14: #69ff94;
+  --base15: #a4ffff;
+  --base16: #d6acff;
+  --base17: #ff92df;
+
+  --bg: var(--base00);
+  --sel: var(--base02); // selected text, which turns --strong
+  --inset: var(--base11); // code, link targets; every text role clears 7.41:1 on it
+  --fg: var(--base05); // 13.36:1
+  --strong: var(--base07); // 14.24:1
+  --muted: var(--base04); // 6.02:1
+  --line: var(--base03); // 3.03:1
+  --h1: var(--base0a); // 12.74:1
+  --h2: var(--base0b); // 10.38:1
+  --h3: var(--base0c); // 10.29:1
+  --h4: var(--base0d); // 5.9:1
+  --h5: var(--base0e); // 5.97:1
+  --h6: var(--base09); // 8.36:1
+  --link: var(--base0d); // 5.9:1
+  --accent: var(--base0e); // 5.97:1
+  --mark: var(--base09); // 8.36:1
+}

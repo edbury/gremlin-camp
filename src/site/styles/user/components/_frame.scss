@@ -6,9 +6,11 @@
 //   border  the labels on the border line, with a background that cuts the
 //           line around them
 
+@use "../abstracts" as *;
+
 .gc-band {
   position: fixed;
-  z-index: 6;
+  z-index: var(--layer-band);
   inset-inline: 0;
   block-size: calc(var(--gc-y) + var(--space-s));
   background-color: var(--bg);
@@ -24,7 +26,7 @@
 
 .gc-frame {
   position: fixed;
-  z-index: 7;
+  z-index: var(--layer-frame);
   inset-block: var(--gc-y);
   inset-inline: var(--gc-x);
   border: var(--border-width) var(--border-style) var(--border-color);
@@ -33,7 +35,7 @@
 
 .gc-border {
   position: fixed;
-  z-index: 8;
+  z-index: var(--layer-label);
   inset-inline: calc(var(--gc-x) + var(--space-m));
   display: grid;
   align-items: center;
@@ -53,10 +55,10 @@
   justify-content: space-between;
 }
 
-// Location at the start, keys in the middle, progress at the end.
+// Location at the start; keys and progress together at the end.
 .gc-border--bottom {
   inset-block-end: calc(var(--gc-y) - var(--space-s));
-  grid-template-columns: minmax(0, 1fr) max-content minmax(0, 1fr);
+  grid-template-columns: minmax(0, 1fr) max-content max-content;
 }
 
 // One space on either side of a label cuts the border line around it.
@@ -106,15 +108,23 @@
 
     @include reverse-video(var(--fg));
 
-    &:is(:hover, :focus-visible) .gc-key {
+    &:is(:hover, :focus-visible) :is(.gc-key, .gc-state) {
       color: inherit;
     }
   }
 }
 
-.gc-key {
+.gc-key,
+.gc-state {
   font-weight: 700;
   color: var(--accent);
+}
+
+// With the keys switched off, the key marks and the switch's state dim, and
+// the buttons still work.
+.gc-keys-off :is(.gc-key, .gc-state) {
+  font-weight: 400;
+  color: var(--muted);
 }
 
 .gc-short {
@@ -125,7 +135,6 @@
 .gc-progress {
   --gc-cells: 12;
   grid-column: 3;
-  justify-self: end;
 }
 
 .gc-fill {
@@ -155,10 +164,6 @@ body:not(:has(> aside :is(.toc, .backlinks, .gc-book))) .gc-contents-button {
     column-gap: var(--space-s);
   }
 
-  .gc-border--bottom {
-    grid-template-columns: max-content minmax(0, 1fr);
-  }
-
   .gc-path,
   .gc-site,
   .gc-long {
@@ -166,7 +171,6 @@ body:not(:has(> aside :is(.toc, .backlinks, .gc-book))) .gc-contents-button {
   }
 
   .gc-keys {
-    grid-column: 1;
     column-gap: var(--space-s);
   }
 
@@ -174,8 +178,28 @@ body:not(:has(> aside :is(.toc, .backlinks, .gc-book))) .gc-contents-button {
     display: inline;
   }
 
+  // Progress takes the top border's end, where the site address was.
   .gc-progress {
     --gc-cells: 6;
-    grid-column: 2;
+    position: fixed;
+    inset-block-start: calc(var(--gc-y) - var(--space-s));
+    inset-inline-end: calc(var(--gc-x) + var(--space-s));
+    inline-size: var(--gc-progress-size);
+  }
+
+  :root {
+    --gc-progress-size: 13ch; // 6 cells, a space, "100%", and a space either side
+  }
+
+  .gc-border--top {
+    inset-inline-end: calc(var(--gc-x) + 2 * var(--space-s) + var(--gc-progress-size));
+  }
+}
+
+// The key marks describe keyboard keys; at this width the words carry the
+// buttons. The keys still work.
+@media (width < $gc-tiny) {
+  .gc-keys .gc-key {
+    display: none;
   }
 }

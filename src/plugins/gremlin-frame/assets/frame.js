@@ -3,6 +3,11 @@
 //   t    show or hide the contents pane
 //   esc  close the contents pane when it covers the text
 //
+// The single-character keys can be switched off with the "keys" switch in the
+// bottom border (WCAG 2.1.4), and the choice is remembered in that browser.
+// Escape isn't a character key, so it always works. New single-character keys
+// belong in KEYS so the switch covers them.
+//
 // Breakpoints live only in the stylesheet. This script reads the result:
 // the pane is sticky beside the text on wide screens and fixed over it
 // otherwise, and the progress bar's cell count is the --gc-cells property.
@@ -13,7 +18,8 @@
 // as well and fight the reader's own scrolling.
 (function () {
   const root = document.documentElement;
-  const STORE = "gc-contents";
+  const STORE_CONTENTS = "gc-contents";
+  const STORE_KEYS = "gc-keys";
 
   const pane = () => document.querySelector("body > aside");
   const hasPane = () => Boolean(document.querySelector("body > aside :is(.toc, .backlinks, .gc-book)"));
@@ -22,17 +28,17 @@
     return Boolean(aside) && getComputedStyle(aside).position === "sticky";
   };
 
-  function remembered() {
+  function remembered(store) {
     try {
-      return localStorage.getItem(STORE);
+      return localStorage.getItem(store);
     } catch (e) {
       return null;
     }
   }
 
-  function remember(value) {
+  function remember(store, value) {
     try {
-      localStorage.setItem(STORE, value);
+      localStorage.setItem(store, value);
     } catch (e) {
       // Storage can be unavailable (private windows, blocked site data).
     }
@@ -91,7 +97,23 @@
     if (!hasPane()) return;
     const open = !isOpen();
     setOpen(open);
-    if (isWide()) remember(open ? "open" : "closed");
+    if (isWide()) remember(STORE_CONTENTS, open ? "open" : "closed");
+  }
+
+  const keysOn = () => !root.classList.contains("gc-keys-off");
+
+  function setKeys(on) {
+    root.classList.toggle("gc-keys-off", !on);
+    document.querySelectorAll('[data-gc-action="keys"]').forEach((button) => {
+      button.setAttribute("aria-checked", String(on));
+      button.querySelector(".gc-state").textContent = on ? "on" : "off";
+    });
+  }
+
+  function toggleKeys() {
+    const on = !keysOn();
+    setKeys(on);
+    remember(STORE_KEYS, on ? "on" : "off");
   }
 
   function openSearch() {
@@ -116,17 +138,21 @@
     return Boolean(target.closest && target.closest("input, textarea, select, [contenteditable]"));
   }
 
+  const KEYS = {
+    "/": openSearch,
+    t: () => hasPane() && toggleContents(),
+  };
+
   document.addEventListener("keydown", (event) => {
     if (event.defaultPrevented || event.metaKey || event.ctrlKey || event.altKey) return;
     if (typing(event.target)) return;
-    if (event.key === "/") {
+    if (event.key === "Escape") {
+      if (!isWide() && isOpen()) setOpen(false);
+      return;
+    }
+    if (keysOn() && Object.hasOwn(KEYS, event.key)) {
       event.preventDefault();
-      openSearch();
-    } else if (event.key === "t" && hasPane()) {
-      event.preventDefault();
-      toggleContents();
-    } else if (event.key === "Escape" && !isWide() && isOpen()) {
-      setOpen(false);
+      KEYS[event.key]();
     }
   });
 
@@ -135,6 +161,7 @@
     if (action) {
       if (action.dataset.gcAction === "search") openSearch();
       if (action.dataset.gcAction === "contents") toggleContents();
+      if (action.dataset.gcAction === "keys") toggleKeys();
       return;
     }
     // Following a contents link while the pane covers the text should show the text.
@@ -151,7 +178,7 @@
       if (wide !== wasWide) {
         wasWide = wide;
         root.classList.remove("gc-contents-open");
-        root.classList.toggle("gc-contents-closed", wide && remembered() === "closed");
+        root.classList.toggle("gc-contents-closed", wide && remembered(STORE_CONTENTS) === "closed");
         setOpen(isOpen());
       }
       progress();
@@ -160,7 +187,8 @@
   );
   window.addEventListener("scroll", progress, { passive: true });
 
-  if (isWide() && remembered() === "closed") root.classList.add("gc-contents-closed");
+  if (isWide() && remembered(STORE_CONTENTS) === "closed") root.classList.add("gc-contents-closed");
   setOpen(isOpen());
+  setKeys(remembered(STORE_KEYS) !== "off");
   progress();
 })();

@@ -1,5 +1,7 @@
 // Tags read as plain #words; selecting one searches for it (dg-search).
 
+@use "../abstracts" as *;
+
 .tag {
   cursor: pointer;
   color: var(--accent);

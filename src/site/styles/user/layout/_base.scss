@@ -8,6 +8,8 @@
 // longest entry within --pane-min and --pane-max, and sticky so it stays in
 // view border to border.
 
+@use "../abstracts" as *;
+
 body {
   display: grid;
   grid-template-columns: minmax(var(--space-m), 1fr) minmax(0, var(--measure)) minmax(var(--space-m), 1fr);
@@ -80,7 +82,7 @@ body {
 
 // The contents pane: the template's sidebar.
 body > aside {
-  z-index: 7;
+  z-index: var(--layer-frame);
   background-color: var(--bg);
 }
 

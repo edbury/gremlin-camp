@@ -1,0 +1,30 @@
+// Which color scheme each part of the garden uses. Each scheme partial maps
+// its palette onto the same semantic roles (--bg, --fg, --link, ...), so
+// changing a section's scheme is a change to one line here.
+//
+// Every role clears WCAG 2.2 contrast against base00: 4.5:1 for text, 3:1 for
+// lines and other non-text marks. Hovered and focused links reverse their
+// colors (base00 on the role's color), so the same ratio covers those states.
+// --inset is a surface set slightly below base00, and every text role also
+// clears 4.5:1 on it.
+//
+// userSetup.js sets data-scheme on <html> from the page's directory.
+
+@use "flexoki";
+@use "dracula";
+@use "twilight";
+
+// The garden's default.
+:root {
+  @include flexoki.scheme;
+}
+
+// ~/mosh and ~/mothership.
+:root[data-scheme="mosh"] {
+  @include dracula.scheme;
+}
+
+// ~/moonrise.
+:root[data-scheme="moonrise"] {
+  @include twilight.scheme;
+}

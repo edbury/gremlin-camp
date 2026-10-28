@@ -1,0 +1,48 @@
+// Twilight, a Tinted Theming base24 scheme copied unchanged from
+// https://github.com/tinted-theming/schemes/blob/spec-0.11/base24/twilight.yaml
+//
+// Ratios are against base00.
+
+@mixin scheme {
+  --base00: #141414;
+  --base01: #141414;
+  --base02: #262626;
+  --base03: #5c5c51;
+  --base04: #92927c;
+  --base05: #c8c8a7;
+  --base06: #feffd3;
+  --base07: #feffd3;
+  --base08: #c06c43;
+  --base09: #c2a86c;
+  --base0a: #5a5d61;
+  --base0b: #afb979;
+  --base0c: #778284;
+  --base0d: #444649;
+  --base0e: #b4be7b;
+  --base0f: #603621;
+  --base10: #191919;
+  --base11: #0c0c0c;
+  --base12: #dd7c4c;
+  --base13: #e1c47d;
+  --base14: #cbd88c;
+  --base15: #8a989a;
+  --base16: #5a5d61;
+  --base17: #d0db8e;
+
+  --bg: var(--base00);
+  --sel: var(--base02); // selected text, which turns --strong
+  --inset: var(--base11); // code, link targets; every text role clears 4.95:1 on it
+  --fg: var(--base05); // 10.77:1
+  --strong: var(--base07); // 17.95:1
+  --muted: var(--base04); // 5.81:1
+  --line: var(--base04); // 5.81:1; base03 is 2.72:1
+  --h1: var(--base13); // 10.87:1; base0a is 2.78:1
+  --h2: var(--base0b); // 8.81:1
+  --h3: var(--base0c); // 4.66:1
+  --h4: var(--base0e); // 9.29:1; base0d is 1.95:1, base16 2.78:1
+  --h5: var(--base0e); // 9.29:1
+  --h6: var(--base09); // 7.99:1
+  --link: var(--base0c); // 4.66:1
+  --accent: var(--base0e); // 9.29:1
+  --mark: var(--base09); // 7.99:1
+}

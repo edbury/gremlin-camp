@@ -1,8 +1,9 @@
 {#
   The terminal frame. styles/user/components/_frame.scss draws it; this
   template supplies the text set into the border.
-  Top border: note title on the left, site address on the right.
-  Bottom border: location, search, contents and reading progress.
+  Top border: note title at the start, site address at the end.
+  Bottom border: location at the start; the keys and reading progress
+  together at the end.
 #}
 {%- set gcTitle = title if title else page.fileSlug -%}
 {%- set gcSegments = (page.url or "").split("/") | reject("equalto", "") -%}
@@ -23,6 +24,7 @@
   <div class="gc-keys">
     <button type="button" class="gc-label" data-gc-action="search" aria-haspopup="dialog"><span class="gc-key" aria-hidden="true">/</span> search</button>
     <button type="button" class="gc-label gc-contents-button" data-gc-action="contents" aria-controls="page-panel" aria-expanded="false"><span class="gc-key" aria-hidden="true">t</span> <span class="gc-long">contents</span><span class="gc-short">toc</span></button>
+    <button type="button" class="gc-label gc-keys-switch" data-gc-action="keys" role="switch" aria-checked="true"><span class="gc-sr">shortcut </span>keys <span class="gc-state" aria-hidden="true">on</span></button>
   </div>
   <p class="gc-label gc-progress" data-gc-progress><span aria-hidden="true"><span class="gc-fill"></span><span class="gc-rest">░░░░░░░░░░░░</span> </span><span class="gc-pct">0%</span><span class="gc-sr"> read</span></p>
 </div>

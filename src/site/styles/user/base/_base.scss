@@ -3,6 +3,8 @@
 // offsets that have to line up with characters, such as the hanging indent
 // after a "- " bullet, stay in ch.
 
+@use "../abstracts" as *;
+
 html {
   font-size: 100%;
   line-height: var(--leading);

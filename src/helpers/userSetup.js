@@ -4,6 +4,13 @@
 // It also drops template scripts a page doesn't use, tags each page with the
 // color scheme for its directory, names the sidebar sections, disables links
 // to unpublished notes, and lets the keyboard reach header tags.
+//
+// The transforms match the template's markup exactly, and a template update
+// can change that markup. A pattern that stops matching does nothing and
+// reports nothing, so every built page is also checked for what the
+// transforms exist to remove (CHECKS, below). If any page fails, the build
+// fails and names the check and the pages. Netlify and Vercel keep the last
+// good deploy live when a build fails.
 
 const OWN_STYLESHEET = "/styles/user/gremlin-camp.css";
 
@@ -72,30 +79,36 @@ function stripTemplateStyles(html) {
 }
 
 // Scripts the template loads on every page, each kept only on pages that use
-// it. `uses` tests the page's HTML.
+// it. `uses` tests the page's HTML. `left` finds the script in any form, so
+// the build checks can tell when `tags` no longer match it.
 const OPTIONAL_SCRIPTS = [
   {
     // Local graph (dgShowLocalGraph). pixi.js loads before the page renders.
     tags: [/<script type="importmap">[\s\S]*?<\/script>/, /<script\b[^>]*pixi\.js[^>]*><\/script>/],
+    left: /<script\b[^>]*(?:type="importmap"|pixi\.js)/,
     uses: (html) => html.includes('id="graph-component"'),
   },
   {
     tags: [/<script\b[^>]*type="module"[^>]*>[^<]*mermaid[\s\S]*?<\/script>/],
+    left: /mermaid\.esm\b/,
     uses: (html) => /class="mermaid\b/.test(html),
   },
   {
     // Code highlighting
     tags: [/<script\b[^>]*\/prism\.min\.js[^>]*><\/script>/, /<script\b[^>]*prism-autoloader[^>]*><\/script>/],
+    left: /<script\b[^>]*\bprism\b/,
     uses: (html) => /class="(?:[^"]*\s)?language-/.test(html),
   },
   {
     // Alpine drives the file tree and the graph controls.
     tags: [/<script\b[^>]*@alpinejs\/persist[^>]*><\/script>/, /<script\b[^>]*\/alpinejs@[^>]*><\/script>/],
+    left: /<script\b[^>]*alpinejs/,
     uses: (html) => /\sx-data\b/.test(html),
   },
   {
     // fetch() polyfill; every current browser has fetch.
     tags: [/<script\b[^>]*whatwg-fetch[^>]*><\/script>/],
+    left: /<script\b[^>]*whatwg-fetch/,
     uses: () => false,
   },
   {
@@ -107,6 +120,7 @@ const OPTIONAL_SCRIPTS = [
       /<script\b[^>]*>(?:(?!<\/script>)[\s\S]){0,120}?lucide\.createIcons(?:(?!<\/script>)[\s\S])*<\/script>/,
     ],
     standIn: "<script>window.lucide={createIcons:function(){}}</script>",
+    left: /<script\b[^>]*\/lucide@/,
     uses: (html) => /class="callout\b/.test(html) || html.includes('id="graph-component"'),
   },
 ];
@@ -139,10 +153,10 @@ function disableUnresolved(html) {
   );
 }
 
-// The template's header tags have no href, so the keyboard skips them.
-// dg-search opens a tag search for a.tag with this href.
+// The template's tags, in the header and in note text, have no href, so the
+// keyboard skips them. dg-search opens a tag search for a.tag with this href.
 function focusableTags(html) {
-  return html.replace(/<a class="tag">/g, '<a class="tag" href="javascript:void(0);">');
+  return html.replace(/<a class="tag"(?![^>]*\shref=)/g, '<a class="tag" href="javascript:void(0);"');
 }
 
 function setScheme(html, url) {
@@ -152,11 +166,88 @@ function setScheme(html, url) {
   return html.replace(/<html\b/i, `<html data-scheme="${scheme}"`);
 }
 
+// Build checks, run on each page's finished HTML. Each one looks for what a
+// transform removes in any form the template might write it, rather than the
+// exact form the transform matches.
+const headOf = (html) => (html.match(/<head\b[\s\S]*?<\/head>/i) || [""])[0];
+const textOf = (html, className) => {
+  const match = html.match(new RegExp(`class="${className}"[^>]*>([\\s\\S]*?)<`));
+  return match && match[1].trim();
+};
+
+const CHECKS = [
+  {
+    name: "a template stylesheet is still linked",
+    fails: (html) =>
+      (headOf(html).match(/<link\b[^>]*>/gi) || []).some(
+        (tag) =>
+          /stylesheet|\.css\b/i.test(tag) &&
+          !/rel=["']?(?:icon|apple-touch-icon|manifest)/i.test(tag) &&
+          !KEEP_STYLESHEETS.some((keep) => keep.test(hrefOf(tag)))
+      ),
+  },
+  {
+    name: "a template <style> block is still in <head>",
+    fails: (html) => /<style\b(?![^>]*\bdata-keep\b)/i.test(headOf(html)),
+  },
+  {
+    name: "<html> still carries an inline style",
+    fails: (html) => /<html\b[^>]*\sstyle=/i.test(html),
+  },
+  {
+    name: "a script the page doesn't use is still loaded",
+    fails: (html) =>
+      OPTIONAL_SCRIPTS.some((script) => !script.uses(html) && script.left.test(html)),
+  },
+  {
+    name: "the contents title isn't \"contents\"",
+    fails: (html) => ![null, "contents"].includes(textOf(html, "toc-title")),
+  },
+  {
+    name: "the backlinks title isn't \"backlinks\"",
+    fails: (html) => ![null, "backlinks"].includes(textOf(html, "backlink-title")),
+  },
+  {
+    name: "a link to an unpublished note still has an href",
+    fails: (html) => /<a\b(?=[^>]*\bis-unresolved\b)[^>]*\shref=/i.test(html),
+  },
+  {
+    name: "a tag has no href",
+    fails: (html) => /<a\b(?=[^>]*\sclass="(?:[^"]*\s)?tag(?:\s[^"]*)?")(?![^>]*\shref=)[^>]*>/i.test(html),
+  },
+];
+
+// Check name -> URLs of the pages that fail it, for the current build.
+const failures = new Map();
+
+function check(html, url) {
+  for (const { name, fails } of CHECKS) {
+    if (!fails(html)) continue;
+    if (!failures.has(name)) failures.set(name, []);
+    failures.get(name).push(url);
+  }
+}
+
+function report() {
+  if (!failures.size) return;
+  const lines = [...failures].map(([name, urls]) => {
+    const shown = urls.slice(0, 5).join(", ");
+    const more = urls.length > 5 ? ` and ${urls.length - 5} more` : "";
+    return `  ${name}: ${shown}${more}`;
+  });
+  throw new Error(
+    "gremlin-camp: the template's markup no longer matches userSetup.js.\n" + lines.join("\n")
+  );
+}
+
 function userMarkdownSetup(md) {
   // The md parameter stands for the markdown-it instance used throughout the site generator.
   // Feel free to add any plugin you want here instead of /.eleventy.js
 }
 function userEleventySetup(eleventyConfig) {
+  eleventyConfig.on("eleventy.before", () => failures.clear());
+  eleventyConfig.on("eleventy.after", report);
+
   eleventyConfig.addTransform("gremlin-camp", function (content) {
     const outputPath = (this.page && this.page.outputPath) || "";
     if (!outputPath.endsWith(".html")) return content;
@@ -165,7 +256,9 @@ function userEleventySetup(eleventyConfig) {
     html = setSidebarTitles(html);
     html = disableUnresolved(html);
     html = focusableTags(html);
-    return setScheme(html, this.page.url);
+    html = setScheme(html, this.page.url);
+    check(html, this.page.url);
+    return html;
   });
 }
 exports.userMarkdownSetup = userMarkdownSetup;
