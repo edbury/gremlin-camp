@@ -3,7 +3,7 @@
 ---
 
 
-You are alone beside [[_inbox/the long road\|the long road]]. A path extends away from the road, behind you, toward home.
+You are alone beside [[the long road\|the long road]]. A path extends away from the road, behind you, toward home.
 
 Soon the shepherd will come. He will ask, and you must answer.
 

@@ -550,3 +550,5 @@ Use the second column when the town Descends into Chaos (≤7 Major NPCs live).
 
 - Three part prophecy for The Princess.
 - Someone knows about the Corvid's Timepiece.
+
+- [[workshop/moonrise/The Harvest Moon Murders - Development Status\|The Harvest Moon Murders - Development Status]]

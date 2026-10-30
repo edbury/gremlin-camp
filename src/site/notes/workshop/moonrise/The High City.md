@@ -13,9 +13,9 @@ Those of noble birth or with a 3D Reputation, along with their retinues, may mov
 
 ## Getting Around
 
-- [[_inbox/Dockshore\|Dockshore]]: Carriage Ob 2
+- [[Dockshore\|Dockshore]]: Carriage Ob 2
 - [[Questers\|Questers]]: Carriage Ob 3
-- [[Scaffolding\|Scaffolding]]: On foot; The Lift Ob 1; Carriage Ob 3
+- [[greenhouse/scaffolding\|Scaffolding]]: On foot; The Lift Ob 1; Carriage Ob 3
 - [[workshop/moonrise/Templeton\|Templeton]]: On foot; Carriage Ob 1
 
 ## Locations

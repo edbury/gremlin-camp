@@ -25,10 +25,10 @@ Highwater's got six distinct neighborhoods, each a town unto itself with its own
 
 The six districts are:
 
-- [[_inbox/Dockshore\|Dockshore]]
+- [[Dockshore\|Dockshore]]
 - [[Middenmire\|Middenmire]]
 - [[Questers\|Questers]]
-- [[Scaffolding\|Scaffolding]]
+- [[greenhouse/scaffolding\|Scaffolding]]
 - [[workshop/moonrise/Templeton\|Templeton]]
 - [[workshop/moonrise/The High City\|The High City]]
 
@@ -36,7 +36,7 @@ The six districts are:
 
 Almost everyone enters the bustling metropolis from one of these three locations:
 
-- Sea vessels arrive at the [[Customhouse\|Customhouse]] in [[_inbox/Dockshore\|Dockshore]].
+- Sea vessels arrive at the [[Customhouse\|Customhouse]] in [[Dockshore\|Dockshore]].
 - Those with the means enter through [[The King's Gate\|The King's Gate]] in [[workshop/moonrise/Templeton\|Templeton]].
 - Most poor wretches just pass through [[The Drowning Gate\|The Drowning Gate]] in [[Questers\|Questers]].
 
@@ -75,7 +75,7 @@ There are a few ways to bring down the heat:
 
 #### Lay Low
 
-- There are hideouts in [[Scaffolding\|Scaffolding]] where the Shields won't go.
+- There are hideouts in [[greenhouse/scaffolding\|Scaffolding]] where the Shields won't go.
 - Lose 1 heat, but beware: the [[Thieves' Guild\|Thieves' Guild]] has its own laws.
 
 #### Make them Whole
