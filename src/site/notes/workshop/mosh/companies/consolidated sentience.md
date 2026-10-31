@@ -1,23 +1,23 @@
 ---
-{"aliases":["Con/Sen (Consolidated Sentience)","Consolidated Sentience","Con/Sen"],"clusters":["[[Cerdo System]]"],"date-created":"2026-10-29T08:46","date-modified":"2026-10-29T18:50","dg-publish":true,"tags":["mosh/company"],"title":"Con/Sen (Consolidated Sentience)","dg-path":"mosh/companies/consolidated sentience.md","permalink":"/mosh/companies/consolidated-sentience/","dgPassFrontmatter":true,"updated":"2026-10-29T18:50","dg-note-properties":{"aliases":["Con/Sen (Consolidated Sentience)","Consolidated Sentience","Con/Sen"],"clusters":["[[workshop/mosh/Cerdo System]]"],"date-created":"2026-10-29T08:46","date-modified":"2026-10-29T18:50","tags":["mosh/company"],"title":"Con/Sen (Consolidated Sentience)"}}
+{"aliases":["Con/Sen (Consolidated Sentience)","Consolidated Sentience","Con/Sen"],"date-created":"2026-10-29T08:46","date-modified":"2026-10-30T20:36","dg-publish":true,"sectors":null,"tags":["mosh/company"],"title":"Con/Sen (Consolidated Sentience)","dg-path":"mosh/companies/consolidated sentience.md","permalink":"/mosh/companies/consolidated-sentience/","dgPassFrontmatter":true,"updated":"2026-10-30T20:36","dg-note-properties":{"aliases":["Con/Sen (Consolidated Sentience)","Consolidated Sentience","Con/Sen"],"date-created":"2026-10-29T08:46","date-modified":"2026-10-30T20:36","sectors":null,"tags":["mosh/company"],"title":"Con/Sen (Consolidated Sentience)"}}
 ---
 
 
 # Con/Sen (Consolidated Sentience)
 
-Con/Sen (Consolidated Sentience) is an android manufacturer whose factory tour is sponsored by Proxi Marchandises Technologiques.
-
-Role in [[workshop/mosh/modules/ConSen Android Factory Tour\|ConSen Android Factory Tour]]: owner of the android factory the crew tours.
+Con/Sen (Consolidated Sentience) is an android manufacturer whose sponsor company is [[workshop/mosh/companies/proxi mt\|Proxi Marchandises Technologiques]].
 
 ## Known Products
 
-- FLASH: award-winning hospitality model android who guides the tour
-- FLASHY: android who claims to be the "flirty fun" upgrade to the current hospitality model
-- GOLD: newest Security Unit android
+- FLASH: award-winning hospitality model android
+- FLASHY: newer hospitality model android
+- Android Modifications: Extensible Hand, Universal Connectivity, Corporeal Storage, Pacification Emitter and Emergency Explosive Logic Core Ejection
+- Logic Core Software: Linguistic Override, Human Prioritization, Advanced Emulation and Personality Analysis
+- Refurbishing: refurbishment of old android models
 
 ## Known Facilities
 
-- Con/Sen Factory: storefront, exhibitions, offices, R&D and data center, production facility, assembly line and docking warehouse
+- Con/Sen Factory: android factory and storefront
 
 ## Appears in
 

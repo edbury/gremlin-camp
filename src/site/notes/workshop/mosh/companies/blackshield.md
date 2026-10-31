@@ -1,25 +1,30 @@
 ---
-{"aliases":["Blackshield","Blackshield Mercenary Group","Blackshield Mercenary Company"],"clusters":["[[Nakatomi Sector 1365]]","[[Public Sector]]"],"date-created":"2026-10-29T08:46","date-modified":"2026-10-29T18:50","dg-publish":true,"tags":["mosh/company"],"title":"Blackshield","dg-path":"mosh/companies/blackshield.md","permalink":"/mosh/companies/blackshield/","dgPassFrontmatter":true,"updated":"2026-10-29T18:50","dg-note-properties":{"aliases":["Blackshield","Blackshield Mercenary Group","Blackshield Mercenary Company"],"clusters":["[[workshop/mosh/Nakatomi Sector 1365]]","[[workshop/mosh/Public Sector]]"],"date-created":"2026-10-29T08:46","date-modified":"2026-10-29T18:50","tags":["mosh/company"],"title":"Blackshield"}}
+{"aliases":["Blackshield","Blackshield Mercenary Group","Blackshield Mercenary Company","Blackshield Group"],"date-created":"2026-10-29T08:46","date-modified":"2026-10-30T12:45","dg-publish":true,"sectors":["[[Nakatomi Sector 1365]]","[[Public Sector]]"],"tags":["mosh/company"],"title":"Blackshield","dg-path":"mosh/companies/blackshield.md","permalink":"/mosh/companies/blackshield/","dgPassFrontmatter":true,"updated":"2026-10-30T12:45","dg-note-properties":{"aliases":["Blackshield","Blackshield Mercenary Group","Blackshield Mercenary Company","Blackshield Group"],"date-created":"2026-10-29T08:46","date-modified":"2026-10-30T12:45","sectors":["[[workshop/mosh/sectors/Nakatomi Sector 1365]]","[[workshop/mosh/sectors/Public Sector]]"],"tags":["mosh/company"],"title":"Blackshield"}}
 ---
 
 
 # Blackshield
 
-Blackshield names two mercenary organizations that no text links: in Anodyne Printware's Hull Breach books the Blackshield Mercenary Group is a Public Sector military contractor and private security agency, while in Magnum Galaxy's books the Blackshield Mercenary Company is the paramilitary arm that split off and kept the Blackshield name when the company rebranded its training and technology businesses as Ally Securities.
+Blackshield is a mercenary company founded by former officers of Earth's Colonial Navy. When the company rebranded its training and technology businesses as Ally Securities, its paramilitary arm split off and kept the Blackshield name.
+
+## Subsidiaries and Other Names
+
+- Blackshield Mercenary Group: military contractor and private security agency
+- Blackshield Mercenary Company: paramilitary company working in high risk security, intimidation, corporate espionage and asset seizure
 
 ## Known Vessels
 
-- Breaker: frigate, fortified HQ ship of the Blackshield Mercenary Company (Dying Hard on Hardlight Station)
+- Breaker: frigate
 
 ## Known Facilities
 
-- Blackshield Mercenary training facility (frozen dwarf planet Mandella IV): top-secret black site where recruits train, powered by a helium-3 reactor (Hull Breach Vol. 1)
-- Blackshield HQ: headquarters reached by satellite uplink from the training facility (Hull Breach Vol. 1)
-- Blackshield Base: full barracks, dropship fleet and public-facing recruitment office (Hull Breach Vol. 1)
+- Blackshield HQ: headquarters
+- Blackshield Base: base with barracks and a recruitment office
 
 ## Appears in
 
 - [[workshop/mosh/modules/Breach of Contract\|Breach of Contract]]
+- [[workshop/mosh/modules/Decrypted - The Nakatomi Papers\|Decrypted: The Nakatomi Papers]]
 - [[workshop/mosh/modules/Dying Hard on Hardlight Station\|Dying Hard on Hardlight Station]]
 - [[workshop/mosh/modules/Hull Breach Bookmark Derelict\|Hull Breach Bookmark Derelict]]
 - [[workshop/mosh/modules/Hull Breach Vol 1\|Hull Breach Vol 1]]

@@ -1,5 +1,5 @@
 ---
-{"aliases":["ARMA"],"clusters":["[[The Third Sector]]"],"date-created":"2026-10-29T08:46","date-modified":"2026-10-29T18:50","dg-publish":true,"tags":["mosh/company"],"title":"ARMA","dg-path":"mosh/companies/arma.md","permalink":"/mosh/companies/arma/","dgPassFrontmatter":true,"updated":"2026-10-29T18:50","dg-note-properties":{"aliases":["ARMA"],"clusters":["[[workshop/mosh/modules/The Third Sector]]"],"date-created":"2026-10-29T08:46","date-modified":"2026-10-29T18:50","tags":["mosh/company"],"title":"ARMA"}}
+{"aliases":["ARMA"],"date-created":"2026-10-29T08:46","date-modified":"2026-10-30T10:30","dg-publish":true,"sectors":["[[Barnaul]]","[[The Third Sector]]"],"tags":["mosh/company"],"title":"ARMA","dg-path":"mosh/companies/arma.md","permalink":"/mosh/companies/arma/","dgPassFrontmatter":true,"updated":"2026-10-30T10:30","dg-note-properties":{"aliases":["ARMA"],"date-created":"2026-10-29T08:46","date-modified":"2026-10-30T10:30","sectors":["[[workshop/mosh/sectors/Barnaul]]","[[workshop/mosh/sectors/The Third Sector]]"],"tags":["mosh/company"],"title":"ARMA"}}
 ---
 
 
@@ -19,8 +19,8 @@ ARMA is a manufacturer of firearms and military craft.
 
 ## Appears in
 
+- [[workshop/mosh/modules/The Black Heart of Paradise\|The Black Heart of Paradise]]
 - [[workshop/mosh/modules/Dead Planet\|Dead Planet]]
 - [[workshop/mosh/Players Survival Guide\|Players Survival Guide]]
 - [[workshop/mosh/Shipbreakers Toolkit\|Shipbreakers Toolkit]]
-- [[workshop/mosh/modules/The Black Heart of Paradise\|The Black Heart of Paradise]]
-- *Wages of Sin*
+- [[workshop/mosh/modules/Wages of Sin\|Wages of Sin]]

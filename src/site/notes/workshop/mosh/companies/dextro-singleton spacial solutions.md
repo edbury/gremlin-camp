@@ -1,5 +1,5 @@
 ---
-{"aliases":["Dextro-Singleton Spacial Solutions","Dextro-Singleton","DS³","DS3"],"clusters":["[[Carbex]]","[[Karth-Mani]]"],"date-created":"2026-10-29T08:46","date-modified":"2026-10-29T18:50","dg-publish":true,"tags":["mosh/company"],"title":"Dextro-Singleton Spacial Solutions","dg-path":"mosh/companies/dextro-singleton spacial solutions.md","permalink":"/mosh/companies/dextro-singleton-spacial-solutions/","dgPassFrontmatter":true,"updated":"2026-10-29T18:50","dg-note-properties":{"aliases":["Dextro-Singleton Spacial Solutions","Dextro-Singleton","DS³","DS3"],"clusters":["[[workshop/mosh/Carbex]]","[[workshop/mosh/Karth-Mani]]"],"date-created":"2026-10-29T08:46","date-modified":"2026-10-29T18:50","tags":["mosh/company"],"title":"Dextro-Singleton Spacial Solutions"}}
+{"aliases":["Dextro-Singleton Spacial Solutions","Dextro-Singleton","DS³","DS3"],"date-created":"2026-10-29T08:46","date-modified":"2026-10-30T11:05","dg-publish":true,"sectors":["[[Carbex]]"],"tags":["mosh/company"],"title":"Dextro-Singleton Spacial Solutions","dg-path":"mosh/companies/dextro-singleton spacial solutions.md","permalink":"/mosh/companies/dextro-singleton-spacial-solutions/","dgPassFrontmatter":true,"updated":"2026-10-30T11:05","dg-note-properties":{"aliases":["Dextro-Singleton Spacial Solutions","Dextro-Singleton","DS³","DS3"],"date-created":"2026-10-29T08:46","date-modified":"2026-10-30T11:05","sectors":["[[workshop/mosh/sectors/Carbex]]"],"tags":["mosh/company"],"title":"Dextro-Singleton Spacial Solutions"}}
 ---
 
 
@@ -13,7 +13,7 @@ Dextro-Singleton Spacial Solutions (DS³) is a transport and transit corporation
 
 ## Known Facilities
 
-- DS-OFP-25 (coreward): Dextro-Singleton orbital factory whose production was halted by a strike of nearly 1,288 workers
+- DS-OFP-25: coreward orbital factory station
 
 ## Appears in
 

@@ -1,11 +1,11 @@
 ---
-{"aliases":["Litkovich"],"clusters":["[[Barnaul]]","[[Tunaverse]]"],"date-created":"2026-03-05T19:21","date-modified":"2026-10-29T18:50","dg-publish":true,"tags":["mosh/company"],"title":"Litkovich","dg-path":"mosh/companies/litkovich.md","permalink":"/mosh/companies/litkovich/","dgPassFrontmatter":true,"updated":"2026-10-29T18:50","dg-note-properties":{"aliases":["Litkovich"],"clusters":["[[workshop/mosh/Barnaul]]","[[workshop/mosh/Tunaverse]]"],"date-created":"2026-03-05T19:21","date-modified":"2026-10-29T18:50","tags":["mosh/company"],"title":"Litkovich"}}
+{"aliases":["Litkovich"],"date-created":"2026-03-05T19:21","date-modified":"2026-10-30T10:30","dg-publish":true,"sectors":["[[Barnaul]]"],"tags":["mosh/company"],"title":"Litkovich","dg-path":"mosh/companies/litkovich.md","permalink":"/mosh/companies/litkovich/","dgPassFrontmatter":true,"updated":"2026-10-30T10:30","dg-note-properties":{"aliases":["Litkovich"],"date-created":"2026-03-05T19:21","date-modified":"2026-10-30T10:30","sectors":["[[workshop/mosh/sectors/Barnaul]]"],"tags":["mosh/company"],"title":"Litkovich"}}
 ---
 
 
 # Litkovich
 
-Litkovich is a brand of medical equipment known for its MedPod.
+Litkovich is a manufacturer of medical equipment.
 
 ## Known Products
 

@@ -1,13 +1,11 @@
 ---
-{"aliases":["FieldTEK Combat Systems Corporation","FieldTEK","FieldTek"],"date-created":"2026-10-29T08:46","date-modified":"2026-10-29T18:50","dg-publish":true,"tags":["mosh/company"],"title":"FieldTEK Combat Systems Corporation","dg-path":"mosh/companies/fieldtek combat systems corporation.md","permalink":"/mosh/companies/fieldtek-combat-systems-corporation/","dgPassFrontmatter":true,"updated":"2026-10-29T18:50","dg-note-properties":{"aliases":["FieldTEK Combat Systems Corporation","FieldTEK","FieldTek"],"date-created":"2026-10-29T08:46","date-modified":"2026-10-29T18:50","tags":["mosh/company"],"title":"FieldTEK Combat Systems Corporation"}}
+{"aliases":["FieldTEK Combat Systems Corporation","FieldTEK","FieldTek"],"date-created":"2026-10-29T08:46","date-modified":"2026-10-30T20:36","dg-publish":true,"sectors":null,"tags":["mosh/company"],"title":"FieldTEK Combat Systems Corporation","dg-path":"mosh/companies/fieldtek combat systems corporation.md","permalink":"/mosh/companies/fieldtek-combat-systems-corporation/","dgPassFrontmatter":true,"updated":"2026-10-30T20:36","dg-note-properties":{"aliases":["FieldTEK Combat Systems Corporation","FieldTEK","FieldTek"],"date-created":"2026-10-29T08:46","date-modified":"2026-10-30T20:36","sectors":null,"tags":["mosh/company"],"title":"FieldTEK Combat Systems Corporation"}}
 ---
 
 
 # FieldTEK Combat Systems Corporation
 
 FieldTEK is a defense manufacturer formed by a merger of smaller manufacturers and private military companies, producing weapons, armor, combat vehicles, robotics and cybernetics.
-
-Role in [[workshop/mosh/modules/FieldTEK Combat Systems\|FieldTEK Combat Systems]]: the product is the company's illustrated catalogue of its firearms.
 
 ## Known Products
 
@@ -25,8 +23,9 @@ Role in [[workshop/mosh/modules/FieldTEK Combat Systems\|FieldTEK Combat Systems
 - TX-37 Honey Badger HMG: vehicle-mounted heavy machine gun
 - LBT-187 Bobcat: light reconnaissance tank with a Gravitic Hover System
 - CR-221 Infantry Support Robot: humanoid weapons platform
+- Agents for hire: contracted military and security personnel
 
 ## Appears in
 
-- *BRFR*
+- [[workshop/mosh/modules/By Robots, For Robots\|By Robots, For Robots]]
 - [[workshop/mosh/modules/FieldTEK Combat Systems\|FieldTEK Combat Systems]]

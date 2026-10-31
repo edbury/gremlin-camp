@@ -1,5 +1,5 @@
 ---
-{"aliases":["Abattoir Family Co.","Abattoir Family Co"],"clusters":["[[Public Sector]]"],"date-created":"2026-10-29T08:46","date-modified":"2026-10-29T18:50","dg-publish":true,"tags":["mosh/company"],"title":"Abattoir Family Co.","dg-path":"mosh/companies/abattoir family co.md","permalink":"/mosh/companies/abattoir-family-co/","dgPassFrontmatter":true,"updated":"2026-10-29T18:50","dg-note-properties":{"aliases":["Abattoir Family Co.","Abattoir Family Co"],"clusters":["[[workshop/mosh/Public Sector]]"],"date-created":"2026-10-29T08:46","date-modified":"2026-10-29T18:50","tags":["mosh/company"],"title":"Abattoir Family Co."}}
+{"aliases":["Abattoir Family Co.","Abattoir Family Co","Abattoir Co."],"date-created":"2026-10-29T08:46","date-modified":"2026-10-30T10:30","dg-publish":true,"sectors":["[[Public Sector]]"],"tags":["mosh/company"],"title":"Abattoir Family Co.","dg-path":"mosh/companies/abattoir family co.md","permalink":"/mosh/companies/abattoir-family-co/","dgPassFrontmatter":true,"updated":"2026-10-30T10:30","dg-note-properties":{"aliases":["Abattoir Family Co.","Abattoir Family Co","Abattoir Co."],"date-created":"2026-10-29T08:46","date-modified":"2026-10-30T10:30","sectors":["[[workshop/mosh/sectors/Public Sector]]"],"tags":["mosh/company"],"title":"Abattoir Family Co."}}
 ---
 
 
@@ -22,7 +22,7 @@ Abattoir Family Co. is a Public Sector company selling office supply and IP rete
 
 ## Known Facilities
 
-- Abattoir Family Theme Station: station with unsettling sales displays and amusements
+- Abattoir Family Theme Station: theme station with sales displays and amusements
 
 ## Appears in
 

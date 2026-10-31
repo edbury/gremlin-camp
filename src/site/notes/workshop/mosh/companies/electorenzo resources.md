@@ -1,5 +1,5 @@
 ---
-{"aliases":["Electorenzo Resources","E/R","Electorenzo","Electarenzo"],"clusters":["[[Cerdo System]]","[[Eden Prime]]","[[Tunaverse]]"],"date-created":"2026-10-29T08:46","date-modified":"2026-10-29T18:50","dg-publish":true,"tags":["mosh/company"],"title":"Electorenzo Resources","dg-path":"mosh/companies/electorenzo resources.md","permalink":"/mosh/companies/electorenzo-resources/","dgPassFrontmatter":true,"updated":"2026-10-29T18:50","dg-note-properties":{"aliases":["Electorenzo Resources","E/R","Electorenzo","Electarenzo"],"clusters":["[[workshop/mosh/Cerdo System]]","[[workshop/mosh/Eden Prime]]","[[workshop/mosh/Tunaverse]]"],"date-created":"2026-10-29T08:46","date-modified":"2026-10-29T18:50","tags":["mosh/company"],"title":"Electorenzo Resources"}}
+{"aliases":["Electorenzo Resources","E/R","Electorenzo","Electarenzo","Electrarenzo"],"date-created":"2026-10-29T08:46","date-modified":"2026-10-30T11:05","dg-publish":true,"sectors":["[[Cerdo System]]"],"tags":["mosh/company"],"title":"Electorenzo Resources","dg-path":"mosh/companies/electorenzo resources.md","permalink":"/mosh/companies/electorenzo-resources/","dgPassFrontmatter":true,"updated":"2026-10-30T11:05","dg-note-properties":{"aliases":["Electorenzo Resources","E/R","Electorenzo","Electarenzo","Electrarenzo"],"date-created":"2026-10-29T08:46","date-modified":"2026-10-30T11:05","sectors":["[[workshop/mosh/sectors/Cerdo System]]"],"tags":["mosh/company"],"title":"Electorenzo Resources"}}
 ---
 
 
@@ -9,15 +9,15 @@ Electorenzo Resources (E/R) is a company led by CEO Simone Vett that lays claim 
 
 ## Known Vessels
 
-- Rasputin: E/R ship
+- Rasputin: ship
 
 ## Known Facilities
 
-- E/R Poe-V Aerostat Station (150 km deep in the atmosphere of gas giant Poe-V, Poe system): android-run manufacturing plant and neoplasma refinery
-- Electarenzo R&D Labs (Corporate Ring, TAMA-81): R&D for problems of the planet below
-- Electarenzo Ring Reception (Corporate Ring, TAMA-81): reception offices
-- Company Estates (TAMA-81): manors and gated communities of the E/R minority, guarded by Android Servants
-- Electorenzo Resources asteroid mine: asteroid mine (random sector feature)
+- E/R Poe-V Aerostat Station: android-run manufacturing plant and neoplasma refinery in the atmosphere of the gas giant Poe-V in the Poe system
+- Electarenzo R&D Labs: research and development labs on the Corporate Ring of TAMA-81
+- Electarenzo Ring Reception: reception offices on the Corporate Ring of TAMA-81
+- Company Estates: manors and gated communities on TAMA-81
+- Electorenzo Resources asteroid mine: asteroid mine
 
 ## Appears in
 

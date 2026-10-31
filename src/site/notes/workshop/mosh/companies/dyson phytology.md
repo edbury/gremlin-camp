@@ -1,5 +1,5 @@
 ---
-{"aliases":["Dyson Phytology"],"clusters":["[[The Third Sector]]"],"date-created":"2026-10-29T08:46","date-modified":"2026-10-29T18:50","dg-publish":true,"tags":["mosh/company"],"title":"Dyson Phytology","dg-path":"mosh/companies/dyson phytology.md","permalink":"/mosh/companies/dyson-phytology/","dgPassFrontmatter":true,"updated":"2026-10-29T18:50","dg-note-properties":{"aliases":["Dyson Phytology"],"clusters":["[[workshop/mosh/modules/The Third Sector]]"],"date-created":"2026-10-29T08:46","date-modified":"2026-10-29T18:50","tags":["mosh/company"],"title":"Dyson Phytology"}}
+{"aliases":["Dyson Phytology"],"date-created":"2026-10-29T08:46","date-modified":"2026-10-30T20:55","dg-publish":true,"sectors":["[[The Third Sector]]"],"tags":["mosh/company"],"title":"Dyson Phytology","dg-path":"mosh/companies/dyson phytology.md","permalink":"/mosh/companies/dyson-phytology/","dgPassFrontmatter":true,"updated":"2026-10-30T20:55","dg-note-properties":{"aliases":["Dyson Phytology"],"date-created":"2026-10-29T08:46","date-modified":"2026-10-30T20:55","sectors":["[[workshop/mosh/sectors/The Third Sector]]"],"tags":["mosh/company"],"title":"Dyson Phytology"}}
 ---
 
 
@@ -9,10 +9,13 @@ Dyson Phytology is a megacorporation in the agriculture and health industries th
 
 ## Known Facilities
 
-- Choi Labs, also called Outpost Choi (remote rim space ocean planet): hidden research outpost
+- Outpost Choi: research outpost on Murandal in rim space, made up of DeLange, Japline's Ache and Choi Labs
+- DeLange: orbital station over Murandal handling arrivals and departures of supplies, specimens, reports and workers
+- Japline's Ache: surface habitation on Murandal
+- Choi Labs: research labs on the ocean floor of Murandal
 
 ## Appears in
 
 - [[workshop/mosh/modules/Bloom\|Bloom]]
 - [[workshop/mosh/modules/The Oceans are Endless on Meridian\|The Oceans are Endless on Meridian]]
-- [[workshop/mosh/modules/The Third Sector\|The Third Sector]]
+- [[workshop/mosh/modules/The Third Sector (module)\|The Third Sector]]

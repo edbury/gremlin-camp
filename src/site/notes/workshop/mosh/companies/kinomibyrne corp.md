@@ -1,22 +1,15 @@
 ---
-{"aliases":["KinomiByrne Corp","Kinomi-Byrne"],"date-created":"2026-10-29T08:46","date-modified":"2026-10-29T18:50","dg-publish":true,"tags":["mosh/company"],"title":"KinomiByrne Corp","dg-path":"mosh/companies/kinomibyrne corp.md","permalink":"/mosh/companies/kinomibyrne-corp/","dgPassFrontmatter":true,"updated":"2026-10-29T18:50","dg-note-properties":{"aliases":["KinomiByrne Corp","Kinomi-Byrne"],"date-created":"2026-10-29T08:46","date-modified":"2026-10-29T18:50","tags":["mosh/company"],"title":"KinomiByrne Corp"}}
+{"aliases":["KinomiByrne Corp","Kinomi-Byrne"],"date-created":"2026-10-29T08:46","date-modified":"2026-10-30T20:36","dg-publish":true,"sectors":null,"tags":["mosh/company"],"title":"KinomiByrne Corp","dg-path":"mosh/companies/kinomibyrne corp.md","permalink":"/mosh/companies/kinomibyrne-corp/","dgPassFrontmatter":true,"updated":"2026-10-30T20:36","dg-note-properties":{"aliases":["KinomiByrne Corp","Kinomi-Byrne"],"date-created":"2026-10-29T08:46","date-modified":"2026-10-30T20:36","sectors":null,"tags":["mosh/company"],"title":"KinomiByrne Corp"}}
 ---
 
 
 # KinomiByrne Corp
 
-KinomiByrne Corp is the corporation that poured billions into building its first Paradimensional Drive for the colony ship Advent Dawn.
-
-Role in [[workshop/mosh/modules/This Ship Is a Tomb\|This Ship Is a Tomb]]: builder of the lost Advent Dawn, the derelict the crew explores.
-
-## Known Products
-
-- Paradimensional Drive: drive that travels in the space between universes rather than through hyperspace
-- Kinomi-Byrne Standard Attire: colonist clothing (AP 1)
+KinomiByrne Corp is the corporation that built the Paradimensional Drive, a drive that travels in the space between universes rather than through hyperspace.
 
 ## Known Vessels
 
-- Advent Dawn: ship designed to settle distant new worlds, lost after its first jump
+- Advent Dawn: colony ship
 
 ## Appears in
 

@@ -1,5 +1,5 @@
 ---
-{"aliases":["PacyGen Pharmaceuticals","PacyGen Pharmaceuticals & Soft Drinks Company"],"date-created":"2026-10-29T08:46","date-modified":"2026-10-29T18:50","dg-publish":true,"tags":["mosh/company"],"title":"PacyGen Pharmaceuticals","dg-path":"mosh/companies/pacygen.md","permalink":"/mosh/companies/pacygen/","dgPassFrontmatter":true,"updated":"2026-10-29T18:50","dg-note-properties":{"aliases":["PacyGen Pharmaceuticals","PacyGen Pharmaceuticals & Soft Drinks Company"],"date-created":"2026-10-29T08:46","date-modified":"2026-10-29T18:50","tags":["mosh/company"],"title":"PacyGen Pharmaceuticals"}}
+{"aliases":["PacyGen Pharmaceuticals","PacyGen Pharmaceuticals & Soft Drinks Company","PacyGen"],"date-created":"2026-10-29T08:46","date-modified":"2026-10-30T11:05","dg-publish":true,"sectors":null,"tags":["mosh/company"],"title":"PacyGen Pharmaceuticals","dg-path":"mosh/companies/pacygen.md","permalink":"/mosh/companies/pacygen/","dgPassFrontmatter":true,"updated":"2026-10-30T11:05","dg-note-properties":{"aliases":["PacyGen Pharmaceuticals","PacyGen Pharmaceuticals & Soft Drinks Company","PacyGen"],"date-created":"2026-10-29T08:46","date-modified":"2026-10-30T11:05","sectors":null,"tags":["mosh/company"],"title":"PacyGen Pharmaceuticals"}}
 ---
 
 
@@ -9,7 +9,6 @@ PacyGen Pharmaceuticals & Soft Drinks Company is a pharmaceutical and soft drink
 
 ## Known Products
 
-- Mr Goodnight: moon-headed mascot and registered trademark created to promote PacyGen's soda
 - ViViFi Soda: Cruz-branded collab soda that restores up to 1d5 HP and gives +1 Stress, 2cr
 
 ## Appears in

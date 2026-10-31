@@ -1,13 +1,11 @@
 ---
-{"aliases":["KRTH"],"clusters":["[[Karth-Mani]]"],"date-created":"2026-10-29T08:46","date-modified":"2026-10-29T18:50","dg-publish":true,"tags":["mosh/company"],"title":"KRTH","dg-path":"mosh/companies/krth.md","permalink":"/mosh/companies/krth/","dgPassFrontmatter":true,"updated":"2026-10-29T18:50","dg-note-properties":{"aliases":["KRTH"],"clusters":["[[workshop/mosh/Karth-Mani]]"],"date-created":"2026-10-29T08:46","date-modified":"2026-10-29T18:50","tags":["mosh/company"],"title":"KRTH"}}
+{"aliases":["KRTH"],"date-created":"2026-10-29T08:46","date-modified":"2026-10-30T20:36","dg-publish":true,"sectors":["[[Karth-Mani]]"],"tags":["mosh/company"],"title":"KRTH","dg-path":"mosh/companies/krth.md","permalink":"/mosh/companies/krth/","dgPassFrontmatter":true,"updated":"2026-10-30T20:36","dg-note-properties":{"aliases":["KRTH"],"date-created":"2026-10-29T08:46","date-modified":"2026-10-30T20:36","sectors":["[[workshop/mosh/sectors/Karth-Mani]]"],"tags":["mosh/company"],"title":"KRTH"}}
 ---
 
 
 # KRTH
 
-KRTH, The Voice of Karth, is a one-man radio station west of Larstown on Karth, run by the broadcaster Sharp.
-
-Role in [[workshop/mosh/modules/The Voice of Karth\|The Voice of Karth]]: the radio station that is the pamphlet's location and source of its jobs.
+KRTH, The Voice of Karth, is a one-man radio station west of Larstown on Karth, run by the broadcaster Sharp and broadcasting at 34 kilocycles.
 
 ## Known Products
 
@@ -15,7 +13,7 @@ Role in [[workshop/mosh/modules/The Voice of Karth\|The Voice of Karth]]: the ra
 
 ## Known Facilities
 
-- KRTH broadcast tower and studio (west of Larstown, Karth): small broadcast tower, homesteader shack studio and sheet metal shed library, broadcasting at 34 kilocycles
+- KRTH broadcast tower and studio: radio broadcast tower and studio west of Larstown on Karth
 
 ## Appears in
 

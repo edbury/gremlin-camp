@@ -1,5 +1,5 @@
 ---
-{"aliases":["Bao-Neumann"],"clusters":["[[Barnaul]]"],"date-created":"2026-03-05T19:20","date-modified":"2026-10-29T18:50","dg-publish":true,"tags":["mosh/company"],"title":"Bao-Neumann","dg-path":"mosh/companies/bao-neumann.md","permalink":"/mosh/companies/bao-neumann/","dgPassFrontmatter":true,"updated":"2026-10-29T18:50","dg-note-properties":{"aliases":["Bao-Neumann"],"clusters":["[[workshop/mosh/Barnaul]]"],"date-created":"2026-03-05T19:20","date-modified":"2026-10-29T18:50","tags":["mosh/company"],"title":"Bao-Neumann"}}
+{"aliases":["Bao-Neumann"],"date-created":"2026-03-05T19:20","date-modified":"2026-10-30T10:30","dg-publish":true,"sectors":["[[Barnaul]]"],"tags":["mosh/company"],"title":"Bao-Neumann","dg-path":"mosh/companies/bao-neumann.md","permalink":"/mosh/companies/bao-neumann/","dgPassFrontmatter":true,"updated":"2026-10-30T10:30","dg-note-properties":{"aliases":["Bao-Neumann"],"date-created":"2026-03-05T19:20","date-modified":"2026-10-30T10:30","sectors":["[[workshop/mosh/sectors/Barnaul]]"],"tags":["mosh/company"],"title":"Bao-Neumann"}}
 ---
 
 

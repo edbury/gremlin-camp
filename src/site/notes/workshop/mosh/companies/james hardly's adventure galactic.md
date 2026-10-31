@@ -1,13 +1,11 @@
 ---
-{"aliases":["James Hardly's Adventure Galactic","Hardly's Galactic","Hardly Corporation","Hardly Company","Hardly Corp","James Hardly"],"clusters":["[[Public Sector]]"],"date-created":"2026-10-29T08:46","date-modified":"2026-10-29T18:50","dg-publish":true,"tags":["mosh/company"],"title":"James Hardly's Adventure Galactic","dg-path":"mosh/companies/james hardly's adventure galactic.md","permalink":"/mosh/companies/james-hardly-s-adventure-galactic/","dgPassFrontmatter":true,"updated":"2026-10-29T18:50","dg-note-properties":{"aliases":["James Hardly's Adventure Galactic","Hardly's Galactic","Hardly Corporation","Hardly Company","Hardly Corp","James Hardly"],"clusters":["[[workshop/mosh/Public Sector]]"],"date-created":"2026-10-29T08:46","date-modified":"2026-10-29T18:50","tags":["mosh/company"],"title":"James Hardly's Adventure Galactic"}}
+{"aliases":["James Hardly's Adventure Galactic","Hardly's Galactic","Hardly Corporation","Hardly Company","Hardly Corp","James Hardly"],"date-created":"2026-10-29T08:46","date-modified":"2026-10-30T20:36","dg-publish":true,"sectors":["[[Public Sector]]"],"tags":["mosh/company"],"title":"James Hardly's Adventure Galactic","dg-path":"mosh/companies/james hardly's adventure galactic.md","permalink":"/mosh/companies/james-hardly-s-adventure-galactic/","dgPassFrontmatter":true,"updated":"2026-10-30T20:36","dg-note-properties":{"aliases":["James Hardly's Adventure Galactic","Hardly's Galactic","Hardly Corporation","Hardly Company","Hardly Corp","James Hardly"],"date-created":"2026-10-29T08:46","date-modified":"2026-10-30T20:36","sectors":["[[workshop/mosh/sectors/Public Sector]]"],"tags":["mosh/company"],"title":"James Hardly's Adventure Galactic"}}
 ---
 
 
 # James Hardly's Adventure Galactic
 
-James Hardly's Adventure Galactic, also called Hardly's Galactic or the Hardly Corporation, is a rival megacorp, billed as a real estate and survivalism company, selling terraforming, colonization and survival products.
-
-Role in [[workshop/mosh/modules/Hull Breach Vol 1\|Hull Breach Vol 1]]: company Pyramid faction trying to break into the Public Sector, with its own product advert.
+James Hardly's Adventure Galactic is a rival megacorp, billed as a real estate and survivalism company, selling terraforming, colonization and survival products.
 
 ## Known Products
 

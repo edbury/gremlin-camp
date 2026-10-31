@@ -1,21 +1,17 @@
 ---
-{"aliases":["Arbitration Limited","Arbitration Ltd."],"clusters":["[[Public Sector]]"],"date-created":"2026-10-29T08:46","date-modified":"2026-10-29T18:50","dg-publish":true,"tags":["mosh/company"],"title":"Arbitration Limited","dg-path":"mosh/companies/arbitration limited.md","permalink":"/mosh/companies/arbitration-limited/","dgPassFrontmatter":true,"updated":"2026-10-29T18:50","dg-note-properties":{"aliases":["Arbitration Limited","Arbitration Ltd."],"clusters":["[[workshop/mosh/Public Sector]]"],"date-created":"2026-10-29T08:46","date-modified":"2026-10-29T18:50","tags":["mosh/company"],"title":"Arbitration Limited"}}
+{"aliases":["Arbitration Limited","Arbitration Ltd.","Arb. Ltd."],"date-created":"2026-10-29T08:46","date-modified":"2026-10-30T10:41","dg-publish":true,"sectors":["[[Public Sector]]"],"tags":["mosh/company"],"title":"Arbitration Limited","dg-path":"mosh/companies/arbitration limited.md","permalink":"/mosh/companies/arbitration-limited/","dgPassFrontmatter":true,"updated":"2026-10-30T10:41","dg-note-properties":{"aliases":["Arbitration Limited","Arbitration Ltd.","Arb. Ltd."],"date-created":"2026-10-29T08:46","date-modified":"2026-10-30T10:41","sectors":["[[workshop/mosh/sectors/Public Sector]]"],"tags":["mosh/company"],"title":"Arbitration Limited"}}
 ---
 
 
 # Arbitration Limited
 
-Arbitration Limited is Publico's correctional subsidiary, handling contract enforcement, corrections and debt farming by arresting, jailing, trying and convicting people to feed the corporate debt-labor cycle.
-
-## Known Products
-
-- Get-Out-of-Jail-Free card: card offered as a job reward and found as loot
+Arbitration Limited is [[workshop/mosh/companies/publico\|Publico]]'s correctional subsidiary, handling contract enforcement, corrections and debt farming.
 
 ## Known Facilities
 
-- Arbitration Ltd. courthouse (Clamrest, planet Smythe, System of Joy): courthouse towering atop a monolith
-- Dockside Arbitration Ltd. jail (Lord Wesley's Rise): jail where station security dumps those who bother Residents or lack a Day Pass
-- The Facility (on a bustling space station): well-used chain facility with cells, consultation room, judge's chambers and courtroom
+- Arbitration Ltd. courthouse: courthouse atop a monolith in Clamrest on the planet Smythe in the Joy System
+- Dockside Arbitration Ltd. jail: jail on Lord Wesley's Rise
+- Arbitration Ltd. facility: chain correctional facility on a space station
 
 ## Appears in
 

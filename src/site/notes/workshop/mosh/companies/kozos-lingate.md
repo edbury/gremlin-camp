@@ -1,17 +1,19 @@
 ---
-{"aliases":["Kozos-Lingate"],"date-created":"2026-10-29T08:46","date-modified":"2026-10-29T18:50","dg-publish":true,"tags":["mosh/company"],"title":"Kozos-Lingate","dg-path":"mosh/companies/kozos-lingate.md","permalink":"/mosh/companies/kozos-lingate/","dgPassFrontmatter":true,"updated":"2026-10-29T18:50","dg-note-properties":{"aliases":["Kozos-Lingate"],"date-created":"2026-10-29T08:46","date-modified":"2026-10-29T18:50","tags":["mosh/company"],"title":"Kozos-Lingate"}}
+{"aliases":["Kozos-Lingate"],"date-created":"2026-10-29T08:46","date-modified":"2026-10-30T20:36","dg-publish":true,"sectors":null,"tags":["mosh/company"],"title":"Kozos-Lingate","dg-path":"mosh/companies/kozos-lingate.md","permalink":"/mosh/companies/kozos-lingate/","dgPassFrontmatter":true,"updated":"2026-10-30T20:36","dg-note-properties":{"aliases":["Kozos-Lingate"],"date-created":"2026-10-29T08:46","date-modified":"2026-10-30T20:36","sectors":null,"tags":["mosh/company"],"title":"Kozos-Lingate"}}
 ---
 
 
 # Kozos-Lingate
 
-Kozos-Lingate is a company that built and owns the Siduri Orbital Hotel and makes androids.
+Kozos-Lingate is a company that built the Siduri Orbital Hotel and makes androids.
 
-Role in [[workshop/mosh/modules/RETCON\|RETCON]]: owner of the Siduri Orbital Hotel, the derelict station the crew is sent to strip.
+## Known Products
+
+- Kozos-Lingate android: android made by the company
 
 ## Known Facilities
 
-- Siduri Orbital Hotel (drifting among dead spacecraft): mid-century modern hotel station, shining in the black since 2158
+- Siduri Orbital Hotel: former mid-century modern orbital hotel station
 
 ## Appears in
 

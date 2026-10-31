@@ -1,11 +1,11 @@
 ---
-{"aliases":["Laughing Sphinx Corporation","Laughing Sphinx Co."],"clusters":["[[Combined Systems]]","[[Tunaverse]]"],"date-created":"2026-10-29T08:46","date-modified":"2026-10-29T18:50","dg-publish":true,"tags":["mosh/company"],"title":"Laughing Sphinx Corporation","dg-path":"mosh/companies/laughing sphinx corporation.md","permalink":"/mosh/companies/laughing-sphinx-corporation/","dgPassFrontmatter":true,"updated":"2026-10-29T18:50","dg-note-properties":{"aliases":["Laughing Sphinx Corporation","Laughing Sphinx Co."],"clusters":["[[workshop/mosh/Combined Systems]]","[[workshop/mosh/Tunaverse]]"],"date-created":"2026-10-29T08:46","date-modified":"2026-10-29T18:50","tags":["mosh/company"],"title":"Laughing Sphinx Corporation"}}
+{"aliases":["Laughing Sphinx Corporation","Laughing Sphinx Co."],"date-created":"2026-10-29T08:46","date-modified":"2026-10-30T10:30","dg-publish":true,"sectors":["[[Tunaverse]]"],"tags":["mosh/company"],"title":"Laughing Sphinx Corporation","dg-path":"mosh/companies/laughing sphinx corporation.md","permalink":"/mosh/companies/laughing-sphinx-corporation/","dgPassFrontmatter":true,"updated":"2026-10-30T10:30","dg-note-properties":{"aliases":["Laughing Sphinx Corporation","Laughing Sphinx Co."],"date-created":"2026-10-29T08:46","date-modified":"2026-10-30T10:30","sectors":["[[workshop/mosh/sectors/Tunaverse]]"],"tags":["mosh/company"],"title":"Laughing Sphinx Corporation"}}
 ---
 
 
 # Laughing Sphinx Corporation
 
-Laughing Sphinx Corporation is a space debris removal company.
+Laughing Sphinx Corporation is a widespread, well-respected space debris removal company that is integrated in its communities. Its cleaning units include Space Debris Removal Crew XIX.
 
 ## Appears in
 
