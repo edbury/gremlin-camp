@@ -1,24 +1,20 @@
 ---
-{"aliases":["The Dyson Initiative","Dyson Initiative"],"clusters":["[[Nakatomi Sector 1365]]"],"date-created":"2026-10-29T08:46","date-modified":"2026-10-29T18:50","dg-publish":true,"tags":["mosh/company"],"title":"The Dyson Initiative","dg-path":"mosh/companies/the dyson initiative.md","permalink":"/mosh/companies/the-dyson-initiative/","dgPassFrontmatter":true,"updated":"2026-10-29T18:50","dg-note-properties":{"aliases":["The Dyson Initiative","Dyson Initiative"],"clusters":["[[workshop/mosh/Nakatomi Sector 1365]]"],"date-created":"2026-10-29T08:46","date-modified":"2026-10-29T18:50","tags":["mosh/company"],"title":"The Dyson Initiative"}}
+{"aliases":["The Dyson Initiative","Dyson Initiative"],"date-created":"2026-10-29T08:46","date-modified":"2026-10-30T10:30","dg-publish":true,"sectors":["[[Nakatomi Sector 1365]]"],"tags":["mosh/company"],"title":"The Dyson Initiative","dg-path":"mosh/companies/the dyson initiative.md","permalink":"/mosh/companies/the-dyson-initiative/","dgPassFrontmatter":true,"updated":"2026-10-30T10:30","dg-note-properties":{"aliases":["The Dyson Initiative","Dyson Initiative"],"date-created":"2026-10-29T08:46","date-modified":"2026-10-30T10:30","sectors":["[[workshop/mosh/sectors/Nakatomi Sector 1365]]"],"tags":["mosh/company"],"title":"The Dyson Initiative"}}
 ---
 
 
 # The Dyson Initiative
 
-The Dyson Initiative is a corporation whose R&D department developed an experimental skip drive.
-
-## Known Products
-
-- Skip drive: experimental prototype drive tested in the Achernar system
+The Dyson Initiative is a corporation that develops hyperdrive technology.
 
 ## Known Vessels
 
-- CF Senespera: Dyson Initiative research vessel / corporate freighter
+- CF Senespera: corporate freighter
 
 ## Known Facilities
 
-- Dyson testing facility: facility where the skip drive was tested
-- Dyson Initiative research station: research station (random sector feature)
+- Dyson testing facility: testing facility
+- Dyson Initiative research station: research station
 
 ## Appears in
 

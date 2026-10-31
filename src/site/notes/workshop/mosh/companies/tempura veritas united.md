@@ -1,19 +1,15 @@
 ---
-{"aliases":["Tempura Veritas United","Tempura Veritas United: A Higher Humanity Organization","TVU","Tempura Veritas"],"clusters":["[[Cerdo System]]","[[Eden Prime]]","[[Tunaverse]]"],"date-created":"2026-10-29T08:46","date-modified":"2026-10-29T18:50","dg-publish":true,"tags":["mosh/company"],"title":"Tempura Veritas United","dg-path":"mosh/companies/tempura veritas united.md","permalink":"/mosh/companies/tempura-veritas-united/","dgPassFrontmatter":true,"updated":"2026-10-29T18:50","dg-note-properties":{"aliases":["Tempura Veritas United","Tempura Veritas United: A Higher Humanity Organization","TVU","Tempura Veritas"],"clusters":["[[workshop/mosh/Cerdo System]]","[[workshop/mosh/Eden Prime]]","[[workshop/mosh/Tunaverse]]"],"date-created":"2026-10-29T08:46","date-modified":"2026-10-29T18:50","tags":["mosh/company"],"title":"Tempura Veritas United"}}
+{"aliases":["Tempura Veritas United","Tempura Veritas United: A Higher Humanity Organization","TVU","Tempura Veritas"],"date-created":"2026-10-29T08:46","date-modified":"2026-10-30T11:05","dg-publish":true,"sectors":["[[Cerdo System]]"],"tags":["mosh/company"],"title":"Tempura Veritas United","dg-path":"mosh/companies/tempura veritas united.md","permalink":"/mosh/companies/tempura-veritas-united/","dgPassFrontmatter":true,"updated":"2026-10-30T11:05","dg-note-properties":{"aliases":["Tempura Veritas United","Tempura Veritas United: A Higher Humanity Organization","TVU","Tempura Veritas"],"date-created":"2026-10-29T08:46","date-modified":"2026-10-30T11:05","sectors":["[[workshop/mosh/sectors/Cerdo System]]"],"tags":["mosh/company"],"title":"Tempura Veritas United"}}
 ---
 
 
 # Tempura Veritas United
 
-Tempura Veritas United: A Higher Humanity Organization (TVU) is an arms vendor and corporate sponsor.
-
-## Known Products
-
-- Plated Hog Hounds: genemod species
+Tempura Veritas United: A Higher Humanity Organization (TVU) is an arms vendor and corporate sponsor, and the creator of the Plated Hog Hound genemod species.
 
 ## Known Facilities
 
-- Tempura Veritas arms vendor offices (Corporate Ring): offices guarded by auto-turrets, with an armory and R&D
+- Tempura Veritas arms vendor offices: offices on the Corporate Ring of TAMA-81
 
 ## Appears in
 

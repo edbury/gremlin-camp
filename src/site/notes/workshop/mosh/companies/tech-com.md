@@ -1,13 +1,11 @@
 ---
-{"aliases":["Tech-Com"],"date-created":"2026-10-29T08:46","date-modified":"2026-10-29T18:50","dg-publish":true,"tags":["mosh/company"],"title":"Tech-Com","dg-path":"mosh/companies/tech-com.md","permalink":"/mosh/companies/tech-com/","dgPassFrontmatter":true,"updated":"2026-10-29T18:50","dg-note-properties":{"aliases":["Tech-Com"],"date-created":"2026-10-29T08:46","date-modified":"2026-10-29T18:50","tags":["mosh/company"],"title":"Tech-Com"}}
+{"aliases":["Tech-Com"],"date-created":"2026-10-29T08:46","date-modified":"2026-10-30T20:36","dg-publish":true,"sectors":null,"tags":["mosh/company"],"title":"Tech-Com","dg-path":"mosh/companies/tech-com.md","permalink":"/mosh/companies/tech-com/","dgPassFrontmatter":true,"updated":"2026-10-30T20:36","dg-note-properties":{"aliases":["Tech-Com"],"date-created":"2026-10-29T08:46","date-modified":"2026-10-30T20:36","sectors":null,"tags":["mosh/company"],"title":"Tech-Com"}}
 ---
 
 
 # Tech-Com
 
-Tech-Com is a megacorp with a near monopoly on the jump drive technology used for faster-than-light travel between star systems.
-
-Role in [[workshop/mosh/modules/Mechs in the City\|Mechs in the City]]: megacorp with its own faction entry that holds a near monopoly on jump drives and posts the biggest bounties.
+Tech-Com is a company with a near monopoly on the jump drive technology used for faster-than-light travel between star systems. It dominates the outer rim and posts the biggest bounties on pirates, smugglers, traffickers and unlicensed users of its FTL drives.
 
 ## Known Products
 
@@ -15,7 +13,7 @@ Role in [[workshop/mosh/modules/Mechs in the City\|Mechs in the City]]: megacorp
 
 ## Known Facilities
 
-- Tech-Com Spaceport (Mega-City): third busiest spaceport in known space
+- Tech-Com Spaceport: spaceport in Mega-City, the third busiest in known space
 
 ## Appears in
 

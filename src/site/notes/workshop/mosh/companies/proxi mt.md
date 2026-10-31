@@ -1,11 +1,16 @@
 ---
-{"aliases":["Proxi Marchandises Technologiques","Proxi M.T.","PMT"],"clusters":["[[Cerdo System]]","[[Eden Prime]]","[[Tunaverse]]"],"date-created":"2026-10-29T08:46","date-modified":"2026-10-29T18:50","dg-publish":true,"tags":["mosh/company"],"title":"Proxi Marchandises Technologiques","dg-path":"mosh/companies/proxi mt.md","permalink":"/mosh/companies/proxi-mt/","dgPassFrontmatter":true,"updated":"2026-10-29T18:50","dg-note-properties":{"aliases":["Proxi Marchandises Technologiques","Proxi M.T.","PMT"],"clusters":["[[workshop/mosh/Cerdo System]]","[[workshop/mosh/Eden Prime]]","[[workshop/mosh/Tunaverse]]"],"date-created":"2026-10-29T08:46","date-modified":"2026-10-29T18:50","tags":["mosh/company"],"title":"Proxi Marchandises Technologiques"}}
+{"aliases":["Proxi Marchandises Technologiques","Proxi M.T.","PMT"],"date-created":"2026-10-29T08:46","date-modified":"2026-10-30T12:06","dg-publish":true,"sectors":["[[Cerdo System]]"],"tags":["mosh/company"],"title":"Proxi Marchandises Technologiques","dg-path":"mosh/companies/proxi mt.md","permalink":"/mosh/companies/proxi-mt/","dgPassFrontmatter":true,"updated":"2026-10-30T12:06","dg-note-properties":{"aliases":["Proxi Marchandises Technologiques","Proxi M.T.","PMT"],"date-created":"2026-10-29T08:46","date-modified":"2026-10-30T12:06","sectors":["[[workshop/mosh/sectors/Cerdo System]]"],"tags":["mosh/company"],"title":"Proxi Marchandises Technologiques"}}
 ---
 
 
 # Proxi Marchandises Technologiques
 
-Proxi Marchandises Technologiques (Proxi M.T., PMT) is one of the Coreworlds' largest Android manufacturing companies and a Rimspace Android trader.
+Proxi Marchandises Technologiques (Proxi M.T., PMT) is one of the Coreworlds' largest Android manufacturing companies and a Rimspace Android trader. It was the first to negotiate with the Android Rights Association (ARA).
+
+## Subsidiaries and Other Names
+
+- PMT Merchant Guild: buys Androids from systems that do not comply with ARA guidelines and ships them to "free" stations
+- Human Science Department: department that publishes the Sentience Assessment Procedure
 
 ## Known Products
 
@@ -21,20 +26,15 @@ Proxi Marchandises Technologiques (Proxi M.T., PMT) is one of the Coreworlds' la
 - Moral and motivational guide ("Mr. Brightside"), PMT-GMM-x32: optimism Android
 - Proxi M.T. kitchenware: kitchen equipment supplied with the Mombot
 - Sentience Assessment Procedure (SAP): portable human/android triage toolkit from the Human Science Department
-- Android workshop representatives: specialized Android assistants supplied to the 5th QuIIC workshops
-- PMT Security Android: Android guards patrolling the Ashgate Prison construction site
-- PMT Guard Patch: access patch for Ashgate Prison doors
-- PMT Keycard: access card for Ashgate Prison construction areas
-- Proxi M.T. Merchant Star Charts: star charts
 
 ## Known Vessels
 
-- PMT Search Ship: search ship carrying PMT Intruder Acquisition Agents
+- PMT Search Ship: search ship
 
 ## Known Facilities
 
-- Proxi M.T. Android Repair Workshop (Corporate Ring, TAMA-81 station): android repair workshop
-- PMT manufacturing plant: manufacturing plant (random sector feature)
+- Proxi M.T. Android Repair Workshop: android repair workshop in the Corporate Ring of TAMA-81 station
+- PMT manufacturing plant: android manufacturing plant
 
 ## Appears in
 

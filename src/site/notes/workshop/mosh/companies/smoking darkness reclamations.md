@@ -1,24 +1,16 @@
 ---
-{"aliases":["Smoking Darkness Reclamations","SDR"],"clusters":["[[Nakatomi Sector 1365]]"],"date-created":"2026-10-29T08:46","date-modified":"2026-10-29T18:50","dg-publish":true,"tags":["mosh/company"],"title":"Smoking Darkness Reclamations","dg-path":"mosh/companies/smoking darkness reclamations.md","permalink":"/mosh/companies/smoking-darkness-reclamations/","dgPassFrontmatter":true,"updated":"2026-10-29T18:50","dg-note-properties":{"aliases":["Smoking Darkness Reclamations","SDR"],"clusters":["[[workshop/mosh/Nakatomi Sector 1365]]"],"date-created":"2026-10-29T08:46","date-modified":"2026-10-29T18:50","tags":["mosh/company"],"title":"Smoking Darkness Reclamations"}}
+{"aliases":["Smoking Darkness Reclamations","SDR"],"date-created":"2026-10-29T08:46","date-modified":"2026-10-30T10:30","dg-publish":true,"sectors":["[[Nakatomi Sector 1365]]"],"tags":["mosh/company"],"title":"Smoking Darkness Reclamations","dg-path":"mosh/companies/smoking darkness reclamations.md","permalink":"/mosh/companies/smoking-darkness-reclamations/","dgPassFrontmatter":true,"updated":"2026-10-30T10:30","dg-note-properties":{"aliases":["Smoking Darkness Reclamations","SDR"],"date-created":"2026-10-29T08:46","date-modified":"2026-10-30T10:30","sectors":["[[workshop/mosh/sectors/Nakatomi Sector 1365]]"],"tags":["mosh/company"],"title":"Smoking Darkness Reclamations"}}
 ---
 
 
 # Smoking Darkness Reclamations
 
-Smoking Darkness Reclamations (SDR) is an outer rim salvage outfit, also described as a powerful smuggling syndicate.
-
-## Known Products
-
-- Smoking Darkness flight suit: company flight suit
+Smoking Darkness Reclamations (SDR) is an outer rim salvage outfit and smuggling syndicate.
 
 ## Known Vessels
 
-- Sellsword: Smoking Darkness vessel
-- Salvage Cutter: Smoking Darkness ship type
-
-## Known Facilities
-
-- The Cradle (orbit around a nameless star): all-but-abandoned rest stop station in territory once claimed by SDR
+- Sellsword: starship
+- Smoking Darkness Salvage Cutter: salvage cutter
 
 ## Appears in
 

@@ -1,13 +1,11 @@
 ---
-{"aliases":["Torappu!"],"date-created":"2026-10-29T08:46","date-modified":"2026-10-29T18:50","dg-publish":true,"tags":["mosh/company"],"title":"Torappu!","dg-path":"mosh/companies/torappu!.md","permalink":"/mosh/companies/torappu/","dgPassFrontmatter":true,"updated":"2026-10-29T18:50","dg-note-properties":{"aliases":["Torappu!"],"date-created":"2026-10-29T08:46","date-modified":"2026-10-29T18:50","tags":["mosh/company"],"title":"Torappu!"}}
+{"aliases":["Torappu!"],"date-created":"2026-10-29T08:46","date-modified":"2026-10-30T20:36","dg-publish":true,"sectors":null,"tags":["mosh/company"],"title":"Torappu!","dg-path":"mosh/companies/torappu!.md","permalink":"/mosh/companies/torappu/","dgPassFrontmatter":true,"updated":"2026-10-30T20:36","dg-note-properties":{"aliases":["Torappu!"],"date-created":"2026-10-29T08:46","date-modified":"2026-10-30T20:36","sectors":null,"tags":["mosh/company"],"title":"Torappu!"}}
 ---
 
 
 # Torappu!
 
 Torappu! is a manufacturer of enforcement and bounty hunting equipment and supplies.
-
-Role in [[workshop/mosh/modules/Known Criminals of Orion\|Known Criminals of Orion]]: the pamphlet's sponsor, with a section of discounted bounty hunting gear.
 
 ## Known Products
 

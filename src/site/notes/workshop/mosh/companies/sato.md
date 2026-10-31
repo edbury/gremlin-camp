@@ -1,11 +1,11 @@
 ---
-{"aliases":["Sato"],"clusters":["[[Barnaul]]"],"date-created":"2026-03-05T19:21","date-modified":"2026-10-29T18:50","dg-publish":true,"tags":["mosh/company"],"title":"Sato","dg-path":"mosh/companies/sato.md","permalink":"/mosh/companies/sato/","dgPassFrontmatter":true,"updated":"2026-10-29T18:50","dg-note-properties":{"aliases":["Sato"],"clusters":["[[workshop/mosh/Barnaul]]"],"date-created":"2026-03-05T19:21","date-modified":"2026-10-29T18:50","tags":["mosh/company"],"title":"Sato"}}
+{"aliases":["Sato"],"date-created":"2026-03-05T19:21","date-modified":"2026-10-30T10:30","dg-publish":true,"sectors":["[[Barnaul]]"],"tags":["mosh/company"],"title":"Sato","dg-path":"mosh/companies/sato.md","permalink":"/mosh/companies/sato/","dgPassFrontmatter":true,"updated":"2026-10-30T10:30","dg-note-properties":{"aliases":["Sato"],"date-created":"2026-03-05T19:21","date-modified":"2026-10-30T10:30","sectors":["[[workshop/mosh/sectors/Barnaul]]"],"tags":["mosh/company"],"title":"Sato"}}
 ---
 
 
 # Sato
 
-Sato is a manufacturer whose name appears on a bio-printer, a hacking deck and an executive transport.
+Sato is a manufacturer of medical equipment, hacking decks and executive transports.
 
 ## Known Products
 

@@ -1,5 +1,5 @@
 ---
-{"aliases":["SEBACO Mining Ltd.","SEBACO"],"date-created":"2026-10-29T08:46","date-modified":"2026-10-29T18:50","dg-publish":true,"tags":["mosh/company"],"title":"SEBACO Mining Ltd.","dg-path":"mosh/companies/sebaco.md","permalink":"/mosh/companies/sebaco/","dgPassFrontmatter":true,"updated":"2026-10-29T18:50","dg-note-properties":{"aliases":["SEBACO Mining Ltd.","SEBACO"],"date-created":"2026-10-29T08:46","date-modified":"2026-10-29T18:50","tags":["mosh/company"],"title":"SEBACO Mining Ltd."}}
+{"aliases":["SEBACO Mining Ltd.","SEBACO"],"date-created":"2026-10-29T08:46","date-modified":"2026-10-30T10:46","dg-publish":true,"sectors":["[[Barnaul]]"],"tags":["mosh/company"],"title":"SEBACO Mining Ltd.","dg-path":"mosh/companies/sebaco.md","permalink":"/mosh/companies/sebaco/","dgPassFrontmatter":true,"updated":"2026-10-30T10:46","dg-note-properties":{"aliases":["SEBACO Mining Ltd.","SEBACO"],"date-created":"2026-10-29T08:46","date-modified":"2026-10-30T10:46","sectors":["[[workshop/mosh/sectors/Barnaul]]"],"tags":["mosh/company"],"title":"SEBACO Mining Ltd."}}
 ---
 
 
@@ -10,24 +10,25 @@ SEBACO Mining Ltd. is an interstellar asteroid mining and planetary colonization
 ## Known Vessels
 
 - RAS-62 Salvage Cutter: J0C-III salvage cutter
-- UTF Urraca: Sebaco-made Type-12 ship captained by R. Campillo
+- UTF Urraca: Type-12 ship
 
 ## Known Facilities
 
-- Ypsilon-14 (Barnaul Jump-1 Cluster): asteroid mining station where miners are going missing
-- Waystation 61-B (Barnaul Jump-1 Cluster): autonomous factory zone near a massive Jump-5 derelict hulk
-- Olkhova Moon Base (Barnaul Jump-1 Cluster): colonial settlement listed among SEBACO's locations
-- Barnaul-7 (Barnaul Jump-1 Cluster): liquid mini-giant listed among SEBACO's locations, with a SEBACO cargo freight job
-- Control 55 (near a ship graveyard on the rim): asteroid mining station officially controlled by SEBACO
-- Raerinda: quarantined mining planet controlled by SEBACO
-- SEBACO Office (Stroria): office marked on the Stroria map
-- SEBACO Mining Ltd. site (Drihatume): site marked on the Drihatume map
-- SEBACO Penal Mining facility (orbiting a prisoner's home world): penal mining facility
+- Ypsilon-14: asteroid mining station in the Barnaul Jump-1 Cluster
+- Waystation 61-B: autonomous factory zone in the Barnaul Jump-1 Cluster
+- Olkhova Moon Base: colonial settlement in the Barnaul Jump-1 Cluster
+- Barnaul-7: liquid mini-giant planet in the Barnaul Jump-1 Cluster
+- Control 55: asteroid mining station near a ship graveyard on the rim
+- Raerinda: mining planet
+- SEBACO Office: corporate office on Stroria
+- SEBACO Mining Ltd. site: corporate site on Drihatume
+- SEBACO Penal Mining facility: penal mining facility
 
 ## Appears in
 
-- [[workshop/mosh/modules/A Pound of Flesh\|A Pound of Flesh]]
 - *Megadamage Payload 01*
+- [[workshop/mosh/modules/A Pound of Flesh\|A Pound of Flesh]]
 - [[workshop/mosh/Shipbreakers Toolkit\|Shipbreakers Toolkit]]
-- *Wages of Sin*
+- [[workshop/mosh/modules/Unconfirmed Contact Reports\|Unconfirmed Contact Reports]]
+- [[workshop/mosh/modules/Wages of Sin\|Wages of Sin]]
 - [[workshop/mosh/Wardens Operations Manual\|Wardens Operations Manual]]
