@@ -3,6 +3,7 @@
 // offsets that have to line up with characters, such as the hanging indent
 // after a "- " bullet, stay in ch.
 
+@use "sass:list";
 @use "../abstracts" as *;
 
 html {
@@ -221,22 +222,224 @@ figure {
   margin-inline: 0;
 }
 
+// Tables are drawn the way psql prints them: a "|" between columns, a rule
+// of "-" under the header with a "+" at each column, and no outer box. Every
+// mark is one character on the line grid, and none print over another: in
+// header cells the "|" stops a line short, where the rule's "+" takes over.
+// Cells are only as tall as their lines, so the marks stay on the text
+// baseline.
+//
+// A column that wraps gets a width that isn't a whole number of characters.
+// The rule is cut to whole characters, so the leftover shows as a gap
+// narrower than one character before the next "+".
+//
+// The build (.eleventy.js, markTable) adds what the stylesheet can't work
+// out: roles that keep the table a table when its display changes, .gc-num
+// on number columns, a data-label on each body cell, --gc-label (the longest
+// header, in characters), and a .gc-fit-* class saying how wide the note
+// must be for the table to fit as columns.
+$gc-rule: "";
+@for $i from 1 through 500 {
+  $gc-rule: $gc-rule + "-";
+}
+
+$gc-rule-joined: "+" + $gc-rule;
+
+$gc-record: "-[ RECORD " counter(gc-record) " ]" $gc-rule;
+
+$gc-column: "|";
+@for $i from 2 through 200 {
+  $gc-column: $gc-column + "\a|";
+}
+
+// Sass before 1.65 reads round() as its own function, so it goes out as a
+// string. The 1px absorbs rounding in layout, which otherwise drops the last
+// dash from a rule that fits exactly.
+$gc-whole-chars: #{"round(down, 100% + 1px, 1ch)"};
+
+@mixin gc-mark {
+  overflow: hidden;
+  font-weight: 400;
+  color: var(--border-color);
+}
+
 table {
   border-collapse: collapse;
   margin: 0;
+  // Every digit the same width and height, so numbers line up down a column.
+  font-variant-numeric: lining-nums tabular-nums;
 
   th,
   td {
+    position: relative;
+    overflow: hidden;
     padding-block: 0;
-    padding-inline: var(--space-s);
-    border: var(--border-width) var(--border-style) var(--border-color);
+    padding-inline: 1ch;
     text-align: start;
     vertical-align: top;
+  }
+
+  // An empty row still takes a line.
+  td {
+    block-size: var(--space-m);
   }
 
   th {
     font-weight: 700;
     color: var(--strong);
+  }
+
+  // Number columns align on the end, header included, so places line up.
+  // A number never breaks across lines.
+  .gc-num {
+    text-align: end;
+    white-space: nowrap;
+  }
+
+  // One column of "|" at the start of every cell after the first, one per
+  // line, and a space before the text.
+  :is(th, td) + :is(th, td) {
+    padding-inline-start: 2ch;
+
+    &::before {
+      @include gc-mark;
+      content: $gc-column;
+      content: $gc-column / "";
+      position: absolute;
+      inset-block: 0;
+      inset-inline-start: 0;
+      inline-size: 1ch;
+      white-space: pre;
+    }
+  }
+
+  // The header's last line holds the rule. The first cell's rule is all
+  // "-"; the others start with the "+" that joins it to their "|".
+  thead th {
+    padding-block-end: var(--space-m);
+
+    &::after {
+      @include gc-mark;
+      content: $gc-rule;
+      content: $gc-rule / "";
+      position: absolute;
+      inset-block-end: 0;
+      inset-inline-start: 0;
+      inline-size: 100%;
+      inline-size: $gc-whole-chars;
+      block-size: var(--space-m);
+      white-space: nowrap;
+    }
+  }
+
+  thead th + th {
+    &::before {
+      inset-block-end: var(--space-m);
+    }
+
+    &::after {
+      content: $gc-rule-joined;
+      content: $gc-rule-joined / "";
+    }
+  }
+
+  // Pieces of the expanded display below, drawn only while it's on: the
+  // record line above each row, and the "|" after each label.
+  tbody {
+    counter-reset: gc-record;
+  }
+
+  tbody tr {
+    counter-increment: gc-record;
+
+    &::before {
+      @include gc-mark;
+      content: $gc-record;
+      content: list.slash($gc-record, "");
+      display: none;
+      inline-size: 100%;
+      inline-size: $gc-whole-chars;
+      white-space: nowrap;
+    }
+  }
+
+  tbody :is(th, td)::after {
+    @include gc-mark;
+    content: $gc-column;
+    content: $gc-column / "";
+    display: none;
+    position: absolute;
+    inset-block: 0;
+    inset-inline-start: calc(var(--gc-label) + 1ch);
+    inline-size: 1ch;
+    white-space: pre;
+  }
+}
+
+// Expanded display, psql's \x: when the note is too narrow for a table's
+// columns, each row prints as a record of label | value lines.
+//
+//   -[ RECORD 1 ]------------
+//   Item   | Arming jacket
+//   Ob     | 3
+//   Slots  | worn/torso 1
+//
+// The header row is hidden visually but stays for screen readers, which
+// still read the cells as a table; the labels and marks are hidden from
+// them. Empty cells are left out.
+@mixin gc-expanded {
+  &,
+  tbody,
+  tr,
+  :is(th, td) {
+    display: block;
+  }
+
+  thead {
+    @include visually-hidden;
+  }
+
+  tbody tr::before {
+    display: block;
+  }
+
+  tbody :is(th, td) {
+    block-size: auto;
+    padding-inline: calc(var(--gc-label) + 3ch) 0;
+    text-align: start;
+
+    &:empty {
+      display: none;
+    }
+
+    &::before {
+      @include gc-mark;
+      content: attr(data-label);
+      content: attr(data-label) / "";
+      position: absolute;
+      inset-block: 0 auto;
+      inset-inline-start: 0;
+      inline-size: var(--gc-label);
+      white-space: nowrap;
+      font-weight: 700;
+      color: var(--strong);
+    }
+
+    &::after {
+      display: block;
+    }
+  }
+}
+
+// Fit classes run in steps of 8 characters. Each switches its tables to the
+// expanded display while the note is narrower than that.
+@for $step from 3 through 20 {
+  $fit: $step * 8;
+
+  @container gc-note (inline-size < #{$fit}ch) {
+    table.gc-fit-#{$fit} {
+      @include gc-expanded;
+    }
   }
 }
 

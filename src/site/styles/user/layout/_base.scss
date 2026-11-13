@@ -29,6 +29,7 @@ body {
 }
 
 .content {
+  container: gc-note / inline-size; // tables switch layout on its width
   min-inline-size: 0;
   padding-block: var(--space-l);
   overflow-wrap: break-word;
@@ -40,6 +41,34 @@ body {
     display: block;
     margin-block-start: var(--space-l);
     color: var(--muted);
+  }
+}
+
+// The note spans the gutters, with the same three columns as body: gutter,
+// measure, gutter. Text stays in the measure. (Not a subgrid: the note is a
+// size container, and size containment turns a subgrid back into a plain
+// grid.)
+body > .content {
+  grid-column: 1 / 4;
+  display: grid;
+  grid-template-columns: minmax(var(--space-m), 1fr) minmax(0, var(--measure)) minmax(var(--space-m), 1fr);
+
+  > *,
+  &::after {
+    grid-column: 2;
+  }
+
+  // Tables and images (paragraphs holding only images, marked .gc-image at
+  // build time) wider than the measure grow into the gutters, centered on
+  // the text, and stop one line short of the frame or the contents pane.
+  // Narrower ones keep the measure's width, so they start where the text
+  // starts. Nothing is scaled up: images keep their own width, and a table
+  // that reaches the limit scrolls.
+  > :is(.table-wrapper, .gc-image) {
+    grid-column: 1 / -1;
+    justify-self: center;
+    min-inline-size: min(100% - 2 * var(--space-m), var(--measure));
+    max-inline-size: calc(100% - 2 * var(--space-m));
   }
 }
 
