@@ -78,6 +78,7 @@
 }
 
 .gc-site {
+  font-weight: 400;
   color: var(--muted);
   text-decoration: none;
 
@@ -90,6 +91,10 @@
   max-inline-size: 100%;
   overflow: hidden;
   text-overflow: ellipsis;
+
+  a {
+    font-weight: 400;
+  }
 }
 
 .gc-dim {

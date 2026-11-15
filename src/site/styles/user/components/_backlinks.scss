@@ -10,6 +10,11 @@
   }
 }
 
+// Every entry is a link, as in the contents, so none is bold.
+.backlink-card a {
+  font-weight: 400;
+}
+
 .no-backlinks-message {
   color: var(--muted);
 }
