@@ -73,16 +73,16 @@ Smugglers and vendors work in the Tunaverse, and for anyone who needs anonymity 
 | [[workshop/mosh/modules/Orbital Debris\|Orbital Debris]]                                             | \-     | Junky Moon Crew   |
 | [[workshop/mosh/modules/Familiar Faces\|Familiar Faces]]                                             | \-     | Spicy Tuna        |
 | [[workshop/mosh/modules/Knights of Lazarus\|Knights of Lazarus]]                                     | \-     | Spicy Tuna        |
+| [[workshop/mosh/modules/Outsourced\|Outsourced]]                                                     | \-     | Spicy Tuna        |
+| [[workshop/mosh/modules/Professional Rebels\|Professional Rebels]]                                   | \-     | Spicy Tuna        |
 | [[workshop/mosh/modules/Reviews.Books.Ads.\|Reviews.Books.Ads.]]                                     | \-     | Spicy Tuna        |
+| [[workshop/mosh/modules/Smugglers & Vendors in the Tunaverse\|Smugglers & Vendors in the Tunaverse]] | \-     | Spicy Tuna        |
 | [[workshop/mosh/modules/Spicy Tie-Ins\|Spicy Tie-Ins]]                                               | \-     | Spicy Tuna        |
 | [[workshop/mosh/modules/Spicy Tuna Brainstorm Vol. 1\|Spicy Tuna Brainstorm Vol. 1]]                 | \-     | Spicy Tuna        |
 | [[workshop/mosh/modules/Spicy Tuna Stories 34\|Spicy Tuna Stories 34]]                               | \-     | Spicy Tuna        |
-| [[workshop/mosh/modules/Yucatan Tech Co\|Yucatan Tech Co]]                                           | \-     | Spicy Tuna        |
-| [[workshop/mosh/modules/Outsourced\|Outsourced]]                                                     | \-     | Spicy Tuna        |
-| [[workshop/mosh/modules/Professional Rebels\|Professional Rebels]]                                   | \-     | Spicy Tuna        |
-| [[workshop/mosh/modules/Smugglers & Vendors in the Tunaverse\|Smugglers & Vendors in the Tunaverse]] | \-     | Spicy Tuna        |
 | [[workshop/mosh/modules/Steel Order Infantry 698\|Steel Order Infantry 698]]                         | \-     | Spicy Tuna        |
 | [[workshop/mosh/modules/Stims From the Dark Web 2\|Stims From the Dark Web 2]]                       | \-     | Spicy Tuna        |
 | [[workshop/mosh/modules/THE CHILD\|THE CHILD]]                                                       | \-     | Spicy Tuna        |
+| [[workshop/mosh/modules/Yucatan Tech Co\|Yucatan Tech Co]]                                           | \-     | Spicy Tuna        |
 
 { .block-language-dataview}

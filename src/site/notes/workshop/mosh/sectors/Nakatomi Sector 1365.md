@@ -75,12 +75,12 @@ Nakatomi Sector 1365, also called Nakatomi Corporate Sector N1365, lies in the O
 | Module                                                                                                | Status   | Publisher/Creator   |
 | ----------------------------------------------------------------------------------------------------- | -------- | ------------------- |
 | [[workshop/mosh/modules/Decrypted - The Book of Ghosts\|Decrypted - The Book of Ghosts]]           | \-       | D. Kenny            |
+| [[workshop/mosh/modules/Awaiting the Burning Gods\|Awaiting the Burning Gods]]                     | \-       | Magnum Galaxy Games |
+| [[workshop/mosh/modules/Decrypted - The Nakatomi Papers\|Decrypted - The Nakatomi Papers]]         | \-       | Magnum Galaxy Games |
 | [[workshop/mosh/modules/Dying Hard on Hardlight Station\|Dying Hard on Hardlight Station]]         | \-       | Magnum Galaxy Games |
 | [[workshop/mosh/modules/Nirvana on Fire\|Nirvana on Fire]]                                         | \-       | Magnum Galaxy Games |
 | [[workshop/mosh/modules/The Cleaning of Prison Station Echo\|The Cleaning of Prison Station Echo]] | complete | Magnum Galaxy Games |
 | [[workshop/mosh/modules/The Horror on Tau Sigma 7\|The Horror on Tau Sigma 7]]                     | \-       | Magnum Galaxy Games |
-| [[workshop/mosh/modules/Awaiting the Burning Gods\|Awaiting the Burning Gods]]                     | \-       | Magnum Galaxy Games |
 | [[workshop/mosh/modules/The Smuggler's Guide to 1365\|The Smuggler's Guide to 1365]]               | \-       | Magnum Galaxy Games |
-| [[workshop/mosh/modules/Decrypted - The Nakatomi Papers\|Decrypted - The Nakatomi Papers]]         | \-       | Magnum Galaxy Games |
 
 { .block-language-dataview}

@@ -1,5 +1,5 @@
 ---
-{"aliases":["Systems Theory in Action"],"author":"Shelly Smith-Acuña","cover":"https://i.imgur.com/pgT9ldY.jpeg","date-created":"2024-07-08T09:59","date-modified":"2024-08-22T12:58","dg-publish":true,"finished":"2024-08-19","location":"Denver","subtitle":"Applications to Individual, Couple, and Family Therapy","tags":["source/book"],"title":"Systems Theory in Action","translator":null,"year":2011,"permalink":"/library/books/systems-theory-in-action/","dgPassFrontmatter":true,"updated":"2024-08-22T12:58","dg-note-properties":{"aliases":["Systems Theory in Action"],"author":"Shelly Smith-Acuña","cover":"https://i.imgur.com/pgT9ldY.jpeg","date-created":"2024-07-08T09:59","date-modified":"2024-08-22T12:58","finished":"2024-08-19","location":"Denver","subtitle":"Applications to Individual, Couple, and Family Therapy","tags":["source/book"],"title":"Systems Theory in Action","translator":null,"year":2011}}
+{"aliases":["Systems Theory in Action"],"author":"Shelly Smith-Acuña","cover":"https://i.imgur.com/pgT9ldY.jpeg","date-created":"2024-07-08T09:59","date-modified":"2026-11-07T23:05","dg-publish":true,"finished":"2024-08-19","location":"Denver","subtitle":"Applications to Individual, Couple, and Family Therapy","tags":["source/book"],"title":"Systems Theory in Action","translator":null,"year":2011,"permalink":"/library/books/systems-theory-in-action/","dgPassFrontmatter":true,"updated":"2026-11-07T23:05","dg-note-properties":{"aliases":["Systems Theory in Action"],"author":"Shelly Smith-Acuña","cover":"https://i.imgur.com/pgT9ldY.jpeg","date-created":"2024-07-08T09:59","date-modified":"2026-11-07T23:05","finished":"2024-08-19","location":"Denver","subtitle":"Applications to Individual, Couple, and Family Therapy","tags":["source/book"],"title":"Systems Theory in Action","translator":null,"year":2011}}
 ---
 
 
@@ -186,8 +186,10 @@
 ### Message Sent and Message Received
 
 > In my experience, because we often confuse the two ideas, we often end up arguing about whether someone has a right to an emotional reaction. Even if my partner did not intend to insult me, the impact that I felt as his reaction was real, and there was no benefit in trying to deny the way that his comment hurt me.
+{ #3e8a1f}
 
-[[Systems Theory in Action^pg. 52\|Systems Theory in Action^pg. 52]]
+
+[[library/books/Systems Theory in Action#^3e8a1f\|p. 52]]
 
 ### Functions of Communication
 

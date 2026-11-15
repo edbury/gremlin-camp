@@ -35,8 +35,8 @@ Tremendously Low Frequency (TLF) transmissions can be received across the Combin
 | Module                                                                                  | Status | Publisher/Creator |
 | --------------------------------------------------------------------------------------- | ------ | ----------------- |
 | [[workshop/mosh/modules/Known Frequencies\|Known Frequencies]]                       | \-     | Alfred Valley     |
-| [[workshop/mosh/modules/Thousand Empty Light\|Thousand Empty Light]]                 | \-     | Alfred Valley     |
-| [[workshop/mosh/modules/Sleeping in a Drowning Stone\|Sleeping in a Drowning Stone]] | \-     | Alfred Valley     |
 | [[workshop/mosh/modules/Semiotic Standard and Oracle\|Semiotic Standard and Oracle]] | \-     | Alfred Valley     |
+| [[workshop/mosh/modules/Sleeping in a Drowning Stone\|Sleeping in a Drowning Stone]] | \-     | Alfred Valley     |
+| [[workshop/mosh/modules/Thousand Empty Light\|Thousand Empty Light]]                 | \-     | Alfred Valley     |
 
 { .block-language-dataview}

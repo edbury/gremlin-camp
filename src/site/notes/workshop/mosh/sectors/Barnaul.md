@@ -53,9 +53,9 @@ The Barnaul Jump-1 Cluster is a small Jump-1 cluster out in the middle of rimspa
 
 | Module                                                                      | Status   | Publisher/Creator    |
 | --------------------------------------------------------------------------- | -------- | -------------------- |
-| [[workshop/mosh/Players Survival Guide\|Players Survival Guide]]         | \-       | Tuesday Knight Games |
 | [[workshop/mosh/Shipbreakers Toolkit\|Shipbreakers Toolkit]]             | \-       | Tuesday Knight Games |
 | [[workshop/mosh/Wardens Operations Manual\|Wardens Operations Manual]]   | \-       | Tuesday Knight Games |
+| [[workshop/mosh/Players Survival Guide\|Players Survival Guide]]         | \-       | Tuesday Knight Games |
 | [[workshop/mosh/modules/Another Bug Hunt\|Another Bug Hunt]]             | ongoing  | Tuesday Knight Games |
 | [[workshop/mosh/modules/Haunting of Ypsilon 14\|Haunting of Ypsilon 14]] | complete | Tuesday Knight Games |
 

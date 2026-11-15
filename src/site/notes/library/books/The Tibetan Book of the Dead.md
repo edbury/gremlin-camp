@@ -1,5 +1,5 @@
 ---
-{"aliases":["The Tibetan Book of the Dead"],"author":"Padmasambhāva","cover":"https://i.imgur.com/MKAuMt5.jpg","date-created":"2022-08-03T16:01","date-modified":"2024-08-22T12:58","dg-publish":true,"finished":"2022-08-01","location":"Oakland","subtitle":"Liberation through understanding in the between","tags":["buddhism","source/book"],"title":"The Tibetan Book of the Dead","translator":"Robert A.F. Thurman","year":1994,"permalink":"/library/books/the-tibetan-book-of-the-dead/","dgPassFrontmatter":true,"updated":"2024-08-22T12:58","dg-note-properties":{"aliases":["The Tibetan Book of the Dead"],"author":"Padmasambhāva","cover":"https://i.imgur.com/MKAuMt5.jpg","date-created":"2022-08-03T16:01","date-modified":"2024-08-22T12:58","finished":"2022-08-01","location":"Oakland","subtitle":"Liberation through understanding in the between","tags":["buddhism","source/book"],"title":"The Tibetan Book of the Dead","translator":"Robert A.F. Thurman","year":1994}}
+{"aliases":["The Tibetan Book of the Dead"],"author":"Padmasambhāva","cover":"https://i.imgur.com/MKAuMt5.jpg","date-created":"2022-08-03T16:01","date-modified":"2026-11-07T23:05","dg-publish":true,"finished":"2022-08-01","location":"Oakland","subtitle":"Liberation through understanding in the between","tags":["buddhism","source/book"],"title":"The Tibetan Book of the Dead","translator":"Robert A.F. Thurman","year":1994,"permalink":"/library/books/the-tibetan-book-of-the-dead/","dgPassFrontmatter":true,"updated":"2026-11-07T23:05","dg-note-properties":{"aliases":["The Tibetan Book of the Dead"],"author":"Padmasambhāva","cover":"https://i.imgur.com/MKAuMt5.jpg","date-created":"2022-08-03T16:01","date-modified":"2026-11-07T23:05","finished":"2022-08-01","location":"Oakland","subtitle":"Liberation through understanding in the between","tags":["buddhism","source/book"],"title":"The Tibetan Book of the Dead","translator":"Robert A.F. Thurman","year":1994}}
 ---
 
 
@@ -110,9 +110,7 @@ The Dalai Lama
 { #24038a}
 
 
- The *Root Verses* of the six betweens
-
-
+The *Root Verses* of the six betweens
 
 [[library/books/The Tibetan Book of the Dead#^24038a\|p. 116]]
 
@@ -154,7 +152,7 @@ Introduction to the Mild Deity Reality Between.
 { #65b7a4}
 
 
-[[library/books/The Tibetan Book of the Dead#^65b7a4\|pg.186]]
+[[library/books/The Tibetan Book of the Dead#^65b7a4\|p. 186]]
 
 > Above all, we should heed the *Book of Natural Liberation* and try not to become morbid when we consider or encounter death. If our loved one dies, we should channel our grief into helpful activity, remaining joyous and cheerful, not indulging in weeping and wailing either just because we feel like it (which feeling is after all a culturally determined, conventional reaction), to convince others (including the departed) that we care, to assuage our own sense of guilt at surviving, or to avoid facing our new aloneness. We can accept the testimony of the *Book of Natural Liberation* that we will only frighten and annoy the soul of the departed and distract her from optimally navigating the between. She is the most important guest at a death and funeral, she is in the most momentous transition point of her life cycle, and positive or negative influences will affect her for years and lives to come. So in dealing with death let us honor the spirit of the *Book of Natural Liberation* at least by trying to do the right thing by having a good time! May all enjoy happiness and the best of luck!
 { #544eeb}

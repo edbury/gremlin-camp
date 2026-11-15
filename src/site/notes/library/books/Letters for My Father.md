@@ -1,5 +1,5 @@
 ---
-{"aliases":["Letters for My Father"],"author":"Louis Hoffman","cover":null,"date-created":"2025-06-27T13:09","date-modified":"2025-06-30T09:47","dg-publish":true,"edition":"Manuscript","finished":"2025-06-27","location":"Denver","subtitle":"Grief, Love, and Self-Exploration","tags":["source/book"],"title":"Letters for My Father","translator":null,"year":2025,"permalink":"/library/books/letters-for-my-father/","dgPassFrontmatter":true,"updated":"2025-06-30T09:47","dg-note-properties":{"aliases":["Letters for My Father"],"author":"Louis Hoffman","cover":null,"date-created":"2025-06-27T13:09","date-modified":"2025-06-30T09:47","edition":"Manuscript","finished":"2025-06-27","location":"Denver","subtitle":"Grief, Love, and Self-Exploration","tags":["source/book"],"title":"Letters for My Father","translator":null,"year":2025}}
+{"aliases":["Letters for My Father"],"author":"Louis Hoffman","cover":null,"date-created":"2025-06-27T13:09","date-modified":"2026-11-07T23:05","dg-publish":true,"edition":"Manuscript","finished":"2025-06-27","location":"Denver","subtitle":"Grief, Love, and Self-Exploration","tags":["source/book"],"title":"Letters for My Father","translator":null,"year":2025,"permalink":"/library/books/letters-for-my-father/","dgPassFrontmatter":true,"updated":"2026-11-07T23:05","dg-note-properties":{"aliases":["Letters for My Father"],"author":"Louis Hoffman","cover":null,"date-created":"2025-06-27T13:09","date-modified":"2026-11-07T23:05","edition":"Manuscript","finished":"2025-06-27","location":"Denver","subtitle":"Grief, Love, and Self-Exploration","tags":["source/book"],"title":"Letters for My Father","translator":null,"year":2025}}
 ---
 
 
@@ -223,7 +223,7 @@
 { #f94197}
 
 
-[[library/books/Letters for My Father#^f94197P. 33\|Letters for My Father#^f94197P. 33]]
+[[library/books/Letters for My Father#^f94197\|p. 33]]
 
 ## Part 3: Grieving Imperfections
 
@@ -431,7 +431,7 @@
 { #bc0578}
 
 
-[[library/books/Letters for My Father#^bc0578P. 102\|Letters for My Father#^bc0578P. 102]]
+[[library/books/Letters for My Father#^bc0578\|p. 102]]
 
 > While your grandfather and I had different paths and variations in our motivations, the result of being a workaholic was the same. While I have done better in recent years, I cannot justify my mistakes, even when made with good intentions. Living with the fear of not being good enough as a father will always haunt me.
 { #a6b2ac}
