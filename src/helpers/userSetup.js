@@ -3,7 +3,11 @@
 // them from the built HTML so only Gremlin Camp's stylesheet reaches visitors.
 // It also drops template scripts a page doesn't use, tags each page with the
 // color scheme for its directory, names the sidebar sections, disables links
-// to unpublished notes, and lets the keyboard reach header tags.
+// to unpublished notes, lets the keyboard reach header tags, and marks up
+// tables and image-only paragraphs in notes for the stylesheet.
+//
+// Everything Gremlin Camp adds to the build lives in this file. Template
+// updates replace .eleventy.js wholesale, and this file is left alone.
 //
 // The transforms match the template's markup exactly, and a template update
 // can change that markup. A pattern that stops matching does nothing and
@@ -11,6 +15,8 @@
 // transforms exist to remove (CHECKS, below). If any page fails, the build
 // fails and names the check and the pages. Netlify and Vercel keep the last
 // good deploy live when a build fails.
+
+const { parse } = require("node-html-parser");
 
 const OWN_STYLESHEET = "/styles/user/gremlin-camp.css";
 
@@ -167,6 +173,124 @@ function setScheme(html, url) {
   return html.replace(/<html\b/i, `<html data-scheme="${scheme}"`);
 }
 
+// Note markup the stylesheet can't work out on its own. Runs after the
+// template's "obsidian-html" transform, which wraps each top-level table in
+// div.table-wrapper, so these attributes land on the <table> itself.
+
+// Body cells that hold a number: digits with separators, an optional sign
+// or currency, and an optional short unit, "+" or range ("1kcr", "4-6",
+// "1+").
+const NUMBER_CELL = /^[-−+]?[$€£¥]?\d[\d,]*(\.\d+)?(\+|\s?[a-z%]{1,4}|\s?[-–]\s?\d[\d,]*(\.\d+)?)?$/i;
+// Empty, or a dash standing in for empty.
+const EMPTY_CELL = /^[-–—]?$/;
+
+function cellsOf(tr) {
+  return tr.childNodes.filter(
+    (node) => node.nodeType === 1 && /^t[dh]$/i.test(node.rawTagName)
+  );
+}
+
+// Table structure (base/_base.scss, "Tables are drawn the way psql prints
+// them"):
+//   - roles on every part, so the cells stay a table to screen readers
+//     when the narrow layout makes them blocks
+//   - .gc-num on a column whose filled body cells are at least
+//     three-quarters numbers, header included; the odd word in it ("free"
+//     in a cost column) aligns with the numbers
+//   - data-label on each body cell, its column's header
+//   - --gc-label, the longest header in characters
+//   - .gc-fit-N, the note width in characters (a step of 8) below which
+//     the table prints as records instead of columns
+// Centered cells from ":---:" also lose their centering.
+const TEXT_COLUMN_CAP = 20; // characters a text column may wrap down to
+const GUTTERS = 5; // characters between the note's edges and a wide table
+
+function markTable(table) {
+  const head = table.querySelectorAll("thead > tr").map(cellsOf);
+  const body = table.querySelectorAll("tbody > tr").map(cellsOf);
+  const rows = [...head, ...body];
+
+  table.setAttribute("role", "table");
+  for (const group of table.querySelectorAll("thead, tbody")) {
+    group.setAttribute("role", "rowgroup");
+  }
+  for (const tr of table.querySelectorAll("tr")) {
+    tr.setAttribute("role", "row");
+  }
+  for (const cell of head.flat()) {
+    cell.setAttribute("role", "columnheader");
+  }
+  for (const cell of body.flat()) {
+    cell.setAttribute("role", /^th$/i.test(cell.rawTagName) ? "rowheader" : "cell");
+  }
+
+  for (const cell of rows.flat()) {
+    if (/text-align:\s*center/.test(cell.getAttribute("style") || "")) {
+      cell.removeAttribute("style");
+    }
+  }
+
+  if (rows.flat().some((cell) => cell.getAttribute("colspan"))) {
+    return;
+  }
+
+  const labels = (head[head.length - 1] || []).map((cell) => cell.text.trim());
+  const columns = Math.max(labels.length, ...body.map((cells) => cells.length));
+  // Padding, and "| " before each column after the first.
+  let width = 2 + 3 * (columns - 1);
+
+  for (let i = 0; i < columns; i++) {
+    const texts = rows.map((cells) => (cells[i] ? cells[i].text.trim() : ""));
+    const values = body
+      .map((cells) => (cells[i] ? cells[i].text.trim() : ""))
+      .filter((value) => !EMPTY_CELL.test(value));
+    const numbers = values.filter((value) => NUMBER_CELL.test(value));
+    const numeric = values.length > 0 && numbers.length >= 0.75 * values.length;
+
+    if (numeric) {
+      for (const cells of rows) {
+        cells[i]?.classList.add("gc-num");
+      }
+    }
+
+    const longest = Math.max(0, ...texts.map((text) => text.length));
+    const longestWord = Math.max(
+      0,
+      ...texts.flatMap((text) => text.split(/\s+/).map((word) => word.length))
+    );
+    width += numeric ? longest : Math.min(longest, Math.max(longestWord, TEXT_COLUMN_CAP));
+
+    if (labels[i]) {
+      for (const cells of body) {
+        cells[i]?.setAttribute("data-label", labels[i]);
+      }
+    }
+  }
+
+  const fit = Math.min(160, Math.max(24, Math.ceil((width + GUTTERS) / 8) * 8));
+  table.classList.add(`gc-fit-${fit}`);
+  table.setAttribute(
+    "style",
+    `--gc-label: ${Math.max(1, ...labels.map((label) => label.length))}ch`
+  );
+}
+
+// A paragraph holding only images (an embed on its own line) is marked so
+// the stylesheet can let it grow past the text's measure.
+function markNotes(html) {
+  if (!html.includes("cm-s-obsidian")) return html;
+  const parsed = parse(html);
+  for (const table of parsed.querySelectorAll(".cm-s-obsidian table")) {
+    markTable(table);
+  }
+  for (const p of parsed.querySelectorAll(".cm-s-obsidian > p")) {
+    if (p.querySelector("img") && p.text.trim() === "") {
+      p.classList.add("gc-image");
+    }
+  }
+  return parsed.toString();
+}
+
 // Build checks, run on each page's finished HTML. Each one looks for what a
 // transform removes in any form the template might write it, rather than the
 // exact form the transform matches.
@@ -207,6 +331,11 @@ const CHECKS = [
   {
     name: "the backlinks title isn't \"backlinks\"",
     fails: (html) => ![null, "backlinks"].includes(textOf(html, "backlink-title")),
+  },
+  {
+    name: "a table in a note has no roles",
+    fails: (html) =>
+      /<table\b(?![^>]*\brole=)/i.test(((html.split(/<main\b/i)[1] || "").split(/<\/main>/i)[0])),
   },
   {
     name: "a link to an unpublished note still has an href",
@@ -258,6 +387,7 @@ function userEleventySetup(eleventyConfig) {
     html = disableUnresolved(html);
     html = focusableTags(html);
     html = setScheme(html, this.page.url);
+    html = markNotes(html);
     check(html, this.page.url);
     return html;
   });
