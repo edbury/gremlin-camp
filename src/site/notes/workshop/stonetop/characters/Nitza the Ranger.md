@@ -12,12 +12,12 @@
 Nitza is *long in the tooth*, *compact & sturdy* and *well-groomed*, with a *sing-song voice*.
 
 - Pronouns: she/her
-- Origin: [[Claude outputs/Lygos\|Lygos]]
+- Origin: [[workshop/stonetop/places/Lygos\|Lygos]]
 - Instinct: Tenacity, to be stubborn, to persist
 - Damage: d8
 - HP: max 18
 
-She came to Stonetop alone six years ago, wanting to connect with nature and find some peace and quiet. She can read and write, taught by [[Claude outputs/Lygos#People\|Gorhan]] in Lygos in her youth.
+She came to Stonetop alone six years ago, wanting to connect with nature and find some peace and quiet. She can read and write, taught by [[workshop/stonetop/places/Lygos#People\|Gorhan]] in Lygos in her youth.
 
 ## Background: Beast-bonded
 
@@ -59,14 +59,14 @@ If trouble finds your camp site, you can spend 1 Precaution to reveal a simple d
 
 ## Something Wicked This Way Comes
 
-Nitza worries about whatever's made the lizard-like suarachan of [[Claude outputs/Ferrier's Fen\|Ferrier's Fen]] so bold. She lost her favorite bow to it. It left behind a mysterious trail of slime. [[Claude outputs/Lygos#People\|Tovia]] of Lygos can tell her more, if she can only convince them.
+Nitza worries about whatever's made the lizard-like suarachan of [[workshop/stonetop/places/Ferrier's Fen\|Ferrier's Fen]] so bold. She lost her favorite bow to it. It left behind a mysterious trail of slime. [[workshop/stonetop/places/Lygos#People\|Tovia]] of Lygos can tell her more, if she can only convince them.
 
 ## Connections
 
-- Gertrude, her opossum companion, adores [[workshop/stonetop/characters/Eirian the Lightbearer\|Eirian]] and is terrified of [[Claude outputs/Stonetop (village)#Residents\|Teagan]].
+- Gertrude, her opossum companion, adores [[workshop/stonetop/characters/Eirian the Lightbearer\|Eirian]] and is terrified of [[workshop/stonetop/places/Stonetop (village)#Residents\|Teagan]].
 - Teagan has a lot to learn from Nitza.
-- [[Claude outputs/Lygos#People\|Gorhan]] taught her to read and write in her youth.
-- [[Claude outputs/Lygos#People\|Tovia]] can tell her more about the suarachan of Ferrier's Fen.
+- [[workshop/stonetop/places/Lygos#People\|Gorhan]] taught her to read and write in her youth.
+- [[workshop/stonetop/places/Lygos#People\|Tovia]] can tell her more about the suarachan of Ferrier's Fen.
 - She sometimes catches Eirian staring out at the horizon, though he's never really left.
 - Eirian has shown her great beauty, including a tour of Stonetop.
 

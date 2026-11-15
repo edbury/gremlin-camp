@@ -9,7 +9,7 @@ Barrier Pass lies a few days north of Stonetop, in the mountains. A massive wall
 
 ## People
 
-- Jetei: [[Claude outputs/Ozbeg the Seeker\|Ozbeg]]'s childhood friend, who knows about his arcana and the powers he tampers with.
-- [[Claude outputs/Odval the Judge\|Odval the Judge]], who woke here with his hammer after Aratis called him.
-- [[Claude outputs/Ozbeg the Seeker\|Ozbeg the Seeker]].
+- Jetei: [[workshop/stonetop/characters/Ozbeg the Seeker\|Ozbeg]]'s childhood friend, who knows about his arcana and the powers he tampers with.
+- [[workshop/stonetop/characters/Odval the Judge\|Odval the Judge]], who woke here with his hammer after Aratis called him.
+- [[workshop/stonetop/characters/Ozbeg the Seeker\|Ozbeg the Seeker]].
 - Terrance, Odval's apprentice, who came with him to [[workshop/stonetop/places/Stonetop (village)\|Stonetop]].

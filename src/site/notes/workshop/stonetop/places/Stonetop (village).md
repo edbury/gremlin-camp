@@ -45,19 +45,19 @@ The Stream runs along the base of the bluff and gives fresh water to anyone will
 
 The Old Wall surrounds Stonetop about a mile out from the Stone, at the end of the West Road. It was once a massive rampart, now tumbled and buried by the ages. Villagers dig stone out of it when they need to build. Now and then a scholar from the south comes to study it, but few can stand the conditions for long.
 
-The Chronicle, the vault where [[Claude outputs/Odval the Judge\|Odval]] lives and keeps his records, sits on the outskirts near the Old Wall.
+The Chronicle, the vault where [[workshop/stonetop/characters/Odval the Judge\|Odval]] lives and keeps his records, sits on the outskirts near the Old Wall.
 
 ## The Glassworks
 
-[[Claude outputs/Eirian the Lightbearer\|Eirian]]'s glassworks is a small shop in the inner ring of town, and one of the village's original buildings.
+[[workshop/stonetop/characters/Eirian the Lightbearer\|Eirian]]'s glassworks is a small shop in the inner ring of town, and one of the village's original buildings.
 
 ## Residents
 
-- Dai: fans the flames of [[Claude outputs/Eirian the Lightbearer\|Eirian]]'s heart. The two saw each other until his Lightbearer duties came between them.
+- Dai: fans the flames of [[workshop/stonetop/characters/Eirian the Lightbearer\|Eirian]]'s heart. The two saw each other until his Lightbearer duties came between them.
 - Eurig: Eirian's mother.
 - Haul: resents Eirian.
 - Hefin: Eirian's most devoted disciple.
 - Hulwen: the previous Lightbearer, now dead. Raised and mentored Eirian, wrote many works of sublime beauty, faced one of the Things Below, and died fighting a mighty sorcerer-demon.
-- Spiro: from [[workshop/stonetop/places/Lygos\|Lygos]]. Came to Stonetop with [[Claude outputs/Ozbeg the Seeker\|Ozbeg]] twenty years ago, and shows great ability.
-- Teagan: has a lot to learn from [[Claude outputs/Nitza the Ranger\|Nitza]]. Her opossum, Gertrude, is terrified of Teagan.
-- Terrance: [[Claude outputs/Odval the Judge\|Odval]]'s apprentice and adopted kin. Came with him from [[workshop/stonetop/places/Barrier Pass\|Barrier Pass]] six months ago.
+- Spiro: from [[workshop/stonetop/places/Lygos\|Lygos]]. Came to Stonetop with [[workshop/stonetop/characters/Ozbeg the Seeker\|Ozbeg]] twenty years ago, and shows great ability.
+- Teagan: has a lot to learn from [[workshop/stonetop/characters/Nitza the Ranger\|Nitza]]. Her opossum, Gertrude, is terrified of Teagan.
+- Terrance: [[workshop/stonetop/characters/Odval the Judge\|Odval]]'s apprentice and adopted kin. Came with him from [[workshop/stonetop/places/Barrier Pass\|Barrier Pass]] six months ago.

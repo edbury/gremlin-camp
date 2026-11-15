@@ -13,4 +13,4 @@ The Steplands hide two great terrors: Blackwater Lake to the west and Three-Cove
 
 ## People
 
-- Anook: wants [[Claude outputs/Ozbeg the Seeker\|Ozbeg]]'s Hec'tumel Codex.
+- Anook: wants [[workshop/stonetop/characters/Ozbeg the Seeker\|Ozbeg]]'s Hec'tumel Codex.

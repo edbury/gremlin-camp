@@ -12,12 +12,12 @@
 Odval is *showing his years* and *slim*, with *a voice that carries* and *modest clothes*.
 
 - Pronouns: he/him
-- Origin: [[Claude outputs/Barrier Pass\|Barrier Pass]]
+- Origin: [[workshop/stonetop/places/Barrier Pass\|Barrier Pass]]
 - Instinct: Dispassion, to disregard emotion or sentiment
 - Damage: d6
 - HP: max 20
 
-Aratis called him to Stonetop six months ago. His apprentice, [[Claude outputs/Stonetop (village)#Residents\|Terrance]], came with him. He can read and write, taught by his father when he was young.
+Aratis called him to Stonetop six months ago. His apprentice, [[workshop/stonetop/places/Stonetop (village)#Residents\|Terrance]], came with him. He can read and write, taught by his father when he was young.
 
 ## Background: Prophet
 
@@ -56,15 +56,15 @@ When you Seek Insight, you can always ask "What here is tainted by chaos?" for f
 
 ## The Chronicle
 
-Odval lives in the Chronicle, a sturdy vault from the time of the Makers that bears minor magics to preserve its contents. It sits on the outskirts of town, near the [[Claude outputs/Stonetop (village)#The Old Wall\|Old Wall]], and seems to be haunted. The townspeople showed it to him. Anyone who can endure the haunting is welcome there. The spirits are townsfolk who fell into the [[Claude outputs/Stonetop (village)#The Cistern\|cistern]], and they appear at irregular times.
+Odval lives in the Chronicle, a sturdy vault from the time of the Makers that bears minor magics to preserve its contents. It sits on the outskirts of town, near the [[workshop/stonetop/places/Stonetop (village)#The Old Wall\|Old Wall]], and seems to be haunted. The townspeople showed it to him. Anyone who can endure the haunting is welcome there. The spirits are townsfolk who fell into the [[workshop/stonetop/places/Stonetop (village)#The Cistern\|cistern]], and they appear at irregular times.
 
 ## The Lawkeeper
 
-In Stonetop's [[Claude outputs/Stonetop (village)#The Pavilion of the Gods\|Pavilion of the Gods]], Aratis's shrine is newly established, cramped and spare. Of her true disciples, Aratis demands truth, honesty and forthrightness; hospitality, freely given to all who ask for it; and adherence to strict rules of diet and dress.
+In Stonetop's [[workshop/stonetop/places/Stonetop (village)#The Pavilion of the Gods\|Pavilion of the Gods]], Aratis's shrine is newly established, cramped and spare. Of her true disciples, Aratis demands truth, honesty and forthrightness; hospitality, freely given to all who ask for it; and adherence to strict rules of diet and dress.
 
 ## Connections
 
-- His closest kin is [[Claude outputs/Stonetop (village)#Residents\|Terrance]], his apprentice, whom he has adopted.
+- His closest kin is [[workshop/stonetop/places/Stonetop (village)#Residents\|Terrance]], his apprentice, whom he has adopted.
 - [[workshop/stonetop/characters/Eirian the Lightbearer\|Eirian]] has stood beside him in battle against unnatural chaos.
 - None of the others is a true disciple of Aratis.
 - He has passed judgement on [[workshop/stonetop/characters/Nitza the Ranger\|Nitza]] and [[workshop/stonetop/characters/Ozbeg the Seeker\|Ozbeg]], and on Eirian, whom he did not find wanting.

@@ -12,7 +12,7 @@
 Ozbeg is *world-weary* and *lean & lanky*, with a *rich voice* and *sinewy hands*.
 
 - Pronouns: he/him
-- Origin: [[Claude outputs/Barrier Pass\|Barrier Pass]]
+- Origin: [[workshop/stonetop/places/Barrier Pass\|Barrier Pass]]
 - Instinct: Curiosity, to seek answers that maybe he oughtn't
 - Damage: d6
 - HP: max 16
@@ -21,7 +21,7 @@ Ozbeg is *world-weary* and *lean & lanky*, with a *rich voice* and *sinewy hands
 | --- | --- | --- | --- | --- | --- |
 | +1  | +1  | +2  | +0  | −1  | +0  |
 
-He came to Stonetop twenty years ago with [[Claude outputs/Stonetop (village)#Residents\|Spiro]], hoping to find peace.
+He came to Stonetop twenty years ago with [[workshop/stonetop/places/Stonetop (village)#Residents\|Spiro]], hoping to find peace.
 
 ## Background: Patriot
 
@@ -29,7 +29,7 @@ He came to Stonetop twenty years ago with [[Claude outputs/Stonetop (village)#Re
 >
 > You have sought out and embraced dark power to protect that which you hold dear. Or perhaps that power fell upon you, and you took it up for the greater good. Either way, you seek more.
 
-When dark agents of chaos assaulted Stonetop, Ozbeg knew the people he loves were in danger. He learned of the Things Below when he murdered the man who had murdered his family. His childhood friend [[Claude outputs/Barrier Pass#People\|Jetei]] knows about his arcana and the powers he tampers with.
+When dark agents of chaos assaulted Stonetop, Ozbeg knew the people he loves were in danger. He learned of the Things Below when he murdered the man who had murdered his family. His childhood friend [[workshop/stonetop/places/Barrier Pass#People\|Jetei]] knows about his arcana and the powers he tampers with.
 
 ## Special Possessions
 
@@ -76,7 +76,7 @@ When you Seek Insight, add "What do they really want or need?" to the list of qu
 >
 > When you first run your fingers over the inscriptions, your dreams that night are filled with images of a pale, reptilian creature with skulls for eyes, slithering through darksome caverns. You awake with an alien incantation on your tongue, its words emblazoned in your mind. You can Cast a Codex Spell, and know Call the Pale Lizard.
 
-Ozbeg wrested the codex from the man who murdered his family. [[Claude outputs/The Steplands#People\|Anook]] of the Steplands wants it. It cost Ozbeg his peace. He keeps it buried in the basement of his house, and hopes it can keep others from following the dark path.
+Ozbeg wrested the codex from the man who murdered his family. [[workshop/stonetop/places/The Steplands#People\|Anook]] of the Steplands wants it. It cost Ozbeg his peace. He keeps it buried in the basement of his house, and hopes it can keep others from following the dark path.
 
 #### Cast a Codex Spell
 
@@ -93,9 +93,9 @@ When Hec'tumel spends the night teaching you a spell from the Codex, make 1 of 4
 
 ## Connections
 
-- Ozbeg secretly watches over [[Claude outputs/Stonetop (village)#Residents\|Spiro]], who shows great ability.
-- [[Claude outputs/Barrier Pass#People\|Jetei]], his childhood friend, knows about his arcana.
-- [[Claude outputs/The Steplands#People\|Anook]] wants the Hec'tumel Codex.
+- Ozbeg secretly watches over [[workshop/stonetop/places/Stonetop (village)#Residents\|Spiro]], who shows great ability.
+- [[workshop/stonetop/places/Barrier Pass#People\|Jetei]], his childhood friend, knows about his arcana.
+- [[workshop/stonetop/places/The Steplands#People\|Anook]] wants the Hec'tumel Codex.
 - [[workshop/stonetop/characters/Nitza the Ranger\|Nitza]] most fears the path he treads, though she doesn't know much about it.
 - Nitza, [[workshop/stonetop/characters/Eirian the Lightbearer\|Eirian]] and [[workshop/stonetop/characters/Odval the Judge\|Odval]] are all keeping secrets from him.
 

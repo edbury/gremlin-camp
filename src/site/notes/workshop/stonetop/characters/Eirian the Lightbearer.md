@@ -12,7 +12,7 @@
 Eirian is *well-weathered* and *intense*, with a *melodious voice* and *fine robes*.
 
 - Pronouns: he/him
-- Origin: [[Claude outputs/Stonetop (village)\|Stonetop]]
+- Origin: [[workshop/stonetop/places/Stonetop (village)\|Stonetop]]
 - Instinct: Hope, to inspire others in the face of adversity
 - Damage: d4
 - HP: max 18
@@ -21,7 +21,7 @@ Eirian is *well-weathered* and *intense*, with a *melodious voice* and *fine rob
 | --- | --- | --- | --- | --- | --- |
 | +0  | −1  | +1  | +2  | +0  | +1  |
 
-He can read and write, taught by [[Claude outputs/Stonetop (village)#Residents\|Hulwen]], the previous Lightbearer, as he grew up.
+He can read and write, taught by [[workshop/stonetop/places/Stonetop (village)#Residents\|Hulwen]], the previous Lightbearer, as he grew up.
 
 ## Background: Auspicious Birth
 
@@ -65,17 +65,17 @@ When you look closely on another and see their soul laid bare, roll +WIS: on a 1
 
 ## Praise the Day
 
-The worship of Helior is ancient, widespread and well-known, and his worshippers abroad recognize Eirian as his appointed servant. Helior is worshipped through serene meditation and formal ceremonies. In Stonetop's [[Claude outputs/Stonetop (village)#The Pavilion of the Gods\|Pavilion of the Gods]], Helior's shrine has the place of highest honor, even if Tor is more popular.
+The worship of Helior is ancient, widespread and well-known, and his worshippers abroad recognize Eirian as his appointed servant. Helior is worshipped through serene meditation and formal ceremonies. In Stonetop's [[workshop/stonetop/places/Stonetop (village)#The Pavilion of the Gods\|Pavilion of the Gods]], Helior's shrine has the place of highest honor, even if Tor is more popular.
 
 Eirian's predecessor, Hulwen, wrote many works of sublime beauty, faced one of the Things Below, and died fighting a mighty sorcerer-demon. Eirian came into his powers when Hulwen passed them on.
 
 ## Connections
 
-- His closest kin is his mother, [[Claude outputs/Stonetop (village)#Residents\|Eurig]].
-- [[Claude outputs/Stonetop (village)#Residents\|Hulwen]], the previous Lightbearer, raised and mentored him.
-- [[Claude outputs/Stonetop (village)#Residents\|Dai]] fans the flames of his heart. The two saw each other until his Lightbearer duties came between them.
-- [[Claude outputs/Stonetop (village)#Residents\|Haul]] resents him.
-- [[Claude outputs/Stonetop (village)#Residents\|Hefin]] is his most devoted disciple.
+- His closest kin is his mother, [[workshop/stonetop/places/Stonetop (village)#Residents\|Eurig]].
+- [[workshop/stonetop/places/Stonetop (village)#Residents\|Hulwen]], the previous Lightbearer, raised and mentored him.
+- [[workshop/stonetop/places/Stonetop (village)#Residents\|Dai]] fans the flames of his heart. The two saw each other until his Lightbearer duties came between them.
+- [[workshop/stonetop/places/Stonetop (village)#Residents\|Haul]] resents him.
+- [[workshop/stonetop/places/Stonetop (village)#Residents\|Hefin]] is his most devoted disciple.
 - [[workshop/stonetop/characters/Nitza the Ranger\|Nitza]] is an old and dear friend.
 - Nitza and [[workshop/stonetop/characters/Odval the Judge\|Odval]] scoff at mercy and hope.
 - [[workshop/stonetop/characters/Ozbeg the Seeker\|Ozbeg]] will need his guidance soon, since he may fall to the dark side. So will Odval, who is new to town.
