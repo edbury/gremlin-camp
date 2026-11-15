@@ -1,10 +1,11 @@
-// Tags read as plain #words in the link color, since they're links too;
+// Tags read as bold #words in the link color, since they're links too;
 // selecting one searches for it (dg-search).
 
 @use "../abstracts" as *;
 
 .tag {
   cursor: pointer;
+  font-weight: 700;
   color: var(--link);
   text-decoration: none;
 

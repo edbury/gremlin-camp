@@ -8,10 +8,12 @@
 // --inset is a surface set slightly below base00, and every text role also
 // clears 4.5:1 on it.
 //
-// Links are marked by color alone, so --link also clears 3:1 against --fg
-// (WCAG 1.4.1, technique G183). For that to fit, --fg has to clear 13.5:1
-// against base00 (4.5 x 3), which is why body text uses a brighter base
-// color than base05.
+// Links are bold, which sets them apart from body text (WCAG 1.4.1,
+// technique G182). <strong> is bold too, so --link also clears 3:1 against
+// --strong (G183), which puts --link between 4.5:1 and a third of --strong's
+// ratio. --quote is --fg at half its chroma, set so its contrast is the
+// geometric mean of --fg's and --muted's: dimmer than body text, brighter
+// than metadata.
 //
 // userSetup.js sets data-scheme on <html> from the page's directory.
 

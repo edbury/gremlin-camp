@@ -43,9 +43,12 @@ body {
   outline-offset: 0;
 }
 
-// Links are marked by their color alone: the themes keep --link at 3:1 or
-// more against --fg (themes/_index.scss). Hovered and focused links reverse.
+// Links are bold in the link color, as Lynx draws them, and hovered or
+// focused links reverse. Bold is what sets a link apart from body text; the
+// themes keep --link at 3:1 or more against --strong, the other bold text
+// (themes/_index.scss).
 a {
+  font-weight: 700;
   color: var(--link);
   text-decoration: none;
 
@@ -53,9 +56,11 @@ a {
 }
 
 // Links to notes that aren't published yet: still links (role="link",
-// aria-disabled), but with no href and their own color (--unpublished).
+// aria-disabled), but with no href, normal weight and their own color
+// (--unpublished).
 a.is-unresolved,
 a.is-unresolved:hover {
+  font-weight: 400;
   background-color: transparent;
   color: var(--unpublished);
   text-decoration: none;
@@ -103,9 +108,11 @@ p {
   margin-block: 0 var(--space-m);
 }
 
+// Bold and bright, as terminals draw SGR 1.
 strong,
 b {
   font-weight: 700;
+  color: var(--strong);
 }
 
 em,
@@ -182,6 +189,7 @@ li.task-list-item {
 // lines between paragraphs included. A quote inside a quote adds its own.
 blockquote {
   position: relative;
+  color: var(--quote);
   margin-block: 0 var(--space-m);
   margin-inline: 0;
   padding-inline-start: 2ch;
