@@ -124,7 +124,7 @@ body > aside:not(:has(.toc, .backlinks, .gc-book)) {
   block-size: 100%;
   overflow-y: auto;
   padding-block: var(--space-l);
-  padding-inline: var(--space-m);
+  padding-inline: 2ch 1ch;
 }
 
 .sidebar-container {
@@ -132,6 +132,8 @@ body > aside:not(:has(.toc, .backlinks, .gc-book)) {
   gap: var(--space-l);
 }
 
+// On wide screens the pane is a split, the way vim draws one: a "|" on
+// every line down its inline-start edge, and its text two characters in.
 @media (width >= $gc-wide) {
   body > aside {
     grid-column: 4;
@@ -139,7 +141,10 @@ body > aside:not(:has(.toc, .backlinks, .gc-book)) {
     inset-block-start: calc(var(--gc-y) + var(--border-width));
     block-size: calc(100dvh - 2 * (var(--gc-y) + var(--border-width)));
     min-inline-size: var(--pane-min);
-    border-inline-start: var(--border-width) var(--border-style) var(--border-color);
+
+    &::before {
+      @include gc-column-mark($gc-column);
+    }
   }
 
   html:not(.gc-contents-closed) body:has(> aside :is(.toc, .backlinks, .gc-book)) {
@@ -155,19 +160,102 @@ body > aside:not(:has(.toc, .backlinks, .gc-book)) {
   }
 }
 
-// Below the wide breakpoint the pane opens with t, as a box above the bottom
-// border that covers the text.
+// Below the wide breakpoint the pane opens with t and takes over the frame's
+// interior, one line and one character inside it, as a box drawn in
+// characters. The note is hidden while it's open, from screen readers too,
+// so nothing shows around the box's edges.
+//
+// The box's size is rounded to whole characters and lines, so each corner
+// lands on a "+". Its four sides come from four pseudo-elements: the top and
+// right from the pane, the bottom and left from the template's backdrop
+// element inside it, which otherwise goes unused.
+$gc-box-top: "+" + $gc-rule;
+$gc-box-end: "+\a" + $gc-column;
+$gc-box-bottom: $gc-rule + "+";
+$gc-box-start: $gc-column + "\a+";
+
 @media (width < $gc-wide) {
   body > aside {
     position: fixed;
-    inset-block: calc(var(--gc-y) + var(--space-l)) calc(var(--gc-y) + var(--space-m));
-    inset-inline-end: calc(var(--gc-x) + var(--space-s));
-    inline-size: min(var(--pane-max), 100% - 2 * var(--gc-x) - var(--space-m));
-    border: var(--border-width) var(--border-style) var(--accent);
+    inset-block: calc(var(--gc-y) + var(--space-m));
+    inset-inline: calc(var(--gc-x) + var(--border-width) + 1ch);
+    inline-size: round(down, 100vw - 2 * (var(--gc-x) + var(--border-width) + 1ch), 1ch);
+    block-size: round(down, 100dvh - 2 * (var(--gc-y) + var(--space-m)), var(--space-m));
+    margin: auto;
+
+    &::before {
+      @include gc-mark;
+      content: $gc-box-top;
+      content: $gc-box-top / "";
+      position: absolute;
+      inset-block-start: 0;
+      inset-inline-start: 0;
+      inline-size: calc(100% - 1ch);
+      white-space: nowrap;
+      color: var(--accent);
+    }
+
+    &::after {
+      @include gc-mark;
+      content: $gc-box-end;
+      content: $gc-box-end / "";
+      position: absolute;
+      inset-block: 0 var(--space-m);
+      inset-inline-end: 0;
+      inline-size: 1ch;
+      white-space: pre;
+      color: var(--accent);
+    }
+  }
+
+  body > aside .page-panel-backdrop {
+    display: block;
+    position: absolute;
+    inset: 0;
+    z-index: 1;
+    pointer-events: none;
+
+    &::before {
+      @include gc-mark;
+      content: $gc-box-bottom;
+      content: $gc-box-bottom / "";
+      position: absolute;
+      inset-block-end: 0;
+      inset-inline: 1ch 0;
+      display: flex;
+      justify-content: flex-end;
+      white-space: nowrap;
+      color: var(--accent);
+    }
+
+    &::after {
+      @include gc-mark;
+      content: $gc-box-start;
+      content: $gc-box-start / "";
+      position: absolute;
+      inset-block: var(--space-m) 0;
+      inset-inline-start: 0;
+      inline-size: 1ch;
+      display: flex;
+      flex-direction: column;
+      justify-content: flex-end;
+      white-space: pre;
+      color: var(--accent);
+    }
+  }
+
+  #page-panel {
+    block-size: calc(100% - 2 * var(--space-m));
+    margin-block: var(--space-m);
+    padding: var(--space-m) 2ch;
   }
 
   html:not(.gc-contents-open) body > aside {
     display: none;
+  }
+
+  html.gc-contents-open body > .content {
+    visibility: hidden;
   }
 }
 

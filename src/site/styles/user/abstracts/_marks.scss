@@ -1,0 +1,54 @@
+// Marks: rules, columns and prefixes drawn with characters, one per cell of
+// the line grid, the way a terminal draws them. Each is a long string cut
+// to its box. Screen readers skip them (content: ... / "").
+//
+// These only define values and mixins; nothing here is output on its own.
+
+// $string repeated $times, with $separator between copies.
+@function gc-repeat($string, $times, $separator: "") {
+  $result: $string;
+  @for $i from 2 through $times {
+    $result: $result + $separator + $string;
+  }
+  @return $result;
+}
+
+// A row of "-", and columns of one character per line.
+$gc-rule: gc-repeat("-", 500);
+$gc-column: gc-repeat("|", 200, "\a");
+$gc-quote: gc-repeat(">", 200, "\a");
+
+// Sass before 1.65 reads round() as its own function, so it goes out as a
+// string. The 1px absorbs rounding in layout, which otherwise drops the last
+// dash from a rule that fits exactly.
+$gc-whole-chars: #{"round(down, 100% + 1px, 1ch)"};
+
+@mixin gc-mark {
+  overflow: hidden;
+  font-weight: 400;
+  color: var(--border-color);
+}
+
+// A column of $marks at the start of the box, one per line, the full
+// height of the box.
+@mixin gc-column-mark($marks) {
+  @include gc-mark;
+  content: $marks;
+  content: $marks / "";
+  position: absolute;
+  inset-block: 0;
+  inset-inline-start: 0;
+  inline-size: 1ch;
+  white-space: pre;
+}
+
+// A rule across the box, cut to whole characters.
+@mixin gc-rule-mark($rule: $gc-rule) {
+  @include gc-mark;
+  content: $rule;
+  content: $rule / "";
+  display: block;
+  inline-size: 100%;
+  inline-size: $gc-whole-chars;
+  white-space: nowrap;
+}

@@ -32,7 +32,7 @@
   --bg: var(--base00);
   --sel: var(--base02); // selected text, which turns --strong
   --inset: var(--base11); // code, link targets; every text role clears 5.34:1 on it
-  --fg: var(--base05); // 11.98:1
+  --fg: var(--base07); // 18.62:1; base05 is 11.98:1, too dim for --link to clear 3:1 against it
   --strong: var(--base07); // 18.62:1
   --muted: var(--base04); // 5.19:1
   --line: var(--base04); // 5.19:1; base03 is 2.61:1
@@ -42,7 +42,8 @@
   --h4: var(--base0e); // 5.39:1
   --h5: var(--base0f); // 5.14:1
   --h6: var(--base09); // 5.77:1
-  --link: var(--base0c); // 6.7:1
+  --link: #2f968d; // 5.35:1, 3.48:1 against --fg; Flexoki cyan-500, between base0c (cyan-400) and base16 (cyan-600)
+  --unpublished: var(--muted);
   --accent: var(--base0f); // 5.14:1
   --mark: var(--base0a); // 8.08:1
 }

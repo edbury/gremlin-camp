@@ -4,12 +4,26 @@
 
 @use "../abstracts" as *;
 
+// Section titles read like the records a narrow table prints:
+// -[ contents ]
 .toc-title,
 .backlink-title {
   margin-block: 0 var(--space-m);
-  padding-inline-start: 2ch;
   font-weight: 700;
   color: var(--accent);
+  white-space: pre;
+
+  &::before {
+    @include gc-mark;
+    content: "-[ ";
+    content: "-[ " / "";
+  }
+
+  &::after {
+    @include gc-mark;
+    content: " ]";
+    content: " ]" / "";
+  }
 }
 
 .toc-container {
