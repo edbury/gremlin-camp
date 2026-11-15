@@ -1,9 +1,9 @@
 ---
-{"aliases":["Stonetop village"],"date-created":"2026-11-15T11:00","date-modified":"2026-11-15T11:00","dg-publish":true,"tags":["stonetop/place"],"title":"Stonetop","dg-path":"stonetop/places/Stonetop (village).md","permalink":"/stonetop/places/stonetop-village/","dgPassFrontmatter":true,"updated":"2026-11-15T11:00","dg-note-properties":{"aliases":["Stonetop village"],"date-created":"2026-11-15T11:00","date-modified":"2026-11-15T11:00","tags":["stonetop/place"],"title":"Stonetop"}}
+{"aliases":["Stonetop (Village)","Stonetop village"],"date-created":"2026-11-15T11:00","date-modified":"2026-11-15T11:32","dg-publish":true,"tags":["stonetop/place"],"title":"Stonetop (Village)","dg-path":"stonetop/places/Stonetop (village).md","permalink":"/stonetop/places/stonetop-village/","dgPassFrontmatter":true,"updated":"2026-11-15T11:32","dg-note-properties":{"aliases":["Stonetop (Village)","Stonetop village"],"date-created":"2026-11-15T11:00","date-modified":"2026-11-15T11:32","tags":["stonetop/place"],"title":"Stonetop (Village)"}}
 ---
 
 
-# Stonetop
+# Stonetop (Village)
 
 Stonetop is an isolated village of around 300 folk near the edge of the known world. It's poor, but people look out for each other here. Everyone is expected to pull their weight, and few think badly of those who suffer misfortune.
 
