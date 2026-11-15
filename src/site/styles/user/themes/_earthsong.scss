@@ -1,0 +1,48 @@
+// Earthsong, a Tinted Theming base24 scheme copied unchanged from
+// https://github.com/tinted-theming/schemes/blob/spec-0.11/base24/earthsong.yaml
+//
+// Ratios are against base00.
+
+@mixin scheme {
+  --base00: #282420;
+  --base01: #111417;
+  --base02: #665e54;
+  --base03: #857769;
+  --base04: #a5917e;
+  --base05: #c5ab93;
+  --base06: #e5c5a9;
+  --base07: #f6f6ec;
+  --base08: #c84134;
+  --base09: #f4ae2e;
+  --base0a: #5ed9ff;
+  --base0b: #84c44b;
+  --base0c: #4f9452;
+  --base0d: #1397b9;
+  --base0e: #d0623c;
+  --base0f: #64201a;
+  --base10: #443e38;
+  --base11: #221f1c;
+  --base12: #ff6459;
+  --base13: #dfd561;
+  --base14: #97e035;
+  --base15: #83ef88;
+  --base16: #5ed9ff;
+  --base17: #ff9168;
+
+  --bg: var(--base00);
+  --sel: var(--base02); // selected text, which turns --strong
+  --inset: var(--base11); // code, link targets; every text role clears 4.81:1 on it
+  --fg: var(--base05); // 7.06:1
+  --strong: var(--base07); // 14.16:1
+  --muted: var(--base04); // 5.1:1
+  --line: var(--base03); // 3.55:1
+  --h1: var(--base13); // 10.14:1; base0a holds this scheme's cyan (the same value as base16)
+  --h2: var(--base0b); // 7.32:1
+  --h3: var(--base15); // 10.76:1; base0c is 4.17:1
+  --h4: var(--base0d); // 4.51:1
+  --h5: var(--base17); // 6.97:1; base0e is 4.03:1
+  --h6: var(--base09); // 8.02:1
+  --link: var(--base15); // 10.76:1; base0c is 4.17:1
+  --accent: var(--base17); // 6.97:1; base0e is 4.03:1, base0f 1.29:1
+  --mark: var(--base09); // 8.02:1
+}

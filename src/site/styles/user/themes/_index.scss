@@ -13,6 +13,7 @@
 @use "flexoki";
 @use "dracula";
 @use "twilight";
+@use "earthsong";
 
 // The garden's default.
 :root {
@@ -27,4 +28,9 @@
 // ~/moonrise.
 :root[data-scheme="moonrise"] {
   @include twilight.scheme;
+}
+
+// ~/stonetop.
+:root[data-scheme="stonetop"] {
+  @include earthsong.scheme;
 }

@@ -28,6 +28,7 @@ const SCHEMES = {
   mosh: "mosh",
   mothership: "mosh",
   moonrise: "moonrise",
+  stonetop: "stonetop",
 };
 
 // Template styles outside <head>. Matched by their exact shape so note
