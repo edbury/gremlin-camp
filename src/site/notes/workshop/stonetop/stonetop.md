@@ -32,4 +32,5 @@ From *Stonetop* by Jeremy Strandberg, published by Lampblack & Brimstone under [
 - [[workshop/stonetop/places/Barrier Pass\|Barrier Pass]]
 - [[workshop/stonetop/places/Ferrier's Fen\|Ferrier's Fen]]
 - [[workshop/stonetop/places/Lygos\|Lygos]]
+- [[workshop/stonetop/places/The Great Wood\|The Great Wood]]
 - [[workshop/stonetop/places/The Steplands\|The Steplands]]

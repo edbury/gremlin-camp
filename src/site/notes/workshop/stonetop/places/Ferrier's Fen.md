@@ -7,7 +7,7 @@
 
 > [[Marshedge\|Marshedge]] is a proper town, with a wooden palisade, market, and town council. They grow hemp and wheat, and collect wild rice and herbs from Ferrier's Fen. But no one ventures too deep into the Fen. Scaly, slimy suarachan drag fools away to sacrifice to their foul gods.
 
-Something has made the lizard-like suarachan bold. [[workshop/stonetop/characters/Nitza the Ranger\|Nitza]] lost her favorite bow to it, and it left behind a mysterious trail of slime.
+Something has made the lizard-like suarachan bold. [[workshop/stonetop/characters/Nitza the Ranger\|Nitza]] lost her favorite bow to it, and it left behind a mysterious trail of slime. [[workshop/stonetop/places/Stonetop (village)#Notable Neighbors\|Tovia]], a trader from [[workshop/stonetop/places/Lygos\|Lygos]], can tell her more about the suarachan.
 
 ---
 

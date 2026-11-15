@@ -1,5 +1,5 @@
 ---
-{"aliases":["Stonetop (Village)","Stonetop village"],"date-created":"2026-11-15T11:00","date-modified":"2026-11-15T12:45","dg-publish":true,"tags":["stonetop/place"],"title":"Stonetop (Village)","dg-path":"stonetop/places/Stonetop (village).md","permalink":"/stonetop/places/stonetop-village/","dgPassFrontmatter":true,"updated":"2026-11-15T12:45","dg-note-properties":{"aliases":["Stonetop (Village)","Stonetop village"],"date-created":"2026-11-15T11:00","date-modified":"2026-11-15T12:45","tags":["stonetop/place"],"title":"Stonetop (Village)"}}
+{"aliases":["Stonetop (Village)","Stonetop village"],"date-created":"2026-11-15T11:00","date-modified":"2026-11-15T14:58","dg-publish":true,"tags":["stonetop/place"],"title":"Stonetop (Village)","dg-path":"stonetop/places/Stonetop (village).md","permalink":"/stonetop/places/stonetop-village/","dgPassFrontmatter":true,"updated":"2026-11-15T14:58","dg-note-properties":{"aliases":["Stonetop (Village)","Stonetop village"],"date-created":"2026-11-15T11:00","date-modified":"2026-11-15T14:58","tags":["stonetop/place"],"title":"Stonetop (Village)"}}
 ---
 
 
@@ -15,29 +15,31 @@
 >
 > Sane folk shun lakes, rivers, and other deep bodies of water. Death dwells in deep water—everyone knows this.
 
+| Size | Population | Prosperity | Defenses | Fortunes | Surplus |
+| --- | --- | --- | --- | --- | --- |
+| village | +0 | +0 | +0 | +1 | 1 |
+
 ## Map
 
-<pre role="img" aria-label="Map of Stonetop village. The Ringwall circles the village, with watchtowers on its north, west and east sides. The Stone stands at the center. The Granary is north of it, the Public House and stables to the northeast, the Cistern to the southwest and the Pavilion of the Gods to the southeast. Houses fill the village and spill outside the Ringwall. A road leaves the south side through the fields, toward the West Road and the Old Wall. East of the village, the bluff drops to the Great Wood and the Stream.">
-                       to the Old Wall
-                              :
-        .---------------------F---------------------.     :
-       /   n   n    n    [B] Granary      n    n     \    :  the
-      /  n    n    n                    n     n    n  \   :  bluff
-     |     n    n           /\           [C] Public    |  :
-     |  n    n      n      /  \              House &   |  :  the
-     F     n    n         | A  |    n        Stables   F  :  Great
-     |  n    [D]          |    |       n    n    n     |  :  Wood
-     |    Cistern    n    '----'    n    [E]    n      |  :
-     |  n     n     n     n     n     Pavilion of      |  :
-      \    n      n    n     n       the Gods    n    /   :
-       \   n    n    n     n    n     n     n     n  /    :  ~ ~
-        '---------------.         .-----------------'     :  ~ the
-     n    n    n    n    \       /    n    n    n    n    :  ~ Stream
-  n     n    n    n    n  \     /  n     n    n     n     :  ~ ~
- ,,,,,,,,,,,,,,,,,,,,,,,,,,\   /,,,,,,,,,,,,,,,,,,,,,,,,,,:
- ,,,,,,,,,, the Fields ,,,,,|   |,,,,,,, the Fields ,,,,,,:
- ,,,,,,,,,,,,,,,,,,,,,,,,,,,|   |,,,,,,,,,,,,,,,,,,,,,,,,,:
- to the West Road &lt;---------'   '------&gt; to the Old Wall
+<pre role="img" aria-label="Map of Stonetop village. The Ringwall circles the village, with watchtowers on its north, west and east sides. The Stone stands at the center. The Granary is north of it, the Public House and stables to the northeast, the Cistern to the west and the Pavilion of the Gods to the southeast. Houses fill the village and spill outside the Ringwall. A road leaves the south side through the fields, west toward the West Road and east toward the Old Wall. East of the village, the bluff drops to the Stream and the Great Wood.">
+        .---------------------F---------------------.     : ~ T T T T
+       /   n   n    n    [B]    n         n    n     \    : ~  T T T T
+      /  n    n    n                    n     n    n  \   : ~ T T T T
+     |     n    n           /\           [C]    n      |  : ~  T T T T
+     |  n    n      n      /  \                 n      |  : ~ T T T T
+     F     n    n         | A  |    n          n       F  : ~  T T T T
+     |  n    [D]          |    |       n    n    n     |  : ~ T T T T
+     |       n       n    '----'    n    [E]    n      |  : ~  T T T T
+     |  n     n     n     n     n        n    n        |  : ~ T T T T
+      \    n      n    n     n         n         n    /   : ~  T T T T
+       \   n    n    n     n    n     n     n     n  /    : ~ T T T T
+        '---------------.         .-----------------'     : ~  T T T T
+     n    n    n    n    \       /    n    n    n    n    : ~ T T T T
+  n     n    n    n    n  \     /  n     n    n     n     : ~  T T T T
+ ,,,,,,,,,,,,,,,,,,,,,,,,,,\   /,,,,,,,,,,,,,,,,,,,,,,,,,,: ~ T T T T
+ ,,,,,,,,,,,,,,,,,,,,,,,,,,,|   |,,,,,,,,,,,,,,,,,,,,,,,,,: ~  T T T T
+ ,,,,,,,,,,,,,,,,,,,,,,,,,,,|   |,,,,,,,,,,,,,,,,,,,,,,,,,: ~ T T T T
+ &lt;--------------------------'   '--------------------&gt;    : ~  T T T T
 </pre>
 
 - A: [[workshop/stonetop/places/Stonetop (village)#The Stone\|The Stone]]
@@ -47,7 +49,7 @@
 - E: [[workshop/stonetop/places/Stonetop (village)#The Pavilion of the Gods\|Pavilion of the Gods]]
 - F: Watchtowers
 
-`n` marks houses, `,` the fields, `~` the Stream and `:` the edge of the bluff.
+`n` marks houses, `,` the fields, `:` the edge of the bluff, `~` the Stream and `T` [[workshop/stonetop/places/The Great Wood\|the Great Wood]]. The road leads west to the West Road and east to the Old Wall.
 
 ## Places of Interest
 
@@ -56,18 +58,6 @@
 > Well over 50 feet tall and etched in faded runes, the Stone appears to be older even than the giant-sized Maker ruins upon which the village was founded.
 >
 > When storms roll in from the southeast—as they often do during the spring and summer months—lightning strikes the Stone repeatedly. The locals barely even notice.
-
-### The Granary
-
-> Foodstuffs are stored in the Granary for winter. Everyone contributes, everyone shares.
-
-### The Public House
-
-> The Public House is the largest building in the village, where everyone meets after sundown to drink and socialize. It offers floor space in the common room for travelers and a small stable under the same roof. The town's two horses are kept here.
-
-### The Cistern
-
-> To get through the dry months, the residents of Stonetop store rainwater, snowmelt and water from the Stream in a huge, ancient Cistern.
 
 ### The Pavilion of the Gods
 
@@ -82,6 +72,18 @@ Helior's shrine has the place of highest honor. Aratis's shrine is newly establi
 ### The Chronicle
 
 The Chronicle is the vault where [[workshop/stonetop/characters/Odval the Judge\|Odval]] lives and keeps the community's history, knowledge and traditions. It sits on the outskirts of town near the Old Wall. A sturdy vault from the time of the Makers, it bears minor magics that preserve its contents. It seems to be haunted by the spirits of townsfolk who fell into the Cistern, who appear at irregular times. Anyone who can endure the haunting is welcome there.
+
+### The Granary
+
+> Foodstuffs are stored in the Granary for winter. Everyone contributes, everyone shares.
+
+### The Public House
+
+> The Public House is the largest building in the village, where everyone meets after sundown to drink and socialize. It offers floor space in the common room for travelers and a small stable under the same roof. The town's two horses are kept here.
+
+### The Cistern
+
+> To get through the dry months, the residents of Stonetop store rainwater, snowmelt and water from the Stream in a huge, ancient Cistern.
 
 ### The Ringwall
 
@@ -104,44 +106,34 @@ The Chronicle is the vault where [[workshop/stonetop/characters/Odval the Judge\
 ### The Great Wood
 
 > The village sits on a bluff overlooking the Great Wood. A few brave souls ply its depths for meat and fur to trade with Stonetop's neighbors. Trappers bring in most of the wealth, but hunters get more respect. It's dangerous down there.
->
-> By compact with the Forest Folk, the villagers never cut down a living tree. They're free to gather fallen wood, but if they need timber they send folk northwest to the Foothills. Yet no one's laid eyes on the Folk for a decade, and some grumble that there's plenty of timber down there, in their own back yard.
->
-> The crinwin—diminutive, gray-skinned creatures with a penchant for mimicry—lurk in the Great Wood. The Forest Folk once hunted them and kept them in check, but their numbers have been growing.
->
-> The Wood is also home to the strange and magical Fae. The Forest Folk called them "Good Neighbors" and took pains to avoid insulting them. They cautioned Stonetop to do the same.
+
+See [[workshop/stonetop/places/The Great Wood\|The Great Wood]].
 
 ## Residents
 
-| Name (pronouns) | Occupation | Traits | Relations |
-| --- | --- | --- | --- |
-| | publican | | |
-| | smith | | |
-| | tanner | | |
-| Spiro (he/him) | potter | curious; shows great ability | [[workshop/stonetop/characters/Ozbeg the Seeker\|Ozbeg]] (traveling companion) |
-| Eurig (she/her) | midwife | knows all the gossip | [[workshop/stonetop/characters/Eirian the Lightbearer\|Eirian]] (son) |
-| Dai (they/them) | thatcher | lovesick | [[workshop/stonetop/characters/Eirian the Lightbearer\|Eirian]] (former sweetheart) |
-| Haul (he/him) | farmer | tends the Gods' Pavilion | [[workshop/stonetop/characters/Eirian the Lightbearer\|Eirian]] (resents) |
-| Hefin (he/him) | helps at the glassworks | gods-fearing | [[workshop/stonetop/characters/Eirian the Lightbearer\|Eirian]] (mentor) |
-| Teagan (she/her) | trapper | loves her dogs | [[workshop/stonetop/characters/Nitza the Ranger\|Nitza]] (mentor) |
-| Terrance (he/him) | Judge's apprentice, scribe | orphan | [[workshop/stonetop/characters/Odval the Judge\|Odval]] (adoptive father, master) |
+| Name (pronouns)   | Occupation  | Traits                   | Relations                                              |
+| ----------------- | ----------- | ------------------------ | ------------------------------------------------------ |
+| Spiro (he/him)    | potter      | curious, gifted          | [[workshop/stonetop/characters/Ozbeg the Seeker\|Ozbeg]] (traveling companion)      |
+| Terrance (he/him) | scribe      | orphan                   | [[workshop/stonetop/characters/Odval the Judge\|Odval]] (adoptive father, master)   |
+| Teagan (she/her)  | trapper     | loves her dogs           | [[workshop/stonetop/characters/Nitza the Ranger\|Nitza]] (mentor)                   |
+| Eurig (she/her)   | midwife     | knows all the gossip     | [[workshop/stonetop/characters/Eirian the Lightbearer\|Eirian]] (son)               |
+| Haul (he/him)     | smith       | tends the Gods' Pavilion | [[workshop/stonetop/characters/Eirian the Lightbearer\|Eirian]] (resents)           |
+| Hefin (he/him)    | glassworker | gods-fearing             | [[workshop/stonetop/characters/Eirian the Lightbearer\|Eirian]] (mentor)            |
+| Dai (they/them)   | tanner      | lovesick                 | [[workshop/stonetop/characters/Eirian the Lightbearer\|Eirian]] (former sweetheart) |
+|                   | publican    |                          |                                                        |
 
 Hulwen, the previous Lightbearer, is dead. He raised and mentored Eirian, wrote many works of sublime beauty, faced one of the Things Below, and died fighting a mighty sorcerer-demon.
 
 ## Notable Neighbors
 
-| Name (pronouns) | Home | Occupation | Traits | Relations |
-| --- | --- | --- | --- | --- |
-| Anook (he/him) | [[workshop/stonetop/places/The Steplands\|The Steplands]] | Hillfolk herder | hears voices | [[workshop/stonetop/characters/Ozbeg the Seeker\|Ozbeg]] (wants his codex) |
-| Gorhan (he/him) | [[workshop/stonetop/places/Lygos\|Lygos]] | scribe and teacher | well-read | [[workshop/stonetop/characters/Nitza the Ranger\|Nitza]] (former student) |
-| Jetei (she/her) | [[workshop/stonetop/places/Barrier Pass\|Barrier Pass]] | goatherd | keeps to herself | [[workshop/stonetop/characters/Ozbeg the Seeker\|Ozbeg]] (childhood friend) |
-| Tovia (they/them) | [[workshop/stonetop/places/Lygos\|Lygos]] | trader on the road from Lygos to [[Marshedge\|Marshedge]] | well-traveled; knows about the suarachan of [[workshop/stonetop/places/Ferrier's Fen\|Ferrier's Fen]] | [[workshop/stonetop/characters/Nitza the Ranger\|Nitza]] (contact) |
+| Name (pronouns)   | Home              | Occupation | Traits           | Relations                                      |
+| ----------------- | ----------------- | ---------- | ---------------- | ---------------------------------------------- |
+| Anook (he/him)    | [[workshop/stonetop/places/The Steplands\|The Steplands]] | herder     | hears voices     | [[workshop/stonetop/characters/Ozbeg the Seeker\|Ozbeg]] (wants his codex)  |
+| Gorhan (he/him)   | [[workshop/stonetop/places/Lygos\|Lygos]]         | teacher    | well-read        | [[workshop/stonetop/characters/Nitza the Ranger\|Nitza]] (former student)   |
+| Jetei (she/her)   | [[workshop/stonetop/places/Barrier Pass\|Barrier Pass]]  | goatherd   | keeps to herself | [[workshop/stonetop/characters/Ozbeg the Seeker\|Ozbeg]] (childhood friend) |
+| Tovia (they/them) | [[workshop/stonetop/places/Lygos\|Lygos]]         | trader     | well-traveled    | [[workshop/stonetop/characters/Nitza the Ranger\|Nitza]] (contact)          |
 
 ## Steading
-
-| Size | Population | Prosperity | Defenses | Fortunes | Surplus |
-| --- | --- | --- | --- | --- | --- |
-| village | +0 | +0 | +0 | +1 | 1 |
 
 ### Resources
 
