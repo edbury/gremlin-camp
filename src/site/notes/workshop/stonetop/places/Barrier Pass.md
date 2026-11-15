@@ -1,5 +1,5 @@
 ---
-{"aliases":[],"date-created":"2026-11-15T11:00","date-modified":"2026-11-15T11:00","dg-publish":true,"tags":["stonetop/place"],"title":"Barrier Pass","dg-path":"stonetop/places/Barrier Pass.md","permalink":"/stonetop/places/barrier-pass/","dgPassFrontmatter":true,"updated":"2026-11-15T11:00","dg-note-properties":{"aliases":[],"date-created":"2026-11-15T11:00","date-modified":"2026-11-15T11:00","tags":["stonetop/place"],"title":"Barrier Pass"}}
+{"aliases":[],"date-created":"2026-11-15T11:00","date-modified":"2026-11-15T12:30","dg-publish":true,"tags":["stonetop/place"],"title":"Barrier Pass","dg-path":"stonetop/places/Barrier Pass.md","permalink":"/stonetop/places/barrier-pass/","dgPassFrontmatter":true,"updated":"2026-11-15T12:30","dg-note-properties":{"aliases":[],"date-created":"2026-11-15T11:00","date-modified":"2026-11-15T12:30","tags":["stonetop/place"],"title":"Barrier Pass"}}
 ---
 
 
@@ -9,7 +9,7 @@ Barrier Pass lies a few days north of Stonetop, in the mountains. A massive wall
 
 ## People
 
-- Jetei: [[workshop/stonetop/characters/Ozbeg the Seeker\|Ozbeg]]'s childhood friend, who knows about his arcana and the powers he tampers with.
-- [[workshop/stonetop/characters/Odval the Judge\|Odval the Judge]], who woke here with his hammer after Aratis called him.
-- [[workshop/stonetop/characters/Ozbeg the Seeker\|Ozbeg the Seeker]].
-- Terrance, Odval's apprentice, who came with him to [[workshop/stonetop/places/Stonetop (village)\|Stonetop]].
+- [[workshop/stonetop/places/Stonetop (village)#Notable Neighbors\|Jetei]]
+- [[workshop/stonetop/characters/Odval the Judge\|Odval the Judge]]
+- [[workshop/stonetop/characters/Ozbeg the Seeker\|Ozbeg the Seeker]]
+- [[workshop/stonetop/places/Stonetop (village)#Residents\|Terrance]], who came with Odval to Stonetop

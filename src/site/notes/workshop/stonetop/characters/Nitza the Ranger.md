@@ -1,5 +1,5 @@
 ---
-{"aliases":["Nitza"],"date-created":"2026-11-15T11:00","date-modified":"2026-11-15T11:45","dg-publish":true,"tags":["stonetop/pc"],"title":"Nitza the Ranger","dg-path":"stonetop/characters/Nitza the Ranger.md","permalink":"/stonetop/characters/nitza-the-ranger/","dgPassFrontmatter":true,"updated":"2026-11-15T11:45","dg-note-properties":{"aliases":["Nitza"],"date-created":"2026-11-15T11:00","date-modified":"2026-11-15T11:45","tags":["stonetop/pc"],"title":"Nitza the Ranger"}}
+{"aliases":["Nitza"],"date-created":"2026-11-15T11:00","date-modified":"2026-11-15T12:30","dg-publish":true,"tags":["stonetop/pc"],"title":"Nitza the Ranger","dg-path":"stonetop/characters/Nitza the Ranger.md","permalink":"/stonetop/characters/nitza-the-ranger/","dgPassFrontmatter":true,"updated":"2026-11-15T12:30","dg-note-properties":{"aliases":["Nitza"],"date-created":"2026-11-15T11:00","date-modified":"2026-11-15T12:30","tags":["stonetop/pc"],"title":"Nitza the Ranger"}}
 ---
 
 
@@ -17,7 +17,7 @@ Nitza is *long in the tooth*, *compact & sturdy* and *well-groomed*, with a *sin
 - Damage: d8
 - HP: max 18
 
-She came to Stonetop alone six years ago, wanting to connect with nature and find some peace and quiet. She can read and write, taught by [[workshop/stonetop/places/Lygos#People\|Gorhan]] in Lygos in her youth.
+She came to Stonetop alone six years ago, wanting to connect with nature and find some peace and quiet. She can read and write, taught by [[workshop/stonetop/places/Stonetop (village)#Notable Neighbors\|Gorhan]] in Lygos in her youth.
 
 ## Background: Beast-bonded
 
@@ -59,14 +59,14 @@ If trouble finds your camp site, you can spend 1 Precaution to reveal a simple d
 
 ## Something Wicked This Way Comes
 
-Nitza worries about whatever's made the lizard-like suarachan of [[workshop/stonetop/places/Ferrier's Fen\|Ferrier's Fen]] so bold. She lost her favorite bow to it. It left behind a mysterious trail of slime. [[workshop/stonetop/places/Lygos#People\|Tovia]] of Lygos can tell her more, if she can only convince them.
+Nitza worries about whatever's made the lizard-like suarachan of [[workshop/stonetop/places/Ferrier's Fen\|Ferrier's Fen]] so bold. She lost her favorite bow to it. It left behind a mysterious trail of slime. [[workshop/stonetop/places/Stonetop (village)#Notable Neighbors\|Tovia]] of Lygos can tell her more, if she can only convince them.
 
 ## Connections
 
 - Gertrude, her opossum companion, adores [[workshop/stonetop/characters/Eirian the Lightbearer\|Eirian]] and is terrified of [[workshop/stonetop/places/Stonetop (village)#Residents\|Teagan]].
 - Teagan has a lot to learn from Nitza.
-- [[workshop/stonetop/places/Lygos#People\|Gorhan]] taught her to read and write in her youth.
-- [[workshop/stonetop/places/Lygos#People\|Tovia]] can tell her more about the suarachan of Ferrier's Fen.
+- [[workshop/stonetop/places/Stonetop (village)#Notable Neighbors\|Gorhan]] taught her to read and write in her youth.
+- [[workshop/stonetop/places/Stonetop (village)#Notable Neighbors\|Tovia]] can tell her more about the suarachan of Ferrier's Fen.
 - She sometimes catches Eirian staring out at the horizon, though he's never really left.
 - Eirian has shown her great beauty, including a tour of Stonetop.
 

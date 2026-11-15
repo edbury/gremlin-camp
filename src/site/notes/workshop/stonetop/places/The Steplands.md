@@ -1,5 +1,5 @@
 ---
-{"aliases":["Steplands"],"date-created":"2026-11-15T11:00","date-modified":"2026-11-15T11:00","dg-publish":true,"tags":["stonetop/place"],"title":"The Steplands","dg-path":"stonetop/places/The Steplands.md","permalink":"/stonetop/places/the-steplands/","dgPassFrontmatter":true,"updated":"2026-11-15T11:00","dg-note-properties":{"aliases":["Steplands"],"date-created":"2026-11-15T11:00","date-modified":"2026-11-15T11:00","tags":["stonetop/place"],"title":"The Steplands"}}
+{"aliases":["Steplands"],"date-created":"2026-11-15T11:00","date-modified":"2026-11-15T12:30","dg-publish":true,"tags":["stonetop/place"],"title":"The Steplands","dg-path":"stonetop/places/The Steplands.md","permalink":"/stonetop/places/the-steplands/","dgPassFrontmatter":true,"updated":"2026-11-15T12:30","dg-note-properties":{"aliases":["Steplands"],"date-created":"2026-11-15T11:00","date-modified":"2026-11-15T12:30","tags":["stonetop/place"],"title":"The Steplands"}}
 ---
 
 
@@ -13,4 +13,4 @@ The Steplands hide two great terrors: Blackwater Lake to the west and Three-Cove
 
 ## People
 
-- Anook: wants [[workshop/stonetop/characters/Ozbeg the Seeker\|Ozbeg]]'s Hec'tumel Codex.
+- [[workshop/stonetop/places/Stonetop (village)#Notable Neighbors\|Anook]]
