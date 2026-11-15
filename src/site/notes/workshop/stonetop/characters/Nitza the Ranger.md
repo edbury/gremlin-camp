@@ -1,5 +1,5 @@
 ---
-{"aliases":["Nitza"],"date-created":"2026-11-15T11:00","date-modified":"2026-11-15T11:45","dg-publish":true,"tags":["stonetop/pc"],"title":"Nitza the Ranger","permalink":"/workshop/stonetop/characters/nitza-the-ranger/","dgPassFrontmatter":true,"updated":"2026-11-15T11:45","dg-note-properties":{"aliases":["Nitza"],"date-created":"2026-11-15T11:00","date-modified":"2026-11-15T11:45","tags":["stonetop/pc"],"title":"Nitza the Ranger"}}
+{"aliases":["Nitza"],"date-created":"2026-11-15T11:00","date-modified":"2026-11-15T11:45","dg-publish":true,"tags":["stonetop/pc"],"title":"Nitza the Ranger","dg-path":"stonetop/characters/Nitza the Ranger.md","permalink":"/stonetop/characters/nitza-the-ranger/","dgPassFrontmatter":true,"updated":"2026-11-15T11:45","dg-note-properties":{"aliases":["Nitza"],"date-created":"2026-11-15T11:00","date-modified":"2026-11-15T11:45","tags":["stonetop/pc"],"title":"Nitza the Ranger"}}
 ---
 
 

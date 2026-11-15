@@ -1,5 +1,5 @@
 ---
-{"aliases":["Odval"],"date-created":"2026-11-15T11:00","date-modified":"2026-11-15T11:45","dg-publish":true,"tags":["stonetop/pc"],"title":"Odval the Judge","permalink":"/workshop/stonetop/characters/odval-the-judge/","dgPassFrontmatter":true,"updated":"2026-11-15T11:45","dg-note-properties":{"aliases":["Odval"],"date-created":"2026-11-15T11:00","date-modified":"2026-11-15T11:45","tags":["stonetop/pc"],"title":"Odval the Judge"}}
+{"aliases":["Odval"],"date-created":"2026-11-15T11:00","date-modified":"2026-11-15T11:45","dg-publish":true,"tags":["stonetop/pc"],"title":"Odval the Judge","dg-path":"stonetop/characters/Odval the Judge.md","permalink":"/stonetop/characters/odval-the-judge/","dgPassFrontmatter":true,"updated":"2026-11-15T11:45","dg-note-properties":{"aliases":["Odval"],"date-created":"2026-11-15T11:00","date-modified":"2026-11-15T11:45","tags":["stonetop/pc"],"title":"Odval the Judge"}}
 ---
 
 

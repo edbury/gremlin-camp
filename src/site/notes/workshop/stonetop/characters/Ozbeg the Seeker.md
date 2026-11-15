@@ -1,5 +1,5 @@
 ---
-{"aliases":["Ozbeg"],"date-created":"2026-11-15T11:00","date-modified":"2026-11-15T11:45","dg-publish":true,"tags":["stonetop/pc"],"title":"Ozbeg the Seeker","permalink":"/workshop/stonetop/characters/ozbeg-the-seeker/","dgPassFrontmatter":true,"updated":"2026-11-15T11:45","dg-note-properties":{"aliases":["Ozbeg"],"date-created":"2026-11-15T11:00","date-modified":"2026-11-15T11:45","tags":["stonetop/pc"],"title":"Ozbeg the Seeker"}}
+{"aliases":["Ozbeg"],"date-created":"2026-11-15T11:00","date-modified":"2026-11-15T11:45","dg-publish":true,"tags":["stonetop/pc"],"title":"Ozbeg the Seeker","dg-path":"stonetop/characters/Ozbeg the Seeker.md","permalink":"/stonetop/characters/ozbeg-the-seeker/","dgPassFrontmatter":true,"updated":"2026-11-15T11:45","dg-note-properties":{"aliases":["Ozbeg"],"date-created":"2026-11-15T11:00","date-modified":"2026-11-15T11:45","tags":["stonetop/pc"],"title":"Ozbeg the Seeker"}}
 ---
 
 

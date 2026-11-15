@@ -45,8 +45,8 @@ The Hecate Sector is a sparsely settled rim belt. It is hardly benign, and neith
 
 | Module                                                                                                          | Status | Publisher/Creator |
 | --------------------------------------------------------------------------------------------------------------- | ------ | ----------------- |
-| [[workshop/mosh/modules/Alternate Classes from the Hecate Sector\|Alternate Classes from the Hecate Sector]] | \-     | Joshua Justice    |
 | [[workshop/mosh/modules/Analog Survey N.1\|Analog Survey N.1]]                                               | \-     | Joshua Justice    |
+| [[workshop/mosh/modules/Alternate Classes from the Hecate Sector\|Alternate Classes from the Hecate Sector]] | \-     | Joshua Justice    |
 | [[workshop/mosh/modules/Radio Free Hekate\|Radio Free Hekate]]                                               | \-     | Joshua Justice    |
 | [[workshop/mosh/modules/Advanced Rules\|Advanced Rules]]                                                     | \-     | RV Games          |
 | [[workshop/mosh/modules/Cassette X\|Cassette X]]                                                             | \-     | RV Games          |

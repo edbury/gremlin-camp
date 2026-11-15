@@ -1,5 +1,5 @@
 ---
-{"aliases":["Stonetop"],"date-created":"2026-11-15T11:00","date-modified":"2026-11-15T11:05","dg-permalink":"stonetop/","dg-publish":true,"tags":["stonetop"],"title":"Stonetop","permalink":"/stonetop/","dgPassFrontmatter":true,"updated":"2026-11-15T11:05","dg-note-properties":{"aliases":["Stonetop"],"date-created":"2026-11-15T11:00","date-modified":"2026-11-15T11:05","tags":["stonetop"],"title":"Stonetop"}}
+{"aliases":["Stonetop"],"date-created":"2026-11-15T11:00","date-modified":"2026-11-15T11:05","dg-permalink":"stonetop/","dg-publish":true,"tags":["stonetop"],"title":"Stonetop","dg-path":"stonetop/stonetop.md","permalink":"/stonetop/","dgPassFrontmatter":true,"updated":"2026-11-15T11:05","dg-note-properties":{"aliases":["Stonetop"],"date-created":"2026-11-15T11:00","date-modified":"2026-11-15T11:05","tags":["stonetop"],"title":"Stonetop"}}
 ---
 
 

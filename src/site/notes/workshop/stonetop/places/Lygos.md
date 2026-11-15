@@ -1,5 +1,5 @@
 ---
-{"aliases":[],"date-created":"2026-11-15T11:00","date-modified":"2026-11-15T11:00","dg-publish":true,"tags":["stonetop/place"],"title":"Lygos","permalink":"/workshop/stonetop/places/lygos/","dgPassFrontmatter":true,"updated":"2026-11-15T11:00","dg-note-properties":{"aliases":[],"date-created":"2026-11-15T11:00","date-modified":"2026-11-15T11:00","tags":["stonetop/place"],"title":"Lygos"}}
+{"aliases":[],"date-created":"2026-11-15T11:00","date-modified":"2026-11-15T11:00","dg-publish":true,"tags":["stonetop/place"],"title":"Lygos","dg-path":"stonetop/places/Lygos.md","permalink":"/stonetop/places/lygos/","dgPassFrontmatter":true,"updated":"2026-11-15T11:00","dg-note-properties":{"aliases":[],"date-created":"2026-11-15T11:00","date-modified":"2026-11-15T11:00","tags":["stonetop/place"],"title":"Lygos"}}
 ---
 
 

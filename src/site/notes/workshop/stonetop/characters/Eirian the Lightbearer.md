@@ -1,5 +1,5 @@
 ---
-{"aliases":["Eirian"],"date-created":"2026-11-15T11:00","date-modified":"2026-11-15T11:45","dg-publish":true,"tags":["stonetop/pc"],"title":"Eirian the Lightbearer","permalink":"/workshop/stonetop/characters/eirian-the-lightbearer/","dgPassFrontmatter":true,"updated":"2026-11-15T11:45","dg-note-properties":{"aliases":["Eirian"],"date-created":"2026-11-15T11:00","date-modified":"2026-11-15T11:45","tags":["stonetop/pc"],"title":"Eirian the Lightbearer"}}
+{"aliases":["Eirian"],"date-created":"2026-11-15T11:00","date-modified":"2026-11-15T11:45","dg-publish":true,"tags":["stonetop/pc"],"title":"Eirian the Lightbearer","dg-path":"stonetop/characters/Eirian the Lightbearer.md","permalink":"/stonetop/characters/eirian-the-lightbearer/","dgPassFrontmatter":true,"updated":"2026-11-15T11:45","dg-note-properties":{"aliases":["Eirian"],"date-created":"2026-11-15T11:00","date-modified":"2026-11-15T11:45","tags":["stonetop/pc"],"title":"Eirian the Lightbearer"}}
 ---
 
 

@@ -1,5 +1,5 @@
 ---
-{"aliases":["Stonetop village"],"date-created":"2026-11-15T11:00","date-modified":"2026-11-15T11:00","dg-publish":true,"tags":["stonetop/place"],"title":"Stonetop","permalink":"/workshop/stonetop/places/stonetop-village/","dgPassFrontmatter":true,"updated":"2026-11-15T11:00","dg-note-properties":{"aliases":["Stonetop village"],"date-created":"2026-11-15T11:00","date-modified":"2026-11-15T11:00","tags":["stonetop/place"],"title":"Stonetop"}}
+{"aliases":["Stonetop village"],"date-created":"2026-11-15T11:00","date-modified":"2026-11-15T11:00","dg-publish":true,"tags":["stonetop/place"],"title":"Stonetop","dg-path":"stonetop/places/Stonetop (village).md","permalink":"/stonetop/places/stonetop-village/","dgPassFrontmatter":true,"updated":"2026-11-15T11:00","dg-note-properties":{"aliases":["Stonetop village"],"date-created":"2026-11-15T11:00","date-modified":"2026-11-15T11:00","tags":["stonetop/place"],"title":"Stonetop"}}
 ---
 
 

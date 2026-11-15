@@ -1,5 +1,5 @@
 ---
-{"aliases":[],"date-created":"2026-11-15T11:00","date-modified":"2026-11-15T11:00","dg-publish":true,"tags":["stonetop/place"],"title":"Barrier Pass","permalink":"/workshop/stonetop/places/barrier-pass/","dgPassFrontmatter":true,"updated":"2026-11-15T11:00","dg-note-properties":{"aliases":[],"date-created":"2026-11-15T11:00","date-modified":"2026-11-15T11:00","tags":["stonetop/place"],"title":"Barrier Pass"}}
+{"aliases":[],"date-created":"2026-11-15T11:00","date-modified":"2026-11-15T11:00","dg-publish":true,"tags":["stonetop/place"],"title":"Barrier Pass","dg-path":"stonetop/places/Barrier Pass.md","permalink":"/stonetop/places/barrier-pass/","dgPassFrontmatter":true,"updated":"2026-11-15T11:00","dg-note-properties":{"aliases":[],"date-created":"2026-11-15T11:00","date-modified":"2026-11-15T11:00","tags":["stonetop/place"],"title":"Barrier Pass"}}
 ---
 
 
