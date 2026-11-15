@@ -1,13 +1,14 @@
-// Tags read as plain #words; selecting one searches for it (dg-search).
+// Tags read as plain #words in the link color, since they're links too;
+// selecting one searches for it (dg-search).
 
 @use "../abstracts" as *;
 
 .tag {
   cursor: pointer;
-  color: var(--accent);
+  color: var(--link);
   text-decoration: none;
 
-  @include reverse-video(var(--accent));
+  @include reverse-video(var(--link));
 }
 
 .result-tags .tag {
