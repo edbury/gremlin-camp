@@ -23,3 +23,13 @@
     outline: var(--border-width) var(--border-style) transparent;
   }
 }
+
+// The page background, with whatever the CRT treatment adds to it
+// (components/_crt.scss). Every surface that paints the background uses
+// this, and the image is fixed to the viewport, so scanlines and vignette
+// line up across the frame, its labels and the pane.
+@mixin gc-screen {
+  background-color: var(--bg);
+  background-image: var(--gc-screen, none);
+  background-attachment: fixed;
+}

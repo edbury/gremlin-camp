@@ -27,7 +27,7 @@
   inline-size: min(64ch, 100%);
   max-block-size: 100%;
   padding: var(--space-m);
-  background-color: var(--bg);
+  @include gc-screen;
   border: var(--border-width) var(--border-style) var(--accent);
 
   &::before {
@@ -36,7 +36,7 @@
     inset-block-start: calc(-1 * var(--space-s));
     inset-inline-start: var(--space-m);
     padding-inline: 1ch;
-    background-color: var(--bg);
+    @include gc-screen;
     font-weight: 700;
     color: var(--accent);
   }
@@ -134,7 +134,7 @@
   grid-auto-flow: column;
   column-gap: var(--space-m);
   padding-inline: 1ch;
-  background-color: var(--bg);
+  @include gc-screen;
   color: var(--muted);
 
   code {
