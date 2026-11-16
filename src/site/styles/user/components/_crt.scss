@@ -1,0 +1,32 @@
+// A slight CRT treatment: scanlines, a vignette and phosphor glow. Scanlines
+// and vignette are drawn into the background only (abstracts/_mixins.scss,
+// gc-screen) and only darken it, so text contrast can only go up. The glow
+// is a faint halo in each glyph's own color. Nothing moves.
+
+$gc-scanlines: repeating-linear-gradient(
+  to bottom,
+  transparent 0 2px,
+  rgb(0 0 0 / 0.22) 2px 3px
+);
+$gc-vignette: radial-gradient(
+  ellipse farthest-corner at 50% 50%,
+  transparent 55%,
+  rgb(0 0 0 / 0.38) 100%
+);
+
+:root {
+  --gc-screen: #{$gc-vignette}, #{$gc-scanlines};
+  --gc-glow: 0 0 0.25em color-mix(in srgb, currentColor 45%, transparent);
+}
+
+body {
+  text-shadow: var(--gc-glow);
+}
+
+// Off for anyone who has asked for more contrast or forced colors.
+@media (prefers-contrast: more), (forced-colors: active) {
+  :root {
+    --gc-screen: none;
+    --gc-glow: none;
+  }
+}

@@ -112,7 +112,7 @@ body > .content {
 // The contents pane: the template's sidebar.
 body > aside {
   z-index: var(--layer-frame);
-  background-color: var(--bg);
+  @include gc-screen;
 }
 
 // No contents, backlinks or book details: no pane.

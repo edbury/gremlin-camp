@@ -13,7 +13,7 @@
   z-index: var(--layer-band);
   inset-inline: 0;
   block-size: calc(var(--gc-y) + var(--space-s));
-  background-color: var(--bg);
+  @include gc-screen;
 }
 
 .gc-band--top {
@@ -65,7 +65,7 @@
 .gc-label {
   margin: 0;
   padding-inline: 1ch;
-  background-color: var(--bg);
+  @include gc-screen;
   white-space: nowrap;
 }
 

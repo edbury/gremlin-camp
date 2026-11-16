@@ -9,7 +9,7 @@
 html {
   font-size: 100%;
   line-height: var(--leading);
-  background-color: var(--bg);
+  @include gc-screen;
   color: var(--fg);
   color-scheme: dark;
   scroll-padding-block: calc(var(--gc-y) + var(--space-l));
@@ -27,7 +27,7 @@ body {
   font-family: var(--font-mono);
   font-size: var(--font-size-base);
   line-height: var(--leading);
-  background-color: var(--bg);
+  @include gc-screen;
   color: var(--fg);
   text-rendering: optimizeLegibility;
   -webkit-text-size-adjust: 100%;
