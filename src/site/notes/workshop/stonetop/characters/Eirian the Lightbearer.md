@@ -1,5 +1,5 @@
 ---
-{"aliases":["Eirian"],"date-created":"2026-11-15T11:00","date-modified":"2026-11-18T19:55","dg-publish":true,"tags":["stonetop/pc"],"title":"Eirian the Lightbearer","dg-path":"stonetop/characters/Eirian the Lightbearer.md","permalink":"/stonetop/characters/eirian-the-lightbearer/","dgPassFrontmatter":true,"updated":"2026-11-18T19:55","dg-note-properties":{"aliases":["Eirian"],"date-created":"2026-11-15T11:00","date-modified":"2026-11-18T19:55","tags":["stonetop/pc"],"title":"Eirian the Lightbearer"}}
+{"aliases":["Eirian","Eirian the Lightbearer"],"date-created":"2026-11-15T11:00","date-modified":"2026-11-18T20:02","dg-publish":true,"tags":["stonetop/pc"],"title":"Eirian the Lightbearer","dg-path":"stonetop/characters/Eirian the Lightbearer.md","permalink":"/stonetop/characters/eirian-the-lightbearer/","dgPassFrontmatter":true,"updated":"2026-11-18T20:02","dg-note-properties":{"aliases":["Eirian","Eirian the Lightbearer"],"date-created":"2026-11-15T11:00","date-modified":"2026-11-18T20:02","tags":["stonetop/pc"],"title":"Eirian the Lightbearer"}}
 ---
 
 
@@ -29,7 +29,7 @@ He can read and write, taught by [[workshop/stonetop/places/Stonetop (village)#R
 >
 > When one of your moves has you mark a debility, you may mark this background's circle instead, to no ill effect. Clear it when you Make Camp or Convalesce.
 
-Eirian was born under an eclipse. Hulwen brought him up close, mentoring him to see how the light can guide us. He is Helior's representative in Stonetop.
+Eirian was born under an eclipse. Hulwen brought him up, mentoring him to see how the light can guide us. He is Helior's representative in Stonetop.
 
 ## Praise the Day
 
@@ -73,7 +73,7 @@ You start knowing 2 Invocations. Each time you reach an even-numbered level, lea
 
 #### Bath of Healing Light
 
-Cup your hands around your light and focus it. Your patient... (pick 2):
+Cup your hands around your light and focus it. Your patient… (pick 2):
 
 - Regains 5 HP (can pick this twice)
 - Clears a debility (can pick this twice)
