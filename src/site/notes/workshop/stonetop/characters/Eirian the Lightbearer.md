@@ -1,5 +1,5 @@
 ---
-{"aliases":["Eirian"],"date-created":"2026-11-15T11:00","date-modified":"2026-11-15T11:45","dg-publish":true,"tags":["stonetop/pc"],"title":"Eirian the Lightbearer","dg-path":"stonetop/characters/Eirian the Lightbearer.md","permalink":"/stonetop/characters/eirian-the-lightbearer/","dgPassFrontmatter":true,"updated":"2026-11-15T11:45","dg-note-properties":{"aliases":["Eirian"],"date-created":"2026-11-15T11:00","date-modified":"2026-11-15T11:45","tags":["stonetop/pc"],"title":"Eirian the Lightbearer"}}
+{"aliases":["Eirian"],"date-created":"2026-11-15T11:00","date-modified":"2026-11-18T19:30","dg-publish":true,"tags":["stonetop/pc"],"title":"Eirian the Lightbearer","dg-path":"stonetop/characters/Eirian the Lightbearer.md","permalink":"/stonetop/characters/eirian-the-lightbearer/","dgPassFrontmatter":true,"updated":"2026-11-18T19:30","dg-note-properties":{"aliases":["Eirian"],"date-created":"2026-11-15T11:00","date-modified":"2026-11-18T19:30","tags":["stonetop/pc"],"title":"Eirian the Lightbearer"}}
 ---
 
 
@@ -52,7 +52,32 @@ When you imbue a holy light with Helior's power, choose an Invocation you know a
 - The light is snuffed out when the Invocation is complete, its fuel consumed
 - You must bask in sunlight for an hour or so before using that Invocation again
 
-See the Invocations insert for details.
+You start knowing 2 Invocations. Each time you reach an even-numbered level, learn 1 new Invocation. While one Invocation is ongoing, you can't use another. You can end an Invocation whenever you wish, and it will end immediately if your holy light is extinguished. An Invocation's range is equal to that of its light source.
+
+#### Bath of Healing Light
+
+Cup your hands around your light and focus it. Your patient... (pick 2):
+
+- Regains 5 HP (can pick this twice)
+- Clears a debility (can pick this twice)
+- Has one of their problematic wounds stabilized
+- Recovers from a minor condition (drunk, etc.)
+
+**Reduced**: pick only 1 (instead of 2).
+
+**Empowered**: add these to your possible choices:
+
+- Regains 10 HP (can pick this twice)
+- Fully recovers from a problematic wound
+- Is cured of a dire affliction, poison, or disease
+
+#### Warmth of the Sun (*ongoing*)
+
+While in your light, you and your allies are free of fear and doubt, and unharmed by extreme cold.
+
+**Reduced**: only one person in the light is protected.
+
+**Empowered**: the light also protects from necromantic and life-draining effects.
 
 ### All Is Illuminated
 
