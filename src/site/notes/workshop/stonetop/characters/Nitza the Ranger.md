@@ -1,5 +1,5 @@
 ---
-{"aliases":["Nitza"],"date-created":"2026-11-15T11:00","date-modified":"2026-11-15T12:30","dg-publish":true,"tags":["stonetop/pc"],"title":"Nitza the Ranger","dg-path":"stonetop/characters/Nitza the Ranger.md","permalink":"/stonetop/characters/nitza-the-ranger/","dgPassFrontmatter":true,"updated":"2026-11-15T12:30","dg-note-properties":{"aliases":["Nitza"],"date-created":"2026-11-15T11:00","date-modified":"2026-11-15T12:30","tags":["stonetop/pc"],"title":"Nitza the Ranger"}}
+{"aliases":["Nitza"],"date-created":"2026-11-15T11:00","date-modified":"2026-11-18T19:55","dg-publish":true,"tags":["stonetop/pc"],"title":"Nitza the Ranger","dg-path":"stonetop/characters/Nitza the Ranger.md","permalink":"/stonetop/characters/nitza-the-ranger/","dgPassFrontmatter":true,"updated":"2026-11-18T19:55","dg-note-properties":{"aliases":["Nitza"],"date-created":"2026-11-15T11:00","date-modified":"2026-11-18T19:55","tags":["stonetop/pc"],"title":"Nitza the Ranger"}}
 ---
 
 
@@ -33,6 +33,10 @@ She came to Stonetop alone six years ago, wanting to connect with nature and fin
 
 Nitza's companion is Gertrude, an opossum. Six years ago, when Nitza first arrived in Stonetop, she found Gertrude injured on her first foray into the woods.
 
+## Something Wicked This Way Comes
+
+Nitza worries about whatever's made the lizard-like suarachan of [[workshop/stonetop/places/Ferrier's Fen\|Ferrier's Fen]] so bold. She lost her favorite bow to it. It left behind a mysterious trail of slime. [[workshop/stonetop/places/Stonetop (village)#Notable Neighbors\|Tovia]] of Lygos can tell her more, if she can only convince them.
+
 ## Special Possessions
 
 Nitza contributes to the village by hunting, bringing in pelts and meat.
@@ -40,6 +44,15 @@ Nitza contributes to the village by hunting, bringing in pelts and meat.
 - Composite bow (*far*, +1 damage, *x piercing*; low ammo, all out)
 - Hideouts (3 uses): expend a use to have a well-stocked, safe shelter nearby; GM can veto.
 - Hounds, 2-3 followers (*trackers*, *keen-nosed*, *fast*); HP 6; Damage d6 (*hand*, *grabby*); Instinct: to give chase; Cost: training.
+
+## Connections
+
+- Gertrude, her opossum companion, adores [[workshop/stonetop/characters/Eirian the Lightbearer\|Eirian]] and is terrified of [[workshop/stonetop/places/Stonetop (village)#Residents\|Teagan]].
+- Teagan has a lot to learn from Nitza.
+- [[workshop/stonetop/places/Stonetop (village)#Notable Neighbors\|Gorhan]] taught her to read and write in her youth.
+- [[workshop/stonetop/places/Stonetop (village)#Notable Neighbors\|Tovia]] can tell her more about the suarachan of Ferrier's Fen.
+- She sometimes catches Eirian staring out at the horizon, though he's never really left.
+- Eirian has shown her great beauty, including a tour of Stonetop.
 
 ## Moves
 
@@ -56,19 +69,6 @@ You are accompanied by a beast of uncommon loyalty and cleverness. See the Anima
 When you select and prepare the party's camp site, hold 1 Precaution, or 2 Precaution if you are well-versed with this area and its dangers.
 
 If trouble finds your camp site, you can spend 1 Precaution to reveal a simple defense, warning, or trick that you prepared in advance. If you do, tell us how you knew to make that specific preparation.
-
-## Something Wicked This Way Comes
-
-Nitza worries about whatever's made the lizard-like suarachan of [[workshop/stonetop/places/Ferrier's Fen\|Ferrier's Fen]] so bold. She lost her favorite bow to it. It left behind a mysterious trail of slime. [[workshop/stonetop/places/Stonetop (village)#Notable Neighbors\|Tovia]] of Lygos can tell her more, if she can only convince them.
-
-## Connections
-
-- Gertrude, her opossum companion, adores [[workshop/stonetop/characters/Eirian the Lightbearer\|Eirian]] and is terrified of [[workshop/stonetop/places/Stonetop (village)#Residents\|Teagan]].
-- Teagan has a lot to learn from Nitza.
-- [[workshop/stonetop/places/Stonetop (village)#Notable Neighbors\|Gorhan]] taught her to read and write in her youth.
-- [[workshop/stonetop/places/Stonetop (village)#Notable Neighbors\|Tovia]] can tell her more about the suarachan of Ferrier's Fen.
-- She sometimes catches Eirian staring out at the horizon, though he's never really left.
-- Eirian has shown her great beauty, including a tour of Stonetop.
 
 ---
 

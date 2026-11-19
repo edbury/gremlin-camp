@@ -1,5 +1,5 @@
 ---
-{"aliases":["Eirian"],"date-created":"2026-11-15T11:00","date-modified":"2026-11-18T19:30","dg-publish":true,"tags":["stonetop/pc"],"title":"Eirian the Lightbearer","dg-path":"stonetop/characters/Eirian the Lightbearer.md","permalink":"/stonetop/characters/eirian-the-lightbearer/","dgPassFrontmatter":true,"updated":"2026-11-18T19:30","dg-note-properties":{"aliases":["Eirian"],"date-created":"2026-11-15T11:00","date-modified":"2026-11-18T19:30","tags":["stonetop/pc"],"title":"Eirian the Lightbearer"}}
+{"aliases":["Eirian"],"date-created":"2026-11-15T11:00","date-modified":"2026-11-18T19:55","dg-publish":true,"tags":["stonetop/pc"],"title":"Eirian the Lightbearer","dg-path":"stonetop/characters/Eirian the Lightbearer.md","permalink":"/stonetop/characters/eirian-the-lightbearer/","dgPassFrontmatter":true,"updated":"2026-11-18T19:55","dg-note-properties":{"aliases":["Eirian"],"date-created":"2026-11-15T11:00","date-modified":"2026-11-18T19:55","tags":["stonetop/pc"],"title":"Eirian the Lightbearer"}}
 ---
 
 
@@ -31,11 +31,28 @@ He can read and write, taught by [[workshop/stonetop/places/Stonetop (village)#R
 
 Eirian was born under an eclipse. Hulwen brought him up close, mentoring him to see how the light can guide us. He is Helior's representative in Stonetop.
 
+## Praise the Day
+
+The worship of Helior is ancient, widespread and well-known, and his worshippers abroad recognize Eirian as his appointed servant. Helior is worshipped through serene meditation and formal ceremonies. In Stonetop's [[workshop/stonetop/places/Stonetop (village)#The Pavilion of the Gods\|Pavilion of the Gods]], Helior's shrine has the place of highest honor, even if Tor is more popular.
+
+Eirian's predecessor, Hulwen, wrote many works of sublime beauty, faced one of the Things Below, and died fighting a mighty sorcerer-demon. Eirian came into his powers when Hulwen passed them on.
+
 ## Special Possessions
 
 - Glassworks: vials, charms, lenses, sand, marbles, bellows, crucible, lanterns (5 hours, *close*, *area*), etc.
     - A small shop in the inner ring of town that Eirian inherited from Hulwen. It is one of the village's original buildings, and fills a niche in Stonetop.
 - Holy relics (3 uses): if you have one in inventory when you Invoke the Sun God, you can mark a use in lieu of choosing a consequence.
+
+## Connections
+
+- His closest kin is his mother, [[workshop/stonetop/places/Stonetop (village)#Residents\|Eurig]].
+- [[workshop/stonetop/places/Stonetop (village)#Residents\|Hulwen]], the previous Lightbearer, raised and mentored him.
+- [[workshop/stonetop/places/Stonetop (village)#Residents\|Dai]] fans the flames of his heart. The two saw each other until his Lightbearer duties came between them.
+- [[workshop/stonetop/places/Stonetop (village)#Residents\|Haul]] resents him.
+- [[workshop/stonetop/places/Stonetop (village)#Residents\|Hefin]] is his most devoted disciple.
+- [[workshop/stonetop/characters/Nitza the Ranger\|Nitza]] is an old and dear friend.
+- Nitza and [[workshop/stonetop/characters/Odval the Judge\|Odval]] scoff at mercy and hope.
+- [[workshop/stonetop/characters/Ozbeg the Seeker\|Ozbeg]] will need his guidance soon, since he may fall to the dark side. So will Odval, who is new to town.
 
 ## Moves
 
@@ -87,23 +104,6 @@ When you look closely on another and see their soul laid bare, roll +WIS: on a 1
 - What do they most desire or covet?
 - What hope have they abandoned?
 - Who or what is most precious to them?
-
-## Praise the Day
-
-The worship of Helior is ancient, widespread and well-known, and his worshippers abroad recognize Eirian as his appointed servant. Helior is worshipped through serene meditation and formal ceremonies. In Stonetop's [[workshop/stonetop/places/Stonetop (village)#The Pavilion of the Gods\|Pavilion of the Gods]], Helior's shrine has the place of highest honor, even if Tor is more popular.
-
-Eirian's predecessor, Hulwen, wrote many works of sublime beauty, faced one of the Things Below, and died fighting a mighty sorcerer-demon. Eirian came into his powers when Hulwen passed them on.
-
-## Connections
-
-- His closest kin is his mother, [[workshop/stonetop/places/Stonetop (village)#Residents\|Eurig]].
-- [[workshop/stonetop/places/Stonetop (village)#Residents\|Hulwen]], the previous Lightbearer, raised and mentored him.
-- [[workshop/stonetop/places/Stonetop (village)#Residents\|Dai]] fans the flames of his heart. The two saw each other until his Lightbearer duties came between them.
-- [[workshop/stonetop/places/Stonetop (village)#Residents\|Haul]] resents him.
-- [[workshop/stonetop/places/Stonetop (village)#Residents\|Hefin]] is his most devoted disciple.
-- [[workshop/stonetop/characters/Nitza the Ranger\|Nitza]] is an old and dear friend.
-- Nitza and [[workshop/stonetop/characters/Odval the Judge\|Odval]] scoff at mercy and hope.
-- [[workshop/stonetop/characters/Ozbeg the Seeker\|Ozbeg]] will need his guidance soon, since he may fall to the dark side. So will Odval, who is new to town.
 
 ---
 

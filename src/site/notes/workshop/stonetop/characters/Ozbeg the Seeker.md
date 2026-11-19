@@ -1,5 +1,5 @@
 ---
-{"aliases":["Ozbeg"],"date-created":"2026-11-15T11:00","date-modified":"2026-11-15T12:30","dg-publish":true,"tags":["stonetop/pc"],"title":"Ozbeg the Seeker","dg-path":"stonetop/characters/Ozbeg the Seeker.md","permalink":"/stonetop/characters/ozbeg-the-seeker/","dgPassFrontmatter":true,"updated":"2026-11-15T12:30","dg-note-properties":{"aliases":["Ozbeg"],"date-created":"2026-11-15T11:00","date-modified":"2026-11-15T12:30","tags":["stonetop/pc"],"title":"Ozbeg the Seeker"}}
+{"aliases":["Ozbeg"],"date-created":"2026-11-15T11:00","date-modified":"2026-11-18T19:55","dg-publish":true,"tags":["stonetop/pc"],"title":"Ozbeg the Seeker","dg-path":"stonetop/characters/Ozbeg the Seeker.md","permalink":"/stonetop/characters/ozbeg-the-seeker/","dgPassFrontmatter":true,"updated":"2026-11-18T19:55","dg-note-properties":{"aliases":["Ozbeg"],"date-created":"2026-11-15T11:00","date-modified":"2026-11-18T19:55","tags":["stonetop/pc"],"title":"Ozbeg the Seeker"}}
 ---
 
 
@@ -31,12 +31,45 @@ He came to Stonetop twenty years ago with [[workshop/stonetop/places/Stonetop (v
 
 When dark agents of chaos assaulted Stonetop, Ozbeg knew the people he loves were in danger. He learned of the Things Below when he murdered the man who had murdered his family. His childhood friend [[workshop/stonetop/places/Stonetop (village)#Notable Neighbors\|Jetei]] knows about his arcana and the powers he tampers with.
 
+## Collection
+
+### The Hec'tumel Codex
+
+*crude*, *slow*, *magical*
+
+> A dozen copper plates, green with age and bound with loops of reddish metal wire. The outer plates are embossed with strange images of man and beast while the inner plates are etched with arcane diagrams and annotated in some forgotten script.
+>
+> When you first run your fingers over the inscriptions, your dreams that night are filled with images of a pale, reptilian creature with skulls for eyes, slithering through darksome caverns. You awake with an alien incantation on your tongue, its words emblazoned in your mind. You can Cast a Codex Spell, and know Call the Pale Lizard.
+
+Ozbeg wrested the codex from the man who murdered his family. [[workshop/stonetop/places/Stonetop (village)#Notable Neighbors\|Anook]] of the Steplands wants it. It cost Ozbeg his peace. He keeps it buried in the basement of his house, and hopes it can keep others from following the dark path.
+
+#### Cast a Codex Spell
+
+When you cast a spell learned from the Hec'tumel Codex, roll +INT: on a 10+, the spell works as described; on a 7-9, the spell works, but choose 1 from the list below; on a 6-, mark a consequence (see reverse) in addition to whatever the GM says.
+
+- You draw unwelcome attention or put yourself in a spot (ask the GM how)
+- Something shifts in your mind; take a -1 penalty to Cast a Codex Spell until you get Hec'tumel to show you what you're doing wrong (the penalty is cumulative)
+
+#### Call the Pale Lizard
+
+Cast this spell at night. Hec'tumel (Slithering One! Death Is Its Eyes!) manifests in the shadows until sunrise or until dismissed. It has no power unless given a host and no knowledge of the present except that which you give it. It knows much of the ancient past and the arcane arts, and can teach you if you make it worth its while. It cannot lie, but need not answer fully.
+
+When Hec'tumel spends the night teaching you a spell from the Codex, make 1 of 4 marks. Each time you make a mark, choose one of the Codex Spells; you can now cast it. When you make the last mark, you have unlocked the mysteries of the Codex and gain the Darksome Vessel move.
+
 ## Special Possessions
 
 - Scribe's tools: parchment, ink, pigments, vials, quills, a notebook, etc.
     - Scribing is a hobby of his. The people of Stonetop, [[workshop/stonetop/characters/Eirian the Lightbearer\|Eirian]] among them, taught him, and gave him the tools as a gift for saving some folks.
 - Books & scrolls (5 uses): expend a use to consult your collection and turn a Know Things roll you just made into a 10+.
 - Paraphernalia: crystals, incense, talismans, blood, bone, horn, eye of newt, braziers, a cauldron, etc.
+
+## Connections
+
+- Ozbeg secretly watches over [[workshop/stonetop/places/Stonetop (village)#Residents\|Spiro]], who shows great ability.
+- [[workshop/stonetop/places/Stonetop (village)#Notable Neighbors\|Jetei]], his childhood friend, knows about his arcana.
+- [[workshop/stonetop/places/Stonetop (village)#Notable Neighbors\|Anook]] wants the Hec'tumel Codex.
+- [[workshop/stonetop/characters/Nitza the Ranger\|Nitza]] most fears the path he treads, though she doesn't know much about it.
+- Nitza, [[workshop/stonetop/characters/Eirian the Lightbearer\|Eirian]] and [[workshop/stonetop/characters/Odval the Judge\|Odval]] are all keeping secrets from him.
 
 ## Moves
 
@@ -65,39 +98,6 @@ When you cleverly use your environment to harm or impede your foe(s), roll +INT:
 ### Let's Make a Deal
 
 When you Seek Insight, add "What do they really want or need?" to the list of questions. When you Persuade by offering them something that you know they want or need, treat a 7-9 as a 10+.
-
-## Collection
-
-### The Hec'tumel Codex
-
-*crude*, *slow*, *magical*
-
-> A dozen copper plates, green with age and bound with loops of reddish metal wire. The outer plates are embossed with strange images of man and beast while the inner plates are etched with arcane diagrams and annotated in some forgotten script.
->
-> When you first run your fingers over the inscriptions, your dreams that night are filled with images of a pale, reptilian creature with skulls for eyes, slithering through darksome caverns. You awake with an alien incantation on your tongue, its words emblazoned in your mind. You can Cast a Codex Spell, and know Call the Pale Lizard.
-
-Ozbeg wrested the codex from the man who murdered his family. [[workshop/stonetop/places/Stonetop (village)#Notable Neighbors\|Anook]] of the Steplands wants it. It cost Ozbeg his peace. He keeps it buried in the basement of his house, and hopes it can keep others from following the dark path.
-
-#### Cast a Codex Spell
-
-When you cast a spell learned from the Hec'tumel Codex, roll +INT: on a 10+, the spell works as described; on a 7-9, the spell works, but choose 1 from the list below; on a 6-, mark a consequence (see reverse) in addition to whatever the GM says.
-
-- You draw unwelcome attention or put yourself in a spot (ask the GM how)
-- Something shifts in your mind; take a -1 penalty to Cast a Codex Spell until you get Hec'tumel to show you what you're doing wrong (the penalty is cumulative)
-
-#### Call the Pale Lizard
-
-Cast this spell at night. Hec'tumel (Slithering One! Death Is Its Eyes!) manifests in the shadows until sunrise or until dismissed. It has no power unless given a host and no knowledge of the present except that which you give it. It knows much of the ancient past and the arcane arts, and can teach you if you make it worth its while. It cannot lie, but need not answer fully.
-
-When Hec'tumel spends the night teaching you a spell from the Codex, make 1 of 4 marks. Each time you make a mark, choose one of the Codex Spells; you can now cast it. When you make the last mark, you have unlocked the mysteries of the Codex and gain the Darksome Vessel move.
-
-## Connections
-
-- Ozbeg secretly watches over [[workshop/stonetop/places/Stonetop (village)#Residents\|Spiro]], who shows great ability.
-- [[workshop/stonetop/places/Stonetop (village)#Notable Neighbors\|Jetei]], his childhood friend, knows about his arcana.
-- [[workshop/stonetop/places/Stonetop (village)#Notable Neighbors\|Anook]] wants the Hec'tumel Codex.
-- [[workshop/stonetop/characters/Nitza the Ranger\|Nitza]] most fears the path he treads, though she doesn't know much about it.
-- Nitza, [[workshop/stonetop/characters/Eirian the Lightbearer\|Eirian]] and [[workshop/stonetop/characters/Odval the Judge\|Odval]] are all keeping secrets from him.
 
 ---
 
